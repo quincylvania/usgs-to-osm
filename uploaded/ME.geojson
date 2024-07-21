@@ -1,0 +1,1744 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.7155556,
+          46.70055556
+        ]
+      },
+      "properties": {
+        "name": "Saint John River at Ninemile Bridge",
+        "official_name": "St. John River at Ninemile Bridge, Maine",
+        "ref": "01010000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01010000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:air_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.7516667,
+          46.89388889
+        ]
+      },
+      "properties": {
+        "name": "Big Black River near Depot Mountain",
+        "official_name": "Big Black River near Depot Mtn, Maine",
+        "ref": "01010070",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01010070",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:air_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.0880556,
+          47.11305556
+        ]
+      },
+      "properties": {
+        "name": "Saint John River at Dickey",
+        "official_name": "St. John River at Dickey, Maine",
+        "ref": "01010500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01010500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:air_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.0794444,
+          47.0697222
+        ]
+      },
+      "properties": {
+        "name": "Allagash River near Allagash",
+        "official_name": "Allagash River near Allagash, Maine",
+        "ref": "01011000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01011000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:air_temperature": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.58277778,
+          47.2375
+        ]
+      },
+      "properties": {
+        "name": "Fish River near Fort Kent",
+        "official_name": "Fish River near Fort Kent, Maine",
+        "ref": "01013500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01013500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.58527778,
+          47.2833333
+        ]
+      },
+      "properties": {
+        "name": "Saint John River below Fish River near Fort Kent",
+        "official_name": "St. John River below Fish R, nr Fort Kent, Maine",
+        "ref": "01014000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01014000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:air_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.3716667,
+          46.52305556
+        ]
+      },
+      "properties": {
+        "name": "Aroostook River near Masardis",
+        "official_name": "Aroostook River near Masardis, Maine",
+        "ref": "01015800",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01015800",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:air_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1572222,
+          46.7772222
+        ]
+      },
+      "properties": {
+        "name": "Aroostook River at Washburn",
+        "official_name": "Aroostook River at Washburn, Maine",
+        "ref": "01017000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01017000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.945,
+          46.8886111
+        ]
+      },
+      "properties": {
+        "name": "Little Madawaska River at Caribou",
+        "official_name": "Little Madawaska River at Caribou, Maine",
+        "ref": "01017290",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01017290",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.9530556,
+          46.62805556
+        ]
+      },
+      "properties": {
+        "name": "Williams Brook at Phair",
+        "official_name": "Williams Brook at Phair, Maine",
+        "ref": "01017550",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01017550",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.88138889,
+          46.105
+        ]
+      },
+      "properties": {
+        "name": "Meduxnekeag River above South Branch Meduxnekeag River near Houlton",
+        "official_name": "Meduxnekeag R above S Br Medux. R nr Houlton, ME",
+        "ref": "01017960",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01017960",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.84027778,
+          46.11527778
+        ]
+      },
+      "properties": {
+        "name": "Pearce Brook at Route 1 at Houlton",
+        "official_name": "Pearce Brook at Route 1 at Houlton, Maine",
+        "ref": "01018009",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01018009",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.80388889,
+          46.1811111
+        ]
+      },
+      "properties": {
+        "name": "Meduxnekeag River at Lowery Road near Houlton",
+        "official_name": "Meduxnekeag River at Lowery Rd. nr Houlton, Maine",
+        "ref": "01018035",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01018035",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.4283333,
+          45.5683333
+        ]
+      },
+      "properties": {
+        "name": "Saint Croix River at Vanceboro",
+        "official_name": "St. Croix River at Vanceboro, Maine",
+        "ref": "01018500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01018500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.76888889,
+          45.1725
+        ]
+      },
+      "properties": {
+        "name": "Grand Lake Stream at Grand Lake Stream",
+        "official_name": "Grand Lake Stream at Grand Lake Stream, Maine",
+        "ref": "01019000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01019000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:air_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.3180556,
+          45.1369444
+        ]
+      },
+      "properties": {
+        "name": "Saint Croix River at Baring",
+        "official_name": "St. Croix River at Baring, Maine",
+        "ref": "01021000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01021000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.2834222,
+          45.1916583
+        ]
+      },
+      "properties": {
+        "name": "Saint Croix River at Calais",
+        "official_name": "St. Croix River at Calais, Maine",
+        "ref": "01021060",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01021060",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "tidal": "yes",
+        "monitoring:tide_gauge": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.725,
+          44.8008333
+        ]
+      },
+      "properties": {
+        "name": "Libby Brook near Northfield",
+        "official_name": "Libby Brook near Northfield, Maine",
+        "ref": "01021470",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01021470",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.7361111,
+          44.9369444
+        ]
+      },
+      "properties": {
+        "name": "Old Stream near Wesley",
+        "official_name": "Old Stream near Wesley, Maine",
+        "ref": "01021480",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01021480",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:air_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.93527778,
+          44.60805556
+        ]
+      },
+      "properties": {
+        "name": "Narraguagus River at Cherryfield",
+        "official_name": "Narraguagus River at Cherryfield, Maine",
+        "ref": "01022500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01022500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:air_temperature": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.2066667,
+          44.33277778
+        ]
+      },
+      "properties": {
+        "name": "Otter Creek near Bar Harbor",
+        "official_name": "Otter Creek near Bar Harbor, Maine",
+        "ref": "01022840",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01022840",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9936111,
+          45.93527778
+        ]
+      },
+      "properties": {
+        "name": "North Branch Penobscot River near Pittston Farm",
+        "official_name": "North Branch Penobscot River nr Pittston Farm, ME",
+        "ref": "01027200",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01027200",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:air_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9950083,
+          45.8739222
+        ]
+      },
+      "properties": {
+        "name": "South Branch Penobscot River near Canada Falls Lake",
+        "official_name": "S. Br. Penobscot River nr Canada Falls Lake, Maine",
+        "ref": "01027240",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01027240",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.6336111,
+          46.14305556
+        ]
+      },
+      "properties": {
+        "name": "Seboeis River near Shin Pond",
+        "official_name": "Seboeis River near Shin Pond, Maine",
+        "ref": "01029200",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01029200",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:air_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.5894444,
+          45.73027778
+        ]
+      },
+      "properties": {
+        "name": "East Branch Penobscot River at Grindstone",
+        "official_name": "East Branch Penobscot River at Grindstone, Maine",
+        "ref": "01029500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01029500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:air_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1580556,
+          45.7086111
+        ]
+      },
+      "properties": {
+        "name": "Wytopitlock Stream near Wytopitlock",
+        "official_name": "Wytopitlock Stream near Wytopitlock Maine",
+        "ref": "01030350",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01030350",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.3058333,
+          45.5011111
+        ]
+      },
+      "properties": {
+        "name": "Mattawamkeag River near Mattawamkeag",
+        "official_name": "Mattawamkeag River near Mattawamkeag, Maine",
+        "ref": "01030500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01030500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:air_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.58388889,
+          45.2672222
+        ]
+      },
+      "properties": {
+        "name": "Piscataquis River at Blanchard",
+        "official_name": "Piscataquis River at Blanchard, Maine",
+        "ref": "01031300",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01031300",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:air_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.4522222,
+          45.1844444
+        ]
+      },
+      "properties": {
+        "name": "Kingsbury Stream at Abbot Village",
+        "official_name": "Kingsbury Stream at Abbot Village, Maine",
+        "ref": "01031450",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01031450",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.3147222,
+          45.175
+        ]
+      },
+      "properties": {
+        "name": "Piscataquis River near Dover-Foxcroft",
+        "official_name": "Piscataquis River near Dover-Foxcroft, Maine",
+        "ref": "01031500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01031500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:air_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.23638889,
+          45.15027778
+        ]
+      },
+      "properties": {
+        "name": "Black Stream near Dover-Foxcroft",
+        "official_name": "Black Stream near Dover-Foxcroft, Maine",
+        "ref": "01031510",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01031510",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.1122222,
+          45.27
+        ]
+      },
+      "properties": {
+        "name": "Sebec River at Sebec",
+        "official_name": "Sebec River at Sebec, Maine",
+        "ref": "01033000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01033000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.8686111,
+          45.26055556
+        ]
+      },
+      "properties": {
+        "name": "Piscataquis River at Medford",
+        "official_name": "Piscataquis River at Medford, Maine",
+        "ref": "01034000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01034000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:air_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.65138889,
+          45.2361111
+        ]
+      },
+      "properties": {
+        "name": "Penobscot River at West Enfield",
+        "official_name": "Penobscot River at West Enfield, Maine",
+        "ref": "01034500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01034500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:air_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.6966667,
+          44.82666667
+        ]
+      },
+      "properties": {
+        "name": "Penobscot River at Eddington",
+        "official_name": "Penobscot River at Eddington, Maine",
+        "ref": "01036390",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01036390",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.8316667,
+          44.8611111
+        ]
+      },
+      "properties": {
+        "name": "Kenduskeag Stream near Bangor",
+        "official_name": "Kenduskeag Stream near Bangor, Maine",
+        "ref": "01037000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01037000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.76777778,
+          44.79638889
+        ]
+      },
+      "properties": {
+        "name": "Penobscot River at Bangor",
+        "official_name": "Penobscot River at Bangor, Maine",
+        "ref": "01037050",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01037050",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "tidal": "yes",
+        "monitoring:tide_gauge": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.0608333,
+          44.32916667
+        ]
+      },
+      "properties": {
+        "name": "Ducktrap River near Lincolnville",
+        "official_name": "Ducktrap River near Lincolnville, Maine",
+        "ref": "01037380",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01037380",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:air_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.59388889,
+          44.22277778
+        ]
+      },
+      "properties": {
+        "name": "Sheepscot River at North Whitefield",
+        "official_name": "Sheepscot River at North Whitefield, Maine",
+        "ref": "01038000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01038000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:air_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9619444,
+          45.3397222
+        ]
+      },
+      "properties": {
+        "name": "Kennebec River at The Forks",
+        "official_name": "Kennebec River at The Forks, Maine",
+        "ref": "01042500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01042500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:air_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.20112778,
+          45.22905
+        ]
+      },
+      "properties": {
+        "name": "Dead River near Dead River",
+        "official_name": "Dead River near Dead River, Maine",
+        "ref": "01043500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01043500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2416667,
+          45.3136111
+        ]
+      },
+      "properties": {
+        "name": "Spencer Stream near Grand Falls",
+        "official_name": "Spencer Stream near Grand Falls, Maine",
+        "ref": "01044550",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01044550",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:air_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.8805556,
+          45.0644444
+        ]
+      },
+      "properties": {
+        "name": "Austin Stream at Bingham",
+        "official_name": "Austin Stream at Bingham, Maine",
+        "ref": "01046000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01046000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.8855556,
+          45.0519444
+        ]
+      },
+      "properties": {
+        "name": "Kennebec River at Bingham",
+        "official_name": "Kennebec River at Bingham, Maine",
+        "ref": "01046500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01046500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:air_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.955,
+          44.86916667
+        ]
+      },
+      "properties": {
+        "name": "Carrabassett River near North Anson",
+        "official_name": "Carrabassett River near North Anson, Maine",
+        "ref": "01047000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01047000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:air_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.8869444,
+          44.77888889
+        ]
+      },
+      "properties": {
+        "name": "Kennebec River near Madison",
+        "official_name": "Kennebec River near Madison, Maine",
+        "ref": "01047150",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01047150",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.48527778,
+          44.85777778
+        ]
+      },
+      "properties": {
+        "name": "Sandy River near Madrid",
+        "official_name": "Sandy River near Madrid, Maine",
+        "ref": "01047200",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01047200",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9375,
+          44.70805556
+        ]
+      },
+      "properties": {
+        "name": "Sandy River near Mercer",
+        "official_name": "Sandy River near Mercer, Maine",
+        "ref": "01048000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01048000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:air_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.6569444,
+          44.9475
+        ]
+      },
+      "properties": {
+        "name": "East Branch Wesserunsett Stream near Athens",
+        "official_name": "East Branch Wesserunsett Stream near Athens, Maine",
+        "ref": "01048220",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01048220",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.68388889,
+          44.4722222
+        ]
+      },
+      "properties": {
+        "name": "Kennebec River at North Sidney",
+        "official_name": "Kennebec River at North Sidney, Maine",
+        "ref": "01049265",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01049265",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.7716667,
+          44.3186111
+        ]
+      },
+      "properties": {
+        "name": "Kennebec River at Calumet Bridge at Augusta",
+        "official_name": "Kennebec River at Calumet Bridge at Augusta, Maine",
+        "ref": "01049320",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01049320",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "tidal": "yes",
+        "monitoring:tide_gauge": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.7881944,
+          44.28680556
+        ]
+      },
+      "properties": {
+        "name": "Kennebec River at Hallowell",
+        "official_name": "Kennebec River at Hallowell, Maine",
+        "ref": "01049330",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01049330",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "tidal": "yes",
+        "monitoring:tide_gauge": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.7780556,
+          44.22916667
+        ]
+      },
+      "properties": {
+        "name": "Cobbosseecontee Stream at Gardiner",
+        "official_name": "Cobbosseecontee Stream at Gardiner, Maine",
+        "ref": "01049500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01049500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.7694444,
+          44.23027778
+        ]
+      },
+      "properties": {
+        "name": "Kennebec River at Gardiner",
+        "official_name": "Kennebec River at Gardiner, Maine",
+        "ref": "01049505",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01049505",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "tidal": "yes",
+        "monitoring:tide_gauge": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9797222,
+          44.39055556
+        ]
+      },
+      "properties": {
+        "name": "Wild River at Gilead",
+        "official_name": "Wild River at Gilead, Maine",
+        "ref": "01054200",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01054200",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7330556,
+          44.5933333
+        ]
+      },
+      "properties": {
+        "name": "Ellis River at South Andover",
+        "official_name": "Ellis River at South Andover, Maine",
+        "ref": "01054300",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01054300",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5441667,
+          44.5519444
+        ]
+      },
+      "properties": {
+        "name": "Androscoggin River at Rumford",
+        "official_name": "Androscoggin River at Rumford, Maine",
+        "ref": "01054500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01054500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.58888889,
+          44.64277778
+        ]
+      },
+      "properties": {
+        "name": "Swift River near Roxbury",
+        "official_name": "Swift River near Roxbury, Maine",
+        "ref": "01055000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01055000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:air_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2297222,
+          44.26944444
+        ]
+      },
+      "properties": {
+        "name": "Nezinscot River at Turner Center",
+        "official_name": "Nezinscot River at Turner Center, Maine",
+        "ref": "01055500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01055500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5397222,
+          44.30388889
+        ]
+      },
+      "properties": {
+        "name": "Little Androscoggin River near South Paris",
+        "official_name": "Little Androscoggin River near South Paris, Maine",
+        "ref": "01057000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01057000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:air_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2080556,
+          44.0722222
+        ]
+      },
+      "properties": {
+        "name": "Androscoggin River near Auburn",
+        "official_name": "Androscoggin River near Auburn, Maine",
+        "ref": "01059000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01059000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.1782694,
+          43.79915
+        ]
+      },
+      "properties": {
+        "name": "Royal River at Yarmouth",
+        "official_name": "Royal River at Yarmouth, Maine",
+        "ref": "01060000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01060000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6397222,
+          43.85555556
+        ]
+      },
+      "properties": {
+        "name": "Stony Brook at East Sebago",
+        "official_name": "Stony Brook at East Sebago, Maine",
+        "ref": "01063310",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01063310",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.3029333,
+          43.7245972
+        ]
+      },
+      "properties": {
+        "name": "Presumpscot River near West Falmouth",
+        "official_name": "Presumpscot River near West Falmouth, Maine",
+        "ref": "01064140",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01064140",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7816667,
+          43.80805556
+        ]
+      },
+      "properties": {
+        "name": "Saco River at Cornish",
+        "official_name": "Saco River at Cornish, Maine",
+        "ref": "01066000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01066000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:air_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5533333,
+          43.4322222
+        ]
+      },
+      "properties": {
+        "name": "Kennebunk River near Kennebunk",
+        "official_name": "Kennebunk River near Kennebunk, Maine",
+        "ref": "01067950",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01067950",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7380556,
+          43.4183333
+        ]
+      },
+      "properties": {
+        "name": "Mousam River at Route 4 near Sanford",
+        "official_name": "Mousam River at Route 4 near Sanford, Maine",
+        "ref": "01068910",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01068910",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:air_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6583333,
+          43.4183333
+        ]
+      },
+      "properties": {
+        "name": "Mousam River near West Kennebunk",
+        "official_name": "Mousam River near West Kennebunk, Maine",
+        "ref": "01069500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01069500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5833333,
+          43.37916667
+        ]
+      },
+      "properties": {
+        "name": "Branch Brook near Kennebunk",
+        "official_name": "Branch Brook near Kennebunk, Maine",
+        "ref": "01069700",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01069700",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.3817,
+          43.46162778
+        ]
+      },
+      "properties": {
+        "name": "Saco River at Camp Ellis near Saco",
+        "official_name": "Saco River at Camp Ellis near Saco, Maine",
+        "ref": "432742070225401",
+        "website": "https://waterdata.usgs.gov/monitoring-location/432742070225401",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "tidal": "yes",
+        "monitoring:tide_gauge": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.7780556,
+          45.1811111
+        ]
+      },
+      "properties": {
+        "name": "West Grand Lake at Grand Lake Stream",
+        "official_name": "West Grand Lake at Grand Lake Stream, Maine",
+        "ref": "01018900",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01018900",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.57705278,
+          45.2256833
+        ]
+      },
+      "properties": {
+        "name": "Lewy Lake at Princeton",
+        "official_name": "Lewy Lake at Princeton, Maine",
+        "ref": "01019300",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01019300",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5061111,
+          43.77777778
+        ]
+      },
+      "properties": {
+        "name": "Sebago Lake near North Windham",
+        "official_name": "Sebago Lake near North Windham, Maine",
+        "ref": "01063995",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01063995",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.2966667,
+          45.17
+        ]
+      },
+      "properties": {
+        "name": "Saint Croix River at Milltown",
+        "official_name": "St. Croix River at Milltown, Maine",
+        "ref": "01021050",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01021050",
+        "man_made": "monitoring_station",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    }
+  ]
+}

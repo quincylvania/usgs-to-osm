@@ -1,0 +1,876 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3503315,
+          41.83093377
+        ]
+      },
+      "properties": {
+        "name": "Ten Mile River at Pawtucket Avenue at East Providence",
+        "official_name": "TEN MILE R., PAWTUCKET AVE. AT E. PROVIDENCE, RI",
+        "ref": "01109403",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01109403",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.68590049,
+          41.9812093
+        ]
+      },
+      "properties": {
+        "name": "Nipmuc River near Harrisville",
+        "official_name": "NIPMUC RIVER NEAR HARRISVILLE, RI",
+        "ref": "01111300",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01111300",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.56200758,
+          41.99648716
+        ]
+      },
+      "properties": {
+        "name": "Branch River at Forestdale",
+        "official_name": "BRANCH RIVER AT FORESTDALE, RI",
+        "ref": "01111500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01111500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5025613,
+          42.0064871
+        ]
+      },
+      "properties": {
+        "name": "Blackstone River at Woonsocket",
+        "official_name": "BLACKSTONE RIVER AT WOONSOCKET, RI",
+        "ref": "01112500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01112500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.38144467,
+          41.8884331
+        ]
+      },
+      "properties": {
+        "name": "Blackstone River at Roosevelt Street at Pawtucket",
+        "official_name": "BLACKSTONE R AT ROOSEVELT ST AT PAWTUCKET RI",
+        "ref": "01113895",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01113895",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.41061208,
+          41.833989
+        ]
+      },
+      "properties": {
+        "name": "Moshassuck River at Providence",
+        "official_name": "MOSHASSUCK RIVER AT PROVIDENCE, RI",
+        "ref": "01114000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01114000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4872823,
+          41.8589884
+        ]
+      },
+      "properties": {
+        "name": "Woonasquatucket River at Centerdale",
+        "official_name": "WOONASQUATUCKET RIVER AT CENTERDALE, RI",
+        "ref": "01114500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01114500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6061754,
+          41.8525992
+        ]
+      },
+      "properties": {
+        "name": "Peeptoad Brook at Elmdale Road near North Scituate",
+        "official_name": "PEEPTOAD BROOK AT ELMDALE RD NR NORTH SCITUATE, RI",
+        "ref": "01115098",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01115098",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6095088,
+          41.8456548
+        ]
+      },
+      "properties": {
+        "name": "Huntinghouse Brook at Elmdale Road at North Scituate",
+        "official_name": "HUNTINGHOUSE BK AT ELMDALE RD AT N SCITUATE, RI",
+        "ref": "01115110",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01115110",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6120089,
+          41.83759929
+        ]
+      },
+      "properties": {
+        "name": "Rush Brook near Elmdale Road near North Scituate",
+        "official_name": "RUSH BROOK NEAR ELMDALE RD NEAR NORTH SCITUATE, RI",
+        "ref": "01115114",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01115114",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.584508,
+          41.84093269
+        ]
+      },
+      "properties": {
+        "name": "Moswansicut Stream near North Scituate",
+        "official_name": "MOSWANSICUT STREAM NR NORTH SCITUATE, RI",
+        "ref": "01115170",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01115170",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:air_temperature": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5847857,
+          41.79759966
+        ]
+      },
+      "properties": {
+        "name": "Quonopaug Brook at Route 116 near North Scituate",
+        "official_name": "QUONOPAUG BK AT RT 116 NR NORTH SCITUATE, RI",
+        "ref": "01115183",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01115183",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.72256829,
+          41.83621005
+        ]
+      },
+      "properties": {
+        "name": "Winsor Brook at Winsor Road near South Foster",
+        "official_name": "WINSOR BROOK AT WINSOR RD NEAR SOUTH FOSTER, RI",
+        "ref": "01115185",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01115185",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7050677,
+          41.8187102
+        ]
+      },
+      "properties": {
+        "name": "Ponaganset River at South Foster",
+        "official_name": "PONAGANSET RIVER AT SOUTH FOSTER, RI",
+        "ref": "01115187",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01115187",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:air_temperature": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.70034528,
+          41.8223213
+        ]
+      },
+      "properties": {
+        "name": "Dolly Cole Brook at Old Danielson Pike at South Foster",
+        "official_name": "DOLLY COLE BK AT OLD DANIELSON PK AT S FOSTER, RI",
+        "ref": "01115190",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01115190",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6986785,
+          41.7906548
+        ]
+      },
+      "properties": {
+        "name": "Hemlock Brook at King Road near Foster",
+        "official_name": "HEMLOCK BROOK AT KING ROAD NR FOSTER, RI",
+        "ref": "01115265",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01115265",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6672885,
+          41.7853772
+        ]
+      },
+      "properties": {
+        "name": "Westconnaug Stream at Plainfield Pike",
+        "official_name": "WESTCONNAUG STREAM AT PLAINFIELD PIKE, RI",
+        "ref": "01115276",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01115276",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6694306,
+          41.7968
+        ]
+      },
+      "properties": {
+        "name": "Swamp Brook at Ponagansett Road near Clayville",
+        "official_name": "SWAMP BROOK AT PONAGANSETT ROAD NR CLAYVILLE, RI",
+        "ref": "01115278",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01115278",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6497879,
+          41.80398827
+        ]
+      },
+      "properties": {
+        "name": "Cork Brook at Rockland Scituate Road near Clayville",
+        "official_name": "CORK BK AT ROCKLAND SCITUATE RD NR CLAYVILLE, RI",
+        "ref": "01115280",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01115280",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6356207,
+          41.7648219
+        ]
+      },
+      "properties": {
+        "name": "Wilbur Hollow Brook at Old Plainfield Pike near Clayville",
+        "official_name": "WILBUR HOLLOW BK AT OLD PLAINFIELD PK NR CLAYVILLE",
+        "ref": "01115297",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01115297",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5497842,
+          41.73287798
+        ]
+      },
+      "properties": {
+        "name": "North Branch Pawtuxet River at Fiskeville",
+        "official_name": "NORTH BRANCH PAWTUXET RIVER AT FISKEVILLE, RI",
+        "ref": "01115500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01115500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6325646,
+          41.6267667
+        ]
+      },
+      "properties": {
+        "name": "Nooseneck River at Nooseneck",
+        "official_name": "NOOSENECK RIVER AT NOOSENECK, RI",
+        "ref": "01115630",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01115630",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5658958,
+          41.69010026
+        ]
+      },
+      "properties": {
+        "name": "South Branch Pawtuxet River at Washington",
+        "official_name": "SOUTH BRANCH PAWTUXET RIVER AT WASHINGTON, RI",
+        "ref": "01116000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01116000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4450575,
+          41.75093399
+        ]
+      },
+      "properties": {
+        "name": "Pawtuxet River at Cranston",
+        "official_name": "PAWTUXET RIVER AT CRANSTON, RI",
+        "ref": "01116500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01116500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.47888889,
+          41.63
+        ]
+      },
+      "properties": {
+        "name": "Hunt River 250 feet downstream of Fry Brook at Frenchtown",
+        "official_name": "HUNT R 250 FT DS FRY BRK AT FRENCHTOWN, RI",
+        "ref": "01116905",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01116905",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4445016,
+          41.6412122
+        ]
+      },
+      "properties": {
+        "name": "Hunt River near East Greenwich",
+        "official_name": "HUNT RIVER NEAR EAST GREENWICH, RI",
+        "ref": "01117000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01117000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5511719,
+          41.4823233
+        ]
+      },
+      "properties": {
+        "name": "Chipuxet River at West Kingston",
+        "official_name": "CHIPUXET RIVER AT WEST KINGSTON, RI",
+        "ref": "01117350",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01117350",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.568673,
+          41.53898957
+        ]
+      },
+      "properties": {
+        "name": "Queen River at Liberty Road at Liberty",
+        "official_name": "QUEEN R AT LIBERTY RD AT LIBERTY RI",
+        "ref": "01117370",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01117370",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6047849,
+          41.4767673
+        ]
+      },
+      "properties": {
+        "name": "Usquepaug River near Usquepaug",
+        "official_name": "USQUEPAUG RIVER NEAR USQUEPAUG, RI",
+        "ref": "01117420",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01117420",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6211738,
+          41.44621186
+        ]
+      },
+      "properties": {
+        "name": "Pawcatuck River at Kenyon",
+        "official_name": "PAWCATUCK RIVER AT KENYON, RI",
+        "ref": "01117430",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01117430",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6281194,
+          41.49260037
+        ]
+      },
+      "properties": {
+        "name": "Beaver River near Usquepaug",
+        "official_name": "BEAVER RIVER NEAR USQUEPAUG, RI",
+        "ref": "01117468",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01117468",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.68089828,
+          41.44510024
+        ]
+      },
+      "properties": {
+        "name": "Pawcatuck River at Wood River Junction",
+        "official_name": "PAWCATUCK RIVER AT WOOD RIVER JUNCTION, RI",
+        "ref": "01117500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01117500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.72062318,
+          41.5739884
+        ]
+      },
+      "properties": {
+        "name": "Wood River near Arcadia",
+        "official_name": "WOOD RIVER NEAR ARCADIA, RI",
+        "ref": "01117800",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01117800",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7164561,
+          41.49815516
+        ]
+      },
+      "properties": {
+        "name": "Wood River at Hope Valley",
+        "official_name": "WOOD RIVER AT HOPE VALLEY, RI",
+        "ref": "01118000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01118000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8331247,
+          41.38371065
+        ]
+      },
+      "properties": {
+        "name": "Pawcatuck River at Westerly",
+        "official_name": "PAWCATUCK RIVER AT WESTERLY, RI",
+        "ref": "01118500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01118500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8583333,
+          41.31055556
+        ]
+      },
+      "properties": {
+        "name": "Watch Hill Cove Tide Gage at Westerly",
+        "official_name": "WATCH HILL COVE TIDE GAGE WESTERLY, RI",
+        "ref": "411838071513000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/411838071513000",
+        "man_made": "monitoring_station",
+        "tidal": "yes",
+        "monitoring:tide_gauge": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:air_temperature": "yes",
+        "monitoring:wind_direction": "yes",
+        "monitoring:wind_speed": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.44527778,
+          41.5722222
+        ]
+      },
+      "properties": {
+        "name": "Wickford Tide Gage at North Kingstown",
+        "official_name": "WICKFORD TIDE GAGE NORTH KINGSTOWN, RI",
+        "ref": "413413071270400",
+        "website": "https://waterdata.usgs.gov/monitoring-location/413413071270400",
+        "man_made": "monitoring_station",
+        "tidal": "yes",
+        "monitoring:tide_gauge": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    }
+  ]
+}

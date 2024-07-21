@@ -1,0 +1,28 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.2995472,
+          49.0114083
+        ]
+      },
+      "properties": {
+        "name": "Saint Mary River at International Boundary",
+        "official_name": "St. Mary River at International Boundary",
+        "ref": "05020500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05020500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    }
+  ]
+}

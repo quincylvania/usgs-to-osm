@@ -1,0 +1,1243 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8975942,
+          44.63394195
+        ]
+      },
+      "properties": {
+        "name": "East Branch Passumpsic River near East Haven",
+        "official_name": "EAST BRANCH PASSUMPSIC RIVER NEAR EAST HAVEN, VT",
+        "ref": "01133000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01133000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8373143,
+          44.5117231
+        ]
+      },
+      "properties": {
+        "name": "Moose River at Victory",
+        "official_name": "MOOSE RIVER AT VICTORY, VT",
+        "ref": "01134500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01134500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1617667,
+          44.49061087
+        ]
+      },
+      "properties": {
+        "name": "Pope Brook Tributary near North Danville",
+        "official_name": "POPE BROOK TRIBUTARY (W-9), NR NORTH DANVILLE, VT",
+        "ref": "01135100",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01135100",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1245431,
+          44.47616707
+        ]
+      },
+      "properties": {
+        "name": "Pope Brook near North Danville",
+        "official_name": "POPE BROOK (SITE W-3) NEAR NORTH DANVILLE, VT",
+        "ref": "01135150",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01135150",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.03842899,
+          44.4353353
+        ]
+      },
+      "properties": {
+        "name": "Sleepers River near St. Johnsbury",
+        "official_name": "SLEEPERS RIVER (SITE W-5) NEAR ST. JOHNSBURY, VT",
+        "ref": "01135300",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01135300",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0392613,
+          44.3656147
+        ]
+      },
+      "properties": {
+        "name": "Passumpsic River at Passumpsic",
+        "official_name": "PASSUMPSIC RIVER AT PASSUMPSIC, VT",
+        "ref": "01135500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01135500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0417577,
+          44.15339689
+        ]
+      },
+      "properties": {
+        "name": "Connecticut River at Wells River",
+        "official_name": "CONNECTICUT RIVER AT WELLS RIVER, VT",
+        "ref": "01138500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01138500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0650915,
+          44.1503413
+        ]
+      },
+      "properties": {
+        "name": "Wells River at Wells River",
+        "official_name": "WELLS RIVER AT WELLS RIVER, VT",
+        "ref": "01139000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01139000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.33565327,
+          44.0928419
+        ]
+      },
+      "properties": {
+        "name": "East Orange Branch at East Orange",
+        "official_name": "EAST ORANGE BRANCH AT EAST ORANGE, VT",
+        "ref": "01139800",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01139800",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6578821,
+          43.93450969
+        ]
+      },
+      "properties": {
+        "name": "Ayers Brook at Randolph",
+        "official_name": "AYERS BROOK AT RANDOLPH, VT",
+        "ref": "01142500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01142500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.418149,
+          43.71423614
+        ]
+      },
+      "properties": {
+        "name": "White River at West Hartford",
+        "official_name": "WHITE RIVER AT WEST HARTFORD, VT",
+        "ref": "01144000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01144000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7589899,
+          43.62229069
+        ]
+      },
+      "properties": {
+        "name": "Ottauquechee River near West Bridgewater",
+        "official_name": "OTTAUQUECHEE RIVER NEAR WEST BRIDGEWATER, VT",
+        "ref": "01150900",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01150900",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.35425819,
+          43.60257077
+        ]
+      },
+      "properties": {
+        "name": "Ottauquechee River at North Hartland",
+        "official_name": "OTTAUQUECHEE RIVER AT NORTH HARTLAND, VT",
+        "ref": "01151500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01151500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.51481258,
+          43.33340716
+        ]
+      },
+      "properties": {
+        "name": "Black River at North Springfield",
+        "official_name": "BLACK RIVER AT NORTH SPRINGFIELD, VT",
+        "ref": "01153000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01153000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.48508889,
+          43.1917433
+        ]
+      },
+      "properties": {
+        "name": "Williams River near Rockingham",
+        "official_name": "WILLIAMS RIVER NEAR ROCKINGHAM VT",
+        "ref": "01153550",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01153550",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.775374,
+          43.1089665
+        ]
+      },
+      "properties": {
+        "name": "West River at Jamaica",
+        "official_name": "WEST RIVER AT JAMAICA, VT",
+        "ref": "01155500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01155500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2564981,
+          42.91285604
+        ]
+      },
+      "properties": {
+        "name": "Walloomsac River near North Bennington",
+        "official_name": "WALLOOMSAC RIVER NEAR NORTH BENNINGTON, VT",
+        "ref": "01334000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01334000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.3115011,
+          43.6242324
+        ]
+      },
+      "properties": {
+        "name": "Poultney River below Fair Haven",
+        "official_name": "POULTNEY RIVER BELOW FAIR HAVEN, VT",
+        "ref": "04280000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/04280000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0131628,
+          43.6036792
+        ]
+      },
+      "properties": {
+        "name": "Otter Creek at Center Rutland",
+        "official_name": "OTTER CREEK AT CENTER RUTLAND, VT",
+        "ref": "04282000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/04282000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1678954,
+          44.01311488
+        ]
+      },
+      "properties": {
+        "name": "Otter Creek at Middlebury",
+        "official_name": "OTTER CREEK AT MIDDLEBURY, VT",
+        "ref": "04282500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/04282500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.17067429,
+          44.0617249
+        ]
+      },
+      "properties": {
+        "name": "New Haven River at Brooksville near Middlebury",
+        "official_name": "NEW HAVEN RIVER @ BROOKSVILLE, NR MIDDLEBURY, VT",
+        "ref": "04282525",
+        "website": "https://waterdata.usgs.gov/monitoring-location/04282525",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.32063889,
+          44.0286111
+        ]
+      },
+      "properties": {
+        "name": "East Branch Dead Creek near Bridport",
+        "official_name": "EAST BR DEAD CREEK NEAR BRIDPORT, VT",
+        "ref": "04282581",
+        "website": "https://waterdata.usgs.gov/monitoring-location/04282581",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.3541667,
+          44.04916667
+        ]
+      },
+      "properties": {
+        "name": "West Branch Dead Creek near Addison",
+        "official_name": "WEST BR DEAD CREEK NEAR ADDISON, VT",
+        "ref": "04282586",
+        "website": "https://waterdata.usgs.gov/monitoring-location/04282586",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1848694,
+          44.185725
+        ]
+      },
+      "properties": {
+        "name": "Little Otter Creek at Monkton Road near Ferrisburgh",
+        "official_name": "LITTLE OTTER CK AT MONKTON RD, NR FERRISBURGH, VT",
+        "ref": "04282629",
+        "website": "https://waterdata.usgs.gov/monitoring-location/04282629",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2490117,
+          44.19810987
+        ]
+      },
+      "properties": {
+        "name": "Little Otter Creek at Ferrisburg",
+        "official_name": "LITTLE OTTER CREEK AT FERRISBURG, VT",
+        "ref": "04282650",
+        "website": "https://waterdata.usgs.gov/monitoring-location/04282650",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.22845688,
+          44.24922015
+        ]
+      },
+      "properties": {
+        "name": "Lewis Creek at North Ferrisburg",
+        "official_name": "LEWIS CREEK AT NORTH FERRISBURG, VT",
+        "ref": "04282780",
+        "website": "https://waterdata.usgs.gov/monitoring-location/04282780",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2162367,
+          44.3700512
+        ]
+      },
+      "properties": {
+        "name": "Laplatte River at Shelburne Falls",
+        "official_name": "LAPLATTE RIVER AT SHELBURNE FALLS, VT",
+        "ref": "04282795",
+        "website": "https://waterdata.usgs.gov/monitoring-location/04282795",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.57872119,
+          44.29950278
+        ]
+      },
+      "properties": {
+        "name": "North Branch Winooski River at Wrightsville",
+        "official_name": "NORTH BRANCH WINOOSKI RIVER AT WRIGHTSVILLE, VT",
+        "ref": "04285500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/04285500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.59344318,
+          44.25672595
+        ]
+      },
+      "properties": {
+        "name": "Winooski River at Montpelier",
+        "official_name": "WINOOSKI RIVER AT MONTPELIER, VT",
+        "ref": "04286000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/04286000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6406655,
+          44.1825606
+        ]
+      },
+      "properties": {
+        "name": "Dog River at Northfield Falls",
+        "official_name": "DOG RIVER AT NORTHFIELD FALLS, VT",
+        "ref": "04287000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/04287000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7426163,
+          44.2772802
+        ]
+      },
+      "properties": {
+        "name": "Mad River near Moretown",
+        "official_name": "MAD RIVER NEAR MORETOWN, VT",
+        "ref": "04288000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/04288000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7717885,
+          44.52338556
+        ]
+      },
+      "properties": {
+        "name": "West Branch Little River above Bingham Falls near Stowe",
+        "official_name": "W BRANCH LITTLE R ABV BINGHAM FALLS NEAR STOWE, VT",
+        "ref": "04288225",
+        "website": "https://waterdata.usgs.gov/monitoring-location/04288225",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7817883,
+          44.5039413
+        ]
+      },
+      "properties": {
+        "name": "Ranch Brook at Ranch Camp near Stowe",
+        "official_name": "RANCH BROOK AT RANCH CAMP, NEAR STOWE, VT",
+        "ref": "04288230",
+        "website": "https://waterdata.usgs.gov/monitoring-location/04288230",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7244444,
+          44.4425
+        ]
+      },
+      "properties": {
+        "name": "Little River near Stowe",
+        "official_name": "LITTLE RIVER NEAR STOWE, VT",
+        "ref": "04288295",
+        "website": "https://waterdata.usgs.gov/monitoring-location/04288295",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7687298,
+          44.37033339
+        ]
+      },
+      "properties": {
+        "name": "Little River near Waterbury",
+        "official_name": "LITTLE RIVER NEAR WATERBURY, VT",
+        "ref": "04289000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/04289000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1387381,
+          44.47893867
+        ]
+      },
+      "properties": {
+        "name": "Winooski River near Essex Junction",
+        "official_name": "WINOOSKI RIVER NEAR ESSEX JUNCTION, VT",
+        "ref": "04290500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/04290500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6762308,
+          44.6228287
+        ]
+      },
+      "properties": {
+        "name": "Lamoille River at Johnson",
+        "official_name": "LAMOILLE RIVER AT JOHNSON, VT",
+        "ref": "04292000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/04292000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8361111,
+          44.64416667
+        ]
+      },
+      "properties": {
+        "name": "Lamoille River at Jeffersonville",
+        "official_name": "LAMOILLE RIVER AT JEFFERSONVILLE, VT",
+        "ref": "04292201",
+        "website": "https://waterdata.usgs.gov/monitoring-location/04292201",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0726365,
+          44.67921477
+        ]
+      },
+      "properties": {
+        "name": "Lamoille River at East Georgia",
+        "official_name": "LAMOILLE RIVER AT EAST GEORGIA, VT",
+        "ref": "04292500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/04292500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1437467,
+          44.7797674
+        ]
+      },
+      "properties": {
+        "name": "Mill River at Georgia Shore Road near St Albans",
+        "official_name": "MILL RIVER AT GEORGIA SHORE RD, NR ST ALBANS, VT",
+        "ref": "04292750",
+        "website": "https://waterdata.usgs.gov/monitoring-location/04292750",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1508333,
+          44.8561111
+        ]
+      },
+      "properties": {
+        "name": "Jewett Brook at Vermont Route 38 near St. Albans",
+        "official_name": "JEWETT BROOK AT VT 38, NEAR ST. ALBANS, VT",
+        "ref": "04292810",
+        "website": "https://waterdata.usgs.gov/monitoring-location/04292810",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.38538628,
+          44.97282337
+        ]
+      },
+      "properties": {
+        "name": "Missisquoi River near North Troy",
+        "official_name": "MISSISQUOI RIVER NEAR NORTH TROY, VT",
+        "ref": "04293000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/04293000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.696521,
+          44.96004599
+        ]
+      },
+      "properties": {
+        "name": "Missisquoi River near East Berkshire",
+        "official_name": "MISSISQUOI RIVER NEAR EAST BERKSHIRE, VT",
+        "ref": "04293500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/04293500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1284645,
+          44.91670937
+        ]
+      },
+      "properties": {
+        "name": "Missisquoi River at Swanton",
+        "official_name": "MISSISQUOI RIVER AT SWANTON, VT",
+        "ref": "04294000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/04294000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9919444,
+          44.96305556
+        ]
+      },
+      "properties": {
+        "name": "Rock River near Highgate Center",
+        "official_name": "ROCK RIVER NEAR HIGHGATE CENTER, VT",
+        "ref": "04294140",
+        "website": "https://waterdata.usgs.gov/monitoring-location/04294140",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.83346858,
+          45.00282217
+        ]
+      },
+      "properties": {
+        "name": "Pike River at East Franklin near Enosburg Falls",
+        "official_name": "PIKE RIVER AT EAST FRANKLIN, NR ENOSBURG FALLS, VT",
+        "ref": "04294300",
+        "website": "https://waterdata.usgs.gov/monitoring-location/04294300",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.2701041,
+          44.8689363
+        ]
+      },
+      "properties": {
+        "name": "Black River at Coventry",
+        "official_name": "BLACK RIVER AT COVENTRY, VT",
+        "ref": "04296000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/04296000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.2005556,
+          44.87138889
+        ]
+      },
+      "properties": {
+        "name": "Barton River near Coventry",
+        "official_name": "BARTON RIVER NEAR COVENTRY, VT",
+        "ref": "04296280",
+        "website": "https://waterdata.usgs.gov/monitoring-location/04296280",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1892684,
+          44.94032449
+        ]
+      },
+      "properties": {
+        "name": "Clyde River at Newport",
+        "official_name": "CLYDE RIVER AT NEWPORT, VT",
+        "ref": "04296500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/04296500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2215166,
+          44.47616017
+        ]
+      },
+      "properties": {
+        "name": "Lake Champlain at Burlington",
+        "official_name": "LAKE CHAMPLAIN AT BURLINGTON, VT",
+        "ref": "04294500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/04294500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4445467,
+          44.15506226
+        ]
+      },
+      "properties": {
+        "name": "East Barre Detention Reservoir at East Barre",
+        "official_name": "EAST BARRE DETENTION RESERVOIR AT EAST BARRE, VT",
+        "ref": "04283500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/04283500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5748324,
+          44.3106136
+        ]
+      },
+      "properties": {
+        "name": "Wrightsville Detention Reservoir at Wrightsville",
+        "official_name": "WRIGHTSVILLE DETENTION RESERVOIR @ WRIGHTSVILLE VT",
+        "ref": "04285000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/04285000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.76984118,
+          44.381722
+        ]
+      },
+      "properties": {
+        "name": "Waterbury Reservoir near Waterbury",
+        "official_name": "WATERBURY RESERVOIR NEAR WATERBURY, VT",
+        "ref": "04288500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/04288500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.2062133,
+          44.93782448
+        ]
+      },
+      "properties": {
+        "name": "Lake Memphremagog at Newport",
+        "official_name": "LAKE MEMPHREMAGOG AT NEWPORT, VT",
+        "ref": "04295500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/04295500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    }
+  ]
+}

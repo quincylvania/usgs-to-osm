@@ -1,0 +1,1258 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0575,
+          44.8775
+        ]
+      },
+      "properties": {
+        "name": "Diamond River near Wentworth Location",
+        "official_name": "Diamond River near Wentworth Location, NH",
+        "ref": "01052500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01052500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1286111,
+          44.7825
+        ]
+      },
+      "properties": {
+        "name": "Androscoggin River at Errol",
+        "official_name": "Androscoggin River at Errol, NH",
+        "ref": "01053500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01053500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:air_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.18138889,
+          44.6661111
+        ]
+      },
+      "properties": {
+        "name": "Androscoggin River below Bog Brook at Cambridge",
+        "official_name": "Androscoggin River below Bog Brook at Cambridge NH",
+        "ref": "01053600",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01053600",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.19027778,
+          44.4358333
+        ]
+      },
+      "properties": {
+        "name": "Androscoggin River near Gorham",
+        "official_name": "Androscoggin River near Gorham, NH",
+        "ref": "01054000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01054000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1706556,
+          44.38131944
+        ]
+      },
+      "properties": {
+        "name": "Peabody River at Gorham",
+        "official_name": "Peabody River at Gorham, New Hampshire",
+        "ref": "01054114",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01054114",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2855556,
+          44.08388889
+        ]
+      },
+      "properties": {
+        "name": "Saco River at River Street at Bartlett",
+        "official_name": "SACO RIVER AT RIVER STREET, AT BARTLETT, NH",
+        "ref": "010642505",
+        "website": "https://waterdata.usgs.gov/monitoring-location/010642505",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0905556,
+          43.9908333
+        ]
+      },
+      "properties": {
+        "name": "Saco River near Conway",
+        "official_name": "Saco River near Conway, NH",
+        "ref": "01064500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01064500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:air_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2878488,
+          43.83007396
+        ]
+      },
+      "properties": {
+        "name": "Bearcamp River at South Tamworth",
+        "official_name": "BEARCAMP RIVER AT SOUTH TAMWORTH, NH",
+        "ref": "01064801",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01064801",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9736739,
+          43.26841527
+        ]
+      },
+      "properties": {
+        "name": "Cocheco River near Rochester",
+        "official_name": "COCHECO RIVER NEAR ROCHESTER, NH",
+        "ref": "01072800",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01072800",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9564507,
+          43.23480487
+        ]
+      },
+      "properties": {
+        "name": "Isinglass River at Rochester Neck Road near Dover",
+        "official_name": "ISINGLASS R AT ROCHESTER NECK RD, NR DOVER, NH",
+        "ref": "01072870",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01072870",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9650603,
+          43.1486955
+        ]
+      },
+      "properties": {
+        "name": "Oyster River near Durham",
+        "official_name": "OYSTER RIVER NEAR DURHAM, NH",
+        "ref": "01073000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01073000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2016667,
+          43.04138889
+        ]
+      },
+      "properties": {
+        "name": "Lamprey River at Langford Road at Raymond",
+        "official_name": "LAMPREY RIVER AT LANGFORD ROAD, AT RAYMOND, NH",
+        "ref": "01073319",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01073319",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.952559,
+          43.10258558
+        ]
+      },
+      "properties": {
+        "name": "Lamprey River near Newmarket",
+        "official_name": "LAMPREY RIVER NEAR NEWMARKET, NH",
+        "ref": "01073500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01073500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.16478279,
+          42.94897557
+        ]
+      },
+      "properties": {
+        "name": "Exeter River at Odell Road near Sandown",
+        "official_name": "EXETER RIVER AT ODELL ROAD, NEAR SANDOWN, NH",
+        "ref": "010735562",
+        "website": "https://waterdata.usgs.gov/monitoring-location/010735562",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.038392,
+          42.9845316
+        ]
+      },
+      "properties": {
+        "name": "Exeter River at Haigh Road near Brentwood",
+        "official_name": "EXETER RIVER AT HAIGH ROAD, NEAR BRENTWOOD, NH",
+        "ref": "01073587",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01073587",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8475,
+          43.0358333
+        ]
+      },
+      "properties": {
+        "name": "Winnicut River at Greenland near Portsmouth",
+        "official_name": "WINNICUT RIVER AT GREENLAND, NR PORTSMOUTH, NH",
+        "ref": "01073785",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01073785",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6598029,
+          44.0475669
+        ]
+      },
+      "properties": {
+        "name": "East Branch Pemigewasset River at Lincoln",
+        "official_name": "EAST BRANCH PEMIGEWASSET RIVER AT LINCOLN, NH",
+        "ref": "01074520",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01074520",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6795244,
+          43.9761792
+        ]
+      },
+      "properties": {
+        "name": "Pemigewasset River at Woodstock",
+        "official_name": "PEMIGEWASSET RIVER AT WOODSTOCK, NH",
+        "ref": "01075000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01075000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8453594,
+          43.79562647
+        ]
+      },
+      "properties": {
+        "name": "Baker River near Rumney",
+        "official_name": "BAKER RIVER NEAR RUMNEY, NH",
+        "ref": "01076000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01076000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6856337,
+          43.7592388
+        ]
+      },
+      "properties": {
+        "name": "Pemigewasset River at Plymouth",
+        "official_name": "PEMIGEWASSET RIVER AT PLYMOUTH, NH",
+        "ref": "01076500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01076500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8333333,
+          43.70388889
+        ]
+      },
+      "properties": {
+        "name": "Cockermouth River below Hardy Brook at Groton",
+        "official_name": "COCKERMOUTH RIVER BELOW HARDY BROOK, AT GROTON, NH",
+        "ref": "01077400",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01077400",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.747857,
+          43.56646307
+        ]
+      },
+      "properties": {
+        "name": "Smith River near Bristol",
+        "official_name": "SMITH RIVER NEAR BRISTOL, NH",
+        "ref": "01078000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01078000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5875752,
+          43.44174376
+        ]
+      },
+      "properties": {
+        "name": "Winnipesaukee River at Tilton",
+        "official_name": "WINNIPESAUKEE RIVER AT TILTON, NH",
+        "ref": "01081000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01081000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6528543,
+          43.42285456
+        ]
+      },
+      "properties": {
+        "name": "Merrimack River at Franklin Junction",
+        "official_name": "MERRIMACK RIVER AT FRANKLIN JUNCTION, NH",
+        "ref": "01081500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01081500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.95924609,
+          42.8625837
+        ]
+      },
+      "properties": {
+        "name": "Contoocook River at Peterborough",
+        "official_name": "CONTOOCOOK RIVER AT PETERBOROUGH, NH",
+        "ref": "01082000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01082000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.85730149,
+          43.1520237
+        ]
+      },
+      "properties": {
+        "name": "Contoocook River near Henniker",
+        "official_name": "CONTOOCOOK RIVER NEAR HENNIKER, NH",
+        "ref": "01085000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01085000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7472995,
+          43.1928569
+        ]
+      },
+      "properties": {
+        "name": "Contoocook River below Hopkinton Dam at West Hopkinton",
+        "official_name": "CONTOOCOOK R BL HOPKINTON DAM AT W HOPKINTON, NH",
+        "ref": "01085500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01085500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7322996,
+          43.25091159
+        ]
+      },
+      "properties": {
+        "name": "Warner River at Davisville",
+        "official_name": "WARNER RIVER AT DAVISVILLE, NH",
+        "ref": "01086000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01086000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.36951248,
+          43.25674759
+        ]
+      },
+      "properties": {
+        "name": "Suncook River at North Chichester",
+        "official_name": "SUNCOOK RIVER AT NORTH CHICHESTER, NH",
+        "ref": "01089500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01089500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4059011,
+          43.15980438
+        ]
+      },
+      "properties": {
+        "name": "Suncook River at New Hampshire Route 28 near Suncook",
+        "official_name": "SUNCOOK RIVER AT NH 28, NEAR SUNCOOK, NH",
+        "ref": "01089925",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01089925",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.64146129,
+          43.01480519
+        ]
+      },
+      "properties": {
+        "name": "South Branch Piscataquog River near Goffstown",
+        "official_name": "SOUTH BRANCH PISCATAQUOG RIVER NEAR GOFFSTOWN, NH",
+        "ref": "01091000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01091000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5506252,
+          43.01675
+        ]
+      },
+      "properties": {
+        "name": "Piscataquog River near Goffstown",
+        "official_name": "PISCATAQUOG RIVER NEAR GOFFSTOWN, NH",
+        "ref": "01091500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01091500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4634002,
+          42.9481405
+        ]
+      },
+      "properties": {
+        "name": "Merrimack River near Goffs Falls below Manchester",
+        "official_name": "MERRIMACK R NR GOFFS FALLS, BELOW MANCHESTER, NH",
+        "ref": "01092000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01092000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7067399,
+          42.8425858
+        ]
+      },
+      "properties": {
+        "name": "Souhegan River near Milford",
+        "official_name": "SOUHEGAN RIVER (SITE WLR-1) NEAR MILFORD, NH",
+        "ref": "01093852",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01093852",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5061785,
+          42.8575865
+        ]
+      },
+      "properties": {
+        "name": "Souhegan River at Merrimack",
+        "official_name": "SOUHEGAN RIVER AT MERRIMACK, NH",
+        "ref": "01094000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01094000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4428432,
+          42.7634219
+        ]
+      },
+      "properties": {
+        "name": "Merrimack River at Nashua",
+        "official_name": "MERRIMACK RIVER AT NASHUA, NH",
+        "ref": "01096508",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01096508",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.35367448,
+          42.78286636
+        ]
+      },
+      "properties": {
+        "name": "Beaver Brook at North Pelham",
+        "official_name": "BEAVER BROOK AT NORTH PELHAM, NH",
+        "ref": "010965852",
+        "website": "https://waterdata.usgs.gov/monitoring-location/010965852",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2150607,
+          42.8492547
+        ]
+      },
+      "properties": {
+        "name": "Spicket River at North Salem",
+        "official_name": "SPICKET RIVER AT NORTH SALEM, NH",
+        "ref": "01100505",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01100505",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.208393,
+          42.7431456
+        ]
+      },
+      "properties": {
+        "name": "Spicket River near Methuen",
+        "official_name": "SPICKET RIVER NEAR METHUEN, MA",
+        "ref": "01100561",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01100561",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4439704,
+          45.04032368
+        ]
+      },
+      "properties": {
+        "name": "Connecticut River below Indian Stream near Pittsburg",
+        "official_name": "CONNECTICUT R BELOW INDIAN STREAM NR PITTSBURG, NH",
+        "ref": "01129200",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01129200",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.63120018,
+          44.74977166
+        ]
+      },
+      "properties": {
+        "name": "Connecticut River at North Stratford",
+        "official_name": "CONNECTICUT RIVER AT NORTH STRATFORD, NH",
+        "ref": "01129500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01129500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4689721,
+          44.62505316
+        ]
+      },
+      "properties": {
+        "name": "Upper Ammonoosuc River near Groveton",
+        "official_name": "UPPER AMMONOOSUC RIVER NEAR GROVETON, NH",
+        "ref": "01130000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01130000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7206438,
+          44.4100591
+        ]
+      },
+      "properties": {
+        "name": "Connecticut River near Dalton",
+        "official_name": "CONNECTICUT RIVER NEAR DALTON, NH",
+        "ref": "01131500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01131500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6303617,
+          44.2686741
+        ]
+      },
+      "properties": {
+        "name": "Ammonoosuc River at Bethlehem Junction",
+        "official_name": "AMMONOOSUC RIVER AT BETHLEHEM JUNCTION, NH",
+        "ref": "01137500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01137500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3123134,
+          43.64618187
+        ]
+      },
+      "properties": {
+        "name": "Connecticut River at West Lebanon",
+        "official_name": "CONNECTICUT RIVER AT WEST LEBANON, NH",
+        "ref": "01144500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01144500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0911969,
+          43.3864634
+        ]
+      },
+      "properties": {
+        "name": "Sugar River 0.2 miles below New Hampshire Route 11 at Sunapee",
+        "official_name": "SUGAR RIVER 0.2 MI BELOW NH 11, AT SUNAPEE, NH",
+        "ref": "01152010",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01152010",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.36203409,
+          43.38757327
+        ]
+      },
+      "properties": {
+        "name": "Sugar River at West Claremont",
+        "official_name": "SUGAR RIVER AT WEST CLAREMONT, NH",
+        "ref": "01152500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01152500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4367549,
+          43.12618905
+        ]
+      },
+      "properties": {
+        "name": "Connecticut River at North Walpole",
+        "official_name": "CONNECTICUT RIVER AT NORTH WALPOLE, NH",
+        "ref": "01154500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01154500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3616667,
+          43.14944444
+        ]
+      },
+      "properties": {
+        "name": "Cold River at High Street at Alstead",
+        "official_name": "COLD RIVER AT HIGH STREET, AT ALSTEAD, NH",
+        "ref": "01154950",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01154950",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.2700858,
+          43.03924586
+        ]
+      },
+      "properties": {
+        "name": "Ashuelot River near Gilsum",
+        "official_name": "ASHUELOT RIVER NEAR GILSUM, NH",
+        "ref": "01157000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01157000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.31119719,
+          42.9948023
+        ]
+      },
+      "properties": {
+        "name": "Ashuelot River below Surry Mountain Dam near Keene",
+        "official_name": "ASHUELOT RIVER BELOW SURRY MT DAM, NEAR KEENE, NH",
+        "ref": "01158000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01158000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.279252,
+          42.9192478
+        ]
+      },
+      "properties": {
+        "name": "Ashuelot River above The Branch at Keene",
+        "official_name": "ASHUELOT RIVER ABOVE THE BRANCH, AT KEENE, NH",
+        "ref": "01158110",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01158110",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3281415,
+          42.87147076
+        ]
+      },
+      "properties": {
+        "name": "Ashuelot River at West Swanzey",
+        "official_name": "ASHUELOT RIVER AT WEST SWANZEY, NH",
+        "ref": "01160350",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01160350",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4861996,
+          42.78591586
+        ]
+      },
+      "properties": {
+        "name": "Ashuelot River at Hinsdale",
+        "official_name": "ASHUELOT RIVER AT HINSDALE, NH",
+        "ref": "01161000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01161000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    }
+  ]
+}
