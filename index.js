@@ -196,6 +196,7 @@ function cleanName(name) {
     replace("HOSP", 'Hot Springs');
     replace("N\\.P\\.", 'National Park');
     replace("Stn", 'Station');
+    replace("Sta", 'Station');
     replace("Jct", 'Junction');
     replace("YNP", 'Yellowstone National Park');
     replace("Above", 'above');
@@ -206,6 +207,7 @@ function cleanName(name) {
     replace("Winter P", 'Winter Park');
     replace("Nat Mon", 'National Monument');
     replace("Confl", 'Confluence');
+    replace("Precip", 'Precipitation');
     replace("Us", 'US');
     replace("Lk", 'Lake');
     replace("Colo", 'Colorado');
