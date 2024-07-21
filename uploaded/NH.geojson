@@ -1257,6 +1257,94 @@
         "operator:type": "government",
         "operator:wikidata": "Q193755"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.43638889,
+          43.1258333
+        ]
+      },
+      "properties": {
+        "name": "North Walpole Meteorologic Station near North Walpole",
+        "official_name": "N Walpole Meteorologic Station near N Walpole, NH",
+        "ref": "430733072261101",
+        "website": "https://waterdata.usgs.gov/monitoring-location/430733072261101",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6305556,
+          44.2686111
+        ]
+      },
+      "properties": {
+        "name": "Bethlehem Meteorologic Station near Bethlehem",
+        "official_name": "Bethlehem Meteorologic Station near Bethlehem, NH",
+        "ref": "441607071375001",
+        "website": "https://waterdata.usgs.gov/monitoring-location/441607071375001",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.63138889,
+          44.7497222
+        ]
+      },
+      "properties": {
+        "name": "North Stratford Meteorologic Station at North Stratford",
+        "official_name": "N Stratford Meteorologic Station at N Stratford NH",
+        "ref": "444459071375301",
+        "website": "https://waterdata.usgs.gov/monitoring-location/444459071375301",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.44403889,
+          45.04024167
+        ]
+      },
+      "properties": {
+        "name": "Pittsburg Meteorologic Station near Pittsburg",
+        "official_name": "Pittsburg Meteorologic Station near Pittsburg, NH",
+        "ref": "450225071263901",
+        "website": "https://waterdata.usgs.gov/monitoring-location/450225071263901",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
     }
   ]
 }

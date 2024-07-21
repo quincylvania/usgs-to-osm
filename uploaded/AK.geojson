@@ -156,6 +156,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -134.4226062,
+          58.3913429
+        ]
+      },
+      "properties": {
+        "name": "Lemon Creek near Juneau",
+        "official_name": "LEMON C NR JUNEAU AK",
+        "ref": "15052000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/15052000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -134.5745592,
           58.4293972
         ]
@@ -165,6 +189,55 @@
         "official_name": "MENDENHALL R NR AUKE BAY AK",
         "ref": "15052500",
         "website": "https://waterdata.usgs.gov/monitoring-location/15052500",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:air_temperature": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -134.710401,
+          58.85162387
+        ]
+      },
+      "properties": {
+        "name": "Antler River below Antler Lake near Auke Bay",
+        "official_name": "ANTLER R BL ANTLER LK NR AUKE BAY AK",
+        "ref": "15055500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/15055500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.3462752,
+          59.5116183
+        ]
+      },
+      "properties": {
+        "name": "Taiya River near Skagway",
+        "official_name": "TAIYA R NR SKAGWAY AK",
+        "ref": "15056210",
+        "website": "https://waterdata.usgs.gov/monitoring-location/15056210",
         "man_made": "monitoring_station",
         "monitoring:precipitation": "yes",
         "monitoring:water_level": "yes",
@@ -194,6 +267,78 @@
         "man_made": "monitoring_station",
         "monitoring:water_level": "yes",
         "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.998797,
+          59.412726
+        ]
+      },
+      "properties": {
+        "name": "Klehini River near Klukwan",
+        "official_name": "KLEHINI R NR KLUKWAN AK",
+        "ref": "15056560",
+        "website": "https://waterdata.usgs.gov/monitoring-location/15056560",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.7418302,
+          58.44465728
+        ]
+      },
+      "properties": {
+        "name": "Salmon River at Gustavus",
+        "official_name": "SALMON R AT GUSTAVUS AK",
+        "ref": "15057596",
+        "website": "https://waterdata.usgs.gov/monitoring-location/15057596",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -131.5244658,
+          55.51909057
+        ]
+      },
+      "properties": {
+        "name": "Leask Creek at Shelter Cove near Ketchikan",
+        "official_name": "LEASK CREEK AT SHELTER COVE NR KETCHIKAN AK",
+        "ref": "15068040",
+        "website": "https://waterdata.usgs.gov/monitoring-location/15068040",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
         "operator": "United States Geological Survey",
         "operator:short": "USGS",
         "operator:type": "government",
@@ -243,6 +388,29 @@
         "monitoring:water_level": "yes",
         "monitoring:flow_rate": "yes",
         "monitoring:air_temperature": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -132.716261,
+          55.45931667
+        ]
+      },
+      "properties": {
+        "name": "Harris River 1.2 miles above mouth near Hollis",
+        "official_name": "HARRIS R 1.2 MI AB MOUTH NR HOLLIS AK",
+        "ref": "15085697",
+        "website": "https://waterdata.usgs.gov/monitoring-location/15085697",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
         "monitoring:water_temperature": "yes",
         "operator": "United States Geological Survey",
         "operator:short": "USGS",
@@ -315,6 +483,77 @@
         "monitoring:water_level": "yes",
         "monitoring:flow_rate": "yes",
         "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.211484,
+          57.0607496
+        ]
+      },
+      "properties": {
+        "name": "Sawmill Creek below underground tailrace near Sitka",
+        "official_name": "SAWMILL C BL U TAILRACE NR SITKA AK",
+        "ref": "15087810",
+        "website": "https://waterdata.usgs.gov/monitoring-location/15087810",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.2295402,
+          57.0510267
+        ]
+      },
+      "properties": {
+        "name": "Sawmill Creek near Sitka",
+        "official_name": "SAWMILL C NR SITKA AK",
+        "ref": "15088000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/15088000",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -134.6334448,
+          58.08299837
+        ]
+      },
+      "properties": {
+        "name": "Greens Creek at Greens Creek Mine near Juneau",
+        "official_name": "GREENS C AT GREENS CREEK MINE NR JUNEAU AK",
+        "ref": "15101490",
+        "website": "https://waterdata.usgs.gov/monitoring-location/15101490",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
         "operator": "United States Geological Survey",
         "operator:short": "USGS",
         "operator:type": "government",
@@ -449,6 +688,31 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -142.9426256,
+          61.43372656
+        ]
+      },
+      "properties": {
+        "name": "West Fork Kennicott River at McCarthy",
+        "official_name": "WF KENNICOTT R AT MCCARTHY AK",
+        "ref": "15209700",
+        "website": "https://waterdata.usgs.gov/monitoring-location/15209700",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:air_temperature": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -142.8866167,
           61.48468889
         ]
@@ -511,6 +775,225 @@
         "website": "https://waterdata.usgs.gov/monitoring-location/15214190",
         "man_made": "monitoring_station",
         "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.3806148,
+          60.5327973
+        ]
+      },
+      "properties": {
+        "name": "Glacier River Tributary near Cordova",
+        "official_name": "GLACIER R TRIB NR CORDOVA AK",
+        "ref": "15215900",
+        "website": "https://waterdata.usgs.gov/monitoring-location/15215900",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:air_temperature": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.4042244,
+          60.4780687
+        ]
+      },
+      "properties": {
+        "name": "Sheridan River near Cordova",
+        "official_name": "SHERIDAN R NR CORDOVA AK",
+        "ref": "15215920",
+        "website": "https://waterdata.usgs.gov/monitoring-location/15215920",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -146.174225,
+          60.7608659
+        ]
+      },
+      "properties": {
+        "name": "West Fork Olsen Bay Creek near Cordova",
+        "official_name": "WF OLSEN BAY C NR CORDOVA AK",
+        "ref": "15219000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/15219000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:air_temperature": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.906111,
+          61.0670833
+        ]
+      },
+      "properties": {
+        "name": "Lowe River above Horsetail Falls near Valdez",
+        "official_name": "LOWE R AB HORSETAIL FALLS NR VALDEZ AK",
+        "ref": "15226620",
+        "website": "https://waterdata.usgs.gov/monitoring-location/15226620",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:air_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -146.1715833,
+          61.14888889
+        ]
+      },
+      "properties": {
+        "name": "Valdez Glacier River at Valdez Glacier Lake near Valdez",
+        "official_name": "VALDEZ GLACIER R AT VALDEZ GLACIER LK NR VALDEZ AK",
+        "ref": "15227090",
+        "website": "https://waterdata.usgs.gov/monitoring-location/15227090",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:air_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -148.9370979,
+          60.3869064
+        ]
+      },
+      "properties": {
+        "name": "Wolverine Glacier 24 miles northeast of Seward",
+        "official_name": "WOLVERINE GLACIER 24 MI NE OF SEWARD AK",
+        "ref": "15236895",
+        "website": "https://waterdata.usgs.gov/monitoring-location/15236895",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:air_temperature": "yes",
+        "monitoring:air_humidity": "yes",
+        "monitoring:wind_direction": "yes",
+        "monitoring:wind_speed": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -148.8987624,
+          60.36995858
+        ]
+      },
+      "properties": {
+        "name": "Wolverine Creek near Lawing",
+        "official_name": "WOLVERINE C NR LAWING AK",
+        "ref": "15236900",
+        "website": "https://waterdata.usgs.gov/monitoring-location/15236900",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:air_temperature": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.3754835,
+          60.19777389
+        ]
+      },
+      "properties": {
+        "name": "Grouse Creek at Grouse Lake Outlet near Seward",
+        "official_name": "GROUSE C AT GROUSE LK OUTLET NR SEWARD AK",
+        "ref": "15237730",
+        "website": "https://waterdata.usgs.gov/monitoring-location/15237730",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.4451989,
+          60.0980485
+        ]
+      },
+      "properties": {
+        "name": "Lowell Creek at Seward",
+        "official_name": "LOWELL C AT SEWARD AK",
+        "ref": "15238500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/15238500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
         "operator": "United States Geological Survey",
         "operator:short": "USGS",
         "operator:type": "government",
@@ -692,6 +1175,56 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -150.8849079,
+          59.80107399
+        ]
+      },
+      "properties": {
+        "name": "Bradley River near tidewater near Homer",
+        "official_name": "BRADLEY R NR TIDEWATER NR HOMER AK",
+        "ref": "15239070",
+        "website": "https://waterdata.usgs.gov/monitoring-location/15239070",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:air_temperature": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.7552124,
+          59.74660897
+        ]
+      },
+      "properties": {
+        "name": "Anchor River near Anchor Point",
+        "official_name": "ANCHOR R NR ANCHOR POINT AK",
+        "ref": "15239900",
+        "website": "https://waterdata.usgs.gov/monitoring-location/15239900",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:air_temperature": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -151.2619378,
           60.3174767
         ]
@@ -714,6 +1247,101 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -149.3460397,
+          60.2944395
+        ]
+      },
+      "properties": {
+        "name": "Snow River near Seward",
+        "official_name": "SNOW R NR SEWARD AK",
+        "ref": "15243900",
+        "website": "https://waterdata.usgs.gov/monitoring-location/15243900",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.8099203,
+          60.49219269
+        ]
+      },
+      "properties": {
+        "name": "Kenai River at Cooper Landing",
+        "official_name": "KENAI R AT COOPER LANDING AK",
+        "ref": "15258000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/15258000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:air_temperature": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.882711,
+          60.4799795
+        ]
+      },
+      "properties": {
+        "name": "Cooper Creek at mouth near Cooper Landing",
+        "official_name": "COOPER C AT MOUTH NR COOPER LANDING AK",
+        "ref": "15261000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/15261000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150.60109,
+          60.466099
+        ]
+      },
+      "properties": {
+        "name": "Kenai River below Skilak Lake Outlet near Sterling",
+        "official_name": "KENAI R BL SKILAK LK OUTLET NR STERLING AK",
+        "ref": "15266110",
+        "website": "https://waterdata.usgs.gov/monitoring-location/15266110",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -151.0816675,
           60.4769289
         ]
@@ -723,6 +1351,149 @@
         "official_name": "KENAI R AT SOLDOTNA AK",
         "ref": "15266300",
         "website": "https://waterdata.usgs.gov/monitoring-location/15266300",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:air_temperature": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.1197277,
+          60.5633189
+        ]
+      },
+      "properties": {
+        "name": "Beaver Creek near Kenai",
+        "official_name": "BEAVER C NR KENAI AK",
+        "ref": "15266500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/15266500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.427443,
+          60.82027267
+        ]
+      },
+      "properties": {
+        "name": "Sixmile Creek near Hope",
+        "official_name": "SIXMILE C NR HOPE AK",
+        "ref": "15271000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/15271000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.1319194,
+          60.9616194
+        ]
+      },
+      "properties": {
+        "name": "Glacier Creek at Alyeska Highway at Girdwood",
+        "official_name": "GLACIER C AT ALYESKA HIGHWAY AT GIRDWOOD, AK",
+        "ref": "15272502",
+        "website": "https://waterdata.usgs.gov/monitoring-location/15272502",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:air_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.9255337,
+          61.1388906
+        ]
+      },
+      "properties": {
+        "name": "Campbell Creek near Spenard",
+        "official_name": "CAMPBELL C NR SPENARD AK",
+        "ref": "15274600",
+        "website": "https://waterdata.usgs.gov/monitoring-location/15274600",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.8974826,
+          61.20472578
+        ]
+      },
+      "properties": {
+        "name": "Chester Creek at Arctic Boulevard at Anchorage",
+        "official_name": "CHESTER C AT ARCTIC BOULEVARD AT ANCHORAGE AK",
+        "ref": "15275100",
+        "website": "https://waterdata.usgs.gov/monitoring-location/15275100",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:air_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.6372008,
+          61.22500619
+        ]
+      },
+      "properties": {
+        "name": "Ship Creek near Anchorage",
+        "official_name": "SHIP C NR ANCHORAGE AK",
+        "ref": "15276000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/15276000",
         "man_made": "monitoring_station",
         "monitoring:water_level": "yes",
         "monitoring:flow_rate": "yes",
@@ -762,6 +1533,53 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -149.032765,
+          61.5044605
+        ]
+      },
+      "properties": {
+        "name": "Knik River near Palmer",
+        "official_name": "KNIK R NR PALMER AK",
+        "ref": "15281000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/15281000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.0524167,
+          61.68438889
+        ]
+      },
+      "properties": {
+        "name": "Moose Creek near Palmer",
+        "official_name": "MOOSE C NR PALMER AK",
+        "ref": "15283700",
+        "website": "https://waterdata.usgs.gov/monitoring-location/15283700",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -149.0730432,
           61.6086312
         ]
@@ -771,6 +1589,31 @@
         "official_name": "MATANUSKA R AT PALMER AK",
         "ref": "15284000",
         "website": "https://waterdata.usgs.gov/monitoring-location/15284000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:air_temperature": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.231938,
+          61.7097433
+        ]
+      },
+      "properties": {
+        "name": "Little Susitna River near Palmer",
+        "official_name": "L SUSITNA R NR PALMER AK",
+        "ref": "15290000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/15290000",
         "man_made": "monitoring_station",
         "monitoring:water_level": "yes",
         "monitoring:flow_rate": "yes",
@@ -846,6 +1689,30 @@
         "website": "https://waterdata.usgs.gov/monitoring-location/15293200",
         "man_made": "monitoring_station",
         "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.8866786,
+          61.78030346
+        ]
+      },
+      "properties": {
+        "name": "Willow Creek near Willow",
+        "official_name": "WILLOW C NR WILLOW AK",
+        "ref": "15294005",
+        "website": "https://waterdata.usgs.gov/monitoring-location/15294005",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
         "operator": "United States Geological Survey",
         "operator:short": "USGS",
         "operator:type": "government",
@@ -1049,6 +1916,55 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -156.2129069,
+          62.0512773
+        ]
+      },
+      "properties": {
+        "name": "Kuskokwim River at Liskys Crossing near Stony River",
+        "official_name": "KUSKOKWIM R AT LISKYS CROSSING NR STONY RIVER AK",
+        "ref": "15303900",
+        "website": "https://waterdata.usgs.gov/monitoring-location/15303900",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:air_temperature": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.1137848,
+          61.8687445
+        ]
+      },
+      "properties": {
+        "name": "Kuskokwim River at Crooked Creek",
+        "official_name": "KUSKOKWIM R AT CROOKED CREEK AK",
+        "ref": "15304000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/15304000",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -158.156842,
           61.8893006
         ]
@@ -1061,6 +1977,54 @@
         "man_made": "monitoring_station",
         "monitoring:water_level": "yes",
         "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -141.5558947,
+          64.1180119
+        ]
+      },
+      "properties": {
+        "name": "Wade Creek Tributary near Chicken",
+        "official_name": "WADE C TRIB NR CHICKEN AK",
+        "ref": "15320100",
+        "website": "https://waterdata.usgs.gov/monitoring-location/15320100",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -141.4045168,
+          64.3088552
+        ]
+      },
+      "properties": {
+        "name": "Fortymile River near Steele Creek",
+        "official_name": "FORTYMILE R NR STEELE CREEK AK",
+        "ref": "15348000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/15348000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:air_temperature": "yes",
         "monitoring:water_temperature": "yes",
         "operator": "United States Geological Survey",
         "operator:short": "USGS",
@@ -1123,6 +2087,32 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -144.3358018,
+          65.7107629
+        ]
+      },
+      "properties": {
+        "name": "Birch Creek near Circle",
+        "official_name": "BIRCH C NR CIRCLE AK",
+        "ref": "15446000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/15446000",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:air_temperature": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -149.7203487,
           65.8751013
         ]
@@ -1134,6 +2124,53 @@
         "website": "https://waterdata.usgs.gov/monitoring-location/15453500",
         "man_made": "monitoring_station",
         "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -148.3878556,
+          65.574
+        ]
+      },
+      "properties": {
+        "name": "Goldstream Creek below Alabam Creek near Livengood",
+        "official_name": "GOLDSTREAM C BL ALABAM C NR LIVENGOOD AK",
+        "ref": "15457790",
+        "website": "https://waterdata.usgs.gov/monitoring-location/15457790",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -144.9445717,
+          64.4501744
+        ]
+      },
+      "properties": {
+        "name": "Goodpaster River near Big Delta",
+        "official_name": "GOODPASTER R NR BIG DELTA AK",
+        "ref": "15477740",
+        "website": "https://waterdata.usgs.gov/monitoring-location/15477740",
+        "man_made": "monitoring_station",
         "monitoring:water_level": "yes",
         "monitoring:flow_rate": "yes",
         "operator": "United States Geological Survey",
@@ -1217,6 +2254,54 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -147.8413097,
+          64.792344
+        ]
+      },
+      "properties": {
+        "name": "Tanana River at Fairbanks",
+        "official_name": "TANANA R AT FAIRBANKS AK",
+        "ref": "15485500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/15485500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -146.3613333,
+          64.9019722
+        ]
+      },
+      "properties": {
+        "name": "Chena River near Two Rivers",
+        "official_name": "CHENA R NR TWO RIVERS AK",
+        "ref": "15493000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/15493000",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -146.8057505,
           64.8595879
         ]
@@ -1241,6 +2326,170 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -147.2301929,
+          64.8004119
+        ]
+      },
+      "properties": {
+        "name": "Chena River below Moose Creek Dam",
+        "official_name": "CHENA R BL MOOSE C DAM AK",
+        "ref": "15493700",
+        "website": "https://waterdata.usgs.gov/monitoring-location/15493700",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.2007725,
+          65.00930348
+        ]
+      },
+      "properties": {
+        "name": "Fish Creek below Solo Creek near Chatanika",
+        "official_name": "FISH C BL SOLO C NR CHATANIKA AK",
+        "ref": "15502000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/15502000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.2496477,
+          64.88568988
+        ]
+      },
+      "properties": {
+        "name": "Little Chena River near Fairbanks",
+        "official_name": "L CHENA R NR FAIRBANKS AK",
+        "ref": "15511000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/15511000",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.703536,
+          64.8454026
+        ]
+      },
+      "properties": {
+        "name": "Chena River at Fairbanks",
+        "official_name": "CHENA R AT FAIRBANKS AK",
+        "ref": "15514000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/15514000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -148.761111,
+          63.97388889
+        ]
+      },
+      "properties": {
+        "name": "Marguerite Creek 3.6 miles above Emma Creek near Healy",
+        "official_name": "MARGUERITE C 3.6 MI AB EMMA C NR HEALY AK",
+        "ref": "15515048",
+        "website": "https://waterdata.usgs.gov/monitoring-location/15515048",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -148.7281673,
+          64.0084337
+        ]
+      },
+      "properties": {
+        "name": "Marguerite Creek above Emma Creek near Healy",
+        "official_name": "MARGUERITE C AB EMMA C NR HEALY AK",
+        "ref": "15515060",
+        "website": "https://waterdata.usgs.gov/monitoring-location/15515060",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:air_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.094,
+          64.5649444
+        ]
+      },
+      "properties": {
+        "name": "Tanana River at Nenana",
+        "official_name": "TANANA R AT NENANA AK",
+        "ref": "15515500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/15515500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -148.8053397,
           63.457319
         ]
@@ -1252,6 +2501,31 @@
         "website": "https://waterdata.usgs.gov/monitoring-location/15516000",
         "man_made": "monitoring_station",
         "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -148.5463889,
+          65.5229722
+        ]
+      },
+      "properties": {
+        "name": "Livengood Creek at Livengood",
+        "official_name": "LIVENGOOD C AT LIVENGOOD AK",
+        "ref": "15519030",
+        "website": "https://waterdata.usgs.gov/monitoring-location/15519030",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
         "operator": "United States Geological Survey",
         "operator:short": "USGS",
         "operator:type": "government",
@@ -1311,6 +2585,53 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -150.1772222,
+          67.2544444
+        ]
+      },
+      "properties": {
+        "name": "Slate Creek at Coldfoot",
+        "official_name": "SLATE C AT COLDFOOT AK",
+        "ref": "15564879",
+        "website": "https://waterdata.usgs.gov/monitoring-location/15564879",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -154.2609683,
+          66.04695537
+        ]
+      },
+      "properties": {
+        "name": "Koyukuk River at Hughes",
+        "official_name": "KOYUKUK R AT HUGHES AK",
+        "ref": "15564900",
+        "website": "https://waterdata.usgs.gov/monitoring-location/15564900",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -162.8829356,
           61.9336866
         ]
@@ -1324,6 +2645,224 @@
         "monitoring:water_level": "yes",
         "monitoring:flow_rate": "yes",
         "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -163.67,
+          64.8919444
+        ]
+      },
+      "properties": {
+        "name": "Niukluk River above Melsing Creek at Council",
+        "official_name": "NIUKLUK R AB MELSING C AT COUNCIL AK",
+        "ref": "15580095",
+        "website": "https://waterdata.usgs.gov/monitoring-location/15580095",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:air_temperature": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -165.5098082,
+          64.5633967
+        ]
+      },
+      "properties": {
+        "name": "Snake River near Nome",
+        "official_name": "SNAKE R NR NOME AK",
+        "ref": "15621000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/15621000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.9116193,
+          66.9455603
+        ]
+      },
+      "properties": {
+        "name": "Dahl Creek near Kobuk",
+        "official_name": "DAHL C NR KOBUK AK",
+        "ref": "15743850",
+        "website": "https://waterdata.usgs.gov/monitoring-location/15743850",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -160.1336307,
+          66.972994
+        ]
+      },
+      "properties": {
+        "name": "Kobuk River near Kiana",
+        "official_name": "KOBUK R NR KIANA AK",
+        "ref": "15744500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/15744500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:air_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -163.6773733,
+          67.8754405
+        ]
+      },
+      "properties": {
+        "name": "Wulik River below Tutak Creek near Kivalina",
+        "official_name": "WULIK R BL TUTAK C NR KIVALINA AK",
+        "ref": "15747000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/15747000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.1226944,
+          69.3605
+        ]
+      },
+      "properties": {
+        "name": "Colville River at Umiat",
+        "official_name": "COLVILLE R AT UMIAT AK",
+        "ref": "15875000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/15875000",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:air_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -148.962786,
+          70.28138539
+        ]
+      },
+      "properties": {
+        "name": "Kuparuk River near Deadhorse",
+        "official_name": "KUPARUK R NR DEADHORSE AK",
+        "ref": "15896000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/15896000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.3733333,
+          68.4522222
+        ]
+      },
+      "properties": {
+        "name": "Atigun River below Galbraith Lake near Pump Station 4",
+        "official_name": "ATIGUN R BL GALBRAITH LK NR PUMP STATION 4 AK",
+        "ref": "15905100",
+        "website": "https://waterdata.usgs.gov/monitoring-location/15905100",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:air_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -148.8177778,
+          69.0158333
+        ]
+      },
+      "properties": {
+        "name": "Sagavanirktok River near Pump Station 3",
+        "official_name": "SAGAVANIRKTOK R NR PUMP STA 3 AK",
+        "ref": "15908000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/15908000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:air_temperature": "yes",
         "operator": "United States Geological Survey",
         "operator:short": "USGS",
         "operator:type": "government",

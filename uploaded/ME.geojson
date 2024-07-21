@@ -1739,6 +1739,384 @@
         "operator:type": "government",
         "operator:wikidata": "Q193755"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7808333,
+          43.80805556
+        ]
+      },
+      "properties": {
+        "name": "Cornish Precipitation at Cornish",
+        "official_name": "Cornish Precipitation at Cornish, Maine",
+        "ref": "434829070465101",
+        "website": "https://waterdata.usgs.gov/monitoring-location/434829070465101",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.8094444,
+          44.30416667
+        ]
+      },
+      "properties": {
+        "name": "Augusta Climatological Station at Augusta",
+        "official_name": "Augusta Climatological Station at Augusta, Maine",
+        "ref": "441815069483401",
+        "website": "https://waterdata.usgs.gov/monitoring-location/441815069483401",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:air_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5436111,
+          44.55138889
+        ]
+      },
+      "properties": {
+        "name": "Rumford Precipitation at Rumford",
+        "official_name": "Rumford Precipitation at Rumford, Maine",
+        "ref": "443305070323701",
+        "website": "https://waterdata.usgs.gov/monitoring-location/443305070323701",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9383333,
+          44.7075
+        ]
+      },
+      "properties": {
+        "name": "Mercer Precipitation near Mercer",
+        "official_name": "Mercer Precipitation near Mercer, Maine",
+        "ref": "444227069561801",
+        "website": "https://waterdata.usgs.gov/monitoring-location/444227069561801",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.12888889,
+          44.7825
+        ]
+      },
+      "properties": {
+        "name": "Errol Precipitation at Errol",
+        "official_name": "Errol Precipitation at Errol, New Hampshire",
+        "ref": "444657071074401",
+        "website": "https://waterdata.usgs.gov/monitoring-location/444657071074401",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7755556,
+          44.9694444
+        ]
+      },
+      "properties": {
+        "name": "Oquossoc Climate Station near Rangeley",
+        "official_name": "Oquossoc Climate Station nr Rangeley, Maine",
+        "ref": "445810070463201",
+        "website": "https://waterdata.usgs.gov/monitoring-location/445810070463201",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:air_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.88638889,
+          45.05166667
+        ]
+      },
+      "properties": {
+        "name": "Bingham Precipitation at Bingham",
+        "official_name": "Bingham Precipitation at Bingham, Maine",
+        "ref": "450306069531101",
+        "website": "https://waterdata.usgs.gov/monitoring-location/450306069531101",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.6466667,
+          45.11805556
+        ]
+      },
+      "properties": {
+        "name": "Kingsbury Precipitation at Kingsbury",
+        "official_name": "Kingsbury Precipitation at Kingsbury, Maine",
+        "ref": "450705069384801",
+        "website": "https://waterdata.usgs.gov/monitoring-location/450705069384801",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.3147222,
+          45.17527778
+        ]
+      },
+      "properties": {
+        "name": "Dover-Foxcroft Precipitation near Dover-Foxcroft",
+        "official_name": "Dover-Foxcroft Precip near Dover-Foxcroft, Maine",
+        "ref": "451031069185301",
+        "website": "https://waterdata.usgs.gov/monitoring-location/451031069185301",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.4528194,
+          45.1905
+        ]
+      },
+      "properties": {
+        "name": "Abbot Climate Station at Abbot Village",
+        "official_name": "Abbot Climate Station at Abbot Village, Maine",
+        "ref": "451126069271001",
+        "website": "https://waterdata.usgs.gov/monitoring-location/451126069271001",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:air_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.197675,
+          45.2214722
+        ]
+      },
+      "properties": {
+        "name": "Flagstaff Climate Station at Flagstaff Dam",
+        "official_name": "Flagstaff Climate Station at Flagstaff Dam, Maine",
+        "ref": "451317070115201",
+        "website": "https://waterdata.usgs.gov/monitoring-location/451317070115201",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:air_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5836111,
+          45.2675
+        ]
+      },
+      "properties": {
+        "name": "Blanchard Precipitation at Blanchard",
+        "official_name": "Blanchard Precipitation at Blanchard, Maine",
+        "ref": "451603069350101",
+        "website": "https://waterdata.usgs.gov/monitoring-location/451603069350101",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9630556,
+          45.34027778
+        ]
+      },
+      "properties": {
+        "name": "The Forks Precipitation at The Forks",
+        "official_name": "The Forks Precipitation at The Forks, Maine",
+        "ref": "452025069574701",
+        "website": "https://waterdata.usgs.gov/monitoring-location/452025069574701",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.6216667,
+          45.36555556
+        ]
+      },
+      "properties": {
+        "name": "Shirley Precipitation at Shirley Mills",
+        "official_name": "Shirley Precipitation at Shirley Mills, Maine",
+        "ref": "452156069371801",
+        "website": "https://waterdata.usgs.gov/monitoring-location/452156069371801",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.4291667,
+          45.56805556
+        ]
+      },
+      "properties": {
+        "name": "Vanceboro Precipitation at Vanceboro",
+        "official_name": "Vanceboro Precipitation at Vanceboro, Maine",
+        "ref": "453405067254501",
+        "website": "https://waterdata.usgs.gov/monitoring-location/453405067254501",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.7158333,
+          46.7
+        ]
+      },
+      "properties": {
+        "name": "Ninemile Bridge Precipitation at Ninemile Bridge",
+        "official_name": "Ninemile Bridge Precip at Ninemile Bridge, Maine",
+        "ref": "464200069425701",
+        "website": "https://waterdata.usgs.gov/monitoring-location/464200069425701",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.09027778,
+          47.11277778
+        ]
+      },
+      "properties": {
+        "name": "Dickey Precipitation at Dickey",
+        "official_name": "Dickey Precipitation at Dickey, Maine",
+        "ref": "470646069052501",
+        "website": "https://waterdata.usgs.gov/monitoring-location/470646069052501",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
     }
   ]
 }

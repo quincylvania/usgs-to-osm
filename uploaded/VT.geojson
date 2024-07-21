@@ -1245,6 +1245,28 @@
         "operator:type": "government",
         "operator:wikidata": "Q193755"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0391472,
+          44.36567778
+        ]
+      },
+      "properties": {
+        "name": "Passumpsic Meteorologic Station at Passumpsic",
+        "official_name": "Passumpsic Meteorologic Station at Passumpsic, VT",
+        "ref": "442156072022001",
+        "website": "https://waterdata.usgs.gov/monitoring-location/442156072022001",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
     }
   ]
 }
