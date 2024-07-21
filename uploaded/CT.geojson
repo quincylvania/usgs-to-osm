@@ -1,0 +1,2136 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8342361,
+          41.4748222
+        ]
+      },
+      "properties": {
+        "name": "Pendleton Hill Brook near Clarks Falls",
+        "official_name": "PENDLETON HILL BROOK NEAR CLARKS FALLS, CT",
+        "ref": "01118300",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01118300",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3128472,
+          41.8240111
+        ]
+      },
+      "properties": {
+        "name": "Willimantic River at Merrow Road near Merrow",
+        "official_name": "WILLIMANTIC RIVER AT MERROW RD. NEAR MERROW, CT",
+        "ref": "01119382",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01119382",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1214666,
+          41.5587094
+        ]
+      },
+      "properties": {
+        "name": "Yantic River at Yantic",
+        "official_name": "YANTIC RIVER AT YANTIC, CT",
+        "ref": "01127500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01127500",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7104861,
+          41.96083889
+        ]
+      },
+      "properties": {
+        "name": "Stony Brook near West Suffield",
+        "official_name": "STONY BROOK NEAR WEST SUFFIELD, CT",
+        "ref": "01184100",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01184100",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7065306,
+          41.5202333
+        ]
+      },
+      "properties": {
+        "name": "Coginchaug River at Middlefield",
+        "official_name": "COGINCHAUG RIVER AT MIDDLEFIELD, CT",
+        "ref": "01192883",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01192883",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.44925287,
+          41.55232124
+        ]
+      },
+      "properties": {
+        "name": "Salmon River near East Hampton",
+        "official_name": "SALMON RIVER NEAR EAST HAMPTON, CT",
+        "ref": "01193500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01193500",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.33477778,
+          41.42751667
+        ]
+      },
+      "properties": {
+        "name": "East Branch Eightmile River near North Lyme",
+        "official_name": "EAST BRANCH EIGHTMILE RIVER NEAR NORTH LYME, CT",
+        "ref": "01194500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01194500",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8832,
+          41.6034722
+        ]
+      },
+      "properties": {
+        "name": "Quinnipiac River at Southington",
+        "official_name": "QUINNIPIAC RIVER AT SOUTHINGTON, CT",
+        "ref": "01195490",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01195490",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.841275,
+          41.45026389
+        ]
+      },
+      "properties": {
+        "name": "Quinnipiac River at Wallingford",
+        "official_name": "QUINNIPIAC RIVER AT WALLINGFORD, CT",
+        "ref": "01196500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01196500",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.36928577,
+          41.95731548
+        ]
+      },
+      "properties": {
+        "name": "Housatonic River at Falls Village",
+        "official_name": "HOUSATONIC RIVER AT FALLS VILLAGE, CT",
+        "ref": "01199000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01199000",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.40320278,
+          41.4658222
+        ]
+      },
+      "properties": {
+        "name": "Still River at Route 7 at Brookfield Center",
+        "official_name": "STILL RIVER AT ROUTE 7 AT BROOKFIELD CENTER, CT",
+        "ref": "01201487",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01201487",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.29260278,
+          41.719575
+        ]
+      },
+      "properties": {
+        "name": "Shepaug River at Peters Dam at Woodville",
+        "official_name": "SHEPAUG RIVER AT PETERS DAM AT WOODVILLE, CT",
+        "ref": "01202501",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01202501",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.3059495,
+          41.15287436
+        ]
+      },
+      "properties": {
+        "name": "Sasco Brook near Southport",
+        "official_name": "SASCO BROOK NEAR SOUTHPORT, CT",
+        "ref": "01208950",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01208950",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6616667,
+          41.0272222
+        ]
+      },
+      "properties": {
+        "name": "Byram River Precipitation at Pemberwick",
+        "official_name": "BYRAM RIVER PRECIPITATION AT PEMBERWICK, CT",
+        "ref": "410138073394201",
+        "website": "https://waterdata.usgs.gov/monitoring-location/410138073394201",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7080556,
+          41.78443889
+        ]
+      },
+      "properties": {
+        "name": "North Branch Park Precipitation at Hartford",
+        "official_name": "NORTH BRANCH PARK PRECIPITATION AT HARTFORD, CT",
+        "ref": "414704072422901",
+        "website": "https://waterdata.usgs.gov/monitoring-location/414704072422901",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.26563469,
+          41.7506544
+        ]
+      },
+      "properties": {
+        "name": "Willimantic River near Coventry",
+        "official_name": "WILLIMANTIC RIVER NEAR COVENTRY, CT",
+        "ref": "01119500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01119500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1061694,
+          41.81616944
+        ]
+      },
+      "properties": {
+        "name": "Natchaug River at Marcy Road near Chaplin",
+        "official_name": "NATCHAUG RIVER AT MARCY RD. NEAR CHAPLIN, CT",
+        "ref": "01120790",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01120790",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1689662,
+          41.8437089
+        ]
+      },
+      "properties": {
+        "name": "Mount Hope River near Warrenville",
+        "official_name": "MOUNT HOPE RIVER NEAR WARRENVILLE, CT",
+        "ref": "01121000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01121000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.2427806,
+          41.83319444
+        ]
+      },
+      "properties": {
+        "name": "Fenton River at Mansfield",
+        "official_name": "FENTON RIVER AT MANSFIELD, CT",
+        "ref": "01121330",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01121330",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.195575,
+          41.7201
+        ]
+      },
+      "properties": {
+        "name": "Natchaug River at Willimantic",
+        "official_name": "NATCHAUG RIVER AT WILLIMANTIC, CT",
+        "ref": "01122000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01122000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1820223,
+          41.70037644
+        ]
+      },
+      "properties": {
+        "name": "Shetucket River near Willimantic",
+        "official_name": "SHETUCKET RIVER NEAR WILLIMANTIC, CT",
+        "ref": "01122500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01122500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.05229807,
+          41.6717651
+        ]
+      },
+      "properties": {
+        "name": "Little River near Hanover",
+        "official_name": "LITTLE RIVER NEAR HANOVER, CT",
+        "ref": "01123000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01123000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0462444,
+          41.57000278
+        ]
+      },
+      "properties": {
+        "name": "Shetucket River at Taftville",
+        "official_name": "SHETUCKET RIVER AT TAFTVILLE, CT",
+        "ref": "011230695",
+        "website": "https://waterdata.usgs.gov/monitoring-location/011230695",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9556289,
+          42.0223189
+        ]
+      },
+      "properties": {
+        "name": "Quinebaug River at Quinebaug",
+        "official_name": "QUINEBAUG RIVER AT QUINEBAUG, CT",
+        "ref": "01124000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01124000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8995972,
+          41.94356667
+        ]
+      },
+      "properties": {
+        "name": "Quinebaug River at West Thompson",
+        "official_name": "QUINEBAUG RIVER AT WEST THOMPSON, CT",
+        "ref": "01124151",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01124151",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.90051389,
+          41.97846389
+        ]
+      },
+      "properties": {
+        "name": "French River at North Grosvenordale",
+        "official_name": "FRENCH RIVER AT NORTH GROSVENORDALE, CT",
+        "ref": "01125100",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01125100",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9300083,
+          41.92784444
+        ]
+      },
+      "properties": {
+        "name": "Little River at Harrisville",
+        "official_name": "LITTLE RIVER AT HARRISVILLE, CT",
+        "ref": "01125490",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01125490",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.91386389,
+          41.909475
+        ]
+      },
+      "properties": {
+        "name": "Quinebaug River at Putnam",
+        "official_name": "QUINEBAUG RIVER AT PUTNAM, CT",
+        "ref": "01125500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01125500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9840944,
+          41.59749167
+        ]
+      },
+      "properties": {
+        "name": "Quinebaug River at Jewett City",
+        "official_name": "QUINEBAUG RIVER AT JEWETT CITY, CT",
+        "ref": "01127000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01127000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6053669,
+          41.9873186
+        ]
+      },
+      "properties": {
+        "name": "Connecticut River at Thompsonville",
+        "official_name": "CONNECTICUT RIVER AT THOMPSONVILLE, CT",
+        "ref": "01184000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01184000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5497,
+          41.9138972
+        ]
+      },
+      "properties": {
+        "name": "Broad Brook at Broad Brook",
+        "official_name": "BROAD BROOK AT BROAD BROOK, CT",
+        "ref": "01184490",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01184490",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.017606,
+          41.9628729
+        ]
+      },
+      "properties": {
+        "name": "West Branch Farmington River at Riverton",
+        "official_name": "WEST BRANCH FARMINGTON RIVER AT RIVERTON, CT",
+        "ref": "01186000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01186000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0334444,
+          41.9679222
+        ]
+      },
+      "properties": {
+        "name": "Still River at Robertsville",
+        "official_name": "STILL RIVER AT ROBERTSVILLE, CT",
+        "ref": "01186500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01186500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.93932778,
+          42.0375
+        ]
+      },
+      "properties": {
+        "name": "Hubbard River near West Hartland",
+        "official_name": "HUBBARD RIVER NEAR WEST HARTLAND, CT",
+        "ref": "01187300",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01187300",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9701041,
+          41.8206529
+        ]
+      },
+      "properties": {
+        "name": "Nepaug River near Nepaug",
+        "official_name": "NEPAUG R NR NEPAUG, CT.",
+        "ref": "01187800",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01187800",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9648261,
+          41.786209
+        ]
+      },
+      "properties": {
+        "name": "Bunnell Brook near Burlington",
+        "official_name": "BUNNELL BROOK NEAR BURLINGTON, CT",
+        "ref": "01188000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01188000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8870417,
+          41.7555472
+        ]
+      },
+      "properties": {
+        "name": "Farmington River at Unionville",
+        "official_name": "FARMINGTON RIVER AT UNIONVILLE, CT",
+        "ref": "01188090",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01188090",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.90065738,
+          41.673154
+        ]
+      },
+      "properties": {
+        "name": "Pequabuck River at Forestville",
+        "official_name": "PEQUABUCK R AT FORESTVILLE, CT.",
+        "ref": "01189000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01189000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.75935278,
+          41.9082833
+        ]
+      },
+      "properties": {
+        "name": "Farmington River at Tariffville",
+        "official_name": "FARMINGTON RIVER AT TARIFFVILLE, CT",
+        "ref": "01189995",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01189995",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.66755,
+          41.76909444
+        ]
+      },
+      "properties": {
+        "name": "Connecticut River at Hartford",
+        "official_name": "CONNECTICUT RIVER AT HARTFORD, CT",
+        "ref": "01190070",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01190070",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "tidal": "yes",
+        "monitoring:tide_gauge": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7080556,
+          41.78443889
+        ]
+      },
+      "properties": {
+        "name": "North Branch Park River at Hartford",
+        "official_name": "NORTH BRANCH PARK RIVER AT HARTFORD, CT",
+        "ref": "01191000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01191000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5873114,
+          41.7831548
+        ]
+      },
+      "properties": {
+        "name": "Hockanum River near East Hartford",
+        "official_name": "HOCKANUM RIVER NEAR EAST HARTFORD, CT",
+        "ref": "01192500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01192500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5531454,
+          41.5417656
+        ]
+      },
+      "properties": {
+        "name": "Connecticut River at Middle Haddam",
+        "official_name": "CONNECTICUT RIVER AT MIDDLE HADDAM, CT",
+        "ref": "01193050",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01193050",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "tidal": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "monitoring:tide_gauge": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.33267778,
+          41.44166944
+        ]
+      },
+      "properties": {
+        "name": "Eightmile River at North Plain",
+        "official_name": "EIGHTMILE RIVER AT NORTH PLAIN, CT",
+        "ref": "01194000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01194000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3843667,
+          41.3514833
+        ]
+      },
+      "properties": {
+        "name": "Connecticut River at Essex",
+        "official_name": "CONNECTICUT RIVER AT ESSEX, CT",
+        "ref": "01194750",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01194750",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "tidal": "yes",
+        "monitoring:tide_gauge": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3459166,
+          41.3125983
+        ]
+      },
+      "properties": {
+        "name": "Connecticut River at Old Lyme",
+        "official_name": "CONNECTICUT RIVER AT OLD LYME, CT",
+        "ref": "01194796",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01194796",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "tidal": "yes",
+        "monitoring:tide_gauge": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5310333,
+          41.3061722
+        ]
+      },
+      "properties": {
+        "name": "Indian River near Clinton",
+        "official_name": "INDIAN RIVER NEAR CLINTON, CT",
+        "ref": "01195100",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01195100",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8148861,
+          41.3335583
+        ]
+      },
+      "properties": {
+        "name": "Farm River at Totoket Road at Totoket",
+        "official_name": "FARM RIVER AT TOTOKET ROAD AT TOTOKET, CT",
+        "ref": "01195399",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01195399",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.88982417,
+          41.5323197
+        ]
+      },
+      "properties": {
+        "name": "Honeypot Brook at Creamery Road at Cheshire",
+        "official_name": "HONEYPOT BROOK AT CREAMERY ROAD AT CHESHIRE, CT",
+        "ref": "01196210",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01196210",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7794917,
+          41.4356083
+        ]
+      },
+      "properties": {
+        "name": "Muddy River near East Wallingford",
+        "official_name": "MUDDY RIVER NEAR EAST WALLINGFORD, CT",
+        "ref": "01196561",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01196561",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9026583,
+          41.42041389
+        ]
+      },
+      "properties": {
+        "name": "Mill River near Hamden",
+        "official_name": "MILL RIVER NEAR HAMDEN, CT",
+        "ref": "01196620",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01196620",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.3909532,
+          41.94231548
+        ]
+      },
+      "properties": {
+        "name": "Salmon Creek at Lime Rock",
+        "official_name": "SALMON CREEK AT LIME ROCK, CT",
+        "ref": "01199050",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01199050",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4898462,
+          41.6531496
+        ]
+      },
+      "properties": {
+        "name": "Housatonic River at Gaylordsville",
+        "official_name": "HOUSATONIC RIVER AT GAYLORDSVILLE, CT",
+        "ref": "01200500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01200500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4495669,
+          41.5931499
+        ]
+      },
+      "properties": {
+        "name": "Housatonic River near New Milford",
+        "official_name": "HOUSATONIC RIVER NEAR NEW MILFORD, CT",
+        "ref": "01200600",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01200600",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2731833,
+          41.4065472
+        ]
+      },
+      "properties": {
+        "name": "Pootatuck River at Berkshire",
+        "official_name": "POOTATUCK RIVER AT BERKSHIRE",
+        "ref": "012035055",
+        "website": "https://waterdata.usgs.gov/monitoring-location/012035055",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2821,
+          41.41925
+        ]
+      },
+      "properties": {
+        "name": "Pootatuck River at Sandy Hook",
+        "official_name": "POOTATUCK RIVER AT SANDY HOOK, CT",
+        "ref": "01203510",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01203510",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1784667,
+          41.57585
+        ]
+      },
+      "properties": {
+        "name": "Nonewaug River at Minortown",
+        "official_name": "NONEWAUG RIVER AT MINORTOWN, CT",
+        "ref": "01203600",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01203600",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.21535278,
+          41.5577083
+        ]
+      },
+      "properties": {
+        "name": "Weekeepeemee River at Hotchkissville",
+        "official_name": "WEEKEEPEEMEE RIVER AT HOTCHKISSVILLE, CT",
+        "ref": "01203805",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01203805",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2245722,
+          41.48193889
+        ]
+      },
+      "properties": {
+        "name": "Pomperaug River at Southbury",
+        "official_name": "POMPERAUG RIVER AT SOUTHBURY, CT",
+        "ref": "01204000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01204000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.16663889,
+          41.38380278
+        ]
+      },
+      "properties": {
+        "name": "Housatonic River at Stevenson",
+        "official_name": "HOUSATONIC RIVER AT STEVENSON, CT",
+        "ref": "01205500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01205500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0695527,
+          41.6737084
+        ]
+      },
+      "properties": {
+        "name": "Naugatuck River at Thomaston",
+        "official_name": "NAUGATUCK RIVER AT THOMASTON, CT",
+        "ref": "01206900",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01206900",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.05427449,
+          41.5570413
+        ]
+      },
+      "properties": {
+        "name": "Naugatuck River at Waterbury",
+        "official_name": "NAUGATUCK RIVER AT WATERBURY, CT",
+        "ref": "01208171",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01208171",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0622833,
+          41.4423
+        ]
+      },
+      "properties": {
+        "name": "Naugatuck River at Beacon Falls",
+        "official_name": "NAUGATUCK RIVER AT BEACON FALLS, CT",
+        "ref": "01208500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01208500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0896583,
+          41.2724361
+        ]
+      },
+      "properties": {
+        "name": "Housatonic River at Beacon Point Marina near Shelton",
+        "official_name": "HOUSATONIC R. AT BEACON PT MARINA NEAR SHELTON, CT",
+        "ref": "01208760",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01208760",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "tidal": "yes",
+        "monitoring:tide_gauge": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.21900219,
+          41.1798189
+        ]
+      },
+      "properties": {
+        "name": "Rooster River at Fairfield",
+        "official_name": "ROOSTER RIVER AT FAIRFIELD, CT",
+        "ref": "01208873",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01208873",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2700083,
+          41.165475
+        ]
+      },
+      "properties": {
+        "name": "Mill River near Fairfield",
+        "official_name": "MILL RIVER NEAR FAIRFIELD, CT",
+        "ref": "01208925",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01208925",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.39512029,
+          41.29454
+        ]
+      },
+      "properties": {
+        "name": "Saugatuck River near Redding",
+        "official_name": "SAUGATUCK RIVER NEAR REDDING, CT",
+        "ref": "01208990",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01208990",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.3492361,
+          41.24551389
+        ]
+      },
+      "properties": {
+        "name": "Saugatuck River below Saugatuck Reservoir near Lyons Plain",
+        "official_name": "SAUGATUCK R BELOW SAUGATUCK RES NR LYONS PLAIN, CT",
+        "ref": "01209005",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01209005",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.3241194,
+          41.22874167
+        ]
+      },
+      "properties": {
+        "name": "Aspetuck River at Aspetuck",
+        "official_name": "ASPETUCK RIVER AT ASPETUCK, CT",
+        "ref": "01209105",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01209105",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.3648167,
+          41.17073056
+        ]
+      },
+      "properties": {
+        "name": "Saugatuck River near Westport",
+        "official_name": "SAUGATUCK RIVER NEAR WESTPORT, CT",
+        "ref": "01209500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01209500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4928944,
+          41.31408889
+        ]
+      },
+      "properties": {
+        "name": "Ridgefield Brook at Shields Lane near Ridgefield",
+        "official_name": "RIDGEFIELD BROOK AT SHIELDS LANE NR RIDGEFIELD, CT",
+        "ref": "012095493",
+        "website": "https://waterdata.usgs.gov/monitoring-location/012095493",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4195444,
+          41.16376667
+        ]
+      },
+      "properties": {
+        "name": "Norwalk River at South Wilton",
+        "official_name": "NORWALK RIVER AT SOUTH WILTON, CT",
+        "ref": "01209700",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01209700",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.51107778,
+          41.1743222
+        ]
+      },
+      "properties": {
+        "name": "Fivemile River near New Canaan",
+        "official_name": "FIVEMILE RIVER NEAR NEW CANAAN, CT",
+        "ref": "01209761",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01209761",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5492722,
+          41.0661111
+        ]
+      },
+      "properties": {
+        "name": "Rippowam River at Stamford",
+        "official_name": "RIPPOWAM RIVER AT STAMFORD, CT.",
+        "ref": "01209901",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01209901",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.66175,
+          41.0272972
+        ]
+      },
+      "properties": {
+        "name": "Byram River at Pemberwick",
+        "official_name": "BYRAM RIVER AT PEMBERWICK, CT",
+        "ref": "01212500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01212500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.3662167,
+          41.103875
+        ]
+      },
+      "properties": {
+        "name": "Saugatuck River Lower Embayment near Saugatuck",
+        "official_name": "SAUGATUCK RIVER LOWER EMBAYMENT NEAR SAUGATUCK, CT",
+        "ref": "410613073215801",
+        "website": "https://waterdata.usgs.gov/monitoring-location/410613073215801",
+        "man_made": "monitoring_station",
+        "monitoring:water_velocity": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "tidal": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2882083,
+          41.12479167
+        ]
+      },
+      "properties": {
+        "name": "Mill River at Southport Harbor near Southport",
+        "official_name": "MILL RIVER AT SOUTHPORT HARBOR NEAR SOUTHPORT, CT",
+        "ref": "410729073171701",
+        "website": "https://waterdata.usgs.gov/monitoring-location/410729073171701",
+        "man_made": "monitoring_station",
+        "monitoring:water_velocity": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "tidal": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8564111,
+          41.25351389
+        ]
+      },
+      "properties": {
+        "name": "Farm River at Farm River Marina near East Haven",
+        "official_name": "FARM RIVER AT FARM RIVER MARINA NR EAST HAVEN, CT",
+        "ref": "411513072512301",
+        "website": "https://waterdata.usgs.gov/monitoring-location/411513072512301",
+        "man_made": "monitoring_station",
+        "monitoring:water_velocity": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "tidal": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0820204,
+          41.34870948
+        ]
+      },
+      "properties": {
+        "name": "Thames River at Groton",
+        "official_name": "THAMES R AT GROTON, CT.",
+        "ref": "01127768",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01127768",
+        "man_made": "monitoring_station",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "tidal": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.12125278,
+          41.1884333
+        ]
+      },
+      "properties": {
+        "name": "Housatonic River near Nells Island near Stratford",
+        "official_name": "HOUSATONIC RIVER NR NELLS ISLAND NR STRATFORD, CT",
+        "ref": "01208837",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01208837",
+        "man_made": "monitoring_station",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "tidal": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.3999861,
+          41.08395
+        ]
+      },
+      "properties": {
+        "name": "Norwalk Harbor at the Cove Marina near East Norwalk",
+        "official_name": "NORWALK HARBOR AT THE COVE MARINA NR E NORWALK, CT",
+        "ref": "410502073236000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/410502073236000",
+        "man_made": "monitoring_station",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "tidal": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4159472,
+          41.10161944
+        ]
+      },
+      "properties": {
+        "name": "Norwalk River at Norwalk Aquarium near South Norwalk",
+        "official_name": "NORWALK RIVER AT NORWALK AQUARIUM NR S NORWALK, CT",
+        "ref": "410606073245700",
+        "website": "https://waterdata.usgs.gov/monitoring-location/410606073245700",
+        "man_made": "monitoring_station",
+        "monitoring:water_temperature": "yes",
+        "tidal": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:tide_gauge": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.3694556,
+          41.12345278
+        ]
+      },
+      "properties": {
+        "name": "Saugatuck River US Route 136 near Saugatuck",
+        "official_name": "SAUGATUCK RIVER US RTE 136 NEAR SAUGATUCK, CT",
+        "ref": "410724073221001",
+        "website": "https://waterdata.usgs.gov/monitoring-location/410724073221001",
+        "man_made": "monitoring_station",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "tidal": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2824833,
+          41.1325083
+        ]
+      },
+      "properties": {
+        "name": "Mill River at Pequot Yacht Club at Southport",
+        "official_name": "MILL RIVER AT PEQUOT YACHT CLUB AT SOUTHPORT, CT",
+        "ref": "410757073165601",
+        "website": "https://waterdata.usgs.gov/monitoring-location/410757073165601",
+        "man_made": "monitoring_station",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "tidal": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.86246389,
+          41.2739722
+        ]
+      },
+      "properties": {
+        "name": "Farm River at the Trolley Museum at East Haven",
+        "official_name": "FARM RIVER AT THE TROLLY MUSEUM AT EAST HAVEN, CT",
+        "ref": "411626072514501",
+        "website": "https://waterdata.usgs.gov/monitoring-location/411626072514501",
+        "man_made": "monitoring_station",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "tidal": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9841611,
+          41.32768056
+        ]
+      },
+      "properties": {
+        "name": "Mystic River at Ram Island Yacht Club at Noank",
+        "official_name": "MYSTIC RIVER AT RAM ISLAND YACHT CLUB AT NOANK, CT",
+        "ref": "411940071590300",
+        "website": "https://waterdata.usgs.gov/monitoring-location/411940071590300",
+        "man_made": "monitoring_station",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "tidal": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.3630333,
+          41.14089444
+        ]
+      },
+      "properties": {
+        "name": "Saugatuck River at Route 1 at Westport",
+        "official_name": "SAUGATUCK RIVER AT ROUTE 1 AT WESTPORT, CT",
+        "ref": "01209510",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01209510",
+        "man_made": "monitoring_station",
+        "tidal": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:tide_gauge": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6250806,
+          41.0141222
+        ]
+      },
+      "properties": {
+        "name": "Greenwich Harbor at Grass Island at Greenwich",
+        "official_name": "GREENWICH HARBOR AT GRASS ISLAND AT GREENWICH, CT",
+        "ref": "012112296",
+        "website": "https://waterdata.usgs.gov/monitoring-location/012112296",
+        "man_made": "monitoring_station",
+        "tidal": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:tide_gauge": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.85232778,
+          41.259025
+        ]
+      },
+      "properties": {
+        "name": "Farm River at Route 142 Bridge near East Haven",
+        "official_name": "FARM RIVER AT ROUTE 142 BRIDGE NEAR EAST HAVEN, CT",
+        "ref": "411532072510801",
+        "website": "https://waterdata.usgs.gov/monitoring-location/411532072510801",
+        "man_made": "monitoring_station",
+        "tidal": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:tide_gauge": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4102361,
+          41.11186944
+        ]
+      },
+      "properties": {
+        "name": "Norwalk River at Ferry Point near Norwalk",
+        "official_name": "NORWALK RIVER AT FERRY POINT NEAR NORWALK, CT",
+        "ref": "410643073243700",
+        "website": "https://waterdata.usgs.gov/monitoring-location/410643073243700",
+        "man_made": "monitoring_station",
+        "monitoring:dissolved_oxygen": "yes",
+        "tidal": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    }
+  ]
+}
