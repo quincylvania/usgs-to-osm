@@ -156,6 +156,9 @@ function cleanName(name) {
     name = name.replace(/ @ /gi, ' at ');
     name = name.replace(/ @/gi, ' at ');
 
+    name = name.replace(/, near /gi, ' near ');
+    name = name.replace(/, at /gi, ' at ');
+
     name = name
         .split(" ")
         .map(function(word) {
