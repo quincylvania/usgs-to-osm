@@ -1,0 +1,2608 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.6199444,
+          22.13280556
+        ]
+      },
+      "properties": {
+        "name": "Kawaikoi Stream near Waimea",
+        "official_name": "Kawaikoi Stream nr Waimea, Kauai, HI",
+        "ref": "16010000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16010000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.6483056,
+          22.0751111
+        ]
+      },
+      "properties": {
+        "name": "Waimea River upstream of Kekaha-Waiahulu intake",
+        "official_name": "Waimea River US of Kekaha-Waiahulu Int., Kauai, HI",
+        "ref": "16016000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16016000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.5690833,
+          22.08583333
+        ]
+      },
+      "properties": {
+        "name": "Waialae Stream at altitude of 3,820 feet near Waimea",
+        "official_name": "Waialae Str at alt 3,820 ft nr Waimea, Kauai, HI",
+        "ref": "16019000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16019000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.6600833,
+          21.98038889
+        ]
+      },
+      "properties": {
+        "name": "Waimea River near Waimea",
+        "official_name": "Waimea River near Waimea, Kauai, HI",
+        "ref": "16031000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16031000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.5507778,
+          21.95491667
+        ]
+      },
+      "properties": {
+        "name": "Hanapepe River below Manuahi Stream near Eleele",
+        "official_name": "Hanapepe Riv blw Manuahi Str nr Eleele, Kauai, HI",
+        "ref": "16049000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16049000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.5048056,
+          21.93931667
+        ]
+      },
+      "properties": {
+        "name": "Right Branch Lawai Stream near Umauma Road",
+        "official_name": "Right Branch Lawai Stream nr Umauma Rd, Kauai, HI",
+        "ref": "16052350",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16052350",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.4650556,
+          22.02269444
+        ]
+      },
+      "properties": {
+        "name": "Waiahi Stream upstream of Upper Powerhouse",
+        "official_name": "Waiahi Str US Upper Powerhouse, Kauai, HI",
+        "ref": "16057900",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16057900",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.3801667,
+          22.03669444
+        ]
+      },
+      "properties": {
+        "name": "South Fork Wailua River near Lihue",
+        "official_name": "SF Wailua River nr Lihue, Kauai, HI",
+        "ref": "16060000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16060000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.4705972,
+          22.06364167
+        ]
+      },
+      "properties": {
+        "name": "North Fork Wailua River above North Wailua Ditch intake",
+        "official_name": "NF Wailua Riv abv N Wailua Ditch Int, Kauai, HI",
+        "ref": "16060950",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16060950",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.4151667,
+          22.06877778
+        ]
+      },
+      "properties": {
+        "name": "East Branch North Fork Wailua River near Lihue",
+        "official_name": "EB of NF Wailua River nr Lihue, Kauai, HI",
+        "ref": "16068000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16068000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.3958889,
+          22.0756111
+        ]
+      },
+      "properties": {
+        "name": "Left Branch Opaekaa Stream near Kapaa",
+        "official_name": "Left Branch Opaekaa Str nr Kapaa, Kauai, HI",
+        "ref": "16071500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16071500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.3790556,
+          22.17897222
+        ]
+      },
+      "properties": {
+        "name": "Ka Loko Reservoir near Kilauea",
+        "official_name": "Ka Loko Reservoir near Kilauea, Kauai, HI",
+        "ref": "16094150",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16094150",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.418611,
+          22.17863889
+        ]
+      },
+      "properties": {
+        "name": "Halaulani Stream at altitude of 400 feet near Kilauea",
+        "official_name": "Halaulani Str at alt 400 ft nr Kilauea, Kauai, HI",
+        "ref": "16097500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16097500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.4663889,
+          22.17958333
+        ]
+      },
+      "properties": {
+        "name": "Hanalei River near Hanalei",
+        "official_name": "Hanalei River nr Hanalei, Kauai, HI",
+        "ref": "16103000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16103000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.4759444,
+          22.21072222
+        ]
+      },
+      "properties": {
+        "name": "Hanalei River at Highway 56 Bridge near Hanalei",
+        "official_name": "Hanalei Riv at Hwy 56 Bridge nr Hanalei, Kauai, HI",
+        "ref": "16104200",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16104200",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.557861,
+          22.13588889
+        ]
+      },
+      "properties": {
+        "name": "Wainiha River near Hanalei",
+        "official_name": "Wainiha River nr Hanalei, Kauai, HI",
+        "ref": "16108000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16108000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.5984722,
+          22.17583333
+        ]
+      },
+      "properties": {
+        "name": "Hanakapiai Stream above Hanakapiai Falls",
+        "official_name": "Hanakapiai Stream abv Hanakapiai Falls, Kauai, HI",
+        "ref": "16114800",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16114800",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.9453056,
+          21.51627778
+        ]
+      },
+      "properties": {
+        "name": "North Fork Kaukonahua Stream above RB near Wahiawa",
+        "official_name": "NF Kaukonahua Str abv RB, nr Wahiawa, Oahu, HI",
+        "ref": "16200000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16200000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755",
+        "fixme": "What is RB?"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.9701944,
+          21.49205556
+        ]
+      },
+      "properties": {
+        "name": "Koolau Reservoir near Wahiawa",
+        "official_name": "Koolau Reservoir near Wahiawa, Oahu, HI",
+        "ref": "16206600",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16206600",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.9960556,
+          21.48880556
+        ]
+      },
+      "properties": {
+        "name": "South Fork Kaukonahua Stream at east pump near Wahiawa",
+        "official_name": "SF Kaukonahua Str at E pump, nr Wahiawa, Oahu, HI",
+        "ref": "16208000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16208000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.9807222,
+          21.4973611
+        ]
+      },
+      "properties": {
+        "name": "Ku Tree Reservoir near Wahiawa",
+        "official_name": "Ku Tree Reservoir near Wahiawa, Oahu, HI",
+        "ref": "16208400",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16208400",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.0497778,
+          21.49647222
+        ]
+      },
+      "properties": {
+        "name": "Wahiawa Reservoir at spillway at Wahiawa",
+        "official_name": "Wahiawa Reservoir at Spillway at Wahiawa, Oahu, HI",
+        "ref": "16210000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16210000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.0510278,
+          21.50055556
+        ]
+      },
+      "properties": {
+        "name": "Wahiawa Ditch at Wahiawa",
+        "official_name": "Wahiawa Ditch at Wahiawa, Oahu, HI",
+        "ref": "16210100",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16210100",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.0510833,
+          21.50025
+        ]
+      },
+      "properties": {
+        "name": "Kaukonahua Stream below Wahiawa Reservoir",
+        "official_name": "Kaukonahua Stream blw Wahiawa Reservoir, Oahu, HI",
+        "ref": "16210200",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16210200",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.120361,
+          21.56530556
+        ]
+      },
+      "properties": {
+        "name": "Kaukonahua Stream at Waialua",
+        "official_name": "Kaukonahua Str at Waialua, Oahu, HI",
+        "ref": "16210500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16210500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.1801667,
+          21.50158333
+        ]
+      },
+      "properties": {
+        "name": "Makaha Stream near Makaha",
+        "official_name": "Makaha Str nr Makaha, Oahu, HI",
+        "ref": "16211600",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16211600",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.1544694,
+          21.46906944
+        ]
+      },
+      "properties": {
+        "name": "Kaupuni Stream at altitude of 374 feet near Waianae",
+        "official_name": "Kaupuni Str at alt 374 ft nr Waianae, Oahu, HI",
+        "ref": "16211800",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16211800",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.0447778,
+          21.37813889
+        ]
+      },
+      "properties": {
+        "name": "Honouliuli Stream at H-1 Freeway near Waipahu",
+        "official_name": "Honouliuli Str at H-1 Freeway nr Waipahu, Oahu, HI",
+        "ref": "16212490",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16212490",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.0109167,
+          21.38347222
+        ]
+      },
+      "properties": {
+        "name": "Waikele Stream at Waipahu",
+        "official_name": "Waikele Str at Waipahu, Oahu, HI",
+        "ref": "16213000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16213000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.9033333,
+          21.382
+        ]
+      },
+      "properties": {
+        "name": "North Halawa Stream near Honolulu",
+        "official_name": "N. Halawa Str nr Honolulu, Oahu, HI",
+        "ref": "16226200",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16226200",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.9127222,
+          21.37188889
+        ]
+      },
+      "properties": {
+        "name": "North Halawa Stream near Quarantine Station at Halawa",
+        "official_name": "N. Halawa Str nr Quar. Stn. at Halawa, Oahu, HI",
+        "ref": "16226400",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16226400",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.848611,
+          21.38805556
+        ]
+      },
+      "properties": {
+        "name": "Moanalua Stream near Kaneohe",
+        "official_name": "Moanalua Stream nr Kaneohe, Oahu, HI",
+        "ref": "16227500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16227500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8444444,
+          21.3633611
+        ]
+      },
+      "properties": {
+        "name": "Kalihi Stream near Honolulu",
+        "official_name": "Kalihi Str nr Honolulu, Oahu, HI",
+        "ref": "16229000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16229000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.83675,
+          21.29663889
+        ]
+      },
+      "properties": {
+        "name": "Makiki Stream at King Street Bridge",
+        "official_name": "Makiki Stream at King St. bridge, Oahu, HI",
+        "ref": "16238000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16238000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.800861,
+          21.3283611
+        ]
+      },
+      "properties": {
+        "name": "Waihi Stream at Honolulu",
+        "official_name": "Waihi Stream at Honolulu, Oahu, HI",
+        "ref": "16238500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16238500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.799611,
+          21.32822222
+        ]
+      },
+      "properties": {
+        "name": "Waiakeakua Stream at Honolulu",
+        "official_name": "Waiakeakua Str at Honolulu, Oahu, HI",
+        "ref": "16240500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16240500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8095,
+          21.30844444
+        ]
+      },
+      "properties": {
+        "name": "Manoa Stream at Woodlawn Drive",
+        "official_name": "Manoa Stream at Woodlawn Drive, Oahu, HI",
+        "ref": "16241600",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16241600",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.7883333,
+          21.30666667
+        ]
+      },
+      "properties": {
+        "name": "Pukele Stream near Honolulu",
+        "official_name": "Pukele Stream near Honolulu, Oahu, HI",
+        "ref": "16244000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16244000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8185556,
+          21.28652778
+        ]
+      },
+      "properties": {
+        "name": "Manoa-Palolo Drainage Canal at Moiliili",
+        "official_name": "Manoa-Palolo Drainage Canal at Moiliili, Oahu, HI",
+        "ref": "16247100",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16247100",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.7289167,
+          21.34997222
+        ]
+      },
+      "properties": {
+        "name": "Waimanalo Stream at Waimanalo",
+        "official_name": "Waimanalo Str at Waimanalo, Oahu, HI",
+        "ref": "16249000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16249000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.7621667,
+          21.3595
+        ]
+      },
+      "properties": {
+        "name": "Makawao Stream near Kailua",
+        "official_name": "Makawao Str nr Kailua, Oahu, HI",
+        "ref": "16254000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16254000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.749361,
+          21.39416667
+        ]
+      },
+      "properties": {
+        "name": "Kawainui Marsh near Levee Station 15+00",
+        "official_name": "Kawainui Marsh nr levee sta 15+00, Oahu, HI",
+        "ref": "16264600",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16264600",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.7905,
+          21.40575
+        ]
+      },
+      "properties": {
+        "name": "Kawa Stream at Kaneohe",
+        "official_name": "Kawa Str at Kaneohe, Oahu, HI",
+        "ref": "16265000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16265000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.798111,
+          21.41180556
+        ]
+      },
+      "properties": {
+        "name": "Kaneohe Stream below Kamehameha Highway",
+        "official_name": "Kaneohe Str blw Kamehameha Hwy, Oahu, HI",
+        "ref": "16274100",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16274100",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8232306,
+          21.40920833
+        ]
+      },
+      "properties": {
+        "name": "Heeia Stream at Haiku Valley near Kaneohe",
+        "official_name": "Heeia Stream at Haiku Valley nr Kaneohe, Oahu, HI",
+        "ref": "16275000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16275000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8163889,
+          21.41741667
+        ]
+      },
+      "properties": {
+        "name": "Heeia Stream at Haiku Plantations Drive",
+        "official_name": "Heeia Stream at Haiku Plantations Dr., Oahu, HI",
+        "ref": "16279200",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16279200",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.843861,
+          21.43872222
+        ]
+      },
+      "properties": {
+        "name": "Kahaluu Stream near Ahuimanu",
+        "official_name": "Kahaluu Str nr Ahuimanu, Oahu, HI",
+        "ref": "16283200",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16283200",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.856611,
+          21.44816667
+        ]
+      },
+      "properties": {
+        "name": "Waihee Stream near Kahaluu",
+        "official_name": "Waihee Str nr Kahaluu, Oahu, HI",
+        "ref": "16284200",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16284200",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8458889,
+          21.48202778
+        ]
+      },
+      "properties": {
+        "name": "Waiahole Stream above Kamehameha Highway",
+        "official_name": "Waiahole Stream above Kamehameha Hwy, Oahu, HI",
+        "ref": "16294100",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16294100",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8629722,
+          21.49708333
+        ]
+      },
+      "properties": {
+        "name": "Waikane Stream at altitude of 75 feet at Waikane",
+        "official_name": "Waikane Str at alt 75 ft at Waikane, Oahu, HI",
+        "ref": "16294900",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16294900",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8825556,
+          21.5406111
+        ]
+      },
+      "properties": {
+        "name": "Kahana Stream at altitude of 30 feet near Kahana",
+        "official_name": "Kahana Str at alt 30 ft nr Kahana, Oahu, HI",
+        "ref": "16296500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16296500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8988889,
+          21.55638889
+        ]
+      },
+      "properties": {
+        "name": "Punaluu Stream above Punaluu Ditch intake",
+        "official_name": "Punaluu Str abv Punaluu Ditch Intake, Oahu, HI",
+        "ref": "16301050",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16301050",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.9080556,
+          21.5861111
+        ]
+      },
+      "properties": {
+        "name": "Kaluanui Stream near Punaluu",
+        "official_name": "Kaluanui Stream nr Punaluu, Oahu, HI",
+        "ref": "16304200",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16304200",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.015,
+          21.62055556
+        ]
+      },
+      "properties": {
+        "name": "Kamananui Stream at Pupukea Military Road",
+        "official_name": "Kamananui Str at Pupukea Mil Rd, Oahu, HI",
+        "ref": "16325000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16325000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.0545833,
+          21.63547222
+        ]
+      },
+      "properties": {
+        "name": "Kamananui Stream at Maunawai",
+        "official_name": "Kamananui Str at Maunawai, Oahu, HI",
+        "ref": "16330000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16330000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.00025,
+          21.56233333
+        ]
+      },
+      "properties": {
+        "name": "Opaeula Stream near Wahiawa",
+        "official_name": "Opaeula Str nr Wahiawa, Oahu, HI",
+        "ref": "16345000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16345000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.7619722,
+          21.1555
+        ]
+      },
+      "properties": {
+        "name": "Halawa Stream near Halawa",
+        "official_name": "Halawa Stream near Halawa, Molokai, HI",
+        "ref": "16400000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16400000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.9288889,
+          21.159325
+        ]
+      },
+      "properties": {
+        "name": "Waikolu Stream below pipe near Kalaupapa",
+        "official_name": "Waikolu Str blw pipe nr Kalaupapa, Molokai, HI",
+        "ref": "16408000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16408000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.017861,
+          21.09652778
+        ]
+      },
+      "properties": {
+        "name": "Kaunakakai Gulch at altitude of 75 feet",
+        "official_name": "Kaunakakai Gulch at altitude 75 feet, Molokai, HI",
+        "ref": "16414200",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16414200",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.9033278,
+          21.1096361
+        ]
+      },
+      "properties": {
+        "name": "East Fork Kawela Gulch near Kamalo",
+        "official_name": "EF Kawela Gulch nr Kamalo, Molokai, HI",
+        "ref": "16415000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16415000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.9483333,
+          21.06997222
+        ]
+      },
+      "properties": {
+        "name": "Kawela Gulch near Moku",
+        "official_name": "Kawela Gulch near Moku, Molokai, HI",
+        "ref": "16415600",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16415600",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.0522222,
+          20.6683611
+        ]
+      },
+      "properties": {
+        "name": "Oheo Gulch at dam near Kipahulu",
+        "official_name": "Oheo Gulch at dam near Kipahulu, Maui, HI",
+        "ref": "16501200",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16501200",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.1142222,
+          20.8068611
+        ]
+      },
+      "properties": {
+        "name": "Hanawi Stream near Nahiku",
+        "official_name": "Hanawi Stream near Nahiku, Maui, HI",
+        "ref": "16508000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16508000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.142973,
+          20.8143611
+        ]
+      },
+      "properties": {
+        "name": "West Wailuaiki Stream near Keanae",
+        "official_name": "West Wailuaiki Stream near Keanae, Maui, HI",
+        "ref": "16518000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16518000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.1703333,
+          20.8533611
+        ]
+      },
+      "properties": {
+        "name": "Honomanu Stream near Hana Highway",
+        "official_name": "Honomanu Stream near Hana Hwy, Maui, HI",
+        "ref": "16527500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16527500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.2312222,
+          20.80538889
+        ]
+      },
+      "properties": {
+        "name": "Waikamoi Stream above Kula Pipeline intake near Olinda",
+        "official_name": "Waikamoi Str abv Kula PL intake nr Olinda, Maui,HI",
+        "ref": "16552800",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16552800",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.2155556,
+          20.8711111
+        ]
+      },
+      "properties": {
+        "name": "Nailiilihaele Stream near Huelo",
+        "official_name": "Nailiilihaele Stream near Huelo, Maui, HI",
+        "ref": "16570000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16570000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.2525556,
+          20.88563889
+        ]
+      },
+      "properties": {
+        "name": "Honopou Stream near Huelo",
+        "official_name": "Honopou Stream near Huelo, Maui, HI",
+        "ref": "16587000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16587000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.5392778,
+          20.88238889
+        ]
+      },
+      "properties": {
+        "name": "Wailuku River at Kepaniwai Park",
+        "official_name": "Wailuku River at Kepaniwai Park, Maui, HI",
+        "ref": "16604500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16604500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.5338333,
+          20.88297222
+        ]
+      },
+      "properties": {
+        "name": "Wailuku River at Iao Valley Road",
+        "official_name": "Wailuku River at Iao Valley Road, Maui, HI",
+        "ref": "16605500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16605500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.5094417,
+          20.91071944
+        ]
+      },
+      "properties": {
+        "name": "South Waiehu Stream upstream of ditch at altitude of 315 feet",
+        "official_name": "S Waiehu Str US of ditch at alt. 315 ft, Maui, HI",
+        "ref": "16611500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16611500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.5468333,
+          20.9358611
+        ]
+      },
+      "properties": {
+        "name": "Waihee River above Waihee Ditch intake near Waihee",
+        "official_name": "Waihee Rv abv Waihee Dtch intk nr Waihee, Maui, HI",
+        "ref": "16614000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16614000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.5545,
+          20.97869444
+        ]
+      },
+      "properties": {
+        "name": "Kahakuloa Stream near Honokohau",
+        "official_name": "Kahakuloa Stream near Honokohau, Maui, HI",
+        "ref": "16618000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16618000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.5870556,
+          20.95969444
+        ]
+      },
+      "properties": {
+        "name": "Honokohau Stream near Honokohau",
+        "official_name": "Honokohau Stream near Honokohau, Maui, HI",
+        "ref": "16620000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16620000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.6770833,
+          20.88313889
+        ]
+      },
+      "properties": {
+        "name": "Kahoma Stream at Lahaina",
+        "official_name": "Kahoma Stream at Lahaina, Maui, HI",
+        "ref": "16638500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16638500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.6224167,
+          20.87763889
+        ]
+      },
+      "properties": {
+        "name": "Kauaula Stream upstream of ditch diversion",
+        "official_name": "Kauaula Stream US of ditch diversion, Maui, HI",
+        "ref": "16641000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16641000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.5833639,
+          20.81854167
+        ]
+      },
+      "properties": {
+        "name": "Ukumehame Gulch near Olowalu",
+        "official_name": "Ukumehame Gulch nr Olowalu, Maui, HI",
+        "ref": "16647000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16647000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.5364722,
+          20.85577778
+        ]
+      },
+      "properties": {
+        "name": "Waikapu Stream upstream of South Waikapu Ditch intake",
+        "official_name": "Waikapu Str US of S Waikapu Dt intake, Maui, HI",
+        "ref": "16647900",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16647900",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.2661139,
+          19.7176861
+        ]
+      },
+      "properties": {
+        "name": "Wailuku River near Kaumana",
+        "official_name": "Wailuku River nr Kaumana, HI",
+        "ref": "16701800",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16701800",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.15075,
+          19.71213889
+        ]
+      },
+      "properties": {
+        "name": "Wailuku River at Piihonua",
+        "official_name": "Wailuku River at Piihonua, HI",
+        "ref": "16704000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16704000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.1518333,
+          19.76433333
+        ]
+      },
+      "properties": {
+        "name": "Honolii Stream near Papaikou",
+        "official_name": "Honolii Stream nr Papaikou, HI",
+        "ref": "16717000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16717000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.1668167,
+          19.8717
+        ]
+      },
+      "properties": {
+        "name": "Hakalau Stream near altitude of 1300 feet",
+        "official_name": "Hakalau Stream nr alt 1300 ft, HI",
+        "ref": "16717700",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16717700",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.2431444,
+          19.97212222
+        ]
+      },
+      "properties": {
+        "name": "Manowaiopae Stream near Spencer Road",
+        "official_name": "Manowaiopae Stream near Spencer Road, HI",
+        "ref": "16717815",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16717815",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.681166,
+          20.08533333
+        ]
+      },
+      "properties": {
+        "name": "Kawainui Stream near Kamuela",
+        "official_name": "Kawainui Stream nr Kamuela, HI",
+        "ref": "16720000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16720000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.67075,
+          20.07108333
+        ]
+      },
+      "properties": {
+        "name": "Alakahi Stream near Kamuela",
+        "official_name": "Alakahi Stream near Kamuela, HI",
+        "ref": "16725000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16725000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.9496944,
+          19.63419444
+        ]
+      },
+      "properties": {
+        "name": "Waiaha Stream at Holualoa",
+        "official_name": "Waiaha Stream at Holualoa, HI",
+        "ref": "16759600",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16759600",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.4770833,
+          19.20777778
+        ]
+      },
+      "properties": {
+        "name": "Paauau Gulch at Pahala",
+        "official_name": "Paauau Gulch at Pahala, HI",
+        "ref": "16770500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/16770500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.6621944,
+          13.29177778
+        ]
+      },
+      "properties": {
+        "name": "Umatac Rain Gage",
+        "official_name": "Umatac Rain Gage at Umatac",
+        "ref": "131729144393766",
+        "website": "https://waterdata.usgs.gov/monitoring-location/131729144393766",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.6831389,
+          13.35291667
+        ]
+      },
+      "properties": {
+        "name": "Almagosa Rain Gage near Santa Rita",
+        "official_name": "Almagosa Rain Gage nr Santa Rita",
+        "ref": "132105144405166",
+        "website": "https://waterdata.usgs.gov/monitoring-location/132105144405166",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.7088889,
+          13.36025
+        ]
+      },
+      "properties": {
+        "name": "Fena Rain Gage at reservoir pump station near Santa Rita",
+        "official_name": "Fena RG at Res. Pump Station, nr Santa Rita",
+        "ref": "132132144422366",
+        "website": "https://waterdata.usgs.gov/monitoring-location/132132144422366",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.7378056,
+          13.37716667
+        ]
+      },
+      "properties": {
+        "name": "Windward Hills Rain Gage near Talofofo",
+        "official_name": "Windward Hills Rain Gage near Talofofo",
+        "ref": "132234144441966",
+        "website": "https://waterdata.usgs.gov/monitoring-location/132234144441966",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.2942222,
+          19.6858611
+        ]
+      },
+      "properties": {
+        "name": "Quarry Rain Gage at Saddle Road",
+        "official_name": "83.0 Quarry Rain Gage at Saddle Rd, HI",
+        "ref": "194117155174801",
+        "website": "https://waterdata.usgs.gov/monitoring-location/194117155174801",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.151834,
+          19.76433333
+        ]
+      },
+      "properties": {
+        "name": "Honolii Rain Gage near Papaikou",
+        "official_name": "125.12 Honolii Rain Gage near Papaikou, HI",
+        "ref": "194602155091801",
+        "website": "https://waterdata.usgs.gov/monitoring-location/194602155091801",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.8925833,
+          19.82580556
+        ]
+      },
+      "properties": {
+        "name": "Kiholo Rain Gage",
+        "official_name": "92.5 Kiholo Rain Gage, HI",
+        "ref": "194945155534402",
+        "website": "https://waterdata.usgs.gov/monitoring-location/194945155534402",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.6811667,
+          20.08533333
+        ]
+      },
+      "properties": {
+        "name": "Kawainui Rain Gage near Kamuela",
+        "official_name": "185.7 Kawainui Rain Gage near Kamuela, HI",
+        "ref": "200518155405801",
+        "website": "https://waterdata.usgs.gov/monitoring-location/200518155405801",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.2518889,
+          20.6195
+        ]
+      },
+      "properties": {
+        "name": "Kepuni Gulch Rain Gage",
+        "official_name": "255.0 Kepuni Gulch Rain Gage, Maui, HI",
+        "ref": "203721156151601",
+        "website": "https://waterdata.usgs.gov/monitoring-location/203721156151601",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.1429722,
+          20.8143611
+        ]
+      },
+      "properties": {
+        "name": "West Wailuaiki Rain Gage near Keanae",
+        "official_name": "348.5 West Wailuaiki Rain Gage nr Keanae, Maui, HI",
+        "ref": "204916156083701",
+        "website": "https://waterdata.usgs.gov/monitoring-location/204916156083701",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.5863889,
+          20.89083333
+        ]
+      },
+      "properties": {
+        "name": "Puu Kukui Rain Gage at altitude of 5,771 feet",
+        "official_name": "380.0 Puu Kukui Rain Gage at alt 5,771 ft, Maui,HI",
+        "ref": "205327156351102",
+        "website": "https://waterdata.usgs.gov/monitoring-location/205327156351102",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.840111,
+          21.39338889
+        ]
+      },
+      "properties": {
+        "name": "Moanalua Rain Gage Number 1 at altitude of 1,000 ft",
+        "official_name": "772.3 Moanalua RG No. 1 at alt 1,000 ft, Oahu, HI",
+        "ref": "212359157502601",
+        "website": "https://waterdata.usgs.gov/monitoring-location/212359157502601",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8504444,
+          21.40488889
+        ]
+      },
+      "properties": {
+        "name": "North Halawa Valley Rain Gage at tunnel",
+        "official_name": "771.11 N. Halawa Valley RG at tunnel, Oahu, HI",
+        "ref": "212428157511201",
+        "website": "https://waterdata.usgs.gov/monitoring-location/212428157511201",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8458333,
+          21.48197222
+        ]
+      },
+      "properties": {
+        "name": "Waiahole Rain Gage at Kamehameha Highway",
+        "official_name": "837.7 Waiahole RG at Kamehameha Hwy., Oahu, HI",
+        "ref": "212855157504501",
+        "website": "https://waterdata.usgs.gov/monitoring-location/212855157504501",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.1801667,
+          21.50158333
+        ]
+      },
+      "properties": {
+        "name": "Makaha Rain Gage",
+        "official_name": "842.1 Makaha Rain Gage, Oahu, HI",
+        "ref": "213016158105901",
+        "website": "https://waterdata.usgs.gov/monitoring-location/213016158105901",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.9213889,
+          21.5338611
+        ]
+      },
+      "properties": {
+        "name": "Poamoho Rain Gage Number 1 near Wahiawa",
+        "official_name": "883.12 Poamoho Rain Gage No 1, nr Wahiawa, Oahu,HI",
+        "ref": "213215157552800",
+        "website": "https://waterdata.usgs.gov/monitoring-location/213215157552800",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8825556,
+          21.54041667
+        ]
+      },
+      "properties": {
+        "name": "Kahana Rain Gage at altitude of 95 feet",
+        "official_name": "886.4 Kahana Rain Gage at alt. 95 ft., Oahu, HI",
+        "ref": "213237157530701",
+        "website": "https://waterdata.usgs.gov/monitoring-location/213237157530701",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.0169167,
+          21.59902778
+        ]
+      },
+      "properties": {
+        "name": "Pupukea Road Rain Gage at altitude of 1,160 feet",
+        "official_name": "897.9 Pupukea Rd Rain Gage at alt 1,160 ft,Oahu,HI",
+        "ref": "213608158011101",
+        "website": "https://waterdata.usgs.gov/monitoring-location/213608158011101",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.0143056,
+          21.62238889
+        ]
+      },
+      "properties": {
+        "name": "Kamananui Rain Gage at altitude of 720 feet",
+        "official_name": "897.11 Kamananui Rain Gage at alt. 720 ft, Oahu,HI",
+        "ref": "213732158010201",
+        "website": "https://waterdata.usgs.gov/monitoring-location/213732158010201",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.4677222,
+          22.0625
+        ]
+      },
+      "properties": {
+        "name": "North Wailua Ditch Rain Gage near Lihue",
+        "official_name": "1051.0 N Wailua Ditch Rain Gage nr Lihue, Kauai,HI",
+        "ref": "220356159281401",
+        "website": "https://waterdata.usgs.gov/monitoring-location/220356159281401",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.4979722,
+          22.07088889
+        ]
+      },
+      "properties": {
+        "name": "Mount Waialeale Rain Gage near Lihue",
+        "official_name": "1047.0 Mt. Waialeale Rain Gage nr Lihue, Kauai, HI",
+        "ref": "220427159300201",
+        "website": "https://waterdata.usgs.gov/monitoring-location/220427159300201",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.5664167,
+          22.087
+        ]
+      },
+      "properties": {
+        "name": "Waialae Rain Gage near Waimea",
+        "official_name": "1042.0 Waialae Rain Gage nr Waimea, Kauai, HI",
+        "ref": "220523159341201",
+        "website": "https://waterdata.usgs.gov/monitoring-location/220523159341201",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.6009722,
+          22.11708333
+        ]
+      },
+      "properties": {
+        "name": "Mohihi Crsg Rain Gage near Waimea",
+        "official_name": "1083.0 Mohihi Crsg Rain Gage nr Waimea, Kauai, HI",
+        "ref": "220713159361201",
+        "website": "https://waterdata.usgs.gov/monitoring-location/220713159361201",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755",
+        "fixme": "What is Crsg?"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.6220833,
+          22.1245
+        ]
+      },
+      "properties": {
+        "name": "Waiakoali Rain Gage near Waimea",
+        "official_name": "1082.0 Waiakoali Rain Gage nr Waimea, Kauai, HI",
+        "ref": "220739159373001",
+        "website": "https://waterdata.usgs.gov/monitoring-location/220739159373001",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.594611,
+          22.15408333
+        ]
+      },
+      "properties": {
+        "name": "Kilohana Rain Gage near Hanalei",
+        "official_name": "1084.0 Kilohana Rain Gage nr Hanalei, Kauai, HI",
+        "ref": "220927159355001",
+        "website": "https://waterdata.usgs.gov/monitoring-location/220927159355001",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.0284167,
+          21.52591667
+        ]
+      },
+      "properties": {
+        "name": "Upper Helemano Reservoir near Wahiawa",
+        "official_name": "Upper Helemano Reservoir near Wahiawa, Oahu, HI",
+        "ref": "213133158014201",
+        "website": "https://waterdata.usgs.gov/monitoring-location/213133158014201",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.0655833,
+          21.5523611
+        ]
+      },
+      "properties": {
+        "name": "Helemano 6 Reservoir",
+        "official_name": "Helemano 6 Reservoir, Oahu, HI",
+        "ref": "213308158035601",
+        "website": "https://waterdata.usgs.gov/monitoring-location/213308158035601",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.1039167,
+          21.55547222
+        ]
+      },
+      "properties": {
+        "name": "Kemoo 5 Reservoir",
+        "official_name": "Kemoo 5 Reservoir, Oahu, HI",
+        "ref": "213320158061401",
+        "website": "https://waterdata.usgs.gov/monitoring-location/213320158061401",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    }
+  ]
+}
