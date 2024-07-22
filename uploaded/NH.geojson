@@ -1345,6 +1345,28 @@
         "operator:type": "government",
         "operator:wikidata": "Q193755"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.12888889,
+          44.7825
+        ]
+      },
+      "properties": {
+        "name": "Errol Precipitation Gage",
+        "official_name": "Errol Precipitation at Errol, New Hampshire",
+        "ref": "444657071074401",
+        "website": "https://waterdata.usgs.gov/monitoring-location/444657071074401",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
     }
   ]
 }
