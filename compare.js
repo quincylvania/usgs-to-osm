@@ -1,7 +1,9 @@
 const fs = require('fs');
 
-const overwriteUploaded = true;
-const moveDiffedToUploaded = true;
+var ignoreKeys = ['name', 'fixme'];
+
+const overwriteUploaded = false;
+const moveDiffedToUploaded = false;
 
 function indexedFeatures(features) {
     var out = {};
@@ -11,9 +13,11 @@ function indexedFeatures(features) {
     return out;
 }
 
-function noName(obj) {
+function cleanedProps(obj) {
     var out = Object.assign({}, obj);
-    delete out.name;
+    ignoreKeys.forEach(function(key) {
+        delete out[key];
+    });
     return out;
 }
 
@@ -31,7 +35,7 @@ fs.readdirSync("./uploaded/").forEach(file => {
     var newFeaturesInState = [];
 
     var uploaded = indexedFeatures(JSON.parse(fs.readFileSync("./uploaded/" + file)).features);
-    var diffed = indexedFeatures(JSON.parse(fs.readFileSync("./diffed/" + file)).features);
+    var diffed = fs.existsSync("./diffed/" + file) ? indexedFeatures(JSON.parse(fs.readFileSync("./diffed/" + file)).features) : {};
     var latest = indexedFeatures(JSON.parse(fs.readFileSync("./bystate/" + file)).features);
 
     if (moveDiffedToUploaded) {
@@ -44,9 +48,11 @@ fs.readdirSync("./uploaded/").forEach(file => {
             newFeatures.push(latest[id]);
             console.log(file.substring(0, 2) + ' ' + id + " – not uploaded");
         } else {
-            if (!isIdenticalShallow(noName(latest[id].properties), noName(uploaded[id].properties))) {
+            if (!isIdenticalShallow(cleanedProps(latest[id].properties), cleanedProps(uploaded[id].properties))) {
                 if (overwriteUploaded) {
-                    latest[id].properties.name = uploaded[id].properties.name;
+                    ignoreKeys.forEach(function(key) {
+                        latest[id].properties[key] = uploaded[id].properties[key];
+                    });
                     uploaded[id].properties = latest[id].properties;
                 }
                 outdatedFeatureRefs.push(id); 
