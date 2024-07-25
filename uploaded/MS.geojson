@@ -1,0 +1,3126 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7536111,
+          32.29833333
+        ]
+      },
+      "properties": {
+        "name": "Okatibbee Creek at Arundel",
+        "official_name": "OKATIBBEE CREEK AT ARUNDEL, MS",
+        "ref": "02476600",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02476600",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9068417,
+          30.5910972
+        ]
+      },
+      "properties": {
+        "name": "Tchoutacabouffa River Tributary near White Plains",
+        "official_name": "TCHOUTACABOUFFA RIVER TRIB NEAR WHITE PLAINS, MS",
+        "ref": "02480345",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02480345",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.8933643,
+          30.4760307
+        ]
+      },
+      "properties": {
+        "name": "Tchoutacabouffa River near D'Iberville",
+        "official_name": "TCHOUTACABOUFFA RIVER NR D'IBERVILLE, MS",
+        "ref": "02480590",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02480590",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0358333,
+          30.48833333
+        ]
+      },
+      "properties": {
+        "name": "Biloxi River near Lyman",
+        "official_name": "BILOXI RIVER NR LYMAN, MS",
+        "ref": "02481130",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02481130",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0825028,
+          30.4184361
+        ]
+      },
+      "properties": {
+        "name": "Turkey Creek at Airport Road at Gulfport",
+        "official_name": "TURKEY CREEK AT AIRPORT ROAD AT GULFPORT, MS",
+        "ref": "02481251",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02481251",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:water_velocity": "yes",
+        "tidal": "yes",
+        "monitoring:tide_gauge": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2063889,
+          30.3933611
+        ]
+      },
+      "properties": {
+        "name": "Wolf River at Belle Ferry Road near Long Beach",
+        "official_name": "WOLF RIVER AT BELLE FERRY ROAD NEAR LONG BEACH, MS",
+        "ref": "02481521",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02481521",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "tidal": "yes",
+        "monitoring:tide_gauge": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0977778,
+          32.84138889
+        ]
+      },
+      "properties": {
+        "name": "Pearl River at Burnside",
+        "official_name": "PEARL RIVER AT BURNSIDE, MS",
+        "ref": "02481880",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02481880",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.335,
+          32.79888889
+        ]
+      },
+      "properties": {
+        "name": "Pearl River at Edinburg",
+        "official_name": "PEARL RIVER AT EDINBURG, MS",
+        "ref": "02482000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02482000",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4433333,
+          32.8622222
+        ]
+      },
+      "properties": {
+        "name": "Lobutcha Creek at Renfroe",
+        "official_name": "LOBUTCHA CREEK AT RENFROE, MS",
+        "ref": "02482470",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02482470",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5263889,
+          32.7072222
+        ]
+      },
+      "properties": {
+        "name": "Pearl River near Carthage",
+        "official_name": "PEARL RIVER NR CARTHAGE, MS",
+        "ref": "02482550",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02482550",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.465,
+          32.58833333
+        ]
+      },
+      "properties": {
+        "name": "Tuscolameta Creek at Walnut Grove",
+        "official_name": "TUSCOLAMETA CREEK AT WALNUT GROVE, MS",
+        "ref": "02483000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02483000",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6461111,
+          32.6672222
+        ]
+      },
+      "properties": {
+        "name": "Pearl River near Lena",
+        "official_name": "PEARL RIVER NR LENA, MS",
+        "ref": "02483500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02483500",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5777778,
+          33.0322222
+        ]
+      },
+      "properties": {
+        "name": "Yockanookany River near Kosciusko",
+        "official_name": "YOCKANOOKANY RIVER NR KOSCIUSKO, MS",
+        "ref": "02484000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02484000",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6719444,
+          32.7061111
+        ]
+      },
+      "properties": {
+        "name": "Yockanookany River near Ofahoma",
+        "official_name": "YOCKANOOKANY RIVER NR OFAHOMA, MS",
+        "ref": "02484500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02484500",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7297222,
+          32.57388889
+        ]
+      },
+      "properties": {
+        "name": "Coffee Bogue at Ludlow",
+        "official_name": "COFFEE BOGUE AT LUDLOW, MS",
+        "ref": "02484600",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02484600",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.8405556,
+          32.59416667
+        ]
+      },
+      "properties": {
+        "name": "Pearl River at Ratliff's Ferry near Ratliff",
+        "official_name": "PEARL RIVER AT RATLIFF`S FERRY NR RATLIFF, MS",
+        "ref": "02484650",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02484650",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.8127778,
+          32.50555556
+        ]
+      },
+      "properties": {
+        "name": "Fannegusha Creek near Sand Hill",
+        "official_name": "FANNEGUSHA CREEK NR SAND HILL, MS",
+        "ref": "02484760",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02484760",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.9552778,
+          32.38805556
+        ]
+      },
+      "properties": {
+        "name": "Pelahatchie Creek at State Highway 25 near Fannin",
+        "official_name": "PELAHATCHIE CREEK AT STATE HWY 25 NR FANNIN, MS",
+        "ref": "02485498",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02485498",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0647222,
+          32.39777778
+        ]
+      },
+      "properties": {
+        "name": "Pearl River at Ross Barnett Reservoir",
+        "official_name": "PEARL RIVER AT ROSS BARNETT RESERVOIR, MS",
+        "ref": "02485601",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02485601",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1716944,
+          32.32352778
+        ]
+      },
+      "properties": {
+        "name": "Belhaven Creek at Riverside Drive at Jackson",
+        "official_name": "BELHAVEN CREEK AT RIVERSIDE DRIVE AT JACKSON, MS",
+        "ref": "02485810",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02485810",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7875557,
+          34.94175668
+        ]
+      },
+      "properties": {
+        "name": "Hatchie River near Walnut",
+        "official_name": "HATCHIE RIVER NR WALNUT, MS",
+        "ref": "07029270",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07029270",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4116667,
+          32.3011111
+        ]
+      },
+      "properties": {
+        "name": "USGS NADP Raingage near Clinton",
+        "official_name": "USGS NADP RAINGAGE (MS10) NEAR CLINTON MS",
+        "ref": "321804090244200",
+        "website": "https://waterdata.usgs.gov/monitoring-location/321804090244200",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:air_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7993611,
+          34.00255556
+        ]
+      },
+      "properties": {
+        "name": "USGS NADP Raingage near Coffeeville",
+        "official_name": "USGS NADP RAINGAGE (MS30) NEAR COFFEEVILLE, MS",
+        "ref": "340009089475700",
+        "website": "https://waterdata.usgs.gov/monitoring-location/340009089475700",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:air_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3236111,
+          34.52
+        ]
+      },
+      "properties": {
+        "name": "Tennessee-Tombigbee Waterway below Jamie Whitten Lock and Dam near Dennis",
+        "official_name": "TENN-TOM WW BELOW JAMIE WHITTEN L&D NR DENNIS, MS",
+        "ref": "02430005",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02430005",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2836111,
+          34.46666667
+        ]
+      },
+      "properties": {
+        "name": "Red Bud Creek near Moores Mill",
+        "official_name": "RED BUD CREEK NR MOORES MILL, MS",
+        "ref": "02430085",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02430085",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3683056,
+          34.46244444
+        ]
+      },
+      "properties": {
+        "name": "Tennessee-Tombigbee Waterway below Montgomery Lock and Dam near Fulton",
+        "official_name": "TENN-TOM WATERWAY BL MONTGOMERY L&D NR FULTON, MS",
+        "ref": "02430161",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02430161",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.4087778,
+          34.3603611
+        ]
+      },
+      "properties": {
+        "name": "Tennessee-Tombigbee Waterway below Rankin Lock and Dam near Fulton",
+        "official_name": "TENN-TOM WATERWAY BL RANKIN L&D NR FULTON, MS",
+        "ref": "02430626",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02430626",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5772222,
+          34.45277778
+        ]
+      },
+      "properties": {
+        "name": "Twentymile Creek near Guntown",
+        "official_name": "TWENTYMILE CREEK NR GUNTOWN, MS",
+        "ref": "02430680",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02430680",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3711111,
+          34.30444444
+        ]
+      },
+      "properties": {
+        "name": "Cummings Creek near Fulton",
+        "official_name": "CUMMINGS CREEK NR FULTON, MS",
+        "ref": "02430880",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02430880",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.4452778,
+          34.265
+        ]
+      },
+      "properties": {
+        "name": "Tombigbee River near Fulton",
+        "official_name": "TOMBIGBEE RIVER NR FULTON, MS",
+        "ref": "02431000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02431000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.4241667,
+          34.2549722
+        ]
+      },
+      "properties": {
+        "name": "Tennessee-Tombigbee Waterway below Fulton Lock and Dam near Fulton",
+        "official_name": "TENN-TOM WATERWAY BL FULTON L&D NR FULTON, MS",
+        "ref": "02431011",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02431011",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2716667,
+          34.23916667
+        ]
+      },
+      "properties": {
+        "name": "Bull Mountain Creek at Tremont",
+        "official_name": "BULL MOUNTAIN CREEK AT TREMONT, MS",
+        "ref": "02432500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02432500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.49138889,
+          34.00944444
+        ]
+      },
+      "properties": {
+        "name": "Tennessee-Tombigbee Waterway below Amory Lock and Dam at Amory",
+        "official_name": "TENN-TOM WATERWAY BL AMORY L&D AT AMORY, MS",
+        "ref": "02433496",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02433496",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5136111,
+          34.01138889
+        ]
+      },
+      "properties": {
+        "name": "Tombigbee River at Bigbee",
+        "official_name": "TOMBIGBEE RIVER AT BIGBEE, MS",
+        "ref": "02433500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02433500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.6958333,
+          34.23555556
+        ]
+      },
+      "properties": {
+        "name": "Town Creek at Eason Boulevard at Tupelo",
+        "official_name": "TOWN CREEK AT EASON BOULEVARD AT TUPELO, MS",
+        "ref": "02435020",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02435020",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.6280556,
+          34.05916667
+        ]
+      },
+      "properties": {
+        "name": "Town Creek near Nettleton",
+        "official_name": "TOWN CREEK NR NETTLETON, MS",
+        "ref": "02436500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02436500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5511111,
+          33.98555556
+        ]
+      },
+      "properties": {
+        "name": "Tombigbee River near Amory",
+        "official_name": "TOMBIGBEE RIVER NR AMORY, MS",
+        "ref": "02437000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02437000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.52,
+          33.83
+        ]
+      },
+      "properties": {
+        "name": "Tombigbee River at Aberdeen Lock and Dam",
+        "official_name": "TOMBIGBEE RIVER AT ABERDEEN LOCK AND DAM, MS",
+        "ref": "02437100",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02437100",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3152778,
+          33.79
+        ]
+      },
+      "properties": {
+        "name": "Buttahatchee River near Aberdeen",
+        "official_name": "BUTTAHATCHEE RIVER NR ABERDEEN, MS",
+        "ref": "02439400",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02439400",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.4894444,
+          33.5175
+        ]
+      },
+      "properties": {
+        "name": "Tombigbee River at Stennis Lock and Dam",
+        "official_name": "TOMBIGBEE RIVER AT STENNIS LOCK AND DAM, MS",
+        "ref": "02441390",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02441390",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3952778,
+          33.51416667
+        ]
+      },
+      "properties": {
+        "name": "Luxapallila Creek near Columbus",
+        "official_name": "LUXAPALLILA CREEK NR COLUMBUS, MS",
+        "ref": "02443500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02443500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5587778,
+          33.0723611
+        ]
+      },
+      "properties": {
+        "name": "Noxubee River at Macon",
+        "official_name": "NOXUBEE RIVER AT MACON, MS",
+        "ref": "02448000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02448000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4069444,
+          31.70694444
+        ]
+      },
+      "properties": {
+        "name": "Leaf River near Collins",
+        "official_name": "LEAF RIVER NR COLLINS, MS",
+        "ref": "02472000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02472000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4147222,
+          31.42583333
+        ]
+      },
+      "properties": {
+        "name": "Bouie Creek near Hattiesburg",
+        "official_name": "BOUIE CREEK NR HATTIESBURG, MS",
+        "ref": "02472500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02472500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4333333,
+          31.48916667
+        ]
+      },
+      "properties": {
+        "name": "Okatoma Creek at Sanford",
+        "official_name": "OKATOMA CREEK AT SANFORD, MS",
+        "ref": "02472850",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02472850",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.306,
+          31.34925
+        ]
+      },
+      "properties": {
+        "name": "Bouie River at Glendale Avenue at Hattiesburg",
+        "official_name": "BOUIE RIVER AT GLENDALE AVENUE AT HATTIESBURG, MS",
+        "ref": "02472980",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02472980",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2802778,
+          31.34305556
+        ]
+      },
+      "properties": {
+        "name": "Leaf River at Hattiesburg",
+        "official_name": "LEAF RIVER AT HATTIESBURG, MS",
+        "ref": "02473000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02473000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.115,
+          31.9661111
+        ]
+      },
+      "properties": {
+        "name": "Tallahala Creek at Waldrup",
+        "official_name": "TALLAHALA CREEK AT WALDRUP, MS",
+        "ref": "02473460",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02473460",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0530556,
+          31.22166667
+        ]
+      },
+      "properties": {
+        "name": "Leaf River near New Augusta",
+        "official_name": "LEAF RIVER NR NEW AUGUSTA, MS",
+        "ref": "02474560",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02474560",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.8083222,
+          31.10741389
+        ]
+      },
+      "properties": {
+        "name": "Leaf River near McLain",
+        "official_name": "LEAF RIVER NR MCLAIN, MS",
+        "ref": "02475000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02475000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9091667,
+          32.3261111
+        ]
+      },
+      "properties": {
+        "name": "Chunky River near Chunky",
+        "official_name": "CHUNKY RIVER NR CHUNKY, MS",
+        "ref": "02475500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02475500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.6772222,
+          32.36777778
+        ]
+      },
+      "properties": {
+        "name": "Sowashee Creek at Meridian",
+        "official_name": "SOWASHEE CREEK AT MERIDIAN, MS",
+        "ref": "02476500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02476500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.8197222,
+          32.17583333
+        ]
+      },
+      "properties": {
+        "name": "Chickasawhay River at Enterprise",
+        "official_name": "CHICKASAWHAY RIVER AT ENTERPRISE, MS",
+        "ref": "02477000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02477000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7442119,
+          32.04237214
+        ]
+      },
+      "properties": {
+        "name": "Chickasawhay River at Quitman",
+        "official_name": "CHICKASAWHAY RIVER AT QUITMAN, MS",
+        "ref": "02477045",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02477045",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.68351,
+          31.68254959
+        ]
+      },
+      "properties": {
+        "name": "Chickasawhay River near Waynesboro",
+        "official_name": "CHICKASAWHAY RIVER NR WAYNESBORO, MS",
+        "ref": "02477500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02477500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5480556,
+          31.1486111
+        ]
+      },
+      "properties": {
+        "name": "Chickasawhay River at Leakesville",
+        "official_name": "CHICKASAWHAY RIVER AT LEAKESVILLE, MS",
+        "ref": "02478500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02478500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7269444,
+          30.97805556
+        ]
+      },
+      "properties": {
+        "name": "Pascagoula River at Merrill",
+        "official_name": "PASCAGOULA RIVER AT MERRILL, MS",
+        "ref": "02479000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02479000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2041667,
+          31.05194444
+        ]
+      },
+      "properties": {
+        "name": "Black Creek near Brooklyn",
+        "official_name": "BLACK CREEK NR BROOKLYN, MS",
+        "ref": "02479130",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02479130",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0166667,
+          31.02527778
+        ]
+      },
+      "properties": {
+        "name": "Cypress Creek near Janice",
+        "official_name": "CYPRESS CREEK NR JANICE, MS",
+        "ref": "02479155",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02479155",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7811111,
+          30.7361111
+        ]
+      },
+      "properties": {
+        "name": "Red Creek at Vestry",
+        "official_name": "RED CREEK AT VESTRY, MS",
+        "ref": "02479300",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02479300",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.64138889,
+          30.61055556
+        ]
+      },
+      "properties": {
+        "name": "Pascagoula River at Graham Ferry",
+        "official_name": "PASCAGOULA RIVER AT GRAHAM FERRY, MS",
+        "ref": "02479310",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02479310",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.45138889,
+          30.4586111
+        ]
+      },
+      "properties": {
+        "name": "Escatawpa River at I-10 near Orange Grove",
+        "official_name": "ESCATAWPA RIVER AT I-10 NR ORANGE GROVE, MS",
+        "ref": "0248018020",
+        "website": "https://waterdata.usgs.gov/monitoring-location/0248018020",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1219444,
+          30.5586111
+        ]
+      },
+      "properties": {
+        "name": "Biloxi River at Wortham",
+        "official_name": "BILOXI RIVER AT WORTHAM, MS",
+        "ref": "02481000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02481000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.8280556,
+          30.41916667
+        ]
+      },
+      "properties": {
+        "name": "Old Fort Bayou at Ocean Springs",
+        "official_name": "OLD FORT BAYOU AT OCEAN SPRINGS, MS",
+        "ref": "02481299",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02481299",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "tidal": "yes",
+        "monitoring:tide_gauge": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2744444,
+          30.4836111
+        ]
+      },
+      "properties": {
+        "name": "Wolf River near Landon",
+        "official_name": "WOLF RIVER NR LANDON, MS",
+        "ref": "02481510",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02481510",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4413889,
+          30.3872222
+        ]
+      },
+      "properties": {
+        "name": "Jourdan River near Bay St. Louis",
+        "official_name": "JOURDAN RIVER NR BAY ST LOUIS, MS",
+        "ref": "02481660",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02481660",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.065,
+          32.39777778
+        ]
+      },
+      "properties": {
+        "name": "Ross Barnett Reservoir near Jackson",
+        "official_name": "ROSS BARNETT RESERVOIR NR JACKSON, MS",
+        "ref": "02485600",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02485600",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1447222,
+          32.365
+        ]
+      },
+      "properties": {
+        "name": "Hanging Moss Creek near Jackson",
+        "official_name": "HANGING MOSS CREEK NR JACKSON, MS",
+        "ref": "02485700",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02485700",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1277778,
+          32.3703611
+        ]
+      },
+      "properties": {
+        "name": "White Oak Creek at Westbrook Road at Jackson",
+        "official_name": "WHITE OAK CREEK AT WESTBROOK ROAD AT JACKSON, MS",
+        "ref": "02485720",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02485720",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1292532,
+          32.33153417
+        ]
+      },
+      "properties": {
+        "name": "Pearl River at Highway 25 at Jackson",
+        "official_name": "PEARL RIVER AT HWY 25 AT JACKSON, MS",
+        "ref": "02485735",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02485735",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1707222,
+          32.34769444
+        ]
+      },
+      "properties": {
+        "name": "Eubanks Creek at Eagle Avenue at Jackson",
+        "official_name": "EUBANKS CREEK AT EAGLE AVENUE AT JACKSON, MS",
+        "ref": "02485777",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02485777",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1644444,
+          32.3397222
+        ]
+      },
+      "properties": {
+        "name": "Eubanks Creek at Jackson",
+        "official_name": "EUBANKS CREEK AT JACKSON, MS",
+        "ref": "02485800",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02485800",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1623611,
+          32.31877778
+        ]
+      },
+      "properties": {
+        "name": "Belhaven Creek at Laurel Street at Jackson",
+        "official_name": "BELHAVEN CREEK AT LAUREL STREET AT JACKSON, MS",
+        "ref": "02485820",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02485820",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1925,
+          32.3036111
+        ]
+      },
+      "properties": {
+        "name": "Town Creek at Jackson",
+        "official_name": "TOWN CREEK AT JACKSON, MS",
+        "ref": "02485950",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02485950",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1788889,
+          32.28138889
+        ]
+      },
+      "properties": {
+        "name": "Pearl River at Jackson",
+        "official_name": "PEARL RIVER AT JACKSON, MS",
+        "ref": "02486000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02486000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.215,
+          32.2847222
+        ]
+      },
+      "properties": {
+        "name": "Lynch Creek at Jackson",
+        "official_name": "LYNCH CREEK AT JACKSON, MS",
+        "ref": "02486100",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02486100",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.8975,
+          31.97777778
+        ]
+      },
+      "properties": {
+        "name": "Strong River at D'Lo",
+        "official_name": "STRONG RIVER AT D`LO, MS",
+        "ref": "02487500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02487500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1425,
+          31.79083333
+        ]
+      },
+      "properties": {
+        "name": "Pearl River at Rockport",
+        "official_name": "PEARL RIVER AT ROCKPORT, MS",
+        "ref": "02488000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02488000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0880556,
+          31.55333333
+        ]
+      },
+      "properties": {
+        "name": "Pearl River near Monticello",
+        "official_name": "PEARL RIVER NR MONTICELLO, MS",
+        "ref": "02488500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02488500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.8469444,
+          31.23777778
+        ]
+      },
+      "properties": {
+        "name": "Pearl River near Columbia",
+        "official_name": "PEARL RIVER NR COLUMBIA, MS",
+        "ref": "02489000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02489000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2794444,
+          31.17694444
+        ]
+      },
+      "properties": {
+        "name": "Bogue Chitto near Tylertown",
+        "official_name": "BOGUE CHITTO NR TYLERTOWN, MS",
+        "ref": "02490500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02490500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5947222,
+          30.57416667
+        ]
+      },
+      "properties": {
+        "name": "East Hobolochitto Creek near Caesar",
+        "official_name": "EAST HOBOLOCHITTO CREEK NR CAESAR, MS",
+        "ref": "02492343",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02492343",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6861111,
+          30.6622222
+        ]
+      },
+      "properties": {
+        "name": "West Hobolochitto Creek near McNeill",
+        "official_name": "WEST HOBOLOCHITTO CREEK NR MCNEILL, MS",
+        "ref": "02492360",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02492360",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6458927,
+          30.352416
+        ]
+      },
+      "properties": {
+        "name": "Pearl River at NSTL Station",
+        "official_name": "PEARL RIVER AT NSTL STATION, MS",
+        "ref": "02492620",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02492620",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755",
+        "fixme": "What does NSTL stand for?"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2244444,
+          34.4825
+        ]
+      },
+      "properties": {
+        "name": "Little Tallahatchie River at Etta",
+        "official_name": "LITTLE TALLAHATCHIE RIVER AT ETTA, MS",
+        "ref": "07268000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07268000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5213889,
+          34.2733333
+        ]
+      },
+      "properties": {
+        "name": "Yocona River near Oxford",
+        "official_name": "YOCONA RIVER NR OXFORD, MS",
+        "ref": "07274000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07274000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7533333,
+          34.9075
+        ]
+      },
+      "properties": {
+        "name": "Coldwater River near Olive Branch",
+        "official_name": "COLDWATER RIVER NR OLIVE BRANCH, MS",
+        "ref": "07275900",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07275900",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.8256429,
+          34.84093038
+        ]
+      },
+      "properties": {
+        "name": "Coldwater River near Lewisburg",
+        "official_name": "COLDWATER RIVER NR LEWISBURG, MS",
+        "ref": "07276000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07276000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2301111,
+          34.14463889
+        ]
+      },
+      "properties": {
+        "name": "Tallahatchie River at Allen",
+        "official_name": "TALLAHATCHIE RIVER AT ALLEN, MS",
+        "ref": "07280010",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07280010",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2111111,
+          33.65138889
+        ]
+      },
+      "properties": {
+        "name": "Tallahatchie River at Money",
+        "official_name": "TALLAHATCHIE RIVER AT MONEY, MS",
+        "ref": "07281600",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07281600",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.3155556,
+          33.8386111
+        ]
+      },
+      "properties": {
+        "name": "Yalobusha River and Topashaw Creek Canal at Calhoun City",
+        "official_name": "YALOBUSHA R AND TOPASHAW C CA AT CALHOUN CITY, MS",
+        "ref": "07282000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07282000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.3458333,
+          33.8147222
+        ]
+      },
+      "properties": {
+        "name": "Topashaw Creek Canal near Calhoun City",
+        "official_name": "TOPASHAW CREEK CANAL NR CALHOUN CITY, MS",
+        "ref": "07282100",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07282100",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.3477778,
+          33.9736111
+        ]
+      },
+      "properties": {
+        "name": "Skuna River at Bruce",
+        "official_name": "SKUNA RIVER AT BRUCE, MS",
+        "ref": "07283000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07283000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7875859,
+          33.77400485
+        ]
+      },
+      "properties": {
+        "name": "Batupan Bogue at Grenada",
+        "official_name": "BATUPAN BOGUE AT GRENADA, MS",
+        "ref": "07285400",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07285400",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.8097222,
+          33.78777778
+        ]
+      },
+      "properties": {
+        "name": "Yalobusha River at Grenada",
+        "official_name": "YALOBUSHA RIVER AT GRENADA, MS",
+        "ref": "07285500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07285500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1734194,
+          33.10179419
+        ]
+      },
+      "properties": {
+        "name": "Harland Creek near Howard",
+        "official_name": "HARLAND CREEK NR HOWARD, MS",
+        "ref": "07287404",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07287404",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5302222,
+          34.48425
+        ]
+      },
+      "properties": {
+        "name": "Phillips Bayou at Powell",
+        "official_name": "PHILLIPS BAYOU AT POWELL, MS",
+        "ref": "07287700",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07287700",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5564722,
+          34.38177778
+        ]
+      },
+      "properties": {
+        "name": "Long Lake at Control Structure near Friars Point",
+        "official_name": "LONG LAKE AT CONTROL STRUCTURE NR FRIARS POINT, MS",
+        "ref": "07287714",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07287714",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.55625,
+          34.38169444
+        ]
+      },
+      "properties": {
+        "name": "Mill Creek Tributary near Friars Point",
+        "official_name": "MILL CREEK TRIBUTARY NEAR FRIARS POINT, MS",
+        "ref": "07287715",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07287715",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.575099,
+          34.19733086
+        ]
+      },
+      "properties": {
+        "name": "Big Sunflower River at Clarksdale",
+        "official_name": "BIG SUNFLOWER RIVER AT CLARKSDALE, MS",
+        "ref": "07288000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07288000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.7001944,
+          34.2092222
+        ]
+      },
+      "properties": {
+        "name": "Richies Bayou at Sherard",
+        "official_name": "RICHIES BAYOU AT SHERARD, MS",
+        "ref": "07288048",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07288048",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:pH": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6249444,
+          34.07475
+        ]
+      },
+      "properties": {
+        "name": "Harris Bayou at Palmer Road East of Alligator",
+        "official_name": "HARRIS BAYOU AT PALMER RD EAST OF ALLIGATOR, MS",
+        "ref": "07288068",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07288068",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.7560833,
+          34.0093333
+        ]
+      },
+      "properties": {
+        "name": "Hushpuckena River at Hushpuckena",
+        "official_name": "HUSHPUCKENA RIVER AT HUSHPUCKENA, MS",
+        "ref": "07288150",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07288150",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.67,
+          33.8325
+        ]
+      },
+      "properties": {
+        "name": "Big Sunflower River near Merigold",
+        "official_name": "BIG SUNFLOWER RIVER NR MERIGOLD, MS",
+        "ref": "07288280",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07288280",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5431441,
+          33.5473397
+        ]
+      },
+      "properties": {
+        "name": "Big Sunflower River at Sunflower",
+        "official_name": "BIG SUNFLOWER RIVER AT SUNFLOWER, MS",
+        "ref": "07288500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07288500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6723611,
+          33.54825
+        ]
+      },
+      "properties": {
+        "name": "Porter Bayou at Stephensville",
+        "official_name": "PORTER BAYOU AT STEPHENSVILLE, MS",
+        "ref": "07288521",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07288521",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4387103,
+          33.52957845
+        ]
+      },
+      "properties": {
+        "name": "Quiver River near Sunflower",
+        "official_name": "QUIVER RIVER NR SUNFLOWER, MS",
+        "ref": "07288580",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07288580",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.8477778,
+          33.39666667
+        ]
+      },
+      "properties": {
+        "name": "Bogue Phalia near Leland",
+        "official_name": "BOGUE PHALIA NR LELAND, MS",
+        "ref": "07288650",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07288650",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.7778758,
+          32.9717936
+        ]
+      },
+      "properties": {
+        "name": "Big Sunflower River near Anguilla",
+        "official_name": "BIG SUNFLOWER RIVER NR ANGUILLA, MS",
+        "ref": "07288700",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07288700",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.8173251,
+          32.4873633
+        ]
+      },
+      "properties": {
+        "name": "Yazoo River at Redwood",
+        "official_name": "YAZOO RIVER AT REDWOOD, MS",
+        "ref": "07288800",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07288800",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.9981598,
+          33.03151289
+        ]
+      },
+      "properties": {
+        "name": "Steele Bayou near Glen Allan",
+        "official_name": "STEELE BAYOU NR GLEN ALLAN, MS",
+        "ref": "07288847",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07288847",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.8901667,
+          32.45213889
+        ]
+      },
+      "properties": {
+        "name": "Steele Bayou at Highway 465 near Redwood",
+        "official_name": "STEELE BAYOU AT HWY 465 NEAR REDWOOD, MS",
+        "ref": "07288939",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07288939",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.9058333,
+          32.315
+        ]
+      },
+      "properties": {
+        "name": "Mississippi River at Vicksburg",
+        "official_name": "MISSISSIPPI RIVER AT VICKSBURG, MS",
+        "ref": "07289000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07289000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7711111,
+          33.19444444
+        ]
+      },
+      "properties": {
+        "name": "Big Black River at West",
+        "official_name": "BIG BLACK RIVER AT WEST, MS",
+        "ref": "07289350",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07289350",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.3638889,
+          32.60305556
+        ]
+      },
+      "properties": {
+        "name": "Big Black River near Bentonia",
+        "official_name": "BIG BLACK RIVER NR BENTONIA, MS",
+        "ref": "07289730",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07289730",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6969444,
+          32.34777778
+        ]
+      },
+      "properties": {
+        "name": "Big Black River near Bovina",
+        "official_name": "BIG BLACK RIVER NR BOVINA, MS",
+        "ref": "07290000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07290000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.8783333,
+          32.0186111
+        ]
+      },
+      "properties": {
+        "name": "Bayou Pierre near Willows",
+        "official_name": "BAYOU PIERRE NR WILLOWS, MS",
+        "ref": "07290650",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07290650",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.7775,
+          31.50305556
+        ]
+      },
+      "properties": {
+        "name": "Homochitto River at Eddiceton",
+        "official_name": "HOMOCHITTO RIVER AT EDDICETON, MS",
+        "ref": "07291000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07291000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1094444,
+          31.3247222
+        ]
+      },
+      "properties": {
+        "name": "Homochitto River at Rosetta",
+        "official_name": "HOMOCHITTO RIVER AT ROSETTA, MS",
+        "ref": "07292500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07292500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.2955556,
+          31.22694444
+        ]
+      },
+      "properties": {
+        "name": "Buffalo River near Woodville",
+        "official_name": "BUFFALO RIVER NR WOODVILLE, MS",
+        "ref": "07295000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07295000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4611111,
+          31.0122222
+        ]
+      },
+      "properties": {
+        "name": "Tangipahoa River at Osyka",
+        "official_name": "TANGIPAHOA RIVER AT OSYKA, MS",
+        "ref": "07375280",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07375280",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4222222,
+          30.19083333
+        ]
+      },
+      "properties": {
+        "name": "Mississippi Sound at St. Joseph Island Light",
+        "official_name": "MISSISSIPPI SOUND AT USGS ST JOSEPH ISLAND LIGHT",
+        "ref": "301104089253400",
+        "website": "https://waterdata.usgs.gov/monitoring-location/301104089253400",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:salinity": "yes",
+        "tidal": "yes",
+        "monitoring:tide_gauge": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5341667,
+          30.1947222
+        ]
+      },
+      "properties": {
+        "name": "East Pearl River at CSX Railroad near Claiborne",
+        "official_name": "EAST PEARL RIVER AT CSX RAILROAD NR CLAIBORNE, MS",
+        "ref": "301141089320300",
+        "website": "https://waterdata.usgs.gov/monitoring-location/301141089320300",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:salinity": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.24281939,
+          30.23825405
+        ]
+      },
+      "properties": {
+        "name": "Mississippi Sound at Merrill Shell Bank Light",
+        "official_name": "MISSISSIPPI SOUND AT USGS MERRILL SHELL BANK LIGHT",
+        "ref": "301429089145600",
+        "website": "https://waterdata.usgs.gov/monitoring-location/301429089145600",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:salinity": "yes",
+        "tidal": "yes",
+        "monitoring:tide_gauge": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.86888889,
+          30.25444444
+        ]
+      },
+      "properties": {
+        "name": "Mississippi Sound at East Ship Island Light",
+        "official_name": "MISSISSIPPI SOUND AT USGS EAST SHIP ISLAND LIGHT",
+        "ref": "301527088521500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/301527088521500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:salinity": "yes",
+        "tidal": "yes",
+        "monitoring:tide_gauge": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.58388889,
+          30.30805556
+        ]
+      },
+      "properties": {
+        "name": "Mississippi Sound at Round Island Light",
+        "official_name": "MISSISSIPPI SOUND AT USGS ROUND ISLAND LIGHT, MS",
+        "ref": "301849088350000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/301849088350000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:salinity": "yes",
+        "tidal": "yes",
+        "monitoring:tide_gauge": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9722222,
+          30.3186111
+        ]
+      },
+      "properties": {
+        "name": "Mississippi Sound at Gulfport Light",
+        "official_name": "MISSISSIPPI SOUND AT USGS GULFPORT LIGHT, MS",
+        "ref": "301912088583300",
+        "website": "https://waterdata.usgs.gov/monitoring-location/301912088583300",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:salinity": "yes",
+        "tidal": "yes",
+        "monitoring:tide_gauge": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.8572222,
+          30.38833333
+        ]
+      },
+      "properties": {
+        "name": "Biloxi Bay at Point Cadet Harbor at Biloxi",
+        "official_name": "BILOXI BAY AT POINT CADET HARBOR AT BILOXI, MS",
+        "ref": "302318088512600",
+        "website": "https://waterdata.usgs.gov/monitoring-location/302318088512600",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:salinity": "yes",
+        "tidal": "yes",
+        "monitoring:tide_gauge": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.8119444,
+          32.5125
+        ]
+      },
+      "properties": {
+        "name": "Big Sunflower Diversion Canal near Redwood",
+        "official_name": "BIG SUNFLOWER DIVERSION CANAL NR REDWOOD, MS",
+        "ref": "323045090484300",
+        "website": "https://waterdata.usgs.gov/monitoring-location/323045090484300",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.7500833,
+          33.60052778
+        ]
+      },
+      "properties": {
+        "name": "Porter Bayou near Shaw",
+        "official_name": "PORTER BAYOU NEAR SHAW, MS",
+        "ref": "333601090450000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/333601090450000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6488889,
+          34.23444444
+        ]
+      },
+      "properties": {
+        "name": "Overcup Slough Tributary Number 1 near Farrell",
+        "official_name": "OVERCUP SLOUGH TRIBUTARY NO 1 NEAR FARRELL, MS",
+        "ref": "341404090385600",
+        "website": "https://waterdata.usgs.gov/monitoring-location/341404090385600",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6536111,
+          34.26388889
+        ]
+      },
+      "properties": {
+        "name": "Overcup Slough Tributary Number 2 near Farrell",
+        "official_name": "OVERCUP SLOUGH TRIBUTARY NO 2 NEAR FARRELL, MS",
+        "ref": "341550090391300",
+        "website": "https://waterdata.usgs.gov/monitoring-location/341550090391300",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.428,
+          34.063
+        ]
+      },
+      "properties": {
+        "name": "Tennessee-Tombigbee Waterway below Wilkins Lock and Dam near Smithville",
+        "official_name": "TENN-TOM WATERWAY BL WILKINS L&D NR SMITHVILLE, MS",
+        "ref": "02433151",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02433151",
+        "man_made": "monitoring_station",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1155556,
+          31.68083333
+        ]
+      },
+      "properties": {
+        "name": "Tallahala Creek at Laurel",
+        "official_name": "TALLAHALA CREEK AT LAUREL, MS",
+        "ref": "02473500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02473500",
+        "man_made": "monitoring_station",
+        "monitoring:wind_direction": "yes",
+        "monitoring:wind_speed": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    }
+  ]
+}
