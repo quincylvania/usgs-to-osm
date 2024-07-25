@@ -1,0 +1,4020 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.12625,
+          39.42927778
+        ]
+      },
+      "properties": {
+        "name": "Jennings Randolph Lake near Elk Garden",
+        "official_name": "JENNINGS RANDOLPH LAKE NEAR ELK GARDEN, WV",
+        "ref": "01595790",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01595790",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7734167,
+          39.62180556
+        ]
+      },
+      "properties": {
+        "name": "North Branch Potomac River near Cumberland",
+        "official_name": "NORTH BRANCH POTOMAC RIVER NEAR CUMBERLAND, MD",
+        "ref": "01603000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01603000",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4405833,
+          39.43602778
+        ]
+      },
+      "properties": {
+        "name": "Carroll Creek near Frederick",
+        "official_name": "CARROLL CREEK NEAR FREDERICK, MD",
+        "ref": "01642198",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01642198",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6565556,
+          38.30405556
+        ]
+      },
+      "properties": {
+        "name": "McIntosh Run near Leonardtown",
+        "official_name": "MCINTOSH RUN NEAR LEONARDTOWN, MD",
+        "ref": "01661350",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01661350",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.42363889,
+          39.4215833
+        ]
+      },
+      "properties": {
+        "name": "Youghiogheny River near Oakland",
+        "official_name": "YOUGHIOGHENY RIVER NEAR OAKLAND, MD",
+        "ref": "03075500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03075500",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2516667,
+          39.5070833
+        ]
+      },
+      "properties": {
+        "name": "North Glade Run near Swanton",
+        "official_name": "NORTH GLADE RUN NEAR SWANTON, MD",
+        "ref": "03075825",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03075825",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.13638889,
+          39.70219444
+        ]
+      },
+      "properties": {
+        "name": "Casselman River at Grantsville",
+        "official_name": "CASSELMAN RIVER AT GRANTSVILLE, MD",
+        "ref": "03078000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03078000",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3163611,
+          39.2243611
+        ]
+      },
+      "properties": {
+        "name": "Tenmile Creek Precipitation Gage at Slidell",
+        "official_name": "TENMILE CREEK PRECIPITATION GAGE AT SLIDELL, MD",
+        "ref": "391328077185901",
+        "website": "https://waterdata.usgs.gov/monitoring-location/391328077185901",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2944167,
+          39.23516667
+        ]
+      },
+      "properties": {
+        "name": "Tenmile Creek Precipitation Gage at Clarksburg",
+        "official_name": "TENMILE CREEK PRECIP GAGE AT CLARKSBURG, MD",
+        "ref": "391407077174001",
+        "website": "https://waterdata.usgs.gov/monitoring-location/391407077174001",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.3105556,
+          39.4322222
+        ]
+      },
+      "properties": {
+        "name": "Rain Gage at Lake Serene at Edgewood",
+        "official_name": "RAIN GAGE AT LAKE SERENE AT EDGEWOOD, MD",
+        "ref": "392556076183801",
+        "website": "https://waterdata.usgs.gov/monitoring-location/392556076183801",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2745556,
+          39.45077778
+        ]
+      },
+      "properties": {
+        "name": "Rain Gage near Mouth of Otter Point Creek near Abingdon",
+        "official_name": "RAIN GAGE NR MOUTH OF OTTER PT CK NR ABINGDON, MD",
+        "ref": "392703076162801",
+        "website": "https://waterdata.usgs.gov/monitoring-location/392703076162801",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.3434722,
+          39.4868333
+        ]
+      },
+      "properties": {
+        "name": "Rain Gage in Winters Run Basin near Bel Air",
+        "official_name": "RAIN GAGE IN WINTERS RUN BASIN NEAR BEL AIR, MD",
+        "ref": "392913076203601",
+        "website": "https://waterdata.usgs.gov/monitoring-location/392913076203601",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.412,
+          39.52394444
+        ]
+      },
+      "properties": {
+        "name": "Rain Gage in Winters Run Basin at Fallston",
+        "official_name": "RAIN GAGE IN WINTERS RUN BASIN AT FALLSTON, MD",
+        "ref": "393126076244301",
+        "website": "https://waterdata.usgs.gov/monitoring-location/393126076244301",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.41075,
+          39.52580556
+        ]
+      },
+      "properties": {
+        "name": "Rain Gage at Youghiogheny River near McHenry",
+        "official_name": "RAIN GAGE AT YOUGHIOGHENY RIVER NEAR MCHENRY, MD",
+        "ref": "393133079243901",
+        "website": "https://waterdata.usgs.gov/monitoring-location/393133079243901",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3157778,
+          39.538
+        ]
+      },
+      "properties": {
+        "name": "Rain Gage at State Park Road near McHenry",
+        "official_name": "RAIN GAGE AT STATE PARK ROAD NEAR MCHENRY, MD",
+        "ref": "393217079185701",
+        "website": "https://waterdata.usgs.gov/monitoring-location/393217079185701",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2373611,
+          39.5643333
+        ]
+      },
+      "properties": {
+        "name": "Rain Gage in Deer Creek Basin at Churchville",
+        "official_name": "RAIN GAGE IN DEER CREEK BASIN AT CHURCHVILLE, MD",
+        "ref": "393352076141501",
+        "website": "https://waterdata.usgs.gov/monitoring-location/393352076141501",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.45288889,
+          39.6751111
+        ]
+      },
+      "properties": {
+        "name": "Rain Gage in Deer Creek Basin near Pylesville",
+        "official_name": "RAIN GAGE IN DEER CREEK BASIN NEAR PYLESVILLE, MD",
+        "ref": "394031076271101",
+        "website": "https://waterdata.usgs.gov/monitoring-location/394031076271101",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5334444,
+          39.7015
+        ]
+      },
+      "properties": {
+        "name": "Rain Gage in Deer Creek Basin at Norrisville",
+        "official_name": "RAIN GAGE IN DEER CREEK BASIN AT NORRISVILLE, MD",
+        "ref": "394205076320201",
+        "website": "https://waterdata.usgs.gov/monitoring-location/394205076320201",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.35213889,
+          39.7102222
+        ]
+      },
+      "properties": {
+        "name": "Rain Gage in Broad Creek Basin at Whiteford",
+        "official_name": "RAIN GAGE IN BROAD CREEK BASIN AT WHITEFORD, MD",
+        "ref": "394237076210901",
+        "website": "https://waterdata.usgs.gov/monitoring-location/394237076210901",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4583056,
+          39.0105
+        ]
+      },
+      "properties": {
+        "name": "Murderkill River at Frederica",
+        "official_name": "MURDERKILL RIVER AT FREDERICA, DE",
+        "ref": "01484080",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01484080",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "tidal": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "monitoring:tide_gauge": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3976111,
+          39.05830556
+        ]
+      },
+      "properties": {
+        "name": "Murderkill River at Bowers",
+        "official_name": "MURDERKILL RIVER AT BOWERS, DE",
+        "ref": "01484085",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01484085",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.21238889,
+          38.4093333
+        ]
+      },
+      "properties": {
+        "name": "Birch Branch at Showell",
+        "official_name": "BIRCH BRANCH AT SHOWELL, MD",
+        "ref": "0148471320",
+        "website": "https://waterdata.usgs.gov/monitoring-location/0148471320",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3244444,
+          38.38888889
+        ]
+      },
+      "properties": {
+        "name": "Pocomoke River near Willards",
+        "official_name": "POCOMOKE RIVER NEAR WILLARDS, MD",
+        "ref": "01485000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01485000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4714444,
+          38.22891667
+        ]
+      },
+      "properties": {
+        "name": "Nassawango Creek near Snow Hill",
+        "official_name": "NASSAWANGO CREEK NEAR SNOW HILL, MD",
+        "ref": "01485500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01485500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67138889,
+          38.21388889
+        ]
+      },
+      "properties": {
+        "name": "Manokin Branch near Princess Anne",
+        "official_name": "MANOKIN BRANCH NEAR PRINCESS ANNE, MD",
+        "ref": "01486000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01486000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.8799167,
+          38.51166667
+        ]
+      },
+      "properties": {
+        "name": "Chicamacomico River near Salem",
+        "official_name": "CHICAMACOMICO RIVER NEAR SALEM, MD",
+        "ref": "01490000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01490000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7858056,
+          38.99719444
+        ]
+      },
+      "properties": {
+        "name": "Choptank River near Greensboro",
+        "official_name": "CHOPTANK RIVER NEAR GREENSBORO, MD",
+        "ref": "01491000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01491000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.9430556,
+          38.96680556
+        ]
+      },
+      "properties": {
+        "name": "Tuckahoe Creek near Ruthsburg",
+        "official_name": "TUCKAHOE CREEK NEAR RUTHSBURG, MD",
+        "ref": "01491500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01491500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1088333,
+          38.96488889
+        ]
+      },
+      "properties": {
+        "name": "Sallie Harris Creek near Carmichael",
+        "official_name": "SALLIE HARRIS CREEK NEAR CARMICHAEL, MD",
+        "ref": "01492500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01492500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.8615,
+          39.24994444
+        ]
+      },
+      "properties": {
+        "name": "Unicorn Branch near Millington",
+        "official_name": "UNICORN BRANCH NEAR MILLINGTON, MD",
+        "ref": "01493000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01493000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.94013889,
+          39.25705556
+        ]
+      },
+      "properties": {
+        "name": "Chesterville Branch near Crumpton",
+        "official_name": "CHESTERVILLE BRANCH NEAR CRUMPTON, MD",
+        "ref": "01493112",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01493112",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.0145556,
+          39.28002778
+        ]
+      },
+      "properties": {
+        "name": "Morgan Creek near Kennedyville",
+        "official_name": "MORGAN CREEK NEAR KENNEDYVILLE, MD",
+        "ref": "01493500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01493500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.8255833,
+          39.6675833
+        ]
+      },
+      "properties": {
+        "name": "Big Elk Creek at Elk Mills",
+        "official_name": "BIG ELK CREEK AT ELK MILLS, MD",
+        "ref": "01495000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01495000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1744444,
+          39.65788889
+        ]
+      },
+      "properties": {
+        "name": "Susquehanna River at Conowingo",
+        "official_name": "SUSQUEHANNA RIVER AT CONOWINGO, MD",
+        "ref": "01578310",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01578310",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1152286,
+          39.7067746
+        ]
+      },
+      "properties": {
+        "name": "Octoraro Creek near Richardsmere",
+        "official_name": "Octoraro Creek near Richardsmere, MD",
+        "ref": "01578475",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01578475",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.45287889,
+          39.6751111
+        ]
+      },
+      "properties": {
+        "name": "Deer Creek at Eden Mill Dam near Pylesville",
+        "official_name": "DEER CREEK AT EDEN MILL DAM NEAR PYLESVILLE, MD",
+        "ref": "01579905",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01579905",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4033056,
+          39.6299722
+        ]
+      },
+      "properties": {
+        "name": "Deer Creek at Rocks",
+        "official_name": "DEER CREEK AT ROCKS, MD",
+        "ref": "01580000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01580000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1918611,
+          39.61744444
+        ]
+      },
+      "properties": {
+        "name": "Deer Creek near Darlington",
+        "official_name": "DEER CREEK NEAR DARLINGTON, MD",
+        "ref": "01580520",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01580520",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.0895833,
+          39.53775
+        ]
+      },
+      "properties": {
+        "name": "Chesapeake Bay at mouth of Susquehanna River at Havre de Grace",
+        "official_name": "CHES BAY AT MOUTH OF SUS R AT HAVRE DE GRACE, MD",
+        "ref": "01580620",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01580620",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "tidal": "yes",
+        "monitoring:tide_gauge": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.14227778,
+          39.52263889
+        ]
+      },
+      "properties": {
+        "name": "Swan Creek at Swan Creek",
+        "official_name": "SWAN CREEK AT SWAN CREEK, MD",
+        "ref": "01580700",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01580700",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.3301111,
+          39.5414722
+        ]
+      },
+      "properties": {
+        "name": "Bynum Run at Bel Air",
+        "official_name": "BYNUM RUN AT BEL AIR, MD",
+        "ref": "01581500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01581500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2804722,
+          39.47988889
+        ]
+      },
+      "properties": {
+        "name": "Bynum Run near Abingdon",
+        "official_name": "BYNUM RUN NEAR ABINGDON, MD",
+        "ref": "01581590",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01581590",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2591111,
+          39.49219444
+        ]
+      },
+      "properties": {
+        "name": "James Run near Belcamp",
+        "official_name": "JAMES RUN NEAR BELCAMP, MD",
+        "ref": "01581649",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01581649",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.3729722,
+          39.51994444
+        ]
+      },
+      "properties": {
+        "name": "Winters Run near Benson",
+        "official_name": "WINTERS RUN NEAR BENSON, MD",
+        "ref": "01581700",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01581700",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.3688333,
+          39.51552778
+        ]
+      },
+      "properties": {
+        "name": "Winters Run near Bel Air",
+        "official_name": "WINTERS RUN NEAR BEL AIR, MD",
+        "ref": "01581750",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01581750",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.3474444,
+          39.49627778
+        ]
+      },
+      "properties": {
+        "name": "Plumtree Run near Bel Air",
+        "official_name": "PLUMTREE RUN NEAR BEL AIR, MD",
+        "ref": "01581752",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01581752",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.3404444,
+          39.48144444
+        ]
+      },
+      "properties": {
+        "name": "Wheel Creek near Abingdon",
+        "official_name": "WHEEL CREEK NEAR ABINGDON, MD",
+        "ref": "0158175320",
+        "website": "https://waterdata.usgs.gov/monitoring-location/0158175320",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7814722,
+          39.68980556
+        ]
+      },
+      "properties": {
+        "name": "Gunpowder Falls at Hoffmanville",
+        "official_name": "GUNPOWDER FALLS AT HOFFMANVILLE, MD",
+        "ref": "01581810",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01581810",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7809167,
+          39.65480556
+        ]
+      },
+      "properties": {
+        "name": "Grave Run near Beckleysville",
+        "official_name": "GRAVE RUN NEAR BECKLEYSVILLE, MD",
+        "ref": "01581830",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01581830",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7726111,
+          39.62569444
+        ]
+      },
+      "properties": {
+        "name": "Georges Run near Beckleysville",
+        "official_name": "GEORGES RUN NEAR BECKLEYSVILLE, MD",
+        "ref": "01581870",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01581870",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6903611,
+          39.61905556
+        ]
+      },
+      "properties": {
+        "name": "Gunpowder Falls near Parkton",
+        "official_name": "GUNPOWDER FALLS NEAR PARKTON, MD",
+        "ref": "01581920",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01581920",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.675,
+          39.67302778
+        ]
+      },
+      "properties": {
+        "name": "Beetree Run at Bentley Springs",
+        "official_name": "BEETREE RUN AT BENTLEY SPRINGS, MD",
+        "ref": "01581960",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01581960",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6204722,
+          39.6040833
+        ]
+      },
+      "properties": {
+        "name": "Little Falls at Blue Mount",
+        "official_name": "LITTLE FALLS AT BLUE MOUNT, MD",
+        "ref": "01582000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01582000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6361111,
+          39.54969444
+        ]
+      },
+      "properties": {
+        "name": "Gunpowder Falls at Glencoe",
+        "official_name": "GUNPOWDER FALLS AT GLENCOE, MD",
+        "ref": "01582500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01582500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.76688889,
+          39.5206111
+        ]
+      },
+      "properties": {
+        "name": "Piney Run at Dover",
+        "official_name": "PINEY RUN AT DOVER, MD",
+        "ref": "01583100",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01583100",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6765,
+          39.51077778
+        ]
+      },
+      "properties": {
+        "name": "Western Run at Western Run",
+        "official_name": "WESTERN RUN AT WESTERN RUN, MD",
+        "ref": "01583500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01583500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6875,
+          39.48030556
+        ]
+      },
+      "properties": {
+        "name": "Pond Branch at Oregon Ridge",
+        "official_name": "POND BRANCH AT OREGON RIDGE, MD",
+        "ref": "01583570",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01583570",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.67802778,
+          39.4794722
+        ]
+      },
+      "properties": {
+        "name": "Baisman Run at Broadmoor",
+        "official_name": "BAISMAN RUN AT BROADMOOR, MD",
+        "ref": "01583580",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01583580",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6457222,
+          39.4855833
+        ]
+      },
+      "properties": {
+        "name": "Beaverdam Run at Cockeysville",
+        "official_name": "BEAVERDAM RUN AT COCKEYSVILLE, MD",
+        "ref": "01583600",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01583600",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5961944,
+          39.4256111
+        ]
+      },
+      "properties": {
+        "name": "Long Quarter Branch at Lutherville",
+        "official_name": "LONG QUARTER BRANCH AT LUTHERVILLE, MD",
+        "ref": "01583800",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01583800",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.55725,
+          39.4096111
+        ]
+      },
+      "properties": {
+        "name": "Minebank Run near Glen Arm",
+        "official_name": "MINEBANK RUN NEAR GLEN ARM, MD",
+        "ref": "0158397967",
+        "website": "https://waterdata.usgs.gov/monitoring-location/0158397967",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.47888889,
+          39.45469444
+        ]
+      },
+      "properties": {
+        "name": "Long Green Creek at Glen Arm",
+        "official_name": "LONG GREEN CREEK AT GLEN ARM, MD",
+        "ref": "01584050",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01584050",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.43177778,
+          39.5053611
+        ]
+      },
+      "properties": {
+        "name": "Little Gunpowder Falls at Laurel Brook",
+        "official_name": "LITTLE GUNPOWDER FALLS AT LAUREL BROOK, MD",
+        "ref": "01584500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01584500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.34263889,
+          39.40852778
+        ]
+      },
+      "properties": {
+        "name": "Foster Branch near Joppatowne",
+        "official_name": "FOSTER BRANCH NEAR JOPPATOWNE, MD",
+        "ref": "01585075",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01585075",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4958056,
+          39.3795833
+        ]
+      },
+      "properties": {
+        "name": "Whitemarsh Run near Fullerton",
+        "official_name": "WHITEMARSH RUN NEAR FULLERTON, MD",
+        "ref": "01585090",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01585090",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4460556,
+          39.37077778
+        ]
+      },
+      "properties": {
+        "name": "Whitemarsh Run at White Marsh",
+        "official_name": "WHITEMARSH RUN AT WHITE MARSH, MD",
+        "ref": "01585100",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01585100",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4329722,
+          39.383
+        ]
+      },
+      "properties": {
+        "name": "Honeygo Run near White Marsh",
+        "official_name": "HONEYGO RUN NEAR WHITE MARSH, MD",
+        "ref": "01585104",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01585104",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.42777778,
+          39.33227778
+        ]
+      },
+      "properties": {
+        "name": "Unnamed ditch on Wilson Point Road at Middle River",
+        "official_name": "UNNAMED DITCH ON WILSON PT RD AT MIDDLE RIVER, MD",
+        "ref": "01585175",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01585175",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5843333,
+          39.37363889
+        ]
+      },
+      "properties": {
+        "name": "West Branch Herring Run at Idlewylde",
+        "official_name": "WEST BRANCH HERRING RUN AT IDLEWYLDE, MD",
+        "ref": "01585200",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01585200",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.55513889,
+          39.3179722
+        ]
+      },
+      "properties": {
+        "name": "Herring Run at Sinclair Lane at Baltimore",
+        "official_name": "HERRING RUN AT SINCLAIR LANE AT BALTIMORE, MD",
+        "ref": "01585219",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01585219",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.96825,
+          39.59269444
+        ]
+      },
+      "properties": {
+        "name": "Cranberry Branch near Westminster",
+        "official_name": "CRANBERRY BRANCH NEAR WESTMINSTER, MD",
+        "ref": "01585500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01585500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.88438889,
+          39.503
+        ]
+      },
+      "properties": {
+        "name": "North Branch Patapsco River at Cedarhurst",
+        "official_name": "NORTH BRANCH PATAPSCO RIVER AT CEDARHURST, MD",
+        "ref": "01586000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01586000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9029444,
+          39.48944444
+        ]
+      },
+      "properties": {
+        "name": "Beaver Run near Finksburg",
+        "official_name": "BEAVER RUN NEAR FINKSBURG, MD",
+        "ref": "01586210",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01586210",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9553056,
+          39.45188889
+        ]
+      },
+      "properties": {
+        "name": "Morgan Run near Louisville",
+        "official_name": "MORGAN RUN NEAR LOUISVILLE, MD",
+        "ref": "01586610",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01586610",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7924167,
+          39.31030556
+        ]
+      },
+      "properties": {
+        "name": "Patapsco River at Hollofield",
+        "official_name": "PATAPSCO RIVER AT HOLLOFIELD, MD",
+        "ref": "01589000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01589000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.76377778,
+          39.25125
+        ]
+      },
+      "properties": {
+        "name": "Patapsco River near Catonsville",
+        "official_name": "PATAPSCO RIVER NEAR CATONSVILLE, MD",
+        "ref": "01589025",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01589025",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.723,
+          39.2273333
+        ]
+      },
+      "properties": {
+        "name": "Patapsco River near Elkridge",
+        "official_name": "PATAPSCO RIVER NEAR ELKRIDGE, MD",
+        "ref": "01589035",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01589035",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6920556,
+          39.24027778
+        ]
+      },
+      "properties": {
+        "name": "East Branch Herbert Run at Arbutus",
+        "official_name": "EAST BRANCH HERBERT RUN AT ARBUTUS, MD",
+        "ref": "01589100",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01589100",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7834167,
+          39.44294444
+        ]
+      },
+      "properties": {
+        "name": "Gwynns Falls near Delight",
+        "official_name": "GWYNNS FALLS NEAR DELIGHT, MD",
+        "ref": "01589197",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01589197",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7795972,
+          39.4046111
+        ]
+      },
+      "properties": {
+        "name": "Red Run near Owings Mills",
+        "official_name": "RED RUN NEAR OWINGS MILLS, MD",
+        "ref": "01589230",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01589230",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.76175,
+          39.3615833
+        ]
+      },
+      "properties": {
+        "name": "Scotts Level Branch at Rockdale",
+        "official_name": "SCOTTS LEVEL BRANCH AT ROCKDALE, MD",
+        "ref": "01589290",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01589290",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:pH": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7331944,
+          39.34588889
+        ]
+      },
+      "properties": {
+        "name": "Gwynns Falls at Villa Nova",
+        "official_name": "GWYNNS FALLS AT VILLA NOVA, MD",
+        "ref": "01589300",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01589300",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7440833,
+          39.29588889
+        ]
+      },
+      "properties": {
+        "name": "Dead Run near Catonsville",
+        "official_name": "DEAD RUN NEAR CATONSVILLE, MD",
+        "ref": "01589312",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01589312",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7321111,
+          39.31325
+        ]
+      },
+      "properties": {
+        "name": "Dead Run at Woodlawn",
+        "official_name": "DEAD RUN AT WOODLAWN, MD",
+        "ref": "01589315",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01589315",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7506944,
+          39.31891667
+        ]
+      },
+      "properties": {
+        "name": "Dead Run tributary near Woodlawn",
+        "official_name": "DEAD RUN TRIBUTARY NEAR WOODLAWN, MD",
+        "ref": "01589316",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01589316",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.74513889,
+          39.327
+        ]
+      },
+      "properties": {
+        "name": "Tributary to Dead Run tributary at Woodlawn",
+        "official_name": "TRIBUTARY TO DEAD RUN TRIBUTARY AT WOODLAWN, MD",
+        "ref": "01589317",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01589317",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.73577778,
+          39.31805556
+        ]
+      },
+      "properties": {
+        "name": "Dead Run tributary at Woodlawn",
+        "official_name": "DEAD RUN TRIBUTARY AT WOODLAWN, MD",
+        "ref": "01589320",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01589320",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.71663889,
+          39.3112222
+        ]
+      },
+      "properties": {
+        "name": "Dead Run at Franklintown",
+        "official_name": "DEAD RUN AT FRANKLINTOWN, MD",
+        "ref": "01589330",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01589330",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6500833,
+          39.27205556
+        ]
+      },
+      "properties": {
+        "name": "Gwynns Falls at Washington Boulevard at Baltimore",
+        "official_name": "GWYNNS FALLS AT WASHINGTON BLVD AT BALTIMORE, MD",
+        "ref": "01589352",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01589352",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.66288889,
+          39.39575
+        ]
+      },
+      "properties": {
+        "name": "Jones Falls at Sorrento",
+        "official_name": "JONES FALLS AT SORRENTO, MD",
+        "ref": "01589440",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01589440",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6306111,
+          39.17
+        ]
+      },
+      "properties": {
+        "name": "Sawmill Creek at Glen Burnie",
+        "official_name": "SAWMILL CREEK AT GLEN BURNIE, MD",
+        "ref": "01589500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01589500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.65152778,
+          39.06825
+        ]
+      },
+      "properties": {
+        "name": "South Fork Jabez Branch at Millersville",
+        "official_name": "SOUTH FORK JABEZ BRANCH AT MILLERSVILLE, MD",
+        "ref": "01589795",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01589795",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0557222,
+          39.23825
+        ]
+      },
+      "properties": {
+        "name": "Patuxent River near Unity",
+        "official_name": "PATUXENT RIVER NEAR UNITY, MD",
+        "ref": "01591000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01591000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0510556,
+          39.2559722
+        ]
+      },
+      "properties": {
+        "name": "Cattail Creek near Glenwood",
+        "official_name": "CATTAIL CREEK NEAR GLENWOOD, MD",
+        "ref": "01591400",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01591400",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.00438889,
+          39.19219444
+        ]
+      },
+      "properties": {
+        "name": "Patuxent River below Brighton Dam near Brighton",
+        "official_name": "PATUXENT RIVER BELOW BRIGHTON DAM NEAR BRIGHTON,MD",
+        "ref": "01591610",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01591610",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0214167,
+          39.17452778
+        ]
+      },
+      "properties": {
+        "name": "Hawlings River near Sandy Spring",
+        "official_name": "HAWLINGS RIVER NEAR SANDY SPRING, MD",
+        "ref": "01591700",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01591700",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.87375,
+          39.1157222
+        ]
+      },
+      "properties": {
+        "name": "Patuxent River near Laurel",
+        "official_name": "PATUXENT RIV NEAR LAUREL, MD",
+        "ref": "01592500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01592500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8700556,
+          39.22577778
+        ]
+      },
+      "properties": {
+        "name": "Little Patuxent River tributary above Wilde Lake at Columbia",
+        "official_name": "L PAX RIV TRIB ABOVE WILDE LAKE AT COLUMBIA, MD",
+        "ref": "01593370",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01593370",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8307222,
+          39.18788889
+        ]
+      },
+      "properties": {
+        "name": "Little Patuxent River tributary above Lake Elkhorn near Guilford",
+        "official_name": "L PAX RIV TRIB ABOVE LAKE ELKHORN NR GUILFORD, MD",
+        "ref": "01593450",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01593450",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.85125,
+          39.16775
+        ]
+      },
+      "properties": {
+        "name": "Little Patuxent River at Guilford",
+        "official_name": "LITTLE PATUXENT RIVER AT GUILFORD, MD",
+        "ref": "01593500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01593500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8161667,
+          39.13441667
+        ]
+      },
+      "properties": {
+        "name": "Little Patuxent River at Savage",
+        "official_name": "LITTLE PATUXENT RIVER AT SAVAGE, MD",
+        "ref": "01594000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01594000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6936944,
+          38.95591667
+        ]
+      },
+      "properties": {
+        "name": "Patuxent River near Bowie",
+        "official_name": "PATUXENT RIVER NEAR BOWIE, MD",
+        "ref": "01594440",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01594440",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7487222,
+          38.8142222
+        ]
+      },
+      "properties": {
+        "name": "Western Branch at Upper Marlboro",
+        "official_name": "WESTERN BRANCH AT UPPER MARLBORO, MD",
+        "ref": "01594526",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01594526",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.30688889,
+          39.30188889
+        ]
+      },
+      "properties": {
+        "name": "North Branch Potomac River at Steyer",
+        "official_name": "NORTH BRANCH POTOMAC RIVER AT STEYER, MD",
+        "ref": "01595000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01595000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1816944,
+          39.39388889
+        ]
+      },
+      "properties": {
+        "name": "North Branch Potomac River at Kitzmiller",
+        "official_name": "NORTH BRANCH POTOMAC RIVER AT KITZMILLER, MD",
+        "ref": "01595500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01595500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1019444,
+          39.57005556
+        ]
+      },
+      "properties": {
+        "name": "Savage River near Barton",
+        "official_name": "SAVAGE RIVER NEAR BARTON, MD",
+        "ref": "01596500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01596500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1239722,
+          39.50275
+        ]
+      },
+      "properties": {
+        "name": "Savage River below Savage River Dam near Bloomington",
+        "official_name": "SAVAGE RIV BL SAVAGE RIV DAM NEAR BLOOMINGTON, MD",
+        "ref": "01597500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01597500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0637778,
+          39.4789722
+        ]
+      },
+      "properties": {
+        "name": "North Branch Potomac River at Luke",
+        "official_name": "NORTH BRANCH POTOMAC RIVER AT LUKE, MD",
+        "ref": "01598500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01598500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0446944,
+          39.49391667
+        ]
+      },
+      "properties": {
+        "name": "Georges Creek at Franklin",
+        "official_name": "GEORGES CREEK AT FRANKLIN, MD",
+        "ref": "01599000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01599000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7880278,
+          39.6696111
+        ]
+      },
+      "properties": {
+        "name": "Wills Creek near Cumberland",
+        "official_name": "WILLS CREEK NEAR CUMBERLAND, MD",
+        "ref": "01601500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01601500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.555,
+          39.5532222
+        ]
+      },
+      "properties": {
+        "name": "Town Creek near Oldtown",
+        "official_name": "TOWN CREEK NEAR OLDTOWN, MD",
+        "ref": "01609000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01609000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.4556111,
+          39.5388611
+        ]
+      },
+      "properties": {
+        "name": "Potomac River at Paw Paw",
+        "official_name": "POTOMAC RIVER AT PAW PAW, WV",
+        "ref": "01610000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01610000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.34413889,
+          39.64952778
+        ]
+      },
+      "properties": {
+        "name": "Sideling Hill Creek near Bellegrove",
+        "official_name": "SIDELING HILL CREEK NEAR BELLEGROVE, MD",
+        "ref": "01610155",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01610155",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.17788889,
+          39.69755556
+        ]
+      },
+      "properties": {
+        "name": "Potomac River at Hancock",
+        "official_name": "POTOMAC RIVER AT HANCOCK, MD",
+        "ref": "01613000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01613000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.15275,
+          39.7063611
+        ]
+      },
+      "properties": {
+        "name": "Tonoloway Creek near Hancock",
+        "official_name": "TONOLOWAY CREEK NEAR HANCOCK, MD",
+        "ref": "01613095",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01613095",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.0425278,
+          39.67627778
+        ]
+      },
+      "properties": {
+        "name": "Licking Creek at Pectonville",
+        "official_name": "LICKING CREEK AT PECTONVILLE, MD",
+        "ref": "01613525",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01613525",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8247778,
+          39.71638889
+        ]
+      },
+      "properties": {
+        "name": "Conococheague Creek at Fairview",
+        "official_name": "CONOCOCHEAGUE CREEK AT FAIRVIEW, MD",
+        "ref": "01614500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01614500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.7772222,
+          39.51455556
+        ]
+      },
+      "properties": {
+        "name": "Marsh Run at Grimes",
+        "official_name": "MARSH RUN AT GRIMES, MD",
+        "ref": "01617800",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01617800",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.60663889,
+          39.71625
+        ]
+      },
+      "properties": {
+        "name": "Antietam Creek near Waynesboro",
+        "official_name": "ANTIETAM CREEK NEAR WAYNESBORO, PA",
+        "ref": "01619000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01619000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.7301944,
+          39.44977778
+        ]
+      },
+      "properties": {
+        "name": "Antietam Creek near Sharpsburg",
+        "official_name": "ANTIETAM CREEK NEAR SHARPSBURG, MD",
+        "ref": "01619500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01619500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5561667,
+          39.42725
+        ]
+      },
+      "properties": {
+        "name": "Catoctin Creek near Middletown",
+        "official_name": "CATOCTIN CREEK NEAR MIDDLETOWN, MD",
+        "ref": "01637500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01637500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5431111,
+          39.2735833
+        ]
+      },
+      "properties": {
+        "name": "Potomac River at Point of Rocks",
+        "official_name": "POTOMAC RIVER AT POINT OF ROCKS, MD",
+        "ref": "01638500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01638500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.23452778,
+          39.67905556
+        ]
+      },
+      "properties": {
+        "name": "Monocacy River at Bridgeport",
+        "official_name": "MONOCACY RIVER AT BRIDGEPORT, MD",
+        "ref": "01639000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01639000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2374444,
+          39.6123611
+        ]
+      },
+      "properties": {
+        "name": "Big Pipe Creek at Bruceville",
+        "official_name": "BIG PIPE CREEK AT BRUCEVILLE, MD",
+        "ref": "01639500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01639500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.38227778,
+          39.4435833
+        ]
+      },
+      "properties": {
+        "name": "Monocacy River at Monocacy Boulevard at Frederick",
+        "official_name": "MONOCACY RIVER AT MONOCACY BLVD AT FREDERICK, MD",
+        "ref": "01642190",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01642190",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.42977778,
+          39.42441667
+        ]
+      },
+      "properties": {
+        "name": "Carroll Creek above Rock Creek at Frederick",
+        "official_name": "CARROLL CREEK ABOVE ROCK CREEK AT FREDERICK, MD",
+        "ref": "01642199",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01642199",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3660833,
+          39.4028333
+        ]
+      },
+      "properties": {
+        "name": "Monocacy River at Jug Bridge near Frederick",
+        "official_name": "MONOCACY RIVER AT JUG BRIDGE NEAR FREDERICK, MD",
+        "ref": "01643000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01643000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3036667,
+          39.27530556
+        ]
+      },
+      "properties": {
+        "name": "Soper Branch at Hyattstown",
+        "official_name": "SOPER BRANCH AT HYATTSTOWN, MD",
+        "ref": "01643395",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01643395",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4070833,
+          39.29413889
+        ]
+      },
+      "properties": {
+        "name": "Bennett Creek at Park Mills",
+        "official_name": "BENNETT CREEK AT PARK MILLS, MD",
+        "ref": "01643500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01643500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4357417,
+          39.2633972
+        ]
+      },
+      "properties": {
+        "name": "Monocacy River near Dickerson",
+        "official_name": "MONOCACY RIVER NEAR DICKERSON, MD",
+        "ref": "01643580",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01643580",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.47125,
+          39.09863889
+        ]
+      },
+      "properties": {
+        "name": "Potomac River at Edwards Ferry near Poolesville",
+        "official_name": "POTOMAC RIVER AT EDWARDS FERRY NEAR POOLESVILLE,MD",
+        "ref": "01644148",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01644148",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2556944,
+          39.2314722
+        ]
+      },
+      "properties": {
+        "name": "Little Seneca Creek tributary near Clarksburg",
+        "official_name": "LITTLE SENECA CREEK TRIBUTARY NEAR CLARKSBURG, MD",
+        "ref": "01644371",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01644371",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2493611,
+          39.2227222
+        ]
+      },
+      "properties": {
+        "name": "Little Seneca Creek tributary at Brink",
+        "official_name": "LITTLE SENECA CREEK TRIBUTARY AT BRINK, MD",
+        "ref": "01644372",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01644372",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2753611,
+          39.19938889
+        ]
+      },
+      "properties": {
+        "name": "Little Seneca Creek tributary near Germantown",
+        "official_name": "LITTLE SENECA CREEK TRIBUTARY NEAR GERMANTOWN, MD",
+        "ref": "01644375",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01644375",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2885833,
+          39.2066111
+        ]
+      },
+      "properties": {
+        "name": "Cabin Branch near Boyds",
+        "official_name": "CABIN BRANCH NEAR BOYDS, MD",
+        "ref": "01644380",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01644380",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.31225,
+          39.22338889
+        ]
+      },
+      "properties": {
+        "name": "Tenmile Creek near Clarksburg",
+        "official_name": "TENMILE CREEK NEAR CLARKSBURG, MD",
+        "ref": "01644388",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01644388",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3164167,
+          39.216
+        ]
+      },
+      "properties": {
+        "name": "Tenmile Creek near Boyds",
+        "official_name": "TENMILE CREEK NEAR BOYDS, MD",
+        "ref": "01644390",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01644390",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.33577778,
+          39.1280833
+        ]
+      },
+      "properties": {
+        "name": "Seneca Creek at Dawsonville",
+        "official_name": "SENECA CREEK AT DAWSONVILLE, MD",
+        "ref": "01645000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01645000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.12763889,
+          38.94977778
+        ]
+      },
+      "properties": {
+        "name": "Potomac River near Little Falls Pump Station",
+        "official_name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA",
+        "ref": "01646500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01646500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.08175,
+          39.0684722
+        ]
+      },
+      "properties": {
+        "name": "Turkey Branch near Rockville",
+        "official_name": "TURKEY BRANCH NEAR ROCKVILLE, MD",
+        "ref": "01647850",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01647850",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9895833,
+          39.08838889
+        ]
+      },
+      "properties": {
+        "name": "Paint Branch tributary near Colesville",
+        "official_name": "PAINT BRANCH TRIBUTARY NEAR COLESVILLE, MD",
+        "ref": "01649150",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01649150",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.96402778,
+          39.0333611
+        ]
+      },
+      "properties": {
+        "name": "Paint Branch near College Park",
+        "official_name": "PAINT BRANCH NEAR COLLEGE PARK, MD",
+        "ref": "01649190",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01649190",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9259722,
+          38.96025
+        ]
+      },
+      "properties": {
+        "name": "Northeast Branch Anacostia River at Riverdale",
+        "official_name": "NORTHEAST BRANCH ANACOSTIA RIVER AT RIVERDALE, MD",
+        "ref": "01649500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01649500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0293611,
+          39.06552778
+        ]
+      },
+      "properties": {
+        "name": "Northwest Branch Anacostia River near Colesville",
+        "official_name": "NORTHWEST BRANCH ANACOSTIA RIVER NR COLESVILLE, MD",
+        "ref": "01650500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01650500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0048611,
+          38.9862222
+        ]
+      },
+      "properties": {
+        "name": "Sligo Creek near Takoma Park",
+        "official_name": "SLIGO CREEK NEAR TAKOMA PARK, MD",
+        "ref": "01650800",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01650800",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9562222,
+          38.9489722
+        ]
+      },
+      "properties": {
+        "name": "Northwest Branch Anacostia River at Brentwood",
+        "official_name": "NORTHWEST BRANCH ANACOSTIA AT BRENTWOOD, MD",
+        "ref": "01651003",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01651003",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9343056,
+          38.91630556
+        ]
+      },
+      "properties": {
+        "name": "Beaverdam Creek near Cheverly",
+        "official_name": "BEAVERDAM CREEK NEAR CHEVERLY, MD",
+        "ref": "01651730",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01651730",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "tidal": "yes",
+        "monitoring:tide_gauge": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9661944,
+          38.70577778
+        ]
+      },
+      "properties": {
+        "name": "Piscataway Creek at Piscataway",
+        "official_name": "PISCATAWAY CREEK AT PISCATAWAY, MD",
+        "ref": "01653600",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01653600",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.05602778,
+          38.59613889
+        ]
+      },
+      "properties": {
+        "name": "Mattawoman Creek near Pomonkey",
+        "official_name": "MATTAWOMAN CREEK NEAR POMONKEY, MD",
+        "ref": "01658000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01658000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9270833,
+          38.4905833
+        ]
+      },
+      "properties": {
+        "name": "Zekiah Swamp Run near Newtown",
+        "official_name": "ZEKIAH SWAMP RUN NEAR NEWTOWN, MD",
+        "ref": "01660920",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01660920",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.725,
+          38.33330556
+        ]
+      },
+      "properties": {
+        "name": "Saint Clements Creek near Clements",
+        "official_name": "ST CLEMENTS CREEK NEAR CLEMENTS, MD",
+        "ref": "01661050",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01661050",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5036667,
+          38.24175
+        ]
+      },
+      "properties": {
+        "name": "Saint Marys River at Great Mills",
+        "official_name": "ST MARYS RIVER AT GREAT MILLS, MD",
+        "ref": "01661500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01661500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4120278,
+          39.49255556
+        ]
+      },
+      "properties": {
+        "name": "Youghiogheny River near Swallow Falls Park",
+        "official_name": "YOUGHIOGHENY RIVER NEAR SWALLOW FALLS PARK, MD",
+        "ref": "03075590",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03075590",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3271944,
+          39.50275
+        ]
+      },
+      "properties": {
+        "name": "Arrowhead Run at Thayerville",
+        "official_name": "ARROWHEAD RUN AT THAYERVILLE, MD",
+        "ref": "03075850",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03075850",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3157678,
+          39.538
+        ]
+      },
+      "properties": {
+        "name": "Cherry Creek at State Park Road near McHenry",
+        "official_name": "CHERRY CREEK AT STATE PARK ROAD NEAR MCHENRY, MD",
+        "ref": "03075905",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03075905",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.41073999999999,
+          39.52580556
+        ]
+      },
+      "properties": {
+        "name": "Youghiogheny River near McHenry",
+        "official_name": "YOUGHIOGHENY RIVER NEAR MCHENRY, MD",
+        "ref": "03076100",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03076100",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4083056,
+          39.6536111
+        ]
+      },
+      "properties": {
+        "name": "Youghiogheny River at Friendsville",
+        "official_name": "YOUGHIOGHENY RIVER AT FRIENDSVILLE, MD",
+        "ref": "03076500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03076500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3941111,
+          39.65613889
+        ]
+      },
+      "properties": {
+        "name": "Bear Creek at Friendsville",
+        "official_name": "BEAR CREEK AT FRIENDSVILLE, MD",
+        "ref": "03076600",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03076600",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.47880278,
+          39.11452778
+        ]
+      },
+      "properties": {
+        "name": "Unnamed pond at Dover Air Force Base at Dover",
+        "official_name": "UNNAMED POND AT DAFB AT DOVER, DE",
+        "ref": "01483745",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01483745",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.3105456,
+          39.4322222
+        ]
+      },
+      "properties": {
+        "name": "Lake Serene at Edgewood",
+        "official_name": "LAKE SERENE AT EDGEWOOD, MD",
+        "ref": "0158175720",
+        "website": "https://waterdata.usgs.gov/monitoring-location/0158175720",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1349167,
+          39.50813889
+        ]
+      },
+      "properties": {
+        "name": "Savage River Reservoir near Bloomington",
+        "official_name": "SAVAGE RIVER RESERVOIR NEAR BLOOMINGTON, MD",
+        "ref": "01597490",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01597490",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.29838889,
+          39.51125
+        ]
+      },
+      "properties": {
+        "name": "Deep Creek Lake near Thayerville",
+        "official_name": "DEEP CREEK LAKE NEAR THAYERVILLE, MD",
+        "ref": "03075871",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03075871",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.96513889,
+          38.95255556
+        ]
+      },
+      "properties": {
+        "name": "Northwest Branch Anacostia River near Hyattsville",
+        "official_name": "NORTHWEST BR ANACOSTIA RIVER NR HYATTSVILLE, MD",
+        "ref": "01651000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01651000",
+        "man_made": "monitoring_station",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.15775,
+          39.62605556
+        ]
+      },
+      "properties": {
+        "name": "Susquehanna River near Darlington",
+        "official_name": "SUSQUEHANNA RIVER NEAR DARLINGTON, MD",
+        "ref": "01579550",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01579550",
+        "man_made": "monitoring_station",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.45527778,
+          39.6300833
+        ]
+      },
+      "properties": {
+        "name": "Big Hunting Creek near Thurmont",
+        "official_name": "BIG HUNTING CREEK NEAR THURMONT, MD",
+        "ref": "01640975",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01640975",
+        "man_made": "monitoring_station",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1005833,
+          38.38991667
+        ]
+      },
+      "properties": {
+        "name": "Isle of Wight Bay at Isle of Wight",
+        "official_name": "ISLE OF WIGHT BAY AT ISLE OF WIGHT, MD",
+        "ref": "0148471370",
+        "website": "https://waterdata.usgs.gov/monitoring-location/0148471370",
+        "man_made": "monitoring_station",
+        "tidal": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:tide_gauge": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.18363889,
+          38.1389722
+        ]
+      },
+      "properties": {
+        "name": "Buntings Gut near Cedartown",
+        "official_name": "BUNTINGS GUT NEAR CEDARTOWN, MD",
+        "ref": "0148472405",
+        "website": "https://waterdata.usgs.gov/monitoring-location/0148472405",
+        "man_made": "monitoring_station",
+        "tidal": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:tide_gauge": "yes",
+        "monitoring:wind_direction": "yes",
+        "monitoring:wind_speed": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.86375,
+          37.9784722
+        ]
+      },
+      "properties": {
+        "name": "Little Annemessex River at Crisfield",
+        "official_name": "LITTLE ANNEMESSEX RIVER AT CRISFIELD, MD",
+        "ref": "01485755",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01485755",
+        "man_made": "monitoring_station",
+        "tidal": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:tide_gauge": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.72013889,
+          38.5439722
+        ]
+      },
+      "properties": {
+        "name": "Nanticoke River at Sharptown",
+        "official_name": "NANTICOKE RIVER AT SHARPTOWN, MD",
+        "ref": "01488110",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01488110",
+        "man_made": "monitoring_station",
+        "tidal": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:tide_gauge": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2805556,
+          38.83702778
+        ]
+      },
+      "properties": {
+        "name": "Eastern Bay at Claiborne",
+        "official_name": "EASTERN BAY AT CLAIBORNE, MD",
+        "ref": "01492600",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01492600",
+        "man_made": "monitoring_station",
+        "tidal": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:tide_gauge": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.3594722,
+          39.3521111
+        ]
+      },
+      "properties": {
+        "name": "Dundee Creek tributary at Chase",
+        "official_name": "DUNDEE CREEK TRIBUTARY AT CHASE, MD",
+        "ref": "01585149",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01585149",
+        "man_made": "monitoring_station",
+        "tidal": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:tide_gauge": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4041667,
+          39.2503611
+        ]
+      },
+      "properties": {
+        "name": "Back River tributary at Rocky Point Park",
+        "official_name": "BACK RIVER TRIBUTARY AT ROCKY POINT PARK, MD",
+        "ref": "0158540095",
+        "website": "https://waterdata.usgs.gov/monitoring-location/0158540095",
+        "man_made": "monitoring_station",
+        "tidal": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:tide_gauge": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1819244,
+          38.60095185
+        ]
+      },
+      "properties": {
+        "name": "Potomac River at Indian Head",
+        "official_name": "POTOMAC RIVER AT INDIAN HEAD, MD",
+        "ref": "01655480",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01655480",
+        "man_made": "monitoring_station",
+        "tidal": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:tide_gauge": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    }
+  ]
+}
