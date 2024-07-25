@@ -71,21 +71,21 @@ array.forEach(item => {
 
 let excludeTypes = [
     'Well',
-    'Atmosphere',
+   // 'Atmosphere',
     'Field, Pasture, Orchard, or Nursery',
     'Land',
     'Multiple wells',
-    'Sinkhole',
+  //  'Sinkhole',
     'Extensometer well',
     'Test hole not completed as a well',
     'Collector or Ranney type well',
     'Soil hole',
     'Laboratory or sample-preparation area',
     'Subsurface',
-    'Water-distribution system',
+    //'Water-distribution system',
     'Unsaturated zone',
     'Agric area',
-    'Wastewater-treatment plant'
+  //  'Wastewater-treatment plant'
 ]
 
 const geoJson = JSON.parse(fs.readFileSync('./locations.geojson'));
@@ -96,15 +96,14 @@ for (var i in geoJson.features) {
     var id = feature.properties['properties/monitoringLocationNumber'];
     var type = feature.properties['properties/monitoringLocationType'];
     types[type] = true;
-    if (!excludeTypes.includes(type)) {
-        geoJsonFeaturesById[id] = feature;
+    geoJsonFeaturesById[id] = feature;
+}
+for (var id in allItems) {
+    var feature = geoJsonFeaturesById[id];
+    if (feature && excludeTypes.includes(feature.properties['properties/monitoringLocationType'])) {
+        delete allItems[id];
     }
 }
-//for (var id in allItems) {
-//    if (!geoJsonFeaturesById[id]) {
-//        delete allItems[id];
-//    }
-//}
 
 let builtItems = {};
 
@@ -286,7 +285,7 @@ function cleanName(name) {
     replace("Rd,", 'Road,');
     replace("Rd\\.", 'Road');
     replace("Ln", 'Lane');
-    replace("La", 'Lane');
+    //replace("La", 'Lane');
     replace("N", 'North');
     replace("S", 'South');
     replace("E", 'East');
@@ -345,7 +344,7 @@ let featuresByState = {};
 Object.values(builtItems).forEach(item => {
     if (!item.dec_lat_va || !item.dec_long_va) return;
 
-    console.log(item.site_no + ' | ' + cleanName(item.station_nm));
+    //console.log(item.site_no + ' | ' + cleanName(item.station_nm));
 
     let rawGeoJsonFeature = geoJsonFeaturesById[item.site_no]?.properties;
 
@@ -384,6 +383,16 @@ Object.values(builtItems).forEach(item => {
     features.push(jsonFeature);
 });
 for (var state in featuresByState) {
+    var locs = {};
+    featuresByState[state].forEach(function(feature) {
+        var loc = feature.geometry.coordinates.toString();
+        while (locs[loc]) {
+            // offset loc slightly if the same as another feature
+            feature.geometry.coordinates[0] += 0.00001;
+            loc = feature.geometry.coordinates.toString();
+        }
+        locs[loc] = true;
+    });
     fs.writeFileSync('./bystate/' + state + '.geojson', JSON.stringify({
         type: "FeatureCollection",
         features: featuresByState[state]
