@@ -196,6 +196,7 @@ function cleanName(name) {
     replace("Hwy", 'Highway');
     replace("Rte", 'Route');
     replace("Rt", 'Route');
+    replace("&", 'and');
     replace("Met", 'Meteorologic');
     replace("HOSP", 'Hot Springs');
     replace("N\\.P\\.", 'National Park');
@@ -212,6 +213,7 @@ function cleanName(name) {
     replace("Nat Mon", 'National Monument');
     replace("Confl", 'Confluence');
     replace("Precip", 'Precipitation');
+    replace("Precipitation at", 'Precipitation Gage at');
     replace("ds", 'downstream');
     replace("US of", 'upstream of');
     replace("Us", 'US');
@@ -222,8 +224,10 @@ function cleanName(name) {
     replace("Ark", 'Arkansas');
     replace("Amer", 'American');
     replace("Nr", 'near');
+    replace("Nr\\.", 'near');
     replace("Near", 'near');
     replace("At", 'at');
+    replace("To", 'to');
     replace("Of", 'of');
     replace("On", 'on');
     replace("The", 'the');
@@ -240,6 +244,7 @@ function cleanName(name) {
     replace("Res", 'Reservoir');
     replace("C", 'Creek');
     replace("Cr", 'Creek');
+    replace("Cr\\.", 'Creek');
     replace("Vly", 'Valley');
     replace("Ck", 'Creek');
     replace("Crk", 'Creek');
@@ -269,6 +274,10 @@ function cleanName(name) {
     replace("boundary", 'Boundary');
     replace("M Br", 'Middle Branch');
     replace("Br", 'Branch');
+    replace("SB", 'South Branch');
+    replace("NB", 'North Branch');
+    replace("EB", 'East Branch');
+    replace("WB", 'West Branch');
     replace("Mf", 'Middle Fork');
     replace("Mfk", 'Middle Fork');
     replace("Fk", 'Fork');
@@ -298,6 +307,14 @@ function cleanName(name) {
     replace("Se", 'Southeast');
     replace("Nw", 'Northwest');
     replace("Sw", 'Southwest');
+    replace("North of", 'north of');
+    replace("South of", 'south of');
+    replace("East of", 'east of');
+    replace("West of", 'west of');
+    replace("Northeast of", 'northeast of');
+    replace("Southeast of", 'southeast of');
+    replace("Northwest of", 'northwest of');
+    replace("Southwest of", 'southwest of');
     replace("Dtch", 'Ditch');
     replace("Bch", 'Beach');
     replace("Ca", 'Canal');
@@ -319,6 +336,11 @@ function cleanName(name) {
     replace("L Bull", 'Little Bull');
     replace("L Osage", 'Little Osage');
     replace("Ll", 'Lake');
+    replace("No.", 'Number');
+    replace("`", "'");
+    replace("L&D", 'Lock and Dam');
+    replace("L & D", 'Lock and Dam');
+    replace("Lock & Dam", 'Lock and Dam');
     replace("L\\. Cataouatche", 'Lake Cataouatche');
     replace("L Pontchartrain", 'Lake Pontchartrain');
     replace("NWR", 'National Wildlife Refuge');
