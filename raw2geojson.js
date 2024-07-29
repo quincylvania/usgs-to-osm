@@ -62,7 +62,7 @@ let tagsPerFile = {
 };
 
 const csvOpts = {columns: true, delimiter: '\t'};
-const array = csv.parse(fs.readFileSync('./csv/all'), csvOpts);
+const array = csv.parse(fs.readFileSync('./source/csv/all'), csvOpts);
 
 const allItems = {};
 array.forEach(item => {
@@ -71,24 +71,20 @@ array.forEach(item => {
 
 let excludeTypes = [
     'Well',
-   // 'Atmosphere',
     'Field, Pasture, Orchard, or Nursery',
     'Land',
     'Multiple wells',
-  //  'Sinkhole',
     'Extensometer well',
     'Test hole not completed as a well',
     'Collector or Ranney type well',
     'Soil hole',
     'Laboratory or sample-preparation area',
     'Subsurface',
-    //'Water-distribution system',
     'Unsaturated zone',
     'Agric area',
-  //  'Wastewater-treatment plant'
-]
+];
 
-const geoJson = JSON.parse(fs.readFileSync('./locations.geojson'));
+const geoJson = JSON.parse(fs.readFileSync('./source/geojson/all.geojson'));
 let geoJsonFeaturesById = {};
 let types = {};
 for (var i in geoJson.features) {
@@ -108,7 +104,7 @@ for (var id in allItems) {
 let builtItems = {};
 
 for (var filename in tagsPerFile) {
-    let array = csv.parse(fs.readFileSync('./csv/' + filename), csvOpts);
+    let array = csv.parse(fs.readFileSync('./source/csv/' + filename), csvOpts);
     array.forEach(item => {
         if (allItems[item.site_no]) {
             if (!builtItems[item.site_no]) {
@@ -423,13 +419,13 @@ for (var state in featuresByState) {
         }
         locs[loc] = true;
     });
-    fs.writeFileSync('./bystate/' + state + '.geojson', JSON.stringify({
+    fs.writeFileSync('./output/bystate/' + state + '.geojson', JSON.stringify({
         type: "FeatureCollection",
         features: featuresByState[state]
     }, null, 2));
 }
 console.log(features.length);
-fs.writeFileSync('./output-all.geojson', JSON.stringify({
+fs.writeFileSync('./output/all.geojson', JSON.stringify({
     type: "FeatureCollection",
     features: features
 }, null, 2));
