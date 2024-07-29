@@ -194,6 +194,7 @@ function cleanName(name) {
     replace("Vale-Rmnp", 'Vale-Rocky Mountain National Park');
     replace("Lsvl", 'Louisville');
     replace("Hwy", 'Highway');
+    replace("Hw", 'Highway');
     replace("Rte", 'Route');
     replace("Rt", 'Route');
     replace("&", 'and');
@@ -290,6 +291,11 @@ function cleanName(name) {
     replace("Ef", 'East Fork');
     replace("Efk", 'East Fork');
     replace("Wd", 'Water District');
+    replace("weather station", 'Weather Station');
+    replace("rain gage", 'Rain Gage');
+    replace("heated", 'Heated');
+    replace("unheated", 'Unheated');
+    replace("Ctrl", 'Control');
     replace("Rd", 'Road');
     replace("Rd,", 'Road,');
     replace("Rd\\.", 'Road');
@@ -307,6 +313,8 @@ function cleanName(name) {
     replace("Se", 'Southeast');
     replace("Nw", 'Northwest');
     replace("Sw", 'Southwest');
+    replace("Upstream of", 'upstream of');
+    replace("Downstream of", 'downstream of');
     replace("North of", 'north of');
     replace("South of", 'south of');
     replace("East of", 'east of');
