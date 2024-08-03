@@ -1,0 +1,4990 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0729722,
+          42.4081111
+        ]
+      },
+      "properties": {
+        "name": "Iowa River at Steamboat Rock",
+        "official_name": "Iowa River at Steamboat Rock, IA",
+        "ref": "05450400",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05450400",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "289.77",
+        "ele:accuracy": "0.061",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3929894,
+          40.96305619
+        ]
+      },
+      "properties": {
+        "name": "McNay Research Station near Chariton",
+        "official_name": "McNay Research Stn nr Chariton, IA NADP Site IA23",
+        "ref": "405747093233201",
+        "website": "https://waterdata.usgs.gov/monitoring-location/405747093233201",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:air_temperature": "yes",
+        "ele": "320.04",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.403186,
+          41.57447764
+        ]
+      },
+      "properties": {
+        "name": "Mississippi River at Lock and Dam 14",
+        "official_name": "MISSISSIPPI RIVER AT LOCK & DAM 14 (CORPS)",
+        "ref": "413428090241101",
+        "website": "https://waterdata.usgs.gov/monitoring-location/413428090241101",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "ele": "169.798",
+        "ele:accuracy": "0.003",
+        "ele:datum": "COE1912",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.4273889,
+          41.72916667
+        ]
+      },
+      "properties": {
+        "name": "Rain Gage at Rapid Creek below Morse",
+        "official_name": "Raingage at Rapid Creek below Morse, IA",
+        "ref": "414345091253801",
+        "website": "https://waterdata.usgs.gov/monitoring-location/414345091253801",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "ele": "225.589",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.31375,
+          41.7872222
+        ]
+      },
+      "properties": {
+        "name": "Rain Gage at Cedar River at Cedar Bluff",
+        "official_name": "Raingage at Cedar River at Cedar Bluff, IA",
+        "ref": "414714091184901",
+        "website": "https://waterdata.usgs.gov/monitoring-location/414714091184901",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "ele": "212.049",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.4698634,
+          42.90970607
+        ]
+      },
+      "properties": {
+        "name": "Big Spring Fish Hatchery near Elkader",
+        "official_name": "Big Spring Fish Hatchery near Elkader, IA NADP/NTN",
+        "ref": "425435091281101",
+        "website": "https://waterdata.usgs.gov/monitoring-location/425435091281101",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:air_temperature": "yes",
+        "ele": "234.696",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.2975278,
+          43.46677778
+        ]
+      },
+      "properties": {
+        "name": "Upper Iowa River at Lime Springs",
+        "official_name": "Upper Iowa River at Lime Springs, IA",
+        "ref": "05387320",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05387320",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "361.539",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.0359444,
+          43.44130556
+        ]
+      },
+      "properties": {
+        "name": "Upper Iowa River at Kendallville",
+        "official_name": "Upper Iowa River at Kendallville, IA",
+        "ref": "05387405",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05387405",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "317.995",
+        "ele:accuracy": "0.0335",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.8990464,
+          43.40691316
+        ]
+      },
+      "properties": {
+        "name": "Upper Iowa River at Bluffton",
+        "official_name": "Upper Iowa River at Bluffton, IA",
+        "ref": "05387440",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05387440",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "287.929",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7955429,
+          43.3048888
+        ]
+      },
+      "properties": {
+        "name": "Upper Iowa River at Decorah",
+        "official_name": "Upper Iowa River at Decorah, IA",
+        "ref": "05387500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05387500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "259.101",
+        "ele:accuracy": "0.0396",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.5087519,
+          43.4210841
+        ]
+      },
+      "properties": {
+        "name": "Upper Iowa River near Dorchester",
+        "official_name": "Upper Iowa River near Dorchester, IA",
+        "ref": "05388250",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05388250",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "201.107",
+        "ele:accuracy": "0.0244",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.5051407,
+          43.45108357
+        ]
+      },
+      "properties": {
+        "name": "Waterloo Creek near Dorchester",
+        "official_name": "Waterloo Creek near Dorchester, IA",
+        "ref": "05388310",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05388310",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.2651389,
+          43.11191667
+        ]
+      },
+      "properties": {
+        "name": "Yellow River near Ion",
+        "official_name": "Yellow River near Ion, IA",
+        "ref": "05389000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05389000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "201.241",
+        "ele:accuracy": "0.0457",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.2065192,
+          43.04081747
+        ]
+      },
+      "properties": {
+        "name": "Bloody Run Creek near Marquette",
+        "official_name": "Bloody Run Creek near Marquette, IA",
+        "ref": "05389400",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05389400",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "190.36",
+        "ele:accuracy": "0.0335",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1726298,
+          43.02701224
+        ]
+      },
+      "properties": {
+        "name": "Mississippi River at McGregor",
+        "official_name": "Mississippi River at McGregor, IA",
+        "ref": "05389500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05389500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "184.252",
+        "ele:accuracy": "0.0366",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1451296,
+          42.9035981
+        ]
+      },
+      "properties": {
+        "name": "Mississippi River at Clayton",
+        "official_name": "Mississippi River at Clayton, IA",
+        "ref": "05411500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05411500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "182.697",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.9503333,
+          43.20727778
+        ]
+      },
+      "properties": {
+        "name": "Turkey River at Spillville",
+        "official_name": "Turkey River at Spillville, IA",
+        "ref": "05411600",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05411600",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "315.995",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.8090983,
+          43.0541879
+        ]
+      },
+      "properties": {
+        "name": "Turkey River near Eldorado",
+        "official_name": "Turkey River near Eldorado, IA",
+        "ref": "05411850",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05411850",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "271.351",
+        "ele:accuracy": "0.0701",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.4012767,
+          42.84348517
+        ]
+      },
+      "properties": {
+        "name": "Turkey River above French Hollow Creek at Elkader",
+        "official_name": "Turkey River above French Hollow Cr at Elkader, IA",
+        "ref": "05412020",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05412020",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "211.729",
+        "ele:accuracy": "0.0335",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.3690252,
+          42.7538753
+        ]
+      },
+      "properties": {
+        "name": "Volga River at Littleport",
+        "official_name": "Volga River at Littleport, IA",
+        "ref": "05412400",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05412400",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "206.283",
+        "ele:accuracy": "0.0396",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.261799,
+          42.7399884
+        ]
+      },
+      "properties": {
+        "name": "Turkey River at Garber",
+        "official_name": "Turkey River at Garber, IA",
+        "ref": "05412500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05412500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "194.731",
+        "ele:accuracy": "0.0335",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.85985079,
+          42.56055427
+        ]
+      },
+      "properties": {
+        "name": "Middle Fork Little Maquoketa River near Rickardsville",
+        "official_name": "Middle Fk Little Maquoketa R nr Rickardsville, IA",
+        "ref": "05414400",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05414400",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.4487147,
+          42.4699878
+        ]
+      },
+      "properties": {
+        "name": "Maquoketa River at Manchester",
+        "official_name": "Maquoketa River at Manchester, IA",
+        "ref": "05416900",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05416900",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "274.402",
+        "ele:accuracy": "0.0366",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.7293333,
+          42.1643333
+        ]
+      },
+      "properties": {
+        "name": "North Fork Maquoketa River near Fulton",
+        "official_name": "North Fork Maquoketa River near Fulton, IA",
+        "ref": "05418400",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05418400",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "206.831",
+        "ele:accuracy": "0.0975",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6329167,
+          42.08335278
+        ]
+      },
+      "properties": {
+        "name": "Maquoketa River near Maquoketa",
+        "official_name": "Maquoketa River near Maquoketa, IA",
+        "ref": "05418500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05418500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "190.692",
+        "ele:accuracy": "0.0427",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1904056,
+          41.82725278
+        ]
+      },
+      "properties": {
+        "name": "Beaver Slough at 3rd Street at Clinton",
+        "official_name": "Beaver Slough at 3rd Street at Clinton, IA",
+        "ref": "05420460",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05420460",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "171.569",
+        "ele:accuracy": "0.061",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.252073,
+          41.78058635
+        ]
+      },
+      "properties": {
+        "name": "Mississippi River at Clinton",
+        "official_name": "Mississippi River at Clinton, IA",
+        "ref": "05420500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05420500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "171.462",
+        "ele:accuracy": "0.0427",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.2574,
+          42.83609167
+        ]
+      },
+      "properties": {
+        "name": "Wapsipinicon River near Tripoli",
+        "official_name": "Wapsipinicon River near Tripoli, IA",
+        "ref": "05420680",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05420680",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "300.652",
+        "ele:accuracy": "0.0183",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.0415556,
+          42.71469444
+        ]
+      },
+      "properties": {
+        "name": "Little Wapsipinicon River near Oran",
+        "official_name": "Little Wapsipinicon River near Oran, IA",
+        "ref": "05420850",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05420850",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.8951722,
+          42.46359796
+        ]
+      },
+      "properties": {
+        "name": "Wapsipinicon River at Independence",
+        "official_name": "Wapsipinicon River at Independence, IA",
+        "ref": "05421000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05421000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "269.059",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.2673889,
+          42.0833611
+        ]
+      },
+      "properties": {
+        "name": "Wapsipinicon River near Anamosa",
+        "official_name": "Wapsipinicon River near Anamosa, IA",
+        "ref": "05421740",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05421740",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "229.932",
+        "ele:accuracy": "0.0457",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6001369,
+          41.9150254
+        ]
+      },
+      "properties": {
+        "name": "Silver Creek at Welton",
+        "official_name": "Silver Creek at Welton, IA",
+        "ref": "05421890",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05421890",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "186.291",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5348556,
+          41.7669722
+        ]
+      },
+      "properties": {
+        "name": "Wapsipinicon River near DeWitt",
+        "official_name": "Wapsipinicon River near De Witt, IA",
+        "ref": "05422000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05422000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "182.511",
+        "ele:accuracy": "0.0457",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4551306,
+          41.55114444
+        ]
+      },
+      "properties": {
+        "name": "Crow Creek at Bettendorf",
+        "official_name": "Crow Creek at Bettendorf, IA",
+        "ref": "05422470",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05422470",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "175.772",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5240237,
+          41.54614409
+        ]
+      },
+      "properties": {
+        "name": "Duck Creek at Duck Creek Golf Course at Davenport",
+        "official_name": "Duck Creek at DC Golf Course at Davenport, IA",
+        "ref": "05422600",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05422600",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "181.95",
+        "ele:accuracy": "0.0488",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.7846643,
+          43.1024617
+        ]
+      },
+      "properties": {
+        "name": "West Main Drainage Ditch 1 and 2 near Britt",
+        "official_name": "West Main Drainage Ditch 1 and 2 near Britt, IA",
+        "ref": "05448400",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05448400",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.6216389,
+          42.7599722
+        ]
+      },
+      "properties": {
+        "name": "Iowa River near Rowan",
+        "official_name": "Iowa River near Rowan, IA",
+        "ref": "05449500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05449500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "348.493",
+        "ele:accuracy": "0.0213",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.5894444,
+          42.5436111
+        ]
+      },
+      "properties": {
+        "name": "South Fork Iowa River near Blairsburg",
+        "official_name": "South Fork Iowa River near Blairsburg, IA",
+        "ref": "05451080",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05451080",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "355.065",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.1521944,
+          42.31530556
+        ]
+      },
+      "properties": {
+        "name": "South Fork Iowa River northeast of New Providence",
+        "official_name": "South Fork Iowa River NE of New Providence, IA",
+        "ref": "05451210",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05451210",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "287.74",
+        "ele:accuracy": "0.0396",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.9076997,
+          42.06582096
+        ]
+      },
+      "properties": {
+        "name": "Iowa River at Marshalltown",
+        "official_name": "Iowa River at Marshalltown, IA",
+        "ref": "05451500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05451500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "259.976",
+        "ele:accuracy": "0.0274",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.8524194,
+          42.008875
+        ]
+      },
+      "properties": {
+        "name": "Timber Creek near Marshalltown",
+        "official_name": "Timber Creek near Marshalltown, IA",
+        "ref": "05451700",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05451700",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "261.098",
+        "ele:accuracy": "0.0274",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.63655,
+          41.96425556
+        ]
+      },
+      "properties": {
+        "name": "Iowa River at County Highway E49 near Tama",
+        "official_name": "Iowa River at County Highway E49 near Tama, IA",
+        "ref": "05451770",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05451770",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "247.031",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.474355,
+          41.89943868
+        ]
+      },
+      "properties": {
+        "name": "Richland Creek near Haven",
+        "official_name": "Richland Creek near Haven, IA",
+        "ref": "05451900",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05451900",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "240.402",
+        "ele:accuracy": "0.0427",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.3001864,
+          42.079438
+        ]
+      },
+      "properties": {
+        "name": "Stein Creek near Clutier",
+        "official_name": "Stein Creek near Clutier, IA",
+        "ref": "05451955",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05451955",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.3132417,
+          41.9641611
+        ]
+      },
+      "properties": {
+        "name": "Salt Creek near Elberon",
+        "official_name": "Salt Creek near Elberon, IA",
+        "ref": "05452000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05452000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "238.762",
+        "ele:accuracy": "0.0244",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.386297,
+          41.8349969
+        ]
+      },
+      "properties": {
+        "name": "Walnut Creek near Hartwick",
+        "official_name": "Walnut Creek near Hartwick, IA",
+        "ref": "05452200",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05452200",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "239.719",
+        "ele:accuracy": "0.0518",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.2779167,
+          41.85905556
+        ]
+      },
+      "properties": {
+        "name": "Iowa River near Belle Plaine",
+        "official_name": "Iowa River near Belle Plaine, IA",
+        "ref": "05452500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05452500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "228.527",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.1821267,
+          41.74944709
+        ]
+      },
+      "properties": {
+        "name": "Big Bear Creek at Ladora",
+        "official_name": "Big Bear Creek at Ladora, IA",
+        "ref": "05453000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05453000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "226.936",
+        "ele:accuracy": "0.0427",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.064792,
+          41.81272566
+        ]
+      },
+      "properties": {
+        "name": "Iowa River at Marengo",
+        "official_name": "Iowa River at Marengo, IA",
+        "ref": "05453100",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05453100",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "219.593",
+        "ele:accuracy": "0.0366",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.8732336,
+          41.80500685
+        ]
+      },
+      "properties": {
+        "name": "Price Creek at Amana",
+        "official_name": "Price Creek at Amana, IA",
+        "ref": "05453200",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05453200",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.5301667,
+          41.71529444
+        ]
+      },
+      "properties": {
+        "name": "Iowa River below Coralville Dam near Coralville",
+        "official_name": "Iowa River below Coralville Dam nr Coralville, IA",
+        "ref": "05453520",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05453520",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "182.789",
+        "ele:accuracy": "0.0396",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.4876667,
+          41.70001667
+        ]
+      },
+      "properties": {
+        "name": "Rapid Creek near Iowa City",
+        "official_name": "Rapid Creek near Iowa City, IA",
+        "ref": "05454000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05454000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "205.38",
+        "ele:accuracy": "0.0244",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.5627778,
+          41.7
+        ]
+      },
+      "properties": {
+        "name": "Muddy Creek at Coralville",
+        "official_name": "Muddy Creek at Coralville, IA",
+        "ref": "05454090",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05454090",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "202.719",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7401722,
+          41.71834444
+        ]
+      },
+      "properties": {
+        "name": "Clear Creek near Oxford",
+        "official_name": "Clear Creek near Oxford, IA",
+        "ref": "05454220",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05454220",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "212.296",
+        "ele:accuracy": "0.0122",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.5987778,
+          41.67668056
+        ]
+      },
+      "properties": {
+        "name": "Clear Creek near Coralville",
+        "official_name": "Clear Creek near Coralville, IA",
+        "ref": "05454300",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05454300",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "197.294",
+        "ele:accuracy": "0.0122",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.541,
+          41.6566833
+        ]
+      },
+      "properties": {
+        "name": "Iowa River at Iowa City",
+        "official_name": "Iowa River at Iowa City, IA",
+        "ref": "05454500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05454500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "188.092",
+        "ele:accuracy": "0.0122",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.5076639,
+          41.65140556
+        ]
+      },
+      "properties": {
+        "name": "South Branch Ralston Creek at Iowa City",
+        "official_name": "South Branch Ralston Creek at Iowa City, IA",
+        "ref": "05455010",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05455010",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "206.621",
+        "ele:accuracy": "0.0244",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.6157222,
+          41.60640556
+        ]
+      },
+      "properties": {
+        "name": "Old Mans Creek near Iowa City",
+        "official_name": "Old Mans Creek near Iowa City, IA",
+        "ref": "05455100",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05455100",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "194.255",
+        "ele:accuracy": "0.0091",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.3551841,
+          41.59139226
+        ]
+      },
+      "properties": {
+        "name": "Deep River at Deep River",
+        "official_name": "Deep River at Deep River, IA",
+        "ref": "05455230",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05455230",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7146129,
+          41.4697387
+        ]
+      },
+      "properties": {
+        "name": "English River at Kalona",
+        "official_name": "English River at Kalona, IA",
+        "ref": "05455500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05455500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "193.024",
+        "ele:accuracy": "0.0244",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.4785278,
+          41.42377778
+        ]
+      },
+      "properties": {
+        "name": "Iowa River near Lone Tree",
+        "official_name": "Iowa River near Lone Tree, IA",
+        "ref": "05455700",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05455700",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "179.201",
+        "ele:accuracy": "0.0244",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.9849187,
+          43.4149654
+        ]
+      },
+      "properties": {
+        "name": "Deer Creek near Carpenter",
+        "official_name": "Deer Creek near Carpenter, IA",
+        "ref": "05457440",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05457440",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.6738833,
+          43.06219444
+        ]
+      },
+      "properties": {
+        "name": "Cedar River at Charles City",
+        "official_name": "Cedar River at Charles City, IA",
+        "ref": "05457700",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05457700",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "296.616",
+        "ele:accuracy": "0.0122",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.5035444,
+          43.03327778
+        ]
+      },
+      "properties": {
+        "name": "Little Cedar River near Ionia",
+        "official_name": "Little Cedar River near Ionia, IA",
+        "ref": "05458000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05458000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "296.671",
+        "ele:accuracy": "0.0122",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.4700917,
+          42.7372222
+        ]
+      },
+      "properties": {
+        "name": "Cedar River at Waverly",
+        "official_name": "Cedar River at Waverly, IA",
+        "ref": "05458300",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05458300",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "274.457",
+        "ele:accuracy": "0.0122",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.4651861,
+          42.64831667
+        ]
+      },
+      "properties": {
+        "name": "Cedar River at Janesville",
+        "official_name": "Cedar River at Janesville, IA",
+        "ref": "05458500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05458500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "262.421",
+        "ele:accuracy": "0.0488",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.5435222,
+          42.62942778
+        ]
+      },
+      "properties": {
+        "name": "West Fork Cedar River at Finchford",
+        "official_name": "West Fork Cedar River at Finchford, IA",
+        "ref": "05458900",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05458900",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "264.28",
+        "ele:accuracy": "0.0122",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2107594,
+          43.21329319
+        ]
+      },
+      "properties": {
+        "name": "Spring Creek near Mason City",
+        "official_name": "Spring Creek near Mason City, IA",
+        "ref": "05459490",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05459490",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.1925,
+          43.165
+        ]
+      },
+      "properties": {
+        "name": "Winnebago River at Mason City",
+        "official_name": "Winnebago River at Mason City, IA",
+        "ref": "05459500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05459500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "325.987",
+        "ele:accuracy": "0.0213",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3839722,
+          43.12430556
+        ]
+      },
+      "properties": {
+        "name": "Clear Lake at Clear Lake",
+        "official_name": "Clear Lake at Clear Lake, IA",
+        "ref": "05460000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05460000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "372.551",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2688155,
+          43.14857108
+        ]
+      },
+      "properties": {
+        "name": "Willow Creek near Mason City",
+        "official_name": "Willow Creek near Mason City, IA",
+        "ref": "05460100",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05460100",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.5829667,
+          42.711925
+        ]
+      },
+      "properties": {
+        "name": "Shell Rock River at Shell Rock",
+        "official_name": "Shell Rock River at Shell Rock, IA",
+        "ref": "05462000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05462000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "269.858",
+        "ele:accuracy": "0.0122",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.6182778,
+          42.572
+        ]
+      },
+      "properties": {
+        "name": "Beaver Creek at New Hartford",
+        "official_name": "Beaver Creek at New Hartford, IA",
+        "ref": "05463000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05463000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "268.776",
+        "ele:accuracy": "0.0122",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.4434917,
+          42.53756944
+        ]
+      },
+      "properties": {
+        "name": "Cedar River at Cedar Falls",
+        "official_name": "Cedar River at Cedar Falls, IA",
+        "ref": "05463050",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05463050",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "232.404",
+        "ele:accuracy": "0.0335",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.4632472,
+          42.40776389
+        ]
+      },
+      "properties": {
+        "name": "Black Hawk Creek at Hudson",
+        "official_name": "Black Hawk Creek at Hudson, IA",
+        "ref": "05463500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05463500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "263.64",
+        "ele:accuracy": "0.0122",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.3343472,
+          42.49554444
+        ]
+      },
+      "properties": {
+        "name": "Cedar River at Waterloo",
+        "official_name": "Cedar River at Waterloo, IA",
+        "ref": "05464000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05464000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "251.052",
+        "ele:accuracy": "0.0762",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.2988889,
+          42.25152778
+        ]
+      },
+      "properties": {
+        "name": "Wolf Creek near Dysart",
+        "official_name": "Wolf Creek near Dysart, IA",
+        "ref": "05464220",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05464220",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "252.795",
+        "ele:accuracy": "0.0152",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.0237944,
+          42.17082778
+        ]
+      },
+      "properties": {
+        "name": "Cedar River at Vinton",
+        "official_name": "Cedar River at Vinton, IA",
+        "ref": "05464315",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05464315",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "232.206",
+        "ele:accuracy": "0.064",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7851806,
+          42.06916389
+        ]
+      },
+      "properties": {
+        "name": "Cedar River at Blairs Ferry Road at Palo",
+        "official_name": "Cedar River at Blairs Ferry Road at Palo, IA",
+        "ref": "05464420",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05464420",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "ele": "221.123",
+        "ele:accuracy": "0.0274",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7595985,
+          41.98941597
+        ]
+      },
+      "properties": {
+        "name": "Morgan Creek near Covington",
+        "official_name": "Morgan Creek near Covington, IA",
+        "ref": "05464475",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05464475",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "221.279",
+        "ele:accuracy": "0.0488",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.704903,
+          42.0116655
+        ]
+      },
+      "properties": {
+        "name": "Cedar River at Edgewood Road at Cedar Rapids",
+        "official_name": "Cedar River at Edgewood Road at Cedar Rapids, IA",
+        "ref": "05464480",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05464480",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "217.453",
+        "ele:accuracy": "0.064",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.6671239,
+          41.97194549
+        ]
+      },
+      "properties": {
+        "name": "Cedar River at Cedar Rapids",
+        "official_name": "Cedar River at Cedar Rapids, IA",
+        "ref": "05464500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05464500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "213.384",
+        "ele:accuracy": "0.0335",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.6118611,
+          42.03094444
+        ]
+      },
+      "properties": {
+        "name": "Indian Creek at Marion",
+        "official_name": "Indian Creek at Marion, IA",
+        "ref": "05464695",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05464695",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "233.748",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.5770833,
+          41.963
+        ]
+      },
+      "properties": {
+        "name": "Cedar River below Indian Creek at Cedar Rapids",
+        "official_name": "Cedar River below Indian Creek at Cedar Rapids, IA",
+        "ref": "05464730",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05464730",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "209.602",
+        "ele:accuracy": "0.0244",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.31374,
+          41.7872222
+        ]
+      },
+      "properties": {
+        "name": "Cedar River at Cedar Bluff",
+        "official_name": "Cedar River at Cedar Bluff, IA",
+        "ref": "05464780",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05464780",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "198.592",
+        "ele:accuracy": "0.0427",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.3436944,
+          41.6735833
+        ]
+      },
+      "properties": {
+        "name": "West Branch Wapsinonoc Creek at College Street at West Branch",
+        "official_name": "WB Wapsinonoc Cr at College St at West Branch, IA",
+        "ref": "0546494170",
+        "website": "https://waterdata.usgs.gov/monitoring-location/0546494170",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "213.101",
+        "ele:accuracy": "0.1036",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.2904306,
+          41.40919167
+        ]
+      },
+      "properties": {
+        "name": "Cedar River near Conesville",
+        "official_name": "Cedar River near Conesville, IA",
+        "ref": "05465000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05465000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "177.235",
+        "ele:accuracy": "0.0427",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.3468216,
+          41.27835889
+        ]
+      },
+      "properties": {
+        "name": "Iowa River at Columbus Junction",
+        "official_name": "Iowa River at Columbus Junction, IA",
+        "ref": "05465100",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05465100",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "170.024",
+        "ele:accuracy": "0.0274",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1820917,
+          41.1780861
+        ]
+      },
+      "properties": {
+        "name": "Iowa River at Wapello",
+        "official_name": "Iowa River at Wapello, IA",
+        "ref": "05465500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05465500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "164.007",
+        "ele:accuracy": "0.0488",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0635278,
+          41.10319444
+        ]
+      },
+      "properties": {
+        "name": "Iowa River at Oakville",
+        "official_name": "Iowa River at Oakville, IA",
+        "ref": "05465700",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05465700",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "163.166",
+        "ele:accuracy": "0.0366",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.639938,
+          42.31442529
+        ]
+      },
+      "properties": {
+        "name": "Mud Lake Drainage Ditch 71 at Jewell",
+        "official_name": "Mud Lake Drainage Ditch 71 at Jewell, IA",
+        "ref": "05469860",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05469860",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.6204947,
+          42.15026194
+        ]
+      },
+      "properties": {
+        "name": "Keigley Branch near Story City",
+        "official_name": "Keigley Branch near Story City, IA",
+        "ref": "05469990",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05469990",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "269.852",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.62025,
+          42.0665833
+        ]
+      },
+      "properties": {
+        "name": "South Skunk River near Ames",
+        "official_name": "South Skunk River near Ames, IA",
+        "ref": "05470000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05470000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "270.885",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.6305,
+          42.02255556
+        ]
+      },
+      "properties": {
+        "name": "Ioway Creek at Ames",
+        "official_name": "Ioway Creek at Ames, IA",
+        "ref": "05470500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05470500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "268.37",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.5959722,
+          42.0082222
+        ]
+      },
+      "properties": {
+        "name": "South Skunk River below Ioway Creek near Ames",
+        "official_name": "South Skunk River below Ioway Creek near Ames, IA",
+        "ref": "05471000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05471000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "261.476",
+        "ele:accuracy": "0.0396",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2468333,
+          41.68180556
+        ]
+      },
+      "properties": {
+        "name": "South Skunk River at Colfax",
+        "official_name": "South Skunk River at Colfax, IA",
+        "ref": "05471050",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05471050",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "234.696",
+        "ele:accuracy": "0.0396",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3086944,
+          41.8057222
+        ]
+      },
+      "properties": {
+        "name": "Indian Creek near Mingo",
+        "official_name": "Indian Creek near Mingo, IA",
+        "ref": "05471200",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05471200",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "246.848",
+        "ele:accuracy": "0.0488",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.6573556,
+          41.35570278
+        ]
+      },
+      "properties": {
+        "name": "South Skunk River near Oskaloosa",
+        "official_name": "South Skunk River near Oskaloosa, IA",
+        "ref": "05471500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05471500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "208.812",
+        "ele:accuracy": "0.0701",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.6513024,
+          41.4213916
+        ]
+      },
+      "properties": {
+        "name": "Middle Creek near Lacey",
+        "official_name": "Middle Creek near Lacey, IA",
+        "ref": "05472390",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05472390",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.2046222,
+          41.30084444
+        ]
+      },
+      "properties": {
+        "name": "North Skunk River near Sigourney",
+        "official_name": "North Skunk River near Sigourney, IA",
+        "ref": "05472500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05472500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "198.33",
+        "ele:accuracy": "0.0427",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.6742167,
+          40.92530278
+        ]
+      },
+      "properties": {
+        "name": "Cedar Creek near Oakland Mills",
+        "official_name": "Cedar Creek near Oakland Mills, IA",
+        "ref": "05473400",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05473400",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "172.215",
+        "ele:accuracy": "0.0366",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.5515497,
+          41.0069727
+        ]
+      },
+      "properties": {
+        "name": "Big Creek north of Mount Pleasant",
+        "official_name": "Big Creek North of Mount Pleasant, IA",
+        "ref": "05473450",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05473450",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "195.904",
+        "ele:accuracy": "0.0335",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.2770889,
+          40.75365
+        ]
+      },
+      "properties": {
+        "name": "Skunk River at Augusta",
+        "official_name": "Skunk River at Augusta, IA",
+        "ref": "05474000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05474000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "158.825",
+        "ele:accuracy": "0.0335",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.846,
+          43.39925
+        ]
+      },
+      "properties": {
+        "name": "Des Moines River at Estherville",
+        "official_name": "Des Moines River at Estherville, IA",
+        "ref": "05476500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05476500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "380.275",
+        "ele:accuracy": "0.0488",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.7072222,
+          43.1264722
+        ]
+      },
+      "properties": {
+        "name": "Des Moines River at Emmetsburg",
+        "official_name": "Des Moines River at Emmetsburg, IA",
+        "ref": "05476590",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05476590",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "364.629",
+        "ele:accuracy": "0.0396",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.4626389,
+          42.80575
+        ]
+      },
+      "properties": {
+        "name": "Pilot Creek at County Highway P15 near Rolfe",
+        "official_name": "Pilot Creek at County Hwy P15 near Rolfe, IA",
+        "ref": "05476735",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05476735",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "340.675",
+        "ele:accuracy": "0.0396",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.2202778,
+          42.71944444
+        ]
+      },
+      "properties": {
+        "name": "Des Moines River at Humboldt",
+        "official_name": "Des Moines River at Humboldt, IA",
+        "ref": "05476750",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05476750",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "321.177",
+        "ele:accuracy": "0.0213",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.2305556,
+          43.08266667
+        ]
+      },
+      "properties": {
+        "name": "East Fork Des Moines River near Algona",
+        "official_name": "East Fork Des Moines River near Algona, IA",
+        "ref": "05478265",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05478265",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "334.908",
+        "ele:accuracy": "0.0488",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.19325,
+          42.7236111
+        ]
+      },
+      "properties": {
+        "name": "East Fork Des Moines River at Dakota City",
+        "official_name": "East Fork Des Moines River at Dakota City, IA",
+        "ref": "05479000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05479000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "316.657",
+        "ele:accuracy": "0.0213",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.2566611,
+          42.52880556
+        ]
+      },
+      "properties": {
+        "name": "Lizard Creek near Fort Dodge",
+        "official_name": "Lizard Creek near Fort Dodge, IA",
+        "ref": "05480080",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05480080",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "309.927",
+        "ele:accuracy": "0.0396",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.2033333,
+          42.5083333
+        ]
+      },
+      "properties": {
+        "name": "Des Moines River at Fort Dodge",
+        "official_name": "Des Moines River at Fort Dodge, IA",
+        "ref": "05480500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05480500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "295.409",
+        "ele:accuracy": "0.0213",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.7074355,
+          42.73191657
+        ]
+      },
+      "properties": {
+        "name": "White Fox Creek at Clarion",
+        "official_name": "White Fox Creek at Clarion, IA",
+        "ref": "05480930",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05480930",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.8059444,
+          42.4319722
+        ]
+      },
+      "properties": {
+        "name": "Boone River near Webster City",
+        "official_name": "Boone River near Webster City, IA",
+        "ref": "05481000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05481000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "301.563",
+        "ele:accuracy": "0.0701",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.9974667,
+          42.25225
+        ]
+      },
+      "properties": {
+        "name": "Des Moines River near Stratford",
+        "official_name": "Des Moines River near Stratford, IA",
+        "ref": "05481300",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05481300",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "272.372",
+        "ele:accuracy": "0.0396",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.0199543,
+          42.16636699
+        ]
+      },
+      "properties": {
+        "name": "Bluff Creek at Pilot Mound",
+        "official_name": "Bluff Creek at Pilot Mound, IA",
+        "ref": "05481510",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05481510",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.6676111,
+          41.6803333
+        ]
+      },
+      "properties": {
+        "name": "Des Moines River near Saylorville",
+        "official_name": "Des Moines River near Saylorville, IA",
+        "ref": "05481650",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05481650",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "239.929",
+        "ele:accuracy": "0.061",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.7347222,
+          41.6883333
+        ]
+      },
+      "properties": {
+        "name": "Beaver Creek near Grimes",
+        "official_name": "Beaver Creek near Grimes, IA",
+        "ref": "05481950",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05481950",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "245.836",
+        "ele:accuracy": "0.0396",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.6197222,
+          41.61194444
+        ]
+      },
+      "properties": {
+        "name": "Des Moines River at 2nd Avenue at Des Moines",
+        "official_name": "Des Moines River at 2nd Avenue at Des Moines, IA",
+        "ref": "05482000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05482000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "235.69",
+        "ele:accuracy": "0.1006",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.9910278,
+          42.35455556
+        ]
+      },
+      "properties": {
+        "name": "North Raccoon River near Sac City",
+        "official_name": "North Raccoon River near Sac City, IA",
+        "ref": "05482300",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05482300",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "349.34",
+        "ele:accuracy": "0.0396",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.0413889,
+          42.30388889
+        ]
+      },
+      "properties": {
+        "name": "Black Hawk Lake at Lake View",
+        "official_name": "Black Hawk Lake at Lake View, IA",
+        "ref": "05482315",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05482315",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "369.985",
+        "ele:accuracy": "0.0152",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.7260278,
+          42.16905556
+        ]
+      },
+      "properties": {
+        "name": "North Raccoon River near Lanesboro",
+        "official_name": "North Raccoon River near Lanesboro, IA",
+        "ref": "05482430",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05482430",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "321.96",
+        "ele:accuracy": "0.0274",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.3770833,
+          41.9878611
+        ]
+      },
+      "properties": {
+        "name": "North Raccoon River near Jefferson",
+        "official_name": "North Raccoon River near Jefferson, IA",
+        "ref": "05482500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05482500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "294.745",
+        "ele:accuracy": "0.0213",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8794306,
+          41.94581909
+        ]
+      },
+      "properties": {
+        "name": "Brushy Fork Creek near Templeton",
+        "official_name": "Brushy Fork Creek near Templeton, IA",
+        "ref": "05483318",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05483318",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8788752,
+          42.04165195
+        ]
+      },
+      "properties": {
+        "name": "Middle Raccoon River Tributary at Carroll",
+        "official_name": "Middle Raccoon River Tributary at Carroll, IA",
+        "ref": "05483349",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05483349",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.493,
+          41.7790833
+        ]
+      },
+      "properties": {
+        "name": "Middle Raccoon River near Bayard",
+        "official_name": "Middle Raccoon River near Bayard, IA",
+        "ref": "05483450",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05483450",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "316.904",
+        "ele:accuracy": "0.0396",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.38175,
+          41.6956111
+        ]
+      },
+      "properties": {
+        "name": "Lake Panorama at Panora",
+        "official_name": "Lake Panorama at Panora, IA",
+        "ref": "05483470",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05483470",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "304.888",
+        "ele:accuracy": "0.0396",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.3710556,
+          41.68741667
+        ]
+      },
+      "properties": {
+        "name": "Middle Raccoon River at Panora",
+        "official_name": "Middle Raccoon River at Panora, IA",
+        "ref": "05483600",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05483600",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "302.173",
+        "ele:accuracy": "0.0396",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.1511667,
+          41.59041667
+        ]
+      },
+      "properties": {
+        "name": "South Raccoon River at Redfield",
+        "official_name": "South Raccoon River at Redfield, IA",
+        "ref": "05484000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05484000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "270.842",
+        "ele:accuracy": "0.0396",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.9497778,
+          41.53402778
+        ]
+      },
+      "properties": {
+        "name": "Raccoon River at Van Meter",
+        "official_name": "Raccoon River at Van Meter, IA",
+        "ref": "05484500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05484500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "254.962",
+        "ele:accuracy": "0.1311",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.7818611,
+          41.5281111
+        ]
+      },
+      "properties": {
+        "name": "Raccoon River near West Des Moines",
+        "official_name": "Raccoon River near West Des Moines, IA",
+        "ref": "05484600",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05484600",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "238.564",
+        "ele:accuracy": "0.0396",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.7033333,
+          41.56166667
+        ]
+      },
+      "properties": {
+        "name": "Raccoon River at 63rd Street at Des Moines",
+        "official_name": "Raccoon River at 63rd Street at Des Moines, IA",
+        "ref": "05484650",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05484650",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "235.83",
+        "ele:accuracy": "0.0213",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.7033056,
+          41.5874722
+        ]
+      },
+      "properties": {
+        "name": "Walnut Creek at Des Moines",
+        "official_name": "Walnut Creek at Des Moines, IA",
+        "ref": "05484800",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05484800",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "244.09",
+        "ele:accuracy": "0.0701",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.6426667,
+          41.5815
+        ]
+      },
+      "properties": {
+        "name": "Raccoon River at Fleur Drive at Des Moines",
+        "official_name": "Raccoon River at Fleur Drive at Des Moines, IA",
+        "ref": "05484900",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05484900",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "237.893",
+        "ele:accuracy": "0.0396",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.6056111,
+          41.5785833
+        ]
+      },
+      "properties": {
+        "name": "Des Moines River below Raccoon River at Des Moines",
+        "official_name": "Des Moines River blw Raccoon Riv at Des Moines, IA",
+        "ref": "05485500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05485500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "232.355",
+        "ele:accuracy": "0.0396",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.5696111,
+          41.7173333
+        ]
+      },
+      "properties": {
+        "name": "Fourmile Creek near Ankeny",
+        "official_name": "Fourmile Creek near Ankeny, IA DS1",
+        "ref": "05485605",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05485605",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "263.634",
+        "ele:accuracy": "0.0396",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.5455278,
+          41.61380556
+        ]
+      },
+      "properties": {
+        "name": "Fourmile Creek at Des Moines",
+        "official_name": "Fourmile Creek at Des Moines, IA",
+        "ref": "05485640",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05485640",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "242.493",
+        "ele:accuracy": "0.0396",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.6549722,
+          41.4581111
+        ]
+      },
+      "properties": {
+        "name": "North River near Norwalk",
+        "official_name": "North River near Norwalk, IA",
+        "ref": "05486000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05486000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "240.204",
+        "ele:accuracy": "0.0396",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.5873056,
+          41.4243611
+        ]
+      },
+      "properties": {
+        "name": "Middle River near Indianola",
+        "official_name": "Middle River near Indianola, IA",
+        "ref": "05486490",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05486490",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "236.507",
+        "ele:accuracy": "0.0396",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.4864167,
+          41.33788889
+        ]
+      },
+      "properties": {
+        "name": "South River near Ackworth",
+        "official_name": "South River near Ackworth, IA",
+        "ref": "05487470",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05487470",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "234.647",
+        "ele:accuracy": "0.0396",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2782222,
+          41.48938889
+        ]
+      },
+      "properties": {
+        "name": "Des Moines River near Swan",
+        "official_name": "Des Moines River near Swan, IA",
+        "ref": "05487520",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05487520",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "213.052",
+        "ele:accuracy": "0.0792",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2901389,
+          41.24644444
+        ]
+      },
+      "properties": {
+        "name": "White Breast Creek near Dallas",
+        "official_name": "White Breast Creek near Dallas, IA",
+        "ref": "05487980",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05487980",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "232.547",
+        "ele:accuracy": "0.1128",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.9754722,
+          41.36416667
+        ]
+      },
+      "properties": {
+        "name": "Des Moines River near Pella",
+        "official_name": "Des Moines River near Pella, IA",
+        "ref": "05488110",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05488110",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "182.84",
+        "ele:accuracy": "0.1006",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0449167,
+          41.30038889
+        ]
+      },
+      "properties": {
+        "name": "English Creek near Knoxville",
+        "official_name": "English Creek near Knoxville, IA",
+        "ref": "05488200",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05488200",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "219.974",
+        "ele:accuracy": "0.0396",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.8608222,
+          41.2813611
+        ]
+      },
+      "properties": {
+        "name": "Des Moines River near Tracy",
+        "official_name": "Des Moines River near Tracy, IA",
+        "ref": "05488500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05488500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "204.496",
+        "ele:accuracy": "0.0549",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.9088333,
+          41.2191111
+        ]
+      },
+      "properties": {
+        "name": "Cedar Creek near Bussey",
+        "official_name": "Cedar Creek near Bussey, IA",
+        "ref": "05489000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05489000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "207.743",
+        "ele:accuracy": "0.061",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.6388033,
+          41.1558422
+        ]
+      },
+      "properties": {
+        "name": "Des Moines River at Eddyville",
+        "official_name": "Des Moines River at Eddyville, IA",
+        "ref": "05489200",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05489200",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "182.776",
+        "ele:accuracy": "0.0396",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.4624087,
+          41.01445839
+        ]
+      },
+      "properties": {
+        "name": "Bear Creek at Ottumwa",
+        "official_name": "Bear Creek at Ottumwa, IA",
+        "ref": "05489490",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05489490",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.4112917,
+          41.0108472
+        ]
+      },
+      "properties": {
+        "name": "Des Moines River at Ottumwa",
+        "official_name": "Des Moines River at Ottumwa, IA",
+        "ref": "05489500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05489500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "189.461",
+        "ele:accuracy": "0.0457",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.9596139,
+          40.72780556
+        ]
+      },
+      "properties": {
+        "name": "Des Moines River at Keosauqua",
+        "official_name": "Des Moines River at Keosauqua, IA",
+        "ref": "05490500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05490500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "165.674",
+        "ele:accuracy": "0.0853",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1649167,
+          43.42313889
+        ]
+      },
+      "properties": {
+        "name": "Rock River below Tom Creek at Rock Rapids",
+        "official_name": "Rock River below Tom Creek at Rock Rapids, IA",
+        "ref": "06483290",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06483290",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "398.91",
+        "ele:accuracy": "0.0671",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.177523,
+          43.24525718
+        ]
+      },
+      "properties": {
+        "name": "Burr Oak Creek near Perkins",
+        "official_name": "Burr Oak Creek near Perkins, IA",
+        "ref": "06483495",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06483495",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.2950278,
+          43.2150833
+        ]
+      },
+      "properties": {
+        "name": "Rock River near Rock Valley",
+        "official_name": "Rock River near Rock Valley, IA",
+        "ref": "06483500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06483500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "372.889",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.5619219,
+          42.83752049
+        ]
+      },
+      "properties": {
+        "name": "Big Sioux River at Akron",
+        "official_name": "BIG SIOUX RIVER AT AKRON,IA",
+        "ref": "06485500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06485500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "341.233",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.480503,
+          42.52443909
+        ]
+      },
+      "properties": {
+        "name": "Big Sioux River at Sioux City",
+        "official_name": "BIG SIOUX RIVER AT SIOUX CITY, IA",
+        "ref": "06485950",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06485950",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "323.088",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3703056,
+          42.6933333
+        ]
+      },
+      "properties": {
+        "name": "Perry Creek near Millnerville",
+        "official_name": "Perry Creek near Millnerville, IA",
+        "ref": "06599900",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06599900",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "391.549",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3725279,
+          42.6197153
+        ]
+      },
+      "properties": {
+        "name": "Perry Creek near Hinton",
+        "official_name": "Perry Creek near Hinton, IA",
+        "ref": "06599950",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06599950",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.4104444,
+          42.5352222
+        ]
+      },
+      "properties": {
+        "name": "Perry Creek at 38th Street at Sioux City",
+        "official_name": "Perry Creek at 38th Street at Sioux City, IA",
+        "ref": "06600000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06600000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "339.029",
+        "ele:accuracy": "0.0488",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0003333,
+          42.98280556
+        ]
+      },
+      "properties": {
+        "name": "Floyd River at Alton",
+        "official_name": "Floyd River at Alton, IA",
+        "ref": "06600100",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06600100",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "387.148",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3115556,
+          42.57638889
+        ]
+      },
+      "properties": {
+        "name": "Floyd River at James",
+        "official_name": "Floyd River at James, IA",
+        "ref": "06600500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06600500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "333.235",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.2429167,
+          42.0078333
+        ]
+      },
+      "properties": {
+        "name": "Missouri River at Decatur",
+        "official_name": "Missouri River at Decatur, NE",
+        "ref": "06601200",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06601200",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "308.019",
+        "ele:accuracy": "0.0427",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0778333,
+          42.22705556
+        ]
+      },
+      "properties": {
+        "name": "West Fork Ditch at Hornick",
+        "official_name": "West Fork Ditch at Hornick, IA",
+        "ref": "06602020",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06602020",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "318.915",
+        "ele:accuracy": "0.0183",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1897457,
+          42.47499264
+        ]
+      },
+      "properties": {
+        "name": "Elliott Creek at Lawton",
+        "official_name": "Elliott Creek at Lawton, IA",
+        "ref": "06602190",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06602190",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.99175,
+          41.96491667
+        ]
+      },
+      "properties": {
+        "name": "Monona-Harrison Ditch near Turin",
+        "official_name": "Monona-Harrison Ditch near Turin, IA",
+        "ref": "06602400",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06602400",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "309.518",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1243333,
+          43.46991667
+        ]
+      },
+      "properties": {
+        "name": "Spirit Lake near Orleans",
+        "official_name": "Spirit Lake near Orleans, IA",
+        "ref": "06604000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06604000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "422.843",
+        "ele:accuracy": "0.0366",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1812222,
+          43.37841667
+        ]
+      },
+      "properties": {
+        "name": "West Okoboji Lake at Iowa Lakeside Laboratory near Milford",
+        "official_name": "West Okoboji Lake at Lakeside Lab near Milford, IA",
+        "ref": "06604200",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06604200",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "424.175",
+        "ele:accuracy": "0.061",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2104444,
+          43.12766667
+        ]
+      },
+      "properties": {
+        "name": "Ocheyedan River near Spencer",
+        "official_name": "Ocheyedan River near Spencer, IA",
+        "ref": "06605000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06605000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "399.864",
+        "ele:accuracy": "0.0396",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1611111,
+          42.9725
+        ]
+      },
+      "properties": {
+        "name": "Willow Creek near Cornell",
+        "official_name": "Willow Creek near Cornell, IA",
+        "ref": "06605750",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06605750",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.243,
+          42.89630556
+        ]
+      },
+      "properties": {
+        "name": "Little Sioux River at Linn Grove",
+        "official_name": "Little Sioux River at Linn Grove, IA",
+        "ref": "06605850",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06605850",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "373.036",
+        "ele:accuracy": "0.0427",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7925278,
+          42.4822222
+        ]
+      },
+      "properties": {
+        "name": "Little Sioux River at Correctionville",
+        "official_name": "Little Sioux River at Correctionville, IA",
+        "ref": "06606600",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06606600",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "334.28",
+        "ele:accuracy": "0.0335",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.8102778,
+          42.15677778
+        ]
+      },
+      "properties": {
+        "name": "Maple River at Mapleton",
+        "official_name": "Maple River at Mapleton, IA",
+        "ref": "06607200",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06607200",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "329.583",
+        "ele:accuracy": "0.0061",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.97225,
+          41.96502778
+        ]
+      },
+      "properties": {
+        "name": "Little Sioux River near Turin",
+        "official_name": "Little Sioux River near Turin, IA",
+        "ref": "06607500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06607500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "310.869",
+        "ele:accuracy": "0.0274",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.93225,
+          41.8305833
+        ]
+      },
+      "properties": {
+        "name": "Soldier River at Pisgah",
+        "official_name": "Soldier River at Pisgah, IA",
+        "ref": "06608500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06608500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "316.084",
+        "ele:accuracy": "0.0061",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7823333,
+          41.64169444
+        ]
+      },
+      "properties": {
+        "name": "Boyer River at Logan",
+        "official_name": "Boyer River at Logan, IA",
+        "ref": "06609500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06609500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "308",
+        "ele:accuracy": "0.0396",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7016725,
+          41.9213774
+        ]
+      },
+      "properties": {
+        "name": "Willow Creek near Soldier",
+        "official_name": "Willow Creek near Soldier, IA",
+        "ref": "06609560",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06609560",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3720556,
+          41.3901111
+        ]
+      },
+      "properties": {
+        "name": "West Nishnabotna River at Hancock",
+        "official_name": "West Nishnabotna River at Hancock, IA",
+        "ref": "06807410",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06807410",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "331.08",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5814444,
+          40.87327778
+        ]
+      },
+      "properties": {
+        "name": "West Nishnabotna River at Randolph",
+        "official_name": "West Nishnabotna River at Randolph, IA",
+        "ref": "06808500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06808500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "284.616",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.0768611,
+          41.346
+        ]
+      },
+      "properties": {
+        "name": "East Nishnabotna River near Atlantic",
+        "official_name": "East Nishnabotna River near Atlantic, IA",
+        "ref": "06809210",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06809210",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "337.127",
+        "ele:accuracy": "0.0152",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2413611,
+          41.00902778
+        ]
+      },
+      "properties": {
+        "name": "East Nishnabotna River at Red Oak",
+        "official_name": "East Nishnabotna River at Red Oak, IA",
+        "ref": "06809500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06809500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "306.446",
+        "ele:accuracy": "0.0396",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6445,
+          40.60119444
+        ]
+      },
+      "properties": {
+        "name": "Nishnabotna River above Hamburg",
+        "official_name": "Nishnabotna River above Hamburg, IA",
+        "ref": "06810000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06810000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "271.976",
+        "ele:accuracy": "0.0274",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.102767,
+          41.1016576
+        ]
+      },
+      "properties": {
+        "name": "Tarkio River near Elliott",
+        "official_name": "Tarkio River near Elliott, IA",
+        "ref": "06811760",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06811760",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.093044,
+          41.07999087
+        ]
+      },
+      "properties": {
+        "name": "East Tarkio Creek near Stanton",
+        "official_name": "East Tarkio Creek near Stanton, IA",
+        "ref": "06811800",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06811800",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1297039,
+          40.74249256
+        ]
+      },
+      "properties": {
+        "name": "Snake Creek near Yorktown",
+        "official_name": "Snake Creek near Yorktown, IA",
+        "ref": "06811875",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06811875",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.757755,
+          41.2455425
+        ]
+      },
+      "properties": {
+        "name": "West Nodaway River at Massena",
+        "official_name": "West Nodaway River at Massena, IA",
+        "ref": "06816290",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06816290",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.0145278,
+          40.7432222
+        ]
+      },
+      "properties": {
+        "name": "Nodaway River at Clarinda",
+        "official_name": "Nodaway River at Clarinda, IA",
+        "ref": "06817000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06817000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:air_temperature": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "291.392",
+        "ele:accuracy": "0.0366",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.98025,
+          40.7274722
+        ]
+      },
+      "properties": {
+        "name": "East Nodaway River at Highway 2 near Clarinda",
+        "official_name": "East Nodaway River at Highway 2 near Clarinda, IA",
+        "ref": "06817300",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06817300",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "291.38",
+        "ele:accuracy": "0.0366",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.7163056,
+          40.6609722
+        ]
+      },
+      "properties": {
+        "name": "East Fork 102 River at Bedford",
+        "official_name": "East Fork 102 River at Bedford, IA",
+        "ref": "06819185",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06819185",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "325.987",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.8080556,
+          40.64027778
+        ]
+      },
+      "properties": {
+        "name": "Thompson River at Davis City",
+        "official_name": "Thompson River at Davis City, IA",
+        "ref": "06898000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06898000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "266.508",
+        "ele:accuracy": "0.0213",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2598889,
+          40.9519722
+        ]
+      },
+      "properties": {
+        "name": "Chariton River near Chariton",
+        "official_name": "Chariton River near Chariton, IA",
+        "ref": "06903400",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06903400",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "279.901",
+        "ele:accuracy": "0.061",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.1926861,
+          40.80044444
+        ]
+      },
+      "properties": {
+        "name": "South Fork Chariton River near Promise City",
+        "official_name": "South Fork Chariton River near Promise City, IA",
+        "ref": "06903700",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06903700",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "278.38",
+        "ele:accuracy": "0.0488",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.8944167,
+          40.8235
+        ]
+      },
+      "properties": {
+        "name": "Rathbun Lake near Rathbun",
+        "official_name": "Rathbun Lake near Rathbun, IA",
+        "ref": "06903880",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06903880",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.8909722,
+          40.8218611
+        ]
+      },
+      "properties": {
+        "name": "Chariton River near Rathbun",
+        "official_name": "Chariton River near Rathbun, IA",
+        "ref": "06903900",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06903900",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "258.519",
+        "ele:accuracy": "0.0488",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.8582222,
+          40.75091667
+        ]
+      },
+      "properties": {
+        "name": "Cooper Creek at Centerville",
+        "official_name": "Cooper Creek at Centerville, IA",
+        "ref": "06903990",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06903990",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "257.458",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.7725833,
+          40.69252778
+        ]
+      },
+      "properties": {
+        "name": "Chariton River near Moulton",
+        "official_name": "Chariton River near Moulton, IA",
+        "ref": "06904010",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06904010",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "243.782",
+        "ele:accuracy": "0.0488",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.9466944,
+          42.72441389
+        ]
+      },
+      "properties": {
+        "name": "Boone River near Goldfield",
+        "official_name": "Boone River near Goldfield, IA",
+        "ref": "05480820",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05480820",
+        "man_made": "monitoring_station",
+        "monitoring:flow_rate": "yes",
+        "ele": "325.511",
+        "ele:accuracy": "0.0488",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.374318,
+          40.39365535
+        ]
+      },
+      "properties": {
+        "name": "Mississippi River at Keokuk",
+        "official_name": "Mississippi River at Keokuk, IA",
+        "ref": "05474500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05474500",
+        "man_made": "monitoring_station",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "ele": "145.515",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.8625,
+          41.18916667
+        ]
+      },
+      "properties": {
+        "name": "Missouri River near Council Bluffs",
+        "official_name": "Missouri River near Council Bluffs, IA",
+        "ref": "06610505",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06610505",
+        "man_made": "monitoring_station",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "ele": "287.759",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    }
+  ]
+}
