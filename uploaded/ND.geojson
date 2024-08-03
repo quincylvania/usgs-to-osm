@@ -1,0 +1,3433 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.7162172,
+          47.8055534
+        ]
+      },
+      "properties": {
+        "name": "Sheyenne River near Warwick",
+        "official_name": "SHEYENNE RIVER NR WARWICK, ND",
+        "ref": "05056000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05056000",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4944444,
+          47.8608333
+        ]
+      },
+      "properties": {
+        "name": "Tolna Coulee near Tolna",
+        "official_name": "TOLNA COULEE NEAR TOLNA, ND",
+        "ref": "05056678",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05056678",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.0275954,
+          47.43277097
+        ]
+      },
+      "properties": {
+        "name": "Sheyenne River near Cooperstown",
+        "official_name": "SHEYENNE RIVER NR COOPERSTOWN, ND",
+        "ref": "05057000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05057000",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.1248189,
+          47.2291562
+        ]
+      },
+      "properties": {
+        "name": "Baldhill Creek near Dazey",
+        "official_name": "BALDHILL CREEK NR DAZEY, ND",
+        "ref": "05057200",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05057200",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7894444,
+          48.4061111
+        ]
+      },
+      "properties": {
+        "name": "Homme Reservoir near Park River",
+        "official_name": "HOMME RESERVOIR NR PARK RIVER, ND",
+        "ref": "05088500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05088500",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.5837731,
+          48.45807237
+        ]
+      },
+      "properties": {
+        "name": "Lake Darling near Foxholm",
+        "official_name": "LAKE DARLING NEAR FOXHOLM, ND",
+        "ref": "05115500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05115500",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.7439722,
+          48.45288889
+        ]
+      },
+      "properties": {
+        "name": "White Earth Lake near White Earth",
+        "official_name": "WHITE EARTH LAKE NEAR WHITE EARTH, ND",
+        "ref": "06331885",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06331885",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.8213889,
+          46.81416667
+        ]
+      },
+      "properties": {
+        "name": "Missouri River at Bismarck",
+        "official_name": "MISSOURI RIVER AT BISMARCK, ND",
+        "ref": "06342500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06342500",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:air_humidity": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.5986848,
+          46.26607
+        ]
+      },
+      "properties": {
+        "name": "Red River of the North at Wahpeton",
+        "official_name": "RED RIVER OF THE NORTH AT WAHPETON, ND",
+        "ref": "05051500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05051500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7388889,
+          46.49888889
+        ]
+      },
+      "properties": {
+        "name": "Red River of the North at Enloe",
+        "official_name": "RED RIVER OF THE NORTH AT ENLOE, ND",
+        "ref": "0505152130",
+        "website": "https://waterdata.usgs.gov/monitoring-location/0505152130",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7959154,
+          46.65968548
+        ]
+      },
+      "properties": {
+        "name": "Red River of the North at Hickson",
+        "official_name": "RED RIVER OF THE NORTH AT HICKSON, ND",
+        "ref": "05051522",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05051522",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.511485,
+          46.0221855
+        ]
+      },
+      "properties": {
+        "name": "Wild Rice River near Rutland",
+        "official_name": "WILD RICE RIVER NR RUTLAND, ND",
+        "ref": "05051600",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05051600",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.0106403,
+          46.17245926
+        ]
+      },
+      "properties": {
+        "name": "Wild Rice River near Mantador",
+        "official_name": "WILD RICE RIVER NEAR MANTADOR, ND",
+        "ref": "05052000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05052000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7345217,
+          46.31134769
+        ]
+      },
+      "properties": {
+        "name": "Antelope Creek at Dwight",
+        "official_name": "ANTELOPE CREEK AT DWIGHT, ND",
+        "ref": "05052500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05052500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7823018,
+          46.4705168
+        ]
+      },
+      "properties": {
+        "name": "Wild Rice River near Abercrombie",
+        "official_name": "WILD RICE RIVER NR ABERCROMBIE, ND",
+        "ref": "05053000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05053000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8205556,
+          46.7169444
+        ]
+      },
+      "properties": {
+        "name": "Wild Rice River near St. Benedict",
+        "official_name": "WILD RICE RIVER NR ST BENEDICT, ND",
+        "ref": "05053500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05053500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7836924,
+          46.861075
+        ]
+      },
+      "properties": {
+        "name": "Red River of the North at Fargo",
+        "official_name": "RED RIVER OF THE NORTH AT FARGO, ND",
+        "ref": "05054000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05054000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.9490145,
+          47.7027775
+        ]
+      },
+      "properties": {
+        "name": "Sheyenne River above Harvey",
+        "official_name": "SHEYENNE RIVER ABOVE HARVEY, ND",
+        "ref": "05054500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05054500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.4155556,
+          47.90777778
+        ]
+      },
+      "properties": {
+        "name": "Sheyenne River above Devils Lake State Outlet near Flora",
+        "official_name": "SHEYENNE R AB DEVILS LK STATE OUTLET NR FLORA, ND",
+        "ref": "05055300",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05055300",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2761111,
+          47.82138889
+        ]
+      },
+      "properties": {
+        "name": "Sheyenne River below Devils Lake State Outlet near Bremen",
+        "official_name": "SHEYENNE R BL DEVILS LK STATE OUTLET NR BREMEN, ND",
+        "ref": "05055400",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05055400",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2243037,
+          48.4575008
+        ]
+      },
+      "properties": {
+        "name": "Mauvais Coulee Tributary Number 3 near Cando",
+        "official_name": "MAUVAIS COULEE TRIB NO. 3 NR CANDO, ND",
+        "ref": "05056060",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05056060",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1026354,
+          48.4480588
+        ]
+      },
+      "properties": {
+        "name": "Mauvais Coulee near Cando",
+        "official_name": "MAUVAIS COULEE NR CANDO, ND",
+        "ref": "05056100",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05056100",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.6603958,
+          48.33667157
+        ]
+      },
+      "properties": {
+        "name": "Edmore Coulee near Edmore",
+        "official_name": "EDMORE COULEE NR EDMORE, ND",
+        "ref": "05056200",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05056200",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.6809499,
+          48.2663928
+        ]
+      },
+      "properties": {
+        "name": "Edmore Coulee Tributary near Webster",
+        "official_name": "EDMORE COULEE TRIB NR WEBSTER, ND",
+        "ref": "05056215",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05056215",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.8470683,
+          48.25972559
+        ]
+      },
+      "properties": {
+        "name": "Morrison Lake near Webster",
+        "official_name": "MORRISON LAKE NEAR WEBSTER, ND",
+        "ref": "05056222",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05056222",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9406851,
+          48.3205591
+        ]
+      },
+      "properties": {
+        "name": "Starkweather Coulee near Webster",
+        "official_name": "STARKWEATHER COULEE NR WEBSTER, ND",
+        "ref": "05056239",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05056239",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.983463,
+          48.23111277
+        ]
+      },
+      "properties": {
+        "name": "Dry Lake near Penn",
+        "official_name": "DRY LAKE NEAR PENN, ND",
+        "ref": "05056241",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05056241",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1876342,
+          48.26166538
+        ]
+      },
+      "properties": {
+        "name": "Big Coulee at Highway 2 near Churchs Ferry",
+        "official_name": "BIG COULEE AT HWY 2 NEAR CHURCHS FERRY, ND",
+        "ref": "05056265",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05056265",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.3729125,
+          48.2433322
+        ]
+      },
+      "properties": {
+        "name": "Little Coulee near Leeds",
+        "official_name": "LITTLE COULEE NR LEEDS, ND",
+        "ref": "05056340",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05056340",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9031773,
+          48.09944515
+        ]
+      },
+      "properties": {
+        "name": "Devils Lake near Devils Lake",
+        "official_name": "DEVILS LAKE NR DEVILS LAKE, ND",
+        "ref": "05056500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05056500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.3578795,
+          47.8686089
+        ]
+      },
+      "properties": {
+        "name": "Eastern Stump Lake near Lakota",
+        "official_name": "EASTERN STUMP LAKE NR LAKOTA, ND",
+        "ref": "05056665",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05056665",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.1304194,
+          47.6868222
+        ]
+      },
+      "properties": {
+        "name": "Sheyenne River at County Road 20 near Kloten",
+        "official_name": "SHEYENNE RIVER AT CO RD 20 NR. KLOTEN, ND",
+        "ref": "05056770",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05056770",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.0191667,
+          47.43916667
+        ]
+      },
+      "properties": {
+        "name": "Sheyenne River on Highway 200 near Cooperstown",
+        "official_name": "SHEYENNE RIVER ON HWY 200 NEAR COOPERSTOWN, ND",
+        "ref": "05056995",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05056995",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.0815361,
+          47.03618889
+        ]
+      },
+      "properties": {
+        "name": "Lake Ashtabula at Baldhill Dam",
+        "official_name": "LAKE ASHTABULA AT BALDHILL DAM, ND",
+        "ref": "05057500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05057500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.0837077,
+          47.0338718
+        ]
+      },
+      "properties": {
+        "name": "Sheyenne River below Baldhill Dam",
+        "official_name": "SHEYENNE RIVER BELOW BALDHILL DAM, ND",
+        "ref": "05058000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05058000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.0105556,
+          46.91555556
+        ]
+      },
+      "properties": {
+        "name": "Sheyenne River at Valley City",
+        "official_name": "SHEYENNE RIVER AT VALLEY CITY, ND",
+        "ref": "05058500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05058500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.9299111,
+          46.545575
+        ]
+      },
+      "properties": {
+        "name": "Sheyenne River at Fort Ransom State Park",
+        "official_name": "SHEYENNE RIVER AT FORT RANSOM STATE PARK, ND",
+        "ref": "05058650",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05058650",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6792652,
+          46.4469123
+        ]
+      },
+      "properties": {
+        "name": "Sheyenne River at Lisbon",
+        "official_name": "SHEYENNE RIVER AT LISBON, ND",
+        "ref": "05058700",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05058700",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.0322222,
+          46.60305556
+        ]
+      },
+      "properties": {
+        "name": "Sheyenne River on Gol Road near Kindred",
+        "official_name": "SHEYENNE RIVER ON GOL ROAD NEAR KINDRED, ND",
+        "ref": "05058980",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05058980",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.000643,
+          46.63163288
+        ]
+      },
+      "properties": {
+        "name": "Sheyenne River near Kindred",
+        "official_name": "SHEYENNE RIVER NEAR KINDRED, ND",
+        "ref": "05059000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05059000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9269444,
+          46.74638889
+        ]
+      },
+      "properties": {
+        "name": "Sheyenne River above Sheyenne River Diversion near Horace",
+        "official_name": "SHEYENNE R AB SHEYENNE R DIVERSION NR HORACE, ND",
+        "ref": "05059300",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05059300",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9261978,
+          46.7516335
+        ]
+      },
+      "properties": {
+        "name": "Sheyenne River Diversion near Horace",
+        "official_name": "SHEYENNE RIVER DIVERSION NR HORACE, ND",
+        "ref": "05059310",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05059310",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9045194,
+          46.83378056
+        ]
+      },
+      "properties": {
+        "name": "Sheyenne River on 32nd Avenue East at West Fargo",
+        "official_name": "SHEYENNE RIVER ON 32ND AVE E AT WEST FARGO, ND",
+        "ref": "05059460",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05059460",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9075583,
+          46.84395556
+        ]
+      },
+      "properties": {
+        "name": "Sheyenne River Diversion on Sheyenne Street at West Fargo",
+        "official_name": "SHEYENNE RIVER DIV ON SHEYENNE ST AT W FARGO, ND",
+        "ref": "05059465",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05059465",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.916751,
+          46.8910787
+        ]
+      },
+      "properties": {
+        "name": "Sheyenne River Diversion at West Fargo",
+        "official_name": "SHEYENNE RIVER DIVERSION AT WEST FARGO, ND",
+        "ref": "05059480",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05059480",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9070286,
+          46.8910784
+        ]
+      },
+      "properties": {
+        "name": "Sheyenne River at West Fargo",
+        "official_name": "SHEYENNE RIVER AT WEST FARGO, ND",
+        "ref": "05059500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05059500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7906537,
+          47.32498855
+        ]
+      },
+      "properties": {
+        "name": "Maple River near Hope",
+        "official_name": "MAPLE RIVER NR HOPE, ND",
+        "ref": "05059600",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05059600",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5739851,
+          46.6216388
+        ]
+      },
+      "properties": {
+        "name": "Maple River near Enderlin",
+        "official_name": "MAPLE RIVER NR ENDERLIN, ND",
+        "ref": "05059700",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05059700",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4584167,
+          46.6848611
+        ]
+      },
+      "properties": {
+        "name": "Maple River above Maple River Dam near Sheldon",
+        "official_name": "MAPLE RIVER ABOVE MAPLE RIVER DAM NR SHELDON, ND",
+        "ref": "05059715",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05059715",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.106477,
+          46.8660826
+        ]
+      },
+      "properties": {
+        "name": "Maple River near Mapleton",
+        "official_name": "MAPLE RIVER NR MAPLETON, ND",
+        "ref": "05060000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05060000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.052587,
+          46.9052487
+        ]
+      },
+      "properties": {
+        "name": "Maple River below Mapleton",
+        "official_name": "MAPLE RIVER BL MAPLETON, ND",
+        "ref": "05060100",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05060100",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8917491,
+          46.97746739
+        ]
+      },
+      "properties": {
+        "name": "Sheyenne River at Harwood",
+        "official_name": "SHEYENNE RIVER AT HARWOOD, ND",
+        "ref": "05060400",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05060400",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.214254,
+          47.0166413
+        ]
+      },
+      "properties": {
+        "name": "Rush River at Amenia",
+        "official_name": "RUSH RIVER AT AMENIA, ND",
+        "ref": "05060500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05060500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.843691,
+          47.351918
+        ]
+      },
+      "properties": {
+        "name": "Red River of the North at Halstad",
+        "official_name": "RED RIVER OF THE NORTH AT HALSTAD, MN",
+        "ref": "05064500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05064500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.453424,
+          47.5377646
+        ]
+      },
+      "properties": {
+        "name": "Goose River near Portland",
+        "official_name": "GOOSE RIVER NEAR PORTLAND, ND",
+        "ref": "05065500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05065500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.0611974,
+          47.40942385
+        ]
+      },
+      "properties": {
+        "name": "Goose River at Hillsboro",
+        "official_name": "GOOSE RIVER AT HILLSBORO, ND",
+        "ref": "05066500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05066500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9439684,
+          47.7588646
+        ]
+      },
+      "properties": {
+        "name": "Red River of the North near Thompson",
+        "official_name": "RED RIVER OF THE NORTH NEAR THOMPSON, ND",
+        "ref": "05070000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05070000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.0292435,
+          47.9269234
+        ]
+      },
+      "properties": {
+        "name": "Red River of the North at Grand Forks",
+        "official_name": "RED RIVER OF THE NORTH AT GRAND FORKS, ND",
+        "ref": "05082500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05082500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5145305,
+          47.9319336
+        ]
+      },
+      "properties": {
+        "name": "Turtle River at Turtle River State Park near Arvilla",
+        "official_name": "TURTLE RIVER AT TURTLE R STATE PARK NR ARVILLA, ND",
+        "ref": "05082625",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05082625",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7306431,
+          48.1972148
+        ]
+      },
+      "properties": {
+        "name": "Forest River near Fordville",
+        "official_name": "FOREST RIVER NR FORDVILLE, ND",
+        "ref": "05084000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05084000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3700763,
+          48.286099
+        ]
+      },
+      "properties": {
+        "name": "Forest River at Minto",
+        "official_name": "FOREST RIVER AT MINTO, ND",
+        "ref": "05085000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05085000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4152222,
+          48.4351944
+        ]
+      },
+      "properties": {
+        "name": "Park River Diversion at Grafton",
+        "official_name": "PARK RIVER DIVERSION AT GRAFTON,ND",
+        "ref": "05089995",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05089995",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.412023,
+          48.4247108
+        ]
+      },
+      "properties": {
+        "name": "Park River at Grafton",
+        "official_name": "PARK RIVER AT GRAFTON, ND",
+        "ref": "05090000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05090000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1475697,
+          48.5722064
+        ]
+      },
+      "properties": {
+        "name": "Red River of the North at Drayton",
+        "official_name": "RED RIVER OF THE NORTH AT DRAYTON, ND",
+        "ref": "05092000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05092000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.0059317,
+          48.86527259
+        ]
+      },
+      "properties": {
+        "name": "Little South Pembina River near Walhalla",
+        "official_name": "LITTLE SOUTH PEMBINA RIVER NR WALHALLA, ND",
+        "ref": "05099400",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05099400",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.9170369,
+          48.9133284
+        ]
+      },
+      "properties": {
+        "name": "Pembina River at Walhalla",
+        "official_name": "PEMBINA RIVER AT WALHALLA, ND",
+        "ref": "05099600",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05099600",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5570221,
+          48.9897138
+        ]
+      },
+      "properties": {
+        "name": "Pembina River at Neche",
+        "official_name": "PEMBINA RIVER AT NECHE, ND",
+        "ref": "05100000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05100000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.746759,
+          48.77832786
+        ]
+      },
+      "properties": {
+        "name": "Tongue River at Akra",
+        "official_name": "TONGUE RIVER AT AKRA, ND",
+        "ref": "05101000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05101000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2417314,
+          48.9735988
+        ]
+      },
+      "properties": {
+        "name": "Red River of the North at Pembina",
+        "official_name": "RED RIVER OF THE NORTH AT PEMBINA, ND",
+        "ref": "05102490",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05102490",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.0765734,
+          48.9811417
+        ]
+      },
+      "properties": {
+        "name": "Long Creek near Noonan",
+        "official_name": "LONG CREEK NR NOONAN, ND",
+        "ref": "05113600",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05113600",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.7857303,
+          48.990588
+        ]
+      },
+      "properties": {
+        "name": "East Branch Short Creek Reservoir near Columbus",
+        "official_name": "EAST BRANCH SHORT CREEK RES NR COLUMBUS, ND",
+        "ref": "05113750",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05113750",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.9582209,
+          48.9900156
+        ]
+      },
+      "properties": {
+        "name": "Souris River near Sherwood",
+        "official_name": "SOURIS RIVER NR SHERWOOD, ND",
+        "ref": "05114000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05114000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.5054414,
+          48.3722357
+        ]
+      },
+      "properties": {
+        "name": "Souris River near Foxholm",
+        "official_name": "SOURIS RIVER NR FOXHOLM, ND",
+        "ref": "05116000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05116000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.9973846,
+          48.5897449
+        ]
+      },
+      "properties": {
+        "name": "Des Lacs River near Kenmare",
+        "official_name": "DES LACS RIVER NR KENMARE, ND",
+        "ref": "05116150",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05116150",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.5701633,
+          48.37056947
+        ]
+      },
+      "properties": {
+        "name": "Des Lacs River at Foxholm",
+        "official_name": "DES LACS RIVER AT FOXHOLM, ND",
+        "ref": "05116500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05116500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.3712745,
+          48.2458428
+        ]
+      },
+      "properties": {
+        "name": "Souris River above Minot",
+        "official_name": "SOURIS RIVER ABOVE MINOT, ND",
+        "ref": "05117500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05117500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.2958333,
+          48.23805556
+        ]
+      },
+      "properties": {
+        "name": "Souris River at Broadway Bridge at Minot",
+        "official_name": "SOURIS RIVER AT BROADWAY BRIDGE AT MINOT, ND",
+        "ref": "05117600",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05117600",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.9504287,
+          48.058342
+        ]
+      },
+      "properties": {
+        "name": "Bonnes Coulee near Velva",
+        "official_name": "BONNES COULEE NEAR VELVA, ND",
+        "ref": "05119410",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05119410",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.7295863,
+          48.15972928
+        ]
+      },
+      "properties": {
+        "name": "Souris River near Verendrye",
+        "official_name": "SOURIS RIVER NR VERENDRYE, ND",
+        "ref": "05120000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05120000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.5398623,
+          48.13833739
+        ]
+      },
+      "properties": {
+        "name": "Wintering River near Karlsruhe",
+        "official_name": "WINTERING RIVER NR KARLSRUHE, ND",
+        "ref": "05120500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05120500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.4348534,
+          48.50555109
+        ]
+      },
+      "properties": {
+        "name": "Souris River near Bantry",
+        "official_name": "SOURIS RIVER NR BANTRY, ND",
+        "ref": "05122000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05122000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.441523,
+          48.58777637
+        ]
+      },
+      "properties": {
+        "name": "Willow Creek near Willow City",
+        "official_name": "WILLOW CREEK NR WILLOW CITY, ND",
+        "ref": "05123400",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05123400",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.8626452,
+          48.5841795
+        ]
+      },
+      "properties": {
+        "name": "Deep River near Upham",
+        "official_name": "DEEP RIVER NR UPHAM, ND",
+        "ref": "05123510",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05123510",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.9584889,
+          48.9964079
+        ]
+      },
+      "properties": {
+        "name": "Souris River near Westhope",
+        "official_name": "SOURIS RIVER NR WESTHOPE, ND",
+        "ref": "05124000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05124000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.9668743,
+          47.86196356
+        ]
+      },
+      "properties": {
+        "name": "Yellowstone River near Cartwright",
+        "official_name": "YELLOWSTONE R NO. 2 NR CARTWRIGHT, ND",
+        "ref": "06329610",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06329610",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.7146446,
+          48.1080792
+        ]
+      },
+      "properties": {
+        "name": "Missouri River near Williston",
+        "official_name": "MISSOURI RIVER NR WILLISTON, ND",
+        "ref": "06330000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06330000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.6049186,
+          48.13696847
+        ]
+      },
+      "properties": {
+        "name": "Missouri River at Williston",
+        "official_name": "MISSOURI R NO. 9 AT WILLISTON, ND",
+        "ref": "06330110",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06330110",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.5729718,
+          48.2844683
+        ]
+      },
+      "properties": {
+        "name": "Little Muddy River below Cow Creek near Williston",
+        "official_name": "LITTLE MUDDY RIVER BL COW CREEK NR WILLISTON, ND",
+        "ref": "06331000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06331000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.1662989,
+          47.9925246
+        ]
+      },
+      "properties": {
+        "name": "Tobacco Garden Creek near Watford City",
+        "official_name": "TOBACCO GARDEN CREEK NR WATFORD CITY, ND",
+        "ref": "06331680",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06331680",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.7672222,
+          48.37555556
+        ]
+      },
+      "properties": {
+        "name": "White Earth River at White Earth",
+        "official_name": "WHITE EARTH RIVER AT WHITE EARTH, ND",
+        "ref": "06332000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06332000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.7685256,
+          47.7872369
+        ]
+      },
+      "properties": {
+        "name": "Bear Den Creek near Mandaree",
+        "official_name": "BEAR DEN CREEK NR MANDAREE, ND",
+        "ref": "06332515",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06332515",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.214893,
+          47.94862396
+        ]
+      },
+      "properties": {
+        "name": "East Fork Shell Creek near Parshall",
+        "official_name": "E. FORK SHELL CREEK NR PARSHALL, ND",
+        "ref": "06332523",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06332523",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.1076687,
+          47.73778499
+        ]
+      },
+      "properties": {
+        "name": "Deepwater Creek at mouth near Raub",
+        "official_name": "DEEPWATER CREEK AT MOUTH NR RAUB, ND",
+        "ref": "06332770",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06332770",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.9175,
+          46.29777778
+        ]
+      },
+      "properties": {
+        "name": "Little Missouri River at Marmarth",
+        "official_name": "LITTLE MISSOURI RIVER AT MARMARTH, ND",
+        "ref": "06335500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06335500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.5580556,
+          46.57638889
+        ]
+      },
+      "properties": {
+        "name": "Deep Creek near Amidon",
+        "official_name": "DEEP CREEK NR AMIDON, ND",
+        "ref": "06335750",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06335750",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.5303444,
+          46.9180722
+        ]
+      },
+      "properties": {
+        "name": "Little Missouri River at Medora",
+        "official_name": "LITTLE MISSOURI RIVER AT MEDORA, ND",
+        "ref": "06336000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06336000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.9927057,
+          47.16307028
+        ]
+      },
+      "properties": {
+        "name": "Beaver Creek near Trotters",
+        "official_name": "BEAVER CREEK NR TROTTERS, ND",
+        "ref": "06336600",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06336600",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2526667,
+          47.59140556
+        ]
+      },
+      "properties": {
+        "name": "Little Missouri River near Watford City",
+        "official_name": "LITTLE MISSOURI RIVER NR WATFORD CITY, ND",
+        "ref": "06337000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06337000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.1759944,
+          47.8051944
+        ]
+      },
+      "properties": {
+        "name": "Cherry Creek on Highway 23 near Schafer",
+        "official_name": "CHERRY CREEK ON HWY 23 NR SCHAFER, ND",
+        "ref": "06337200",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06337200",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.7699074,
+          47.2361259
+        ]
+      },
+      "properties": {
+        "name": "Knife River at Manning",
+        "official_name": "KNIFE RIVER AT MANNING, ND",
+        "ref": "06339100",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06339100",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.059892,
+          47.154453
+        ]
+      },
+      "properties": {
+        "name": "Knife River near Golden Valley",
+        "official_name": "KNIFE RIVER NR GOLDEN VALLEY, ND",
+        "ref": "06339500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06339500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.925726,
+          47.2861188
+        ]
+      },
+      "properties": {
+        "name": "Spring Creek at Zap",
+        "official_name": "SPRING CREEK AT ZAP, ND",
+        "ref": "06340000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06340000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.7855556,
+          47.25388889
+        ]
+      },
+      "properties": {
+        "name": "Knife River near Beulah",
+        "official_name": "KNIFE RIVER NEAR BEULAH, ND",
+        "ref": "06340010",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06340010",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.6221093,
+          47.2852816
+        ]
+      },
+      "properties": {
+        "name": "Knife River at Hazen",
+        "official_name": "KNIFE RIVER AT HAZEN, ND",
+        "ref": "06340500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06340500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.3397222,
+          47.2872222
+        ]
+      },
+      "properties": {
+        "name": "Missouri River near Stanton",
+        "official_name": "MISSOURI RIVER NEAR STANTON, ND",
+        "ref": "06340700",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06340700",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.1852778,
+          47.28027778
+        ]
+      },
+      "properties": {
+        "name": "Missouri River near Hensler",
+        "official_name": "MISSOURI RIVER NEAR HENSLER, ND",
+        "ref": "06340900",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06340900",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.0379239,
+          47.2888822
+        ]
+      },
+      "properties": {
+        "name": "Missouri River at Washburn",
+        "official_name": "MISSOURI RIVER AT WASHBURN, ND",
+        "ref": "06341000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06341000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.9323594,
+          47.07971406
+        ]
+      },
+      "properties": {
+        "name": "Missouri River at Price",
+        "official_name": "MISSOURI RIVER AT PRICE, ND",
+        "ref": "06342020",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06342020",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.1957001,
+          47.05749409
+        ]
+      },
+      "properties": {
+        "name": "Square Butte Creek below Center",
+        "official_name": "SQUARE BUTTE CREEK BELOW CENTER, ND",
+        "ref": "06342260",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06342260",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.8137419,
+          46.9149922
+        ]
+      },
+      "properties": {
+        "name": "Burnt Creek near Bismarck",
+        "official_name": "BURNT CREEK NR BISMARCK, ND",
+        "ref": "06342450",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06342450",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.8763611,
+          46.8609722
+        ]
+      },
+      "properties": {
+        "name": "Missouri River above Mandan",
+        "official_name": "MISSOURI RIVER ABV. MANDAN, ND",
+        "ref": "06342470",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06342470",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.9485116,
+          46.86556675
+        ]
+      },
+      "properties": {
+        "name": "Heart River near South Heart",
+        "official_name": "HEART RIVER NR SOUTH HEART, ND",
+        "ref": "06343000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06343000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.0532355,
+          47.02779158
+        ]
+      },
+      "properties": {
+        "name": "Green River near New Hradec",
+        "official_name": "GREEN RIVER NR NEW HRADEC, ND",
+        "ref": "06344600",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06344600",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.3083333,
+          46.74555556
+        ]
+      },
+      "properties": {
+        "name": "Heart River near Richardton",
+        "official_name": "HEART RIVER NR RICHARDTON, ND",
+        "ref": "06345500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06345500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.0793279,
+          46.6569506
+        ]
+      },
+      "properties": {
+        "name": "Heart River above Lake Tschida near Glen Ullin",
+        "official_name": "HEART R AB LAKE TSCHIDA NR GLEN ULLIN, ND",
+        "ref": "06345780",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06345780",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.6454228,
+          46.5452839
+        ]
+      },
+      "properties": {
+        "name": "Antelope Creek near Carson",
+        "official_name": "ANTELOPE CREEK NR CARSON, ND",
+        "ref": "06347000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06347000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.4673665,
+          46.69444606
+        ]
+      },
+      "properties": {
+        "name": "Big Muddy Creek near Almont",
+        "official_name": "BIG MUDDY CREEK NEAR ALMONT, ND",
+        "ref": "06347500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06347500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.2136111,
+          46.7033333
+        ]
+      },
+      "properties": {
+        "name": "Heart River at Stark Bridge near Judson",
+        "official_name": "HEART RIVER AT STARK BRIDGE NR JUDSON, ND",
+        "ref": "06348300",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06348300",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.2531972,
+          46.85110718
+        ]
+      },
+      "properties": {
+        "name": "Sweetbriar Creek near Judson",
+        "official_name": "SWEETBRIAR CREEK NR JUDSON, ND",
+        "ref": "06348500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06348500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.9745789,
+          46.8338827
+        ]
+      },
+      "properties": {
+        "name": "Heart River near Mandan",
+        "official_name": "HEART RIVER NR MANDAN, ND",
+        "ref": "06349000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06349000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.8386111,
+          46.75
+        ]
+      },
+      "properties": {
+        "name": "Missouri River below Mandan",
+        "official_name": "MISSOURI RIVER BELOW MANDAN, ND",
+        "ref": "06349070",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06349070",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.6573459,
+          46.79443787
+        ]
+      },
+      "properties": {
+        "name": "Apple Creek near Menoken",
+        "official_name": "APPLE CREEK NR MENOKEN, ND",
+        "ref": "06349500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06349500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.7340153,
+          46.8072156
+        ]
+      },
+      "properties": {
+        "name": "Hay Creek at Main Avenue in Bismarck",
+        "official_name": "HAY CREEK AT MAIN AVENUE IN BISMARCK, ND",
+        "ref": "06349600",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06349600",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.7391667,
+          46.65638889
+        ]
+      },
+      "properties": {
+        "name": "Missouri River near Schmidt",
+        "official_name": "MISSOURI RIVER NR SCHMIDT, ND",
+        "ref": "06349700",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06349700",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.5518303,
+          46.42667116
+        ]
+      },
+      "properties": {
+        "name": "Cannonball River at Regent",
+        "official_name": "CANNONBALL RIVER AT REGENT, ND",
+        "ref": "06350000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06350000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.333187,
+          46.1269476
+        ]
+      },
+      "properties": {
+        "name": "Cannonball River near Raleigh",
+        "official_name": "CANNONBALL RIVER NR RALEIGH, ND",
+        "ref": "06351200",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06351200",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.4757133,
+          46.15528136
+        ]
+      },
+      "properties": {
+        "name": "Cedar Creek near Haynes",
+        "official_name": "CEDAR CREEK NR HAYNES, ND",
+        "ref": "06352000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06352000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.333742,
+          46.09166988
+        ]
+      },
+      "properties": {
+        "name": "Cedar Creek near Raleigh",
+        "official_name": "CEDAR CREEK NR RALEIGH, ND",
+        "ref": "06353000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06353000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.9344444,
+          46.3761111
+        ]
+      },
+      "properties": {
+        "name": "Cannonball River at Breien",
+        "official_name": "CANNONBALL RIVER AT BREIEN, ND",
+        "ref": "06354000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06354000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.7998333,
+          46.39055556
+        ]
+      },
+      "properties": {
+        "name": "Cannonball River at Solen",
+        "official_name": "CANNONBALL RIVER AT SOLEN, ND",
+        "ref": "06354050",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06354050",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.8369444,
+          46.11388889
+        ]
+      },
+      "properties": {
+        "name": "South Branch Beaver Creek near Zeeland",
+        "official_name": "SOUTH BRANCH BEAVER CREEK NEAR ZEELAND, ND",
+        "ref": "06354480",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06354480",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.9827778,
+          46.22805556
+        ]
+      },
+      "properties": {
+        "name": "Beaver Creek near Strasburg",
+        "official_name": "BEAVER CREEK NEAR STRASBURG, ND",
+        "ref": "06354490",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06354490",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.2526142,
+          46.2686015
+        ]
+      },
+      "properties": {
+        "name": "Beaver Creek below Linton",
+        "official_name": "BEAVER CREEK BL LINTON, ND",
+        "ref": "06354580",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06354580",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.751796,
+          46.19332999
+        ]
+      },
+      "properties": {
+        "name": "Porcupine Creek near Fort Yates",
+        "official_name": "PORCUPINE CREEK NR FT YATES, ND",
+        "ref": "06354815",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06354815",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3068466,
+          45.95250247
+        ]
+      },
+      "properties": {
+        "name": "North Fork Grand River above Bowman-Haley Lake near Haley",
+        "official_name": "N FORK GRAND R AB BOWMAN-HALEY LK, NR HALEY, ND",
+        "ref": "06354890",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06354890",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2918457,
+          46.0177813
+        ]
+      },
+      "properties": {
+        "name": "Spring Creek near Haley",
+        "official_name": "SPRING CREEK NR HALEY, ND",
+        "ref": "06354980",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06354980",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.862885,
+          47.5580525
+        ]
+      },
+      "properties": {
+        "name": "James River near Grace City",
+        "official_name": "JAMES RIVER NR GRACE CITY, ND",
+        "ref": "06468170",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06468170",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.7976057,
+          47.3997189
+        ]
+      },
+      "properties": {
+        "name": "James River above Arrowwood Lake near Kensal",
+        "official_name": "JAMES RIVER ABOVE ARROWWOOD LAKE NR KENSAL, ND",
+        "ref": "06468250",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06468250",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9689998,
+          47.1674948
+        ]
+      },
+      "properties": {
+        "name": "Pipestem Creek near Pingree",
+        "official_name": "PIPESTEM CREEK NR PINGREE, ND",
+        "ref": "06469400",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06469400",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.918998,
+          47.0663814
+        ]
+      },
+      "properties": {
+        "name": "Pipestem Creek near Buchanan",
+        "official_name": "PIPESTEM CREEK NEAR BUCHANAN, ND",
+        "ref": "06469500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06469500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.6816667,
+          46.8897222
+        ]
+      },
+      "properties": {
+        "name": "James River at Jamestown",
+        "official_name": "JAMES RIVER AT JAMESTOWN, ND",
+        "ref": "06470000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06470000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5723174,
+          46.6291461
+        ]
+      },
+      "properties": {
+        "name": "James River at State Route 46 near Adrian",
+        "official_name": "JAMES RIVER AT STATE ROUTE 46 NR ADRIAN, ND",
+        "ref": "06470425",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06470425",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.3045433,
+          46.35552489
+        ]
+      },
+      "properties": {
+        "name": "James River at Lamoure",
+        "official_name": "JAMES RIVER AT LAMOURE, ND",
+        "ref": "06470500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06470500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.0717676,
+          46.2252439
+        ]
+      },
+      "properties": {
+        "name": "Bear Creek near Oakes",
+        "official_name": "BEAR CREEK NR OAKES, ND",
+        "ref": "06470800",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06470800",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.1742692,
+          45.9363579
+        ]
+      },
+      "properties": {
+        "name": "James River at North Dakota-South Dakota State Line",
+        "official_name": "JAMES RIVER AT ND-SD STATE LINE",
+        "ref": "06470878",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06470878",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4526004,
+          45.93886156
+        ]
+      },
+      "properties": {
+        "name": "Maple River at North Dakota-South Dakota State Line",
+        "official_name": "MAPLE RIVER AT ND-SD STATE LINE",
+        "ref": "06471200",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06471200",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.7794444,
+          46.78416667
+        ]
+      },
+      "properties": {
+        "name": "Drain on Wachter Avenue at Bismarck",
+        "official_name": "DRAIN ON WACHTER AVE AT BISMARCK, ND",
+        "ref": "464703100464600",
+        "website": "https://waterdata.usgs.gov/monitoring-location/464703100464600",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.3976595,
+          47.3580547
+        ]
+      },
+      "properties": {
+        "name": "Knife River near Stanton",
+        "official_name": "KNIFE RIVER NR STANTON, ND",
+        "ref": "06340590",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06340590",
+        "man_made": "monitoring_station",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    }
+  ]
+}
