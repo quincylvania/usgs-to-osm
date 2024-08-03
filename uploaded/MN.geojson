@@ -1,0 +1,3283 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.4188018,
+          46.7032765
+        ]
+      },
+      "properties": {
+        "name": "St. Louis River at Scanlon",
+        "official_name": "ST. LOUIS RIVER AT SCANLON, MN",
+        "ref": "04024000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/04024000",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6386814,
+          45.76857167
+        ]
+      },
+      "properties": {
+        "name": "Lake Traverse at Reservation Dam near Wheaton",
+        "official_name": "LAKE TRAVERSE AT RESERVATION DAM NEAR WHEATON, MN",
+        "ref": "05049700",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05049700",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5143992,
+          48.17551858
+        ]
+      },
+      "properties": {
+        "name": "Upper Red Lake at Waskish",
+        "official_name": "UPPER RED LAKE AT WASKISH, MN",
+        "ref": "05073500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05073500",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2763936,
+          47.9574572
+        ]
+      },
+      "properties": {
+        "name": "Lower Red Lake near Red Lake",
+        "official_name": "LOWER RED LAKE NR RED LAKE, MN",
+        "ref": "05074000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05074000",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.8071245,
+          48.1957849
+        ]
+      },
+      "properties": {
+        "name": "Big Fork River at Big Falls",
+        "official_name": "BIG FORK RIVER AT BIG FALLS, MN",
+        "ref": "05132000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05132000",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3160708,
+          48.9041545
+        ]
+      },
+      "properties": {
+        "name": "Lake of the Woods at Warroad",
+        "official_name": "LAKE OF THE WOODS AT WARROAD, MN",
+        "ref": "05140520",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05140520",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.2869157,
+          47.1705106
+        ]
+      },
+      "properties": {
+        "name": "Leech Lake at Sugar Point near Federal Dam",
+        "official_name": "LEECH LAKE AT SUGAR POINT NEAR FEDERAL DAM, MN",
+        "ref": "05205900",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05205900",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.9013889,
+          47.3022222
+        ]
+      },
+      "properties": {
+        "name": "Mississippi River at Willow Beach at Ball Club",
+        "official_name": "MISSISSIPPI RIVER AT WILLOW BEACH AT BALL CLUB, MN",
+        "ref": "05207600",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05207600",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.7074712,
+          46.5405128
+        ]
+      },
+      "properties": {
+        "name": "Mississippi River at Aitkin",
+        "official_name": "MISSISSIPPI RIVER AT AITKIN, MN",
+        "ref": "05227500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05227500",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2127224,
+          44.91552097
+        ]
+      },
+      "properties": {
+        "name": "Minnehaha Creek at Hiawatha Avenue in Minneapolis",
+        "official_name": "MINNEHAHA CREEK AT HIAWATHA AVE. IN MINNEAPOLIS,MN",
+        "ref": "05289800",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05289800",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.8683648,
+          45.0213472
+        ]
+      },
+      "properties": {
+        "name": "Minnesota River near Lac qui Parle",
+        "official_name": "MINNESOTA RIVER NEAR LAC QUI PARLE, MN",
+        "ref": "05301000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05301000",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7989224,
+          45.108292
+        ]
+      },
+      "properties": {
+        "name": "Chippewa River near Milan",
+        "official_name": "CHIPPEWA RIVER NEAR MILAN, MN",
+        "ref": "05304500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05304500",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7336374,
+          44.9332903
+        ]
+      },
+      "properties": {
+        "name": "Minnesota River at Montevideo",
+        "official_name": "MINNESOTA RIVER AT MONTEVIDEO, MN",
+        "ref": "05311000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05311000",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.641902,
+          44.69301845
+        ]
+      },
+      "properties": {
+        "name": "Minnesota River near Jordan",
+        "official_name": "MINNESOTA RIVER NEAR JORDAN, MN",
+        "ref": "05330000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05330000",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.1596667,
+          44.4585833
+        ]
+      },
+      "properties": {
+        "name": "Cannon River at Northfield",
+        "official_name": "CANNON RIVER AT NORTHFIELD MN",
+        "ref": "05355024",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05355024",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.4662889,
+          44.061631
+        ]
+      },
+      "properties": {
+        "name": "South Fork Zumbro River at Rochester",
+        "official_name": "SOUTH FORK ZUMBRO RIVER AT ROCHESTER, MN",
+        "ref": "05372995",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05372995",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.5698654,
+          43.76857719
+        ]
+      },
+      "properties": {
+        "name": "Root River near Houston",
+        "official_name": "ROOT RIVER NEAR HOUSTON, MN",
+        "ref": "05385000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05385000",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.2726347,
+          43.68663579
+        ]
+      },
+      "properties": {
+        "name": "Mississippi River at Brownsville",
+        "official_name": "MISSISSIPPI RIVER AT BROWNSVILLE, MN",
+        "ref": "05386400",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05386400",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.4977596,
+          46.2500226
+        ]
+      },
+      "properties": {
+        "name": "Precipitation Station at Camp Ripley",
+        "official_name": "NADP MN23 PREC STA AT CAMP RIPLEY, MN",
+        "ref": "461458094295000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/461458094295000",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6161984,
+          48.01210765
+        ]
+      },
+      "properties": {
+        "name": "Pigeon River at Middle Falls near Grand Portage",
+        "official_name": "PIGEON RIVER AT MIDDLE FALLS NR GRAND PORTAGE MN",
+        "ref": "04010500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/04010500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6834233,
+          47.9634982
+        ]
+      },
+      "properties": {
+        "name": "Grand Portage River at Grand Portage",
+        "official_name": "GRAND PORTAGE RIVER AT GRAND PORTAGE MN",
+        "ref": "04010510",
+        "website": "https://waterdata.usgs.gov/monitoring-location/04010510",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7924013,
+          46.94688005
+        ]
+      },
+      "properties": {
+        "name": "Knife River near Two Harbors",
+        "official_name": "KNIFE RIVER NEAR TWO HARBORS, MN",
+        "ref": "04015330",
+        "website": "https://waterdata.usgs.gov/monitoring-location/04015330",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.04,
+          47.4811111
+        ]
+      },
+      "properties": {
+        "name": "St. Louis River near Skibo",
+        "official_name": "ST. LOUIS RIVER NEAR SKIBO, MN",
+        "ref": "04015438",
+        "website": "https://waterdata.usgs.gov/monitoring-location/04015438",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.6366667,
+          46.78166667
+        ]
+      },
+      "properties": {
+        "name": "Stoney Brook at Pine Drive near Brookston",
+        "official_name": "STONEY BROOK AT PINE DRIVE NEAR BROOKSTON, MN",
+        "ref": "04021520",
+        "website": "https://waterdata.usgs.gov/monitoring-location/04021520",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0175556,
+          46.3694039
+        ]
+      },
+      "properties": {
+        "name": "Otter Tail River near Elizabeth",
+        "official_name": "OTTER TAIL RIVER NEAR ELIZABETH, MN",
+        "ref": "05030500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05030500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1850614,
+          46.20968199
+        ]
+      },
+      "properties": {
+        "name": "Otter Tail River below Orwell Dam near Fergus Falls",
+        "official_name": "OTTER TAIL RIVER BL ORWELL D NR FERGUS FALLS, MN",
+        "ref": "05046000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05046000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.5821111,
+          46.27724167
+        ]
+      },
+      "properties": {
+        "name": "Otter Tail River Diversion at Breckenridge",
+        "official_name": "OTTER TAIL RIVER DIVERSION AT BRECKENRIDGE, MN",
+        "ref": "05046475",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05046475",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.4906218,
+          45.820794
+        ]
+      },
+      "properties": {
+        "name": "Mustinka River above Wheaton",
+        "official_name": "MUSTINKA RIVER ABOVE WHEATON, MN",
+        "ref": "05049000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05049000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6388889,
+          45.7694444
+        ]
+      },
+      "properties": {
+        "name": "Lake Traverse Outlet at Reservation Dam near Wheaton",
+        "official_name": "LAKE TRAVERSE OTLT AT RESERVATION DAM NR WHEATON",
+        "ref": "05049710",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05049710",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.5729444,
+          45.83605556
+        ]
+      },
+      "properties": {
+        "name": "Mud Lake north of 670th Street near Wheaton",
+        "official_name": "MUD LAKE NORTH OF 670TH STREET NEAR WHEATON, MN",
+        "ref": "05049900",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05049900",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.5792389,
+          46.1521813
+        ]
+      },
+      "properties": {
+        "name": "Bois De Sioux River near Doran",
+        "official_name": "BOIS DE SIOUX RIVER NEAR DORAN, MN",
+        "ref": "05051300",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05051300",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3295093,
+          46.84995979
+        ]
+      },
+      "properties": {
+        "name": "Buffalo River near Hawley",
+        "official_name": "BUFFALO RIVER NEAR HAWLEY, MN",
+        "ref": "05061000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05061000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6281318,
+          46.7755175
+        ]
+      },
+      "properties": {
+        "name": "South Branch Buffalo River at Sabin",
+        "official_name": "SOUTH BRANCH BUFFALO RIVER AT SABIN, MN",
+        "ref": "05061500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05061500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.661465,
+          46.9610736
+        ]
+      },
+      "properties": {
+        "name": "Buffalo River near Dilworth",
+        "official_name": "BUFFALO RIVER NEAR DILWORTH, MN",
+        "ref": "05062000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05062000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8170556,
+          47.0926944
+        ]
+      },
+      "properties": {
+        "name": "Red River of the North near Georgetown",
+        "official_name": "RED RIVER OF THE NORTH NEAR GEORGETOWN, MN",
+        "ref": "05062130",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05062130",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.2475,
+          47.26555556
+        ]
+      },
+      "properties": {
+        "name": "Wild Rice River at Twin Valley",
+        "official_name": "WILD RICE RIVER AT TWIN VALLEY, MN",
+        "ref": "05062500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05062500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3858333,
+          47.1133333
+        ]
+      },
+      "properties": {
+        "name": "South Branch Wild Rice River at County Road 27 near Felton",
+        "official_name": "S. BR. WILD RICE RIVER AT CO. RD. 27 NR FELTON, MN",
+        "ref": "05063398",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05063398",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7975783,
+          47.26802728
+        ]
+      },
+      "properties": {
+        "name": "Wild Rice River at Hendrum",
+        "official_name": "WILD RICE RIVER AT HENDRUM, MN",
+        "ref": "05064000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05064000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.764244,
+          47.41247148
+        ]
+      },
+      "properties": {
+        "name": "Marsh River near Shelly",
+        "official_name": "MARSH RIVER NEAR SHELLY, MN",
+        "ref": "05067500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05067500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8147998,
+          47.61191807
+        ]
+      },
+      "properties": {
+        "name": "Sand Hill River at Climax",
+        "official_name": "SAND HILL RIVER AT CLIMAX, MN",
+        "ref": "05069000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05069000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2766714,
+          47.9574572
+        ]
+      },
+      "properties": {
+        "name": "Red Lake River near Red Lake",
+        "official_name": "RED LAKE RIVER NEAR RED LAKE, MN",
+        "ref": "05074500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05074500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.8086296,
+          48.04857277
+        ]
+      },
+      "properties": {
+        "name": "Red Lake River at High Landing near Goodridge",
+        "official_name": "RED LAKE RIVER AT HIGH LANDING NR GOODRIDGE, MN",
+        "ref": "05075000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05075000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1700335,
+          48.1855249
+        ]
+      },
+      "properties": {
+        "name": "Thief River near Thief River Falls",
+        "official_name": "THIEF RIVER NEAR THIEF RIVER FALLS, MN",
+        "ref": "05076000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05076000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0464226,
+          47.9232974
+        ]
+      },
+      "properties": {
+        "name": "Clearwater River at Plummer",
+        "official_name": "CLEARWATER RIVER AT PLUMMER, MN",
+        "ref": "05078000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05078000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.8586369,
+          47.84301627
+        ]
+      },
+      "properties": {
+        "name": "Lost River at Oklee",
+        "official_name": "LOST RIVER AT OKLEE, MN",
+        "ref": "05078230",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05078230",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.2765806,
+          47.88620556
+        ]
+      },
+      "properties": {
+        "name": "Clearwater River at Red Lake Falls",
+        "official_name": "CLEARWATER RIVER AT RED LAKE FALLS, MN",
+        "ref": "05078500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05078500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6095101,
+          47.77552716
+        ]
+      },
+      "properties": {
+        "name": "Red Lake River at Crookston",
+        "official_name": "RED LAKE RIVER AT CROOKSTON, MN",
+        "ref": "05079000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05079000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8089627,
+          47.8002519
+        ]
+      },
+      "properties": {
+        "name": "Red Lake River at Fisher",
+        "official_name": "RED LAKE RIVER AT FISHER, MN",
+        "ref": "05080000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05080000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.140628,
+          48.19387265
+        ]
+      },
+      "properties": {
+        "name": "Red River of the North at Oslo",
+        "official_name": "RED RIVER OF THE NORTH AT OSLO, MN",
+        "ref": "05083500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05083500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7180556,
+          48.2097222
+        ]
+      },
+      "properties": {
+        "name": "Snake River above Warren",
+        "official_name": "SNAKE RIVER ABOVE WARREN, MN",
+        "ref": "05085450",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05085450",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8164502,
+          48.3402552
+        ]
+      },
+      "properties": {
+        "name": "Middle River at Argyle",
+        "official_name": "MIDDLE RIVER AT ARGYLE, MN",
+        "ref": "05087500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05087500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6675444,
+          48.7324786
+        ]
+      },
+      "properties": {
+        "name": "South Branch Two Rivers at Lake Bronson",
+        "official_name": "SOUTH BRANCH TWO RIVERS AT LAKE BRONSON, MN",
+        "ref": "05094000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05094000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7424885,
+          48.79470197
+        ]
+      },
+      "properties": {
+        "name": "Roseau River below South Fork near Malung",
+        "official_name": "ROSEAU RIVER BELOW SOUTH FORK NEAR MALUNG, MN",
+        "ref": "05104500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05104500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6621992,
+          48.99248859
+        ]
+      },
+      "properties": {
+        "name": "Sprague Creek near Sprague",
+        "official_name": "SPRAGUE CREEK NEAR SPRAGUE, MANITOBA, CANADA",
+        "ref": "05106000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05106000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9219402,
+          48.9102603
+        ]
+      },
+      "properties": {
+        "name": "Roseau River at Ross",
+        "official_name": "ROSEAU RIVER AT ROSS, MN",
+        "ref": "05107500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05107500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.4630804,
+          48.98164829
+        ]
+      },
+      "properties": {
+        "name": "Roseau River below State Ditch 51 near Caribou",
+        "official_name": "ROSEAU RIVER BELOW STATE DITCH 51 NR CARIBOU, MN",
+        "ref": "05112000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05112000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.535126,
+          47.9226749
+        ]
+      },
+      "properties": {
+        "name": "Kawishiwi River near Ely",
+        "official_name": "KAWISHIWI RIVER NEAR ELY, MN",
+        "ref": "05124480",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05124480",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.69541879,
+          47.83990347
+        ]
+      },
+      "properties": {
+        "name": "South Kawishiwi River near Ely",
+        "official_name": "SOUTH KAWISHIWI RIVER NEAR ELY, MN",
+        "ref": "05125000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05125000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7990339,
+          47.84185
+        ]
+      },
+      "properties": {
+        "name": "South Kawishiwi River above White Iron Lake near Ely",
+        "official_name": "SOUTH KAWISHIWI R ABV WHITE IRON LAKE NR ELY, MN",
+        "ref": "05126210",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05126210",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.6526237,
+          48.0823937
+        ]
+      },
+      "properties": {
+        "name": "Basswood River near Winton",
+        "official_name": "BASSWOOD RIVER NEAR WINTON, MN",
+        "ref": "05127500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05127500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.5568459,
+          47.631035
+        ]
+      },
+      "properties": {
+        "name": "Sand River near Britt",
+        "official_name": "SAND RIVER NEAR BRITT, MN",
+        "ref": "05128400",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05128400",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.5659935,
+          48.2646282
+        ]
+      },
+      "properties": {
+        "name": "Vermilion River near Crane Lake",
+        "official_name": "VERMILION RIVER NR CRANE LAKE, MN",
+        "ref": "05129115",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05129115",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0748688,
+          48.5243635
+        ]
+      },
+      "properties": {
+        "name": "Gold Portage Outlet from Kabetogama Lake near Ray",
+        "official_name": "GOLD PORTAGE OUTLET FROM KABETOGAMA LK NR RAY,MN",
+        "ref": "05129290",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05129290",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.4466667,
+          48.5922222
+        ]
+      },
+      "properties": {
+        "name": "Rainy River at Boat Landing below International Falls",
+        "official_name": "RAINY R AT BOAT LANDING BLW INTERNATIONAL FALLS,MN",
+        "ref": "05129515",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05129515",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.5493266,
+          48.39577636
+        ]
+      },
+      "properties": {
+        "name": "Little Fork River at Littlefork",
+        "official_name": "LITTLE FORK RIVER AT LITTLEFORK, MN",
+        "ref": "05131500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05131500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.913228,
+          48.6344009
+        ]
+      },
+      "properties": {
+        "name": "Rainy River at Manitou Rapids",
+        "official_name": "RAINY RIVER AT MANITOU RAPIDS, MN",
+        "ref": "05133500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05133500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.562716,
+          48.53608068
+        ]
+      },
+      "properties": {
+        "name": "Rapid River near Baudette",
+        "official_name": "RAPID RIVER NEAR BAUDETTE, MN",
+        "ref": "05134200",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05134200",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.705,
+          48.83027778
+        ]
+      },
+      "properties": {
+        "name": "Rainy River near Boat Landing at Wheelers Point",
+        "official_name": "RAINY RIVER NEAR BOAT LANDING AT WHEELERS POINT,MN",
+        "ref": "05137500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05137500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3069039,
+          48.9458227
+        ]
+      },
+      "properties": {
+        "name": "Lake of the Woods at Springsteel Island near Warroad",
+        "official_name": "LK OF THE WOODS @ SPRINGSTEEL IS NR. WARROAD, MN",
+        "ref": "05140521",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05140521",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.7280436,
+          47.48328559
+        ]
+      },
+      "properties": {
+        "name": "Mississippi River near Bemidji",
+        "official_name": "MISSISSIPPI RIVER NEAR BEMIDJI, MN",
+        "ref": "05200510",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05200510",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.802999,
+          47.2521722
+        ]
+      },
+      "properties": {
+        "name": "Mississippi River at Days High Landing near Deer River",
+        "official_name": "MISSISSIPPI R. AT DAYS HIGH LANDING NR DEER RIVER",
+        "ref": "05210000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05210000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.5302144,
+          47.23216599
+        ]
+      },
+      "properties": {
+        "name": "Mississippi River at Grand Rapids",
+        "official_name": "MISSISSIPPI RIVER AT GRAND RAPIDS, MN",
+        "ref": "05211000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05211000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.380757,
+          47.3888277
+        ]
+      },
+      "properties": {
+        "name": "Prairie River near Taconite",
+        "official_name": "PRAIRIE RIVER NEAR TACONITE, MN",
+        "ref": "05212700",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05212700",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.6869444,
+          46.59166667
+        ]
+      },
+      "properties": {
+        "name": "Mississippi River Diversion near Aitkin",
+        "official_name": "MISSISSIPPI RIVER DIVERSION NEAR AITKIN, MN",
+        "ref": "05227530",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05227530",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.1833279,
+          46.377744
+        ]
+      },
+      "properties": {
+        "name": "Mississippi River at Brainerd",
+        "official_name": "MISSISSIPPI RIVER AT BRAINERD, MN",
+        "ref": "05242300",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05242300",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.0658552,
+          46.87495909
+        ]
+      },
+      "properties": {
+        "name": "Straight River near Park Rapids",
+        "official_name": "STRAIGHT RIVER NEAR PARK RAPIDS, MN",
+        "ref": "05243725",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05243725",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8791839,
+          46.64023789
+        ]
+      },
+      "properties": {
+        "name": "Crow Wing River at Nimrod",
+        "official_name": "CROW WING RIVER AT NIMROD, MN",
+        "ref": "05244000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05244000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8658552,
+          45.97496449
+        ]
+      },
+      "properties": {
+        "name": "Long Prairie River at Long Prairie",
+        "official_name": "LONG PRAIRIE RIVER AT LONG PRAIRIE, MN",
+        "ref": "05245100",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05245100",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.3775036,
+          46.304967
+        ]
+      },
+      "properties": {
+        "name": "Crow Wing River near Pillager",
+        "official_name": "CROW WING RIVER NEAR PILLAGER, MN",
+        "ref": "05247500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05247500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.3552782,
+          45.8260765
+        ]
+      },
+      "properties": {
+        "name": "Mississippi River near Royalton",
+        "official_name": "MISSISSIPPI RIVER NEAR ROYALTON, MN",
+        "ref": "05267000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05267000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.2336033,
+          45.55968715
+        ]
+      },
+      "properties": {
+        "name": "Sauk River near St. Cloud",
+        "official_name": "SAUK RIVER NEAR ST. CLOUD, MN",
+        "ref": "05270500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05270500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.145822,
+          45.5471875
+        ]
+      },
+      "properties": {
+        "name": "Mississippi River at St. Cloud",
+        "official_name": "MISSISSIPPI RIVER AT ST. CLOUD, MN",
+        "ref": "05270700",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05270700",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.6669098,
+          45.3338537
+        ]
+      },
+      "properties": {
+        "name": "Elk River near Big Lake",
+        "official_name": "ELK RIVER NEAR BIG LAKE, MN",
+        "ref": "05275000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05275000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.734132,
+          45.0866297
+        ]
+      },
+      "properties": {
+        "name": "Crow River at Rockford",
+        "official_name": "CROW RIVER AT ROCKFORD, MN",
+        "ref": "05280000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05280000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.394676,
+          45.19163166
+        ]
+      },
+      "properties": {
+        "name": "Mississippi River at U.S. Route 169 at Champlin",
+        "official_name": "MISSISSIPPI RIVER AT US HWY 169 AT CHAMPLIN, MN",
+        "ref": "05283500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05283500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.7563251,
+          46.16069266
+        ]
+      },
+      "properties": {
+        "name": "Mille Lacs Lake at Cove Bay near Onamia",
+        "official_name": "MILLE LACS LAKE AT COVE BAY NEAR ONAMIA, MN",
+        "ref": "05284000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05284000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3724537,
+          45.32774267
+        ]
+      },
+      "properties": {
+        "name": "Rum River near St. Francis",
+        "official_name": "RUM RIVER NEAR ST. FRANCIS, MN",
+        "ref": "05286000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05286000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.4366212,
+          45.1632981
+        ]
+      },
+      "properties": {
+        "name": "Elm Creek near Champlin",
+        "official_name": "ELM CREEK NR CHAMPLIN, MN",
+        "ref": "05287890",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05287890",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.334119,
+          45.20829845
+        ]
+      },
+      "properties": {
+        "name": "Coon Creek at 131st Street in Coon Rapids",
+        "official_name": "COON CREEK AT 131 STREET IN COON RAPIDS, MN",
+        "ref": "05288475",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05288475",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2968955,
+          45.183854
+        ]
+      },
+      "properties": {
+        "name": "Sand Creek at Xeon Street in Coon Rapids",
+        "official_name": "SAND CREEK AT XEON STREET IN COON RAPIDS, MN",
+        "ref": "05288487",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05288487",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2919236,
+          45.14636988
+        ]
+      },
+      "properties": {
+        "name": "Coon Creek at Vale Street in Coon Rapids",
+        "official_name": "COON CREEK AT VALE STREET IN COON RAPIDS, MN",
+        "ref": "05288490",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05288490",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2992726,
+          45.12880126
+        ]
+      },
+      "properties": {
+        "name": "Mississippi River at Highway 610 in Brooklyn Park",
+        "official_name": "MISSISSIPPI RIVER AT HWY 610 IN BROOKLYN PARK, MN",
+        "ref": "05288500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05288500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.195,
+          45.0933333
+        ]
+      },
+      "properties": {
+        "name": "Rice Creek below Old Highway 8 in Mounds View",
+        "official_name": "RICE CREEK BLW OLD HWY. 8 IN MOUNDS VIEW, MN",
+        "ref": "05288580",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05288580",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2793889,
+          45.04327778
+        ]
+      },
+      "properties": {
+        "name": "Mississippi River above 37th Avenue Northeast in Fridley",
+        "official_name": "MISSISSIPPI RIVER ABV 37TH AVE. NE IN FRIDLEY, MN",
+        "ref": "05288670",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05288670",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3102274,
+          45.04996508
+        ]
+      },
+      "properties": {
+        "name": "Shingle Creek at Queen Avenue in Minneapolis",
+        "official_name": "SHINGLE CREEK AT QUEEN AVE IN MINNEAPOLIS, MN",
+        "ref": "05288705",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05288705",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.4872222,
+          44.9533333
+        ]
+      },
+      "properties": {
+        "name": "Lake Minnetonka above Grays Bay Outlet in Minnetonka",
+        "official_name": "LAKE MINNETONKA ABV GRAYS BAY OTLT IN MINNETONKA",
+        "ref": "05289000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05289000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.4872122,
+          44.9533333
+        ]
+      },
+      "properties": {
+        "name": "Minnehaha Creek below Grays Bay Dam in Minnetonka",
+        "official_name": "MINNEHAHA CREEK BLW GRAYS BAY DAM IN MINNETONKA MN",
+        "ref": "05289100",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05289100",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.4442231,
+          45.29552046
+        ]
+      },
+      "properties": {
+        "name": "Minnesota River at Ortonville",
+        "official_name": "MINNESOTA RIVER AT ORTONVILLE, MN",
+        "ref": "05292000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05292000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.353665,
+          45.2269094
+        ]
+      },
+      "properties": {
+        "name": "Yellow Bank River near Odessa",
+        "official_name": "YELLOW BANK RIVER NEAR ODESSA, MN",
+        "ref": "05293000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05293000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0225455,
+          45.2027393
+        ]
+      },
+      "properties": {
+        "name": "Pomme de Terre River at Appleton",
+        "official_name": "POMME DE TERRE RIVER AT APPLETON, MN",
+        "ref": "05294000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05294000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9197542,
+          44.99523647
+        ]
+      },
+      "properties": {
+        "name": "Lac qui Parle River near Lac qui Parle",
+        "official_name": "LAC QUI PARLE RIVER NEAR LAC QUI PARLE, MN",
+        "ref": "05300000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05300000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7902778,
+          45.02277778
+        ]
+      },
+      "properties": {
+        "name": "Chippewa River (HW) above County Road 13 near Watson",
+        "official_name": "CHIPPEWA R. (HW) ABOVE COUNTY RD 13 NR WATSON, MN",
+        "ref": "05304995",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05304995",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755",
+        "fixme": "What does HW stand for?"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7905848,
+          45.02106855
+        ]
+      },
+      "properties": {
+        "name": "Chippewa River (TW) near Watson",
+        "official_name": "CHIPPEWA RIVER (TW) NEAR WATSON, MN",
+        "ref": "05305000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05305000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755",
+        "fixme": "What does TW stand for?"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5441667,
+          44.80555556
+        ]
+      },
+      "properties": {
+        "name": "Minnesota River at Highway 212 in Granite Falls",
+        "official_name": "MINNESOTA RIVER AT HWY 212 IN GRANITE FALLS, MN",
+        "ref": "05311150",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05311150",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5441111,
+          44.71516667
+        ]
+      },
+      "properties": {
+        "name": "Yellow Medicine River near Granite Falls",
+        "official_name": "YELLOW MEDICINE RIVER NEAR GRANITE FALLS, MN",
+        "ref": "05313500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05313500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.8295556,
+          44.43016667
+        ]
+      },
+      "properties": {
+        "name": "Redwood River near Marshall",
+        "official_name": "REDWOOD RIVER NEAR MARSHALL, MN",
+        "ref": "05315000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05315000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1724992,
+          44.5235701
+        ]
+      },
+      "properties": {
+        "name": "Redwood River near Redwood Falls",
+        "official_name": "REDWOOD RIVER NEAR REDWOOD FALLS, MN",
+        "ref": "05316500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05316500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.9963838,
+          44.5460717
+        ]
+      },
+      "properties": {
+        "name": "Minnesota River at Morton",
+        "official_name": "MINNESOTA RIVER AT MORTON, MN",
+        "ref": "05316580",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05316580",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.4336111,
+          44.29694444
+        ]
+      },
+      "properties": {
+        "name": "Minnesota River at New Ulm",
+        "official_name": "MINNESOTA RIVER AT NEW ULM, MN",
+        "ref": "05316770",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05316770",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.4386056,
+          44.28939167
+        ]
+      },
+      "properties": {
+        "name": "Cottonwood River near New Ulm",
+        "official_name": "COTTONWOOD RIVER NEAR NEW ULM, MN",
+        "ref": "05317000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05317000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.3388558,
+          44.2463534
+        ]
+      },
+      "properties": {
+        "name": "Little Cottonwood River near Courtland",
+        "official_name": "LITTLE COTTONWOOD RIVER NEAR COURTLAND, MN",
+        "ref": "05317200",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05317200",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.1955144,
+          44.04635215
+        ]
+      },
+      "properties": {
+        "name": "Watonwan River near Garden City",
+        "official_name": "WATONWAN RIVER NEAR GARDEN CITY, MN",
+        "ref": "05319500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05319500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.1094019,
+          44.09552035
+        ]
+      },
+      "properties": {
+        "name": "Blue Earth River near Rapidan",
+        "official_name": "BLUE EARTH RIVER NEAR RAPIDAN, MN",
+        "ref": "05320000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05320000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.0419002,
+          44.10968777
+        ]
+      },
+      "properties": {
+        "name": "Le Sueur River near Rapidan",
+        "official_name": "LE SUEUR RIVER NEAR RAPIDAN, MN",
+        "ref": "05320500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05320500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.0032886,
+          44.1688553
+        ]
+      },
+      "properties": {
+        "name": "Minnesota River at Mankato",
+        "official_name": "MINNESOTA RIVER AT MANKATO, MN",
+        "ref": "05325000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05325000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.9219113,
+          44.5719079
+        ]
+      },
+      "properties": {
+        "name": "High Island Creek near Henderson",
+        "official_name": "HIGH ISLAND CREEK NEAR HENDERSON, MN",
+        "ref": "05327000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05327000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0881111,
+          44.9444444
+        ]
+      },
+      "properties": {
+        "name": "Mississippi River at St. Paul",
+        "official_name": "MISSISSIPPI RIVER AT ST. PAUL, MN",
+        "ref": "05331000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05331000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.8477778,
+          44.7458333
+        ]
+      },
+      "properties": {
+        "name": "Mississippi River below Lock and Dam 2 at Hastings",
+        "official_name": "MISSISSIPPI RIVER BELOW L&D 2 AT HASTINGS, MN",
+        "ref": "05331580",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05331580",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.8640899,
+          46.1055048
+        ]
+      },
+      "properties": {
+        "name": "Kettle River below Sandstone",
+        "official_name": "KETTLE RIVER BELOW SANDSTONE, MN",
+        "ref": "05336700",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05336700",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.9335412,
+          45.84162199
+        ]
+      },
+      "properties": {
+        "name": "Snake River near Pine City",
+        "official_name": "SNAKE RIVER NEAR PINE CITY, MN",
+        "ref": "05338500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05338500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.8040963,
+          45.05607806
+        ]
+      },
+      "properties": {
+        "name": "St. Croix River at Stillwater",
+        "official_name": "ST. CROIX RIVER AT STILLWATER, MN",
+        "ref": "05341550",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05341550",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0549358,
+          44.66663318
+        ]
+      },
+      "properties": {
+        "name": "Vermillion River near Empire",
+        "official_name": "VERMILLION RIVER NEAR EMPIRE, MN",
+        "ref": "05345000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05345000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2310473,
+          44.2580192
+        ]
+      },
+      "properties": {
+        "name": "Straight River near Faribault",
+        "official_name": "STRAIGHT RIVER NEAR FARIBAULT, MN",
+        "ref": "05353800",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05353800",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2566667,
+          44.3597222
+        ]
+      },
+      "properties": {
+        "name": "Cannon River at County Highway 29 below Faribault",
+        "official_name": "CANNON RIVER AT CO. HWY. 29 BELOW FARIBAULT, MN",
+        "ref": "05354500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05354500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0725,
+          44.52888889
+        ]
+      },
+      "properties": {
+        "name": "Chub Creek at County Highway 47 above Randolph",
+        "official_name": "CHUB CREEK AT CO. HWY. 47 ABOVE RANDOLPH, MN",
+        "ref": "05355038",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05355038",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0036111,
+          44.47166667
+        ]
+      },
+      "properties": {
+        "name": "Prairie Creek near Cannon Falls",
+        "official_name": "PRAIRIE CREEK NEAR CANNON FALLS, MN",
+        "ref": "05355080",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05355080",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.9120278,
+          44.5169722
+        ]
+      },
+      "properties": {
+        "name": "Cannon River at 9th Street Bridge in Cannon Falls",
+        "official_name": "CANNON RIVER AT 9TH ST. BRIDGE IN CANNON FALLS, MN",
+        "ref": "05355092",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05355092",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.7321429,
+          44.5638559
+        ]
+      },
+      "properties": {
+        "name": "Cannon River at Welch",
+        "official_name": "CANNON RIVER AT WELCH, MN",
+        "ref": "05355200",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05355200",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.5424444,
+          44.56530556
+        ]
+      },
+      "properties": {
+        "name": "Mississippi River at Red Wing",
+        "official_name": "MISSISSIPPI RIVER AT RED WING, MN",
+        "ref": "05355250",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05355250",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.43,
+          44.28555556
+        ]
+      },
+      "properties": {
+        "name": "Zumbro River at Zumbro Falls",
+        "official_name": "ZUMBRO RIVER AT ZUMBRO FALLS, MN",
+        "ref": "05374000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05374000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.6684834,
+          44.086352
+        ]
+      },
+      "properties": {
+        "name": "Mississippi River at Lock and Dam 5A near Winona",
+        "official_name": "MISSISSIPPI RIVER AT LOCK AND DAM 5A NR WINONA, MN",
+        "ref": "05378490",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05378490",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.6376487,
+          44.0555186
+        ]
+      },
+      "properties": {
+        "name": "Mississippi River at Winona",
+        "official_name": "MISSISSIPPI RIVER AT WINONA, MN",
+        "ref": "05378500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05378500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.0301573,
+          43.7846858
+        ]
+      },
+      "properties": {
+        "name": "Root River near Pilot Mound",
+        "official_name": "ROOT RIVER NEAR PILOT MOUND, MN",
+        "ref": "05383950",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05383950",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.8038889,
+          43.79777778
+        ]
+      },
+      "properties": {
+        "name": "Root River above Rushford",
+        "official_name": "ROOT RIVER ABOVE RUSHFORD, MN",
+        "ref": "05384350",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05384350",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7779269,
+          43.8332973
+        ]
+      },
+      "properties": {
+        "name": "Rush Creek near Rushford",
+        "official_name": "RUSH CREEK NEAR RUSHFORD, MN",
+        "ref": "05384500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05384500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.5878357,
+          43.82557207
+        ]
+      },
+      "properties": {
+        "name": "Campbell Creek near Money Creek",
+        "official_name": "CAMPBELL CREEK NEAR MONEY CREEK, MN",
+        "ref": "05384800",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05384800",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.5640317,
+          43.73857768
+        ]
+      },
+      "properties": {
+        "name": "South Fork Root River near Houston",
+        "official_name": "SOUTH FORK ROOT RIVER NEAR HOUSTON, MN",
+        "ref": "05385500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05385500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.36097009,
+          43.610248
+        ]
+      },
+      "properties": {
+        "name": "Crooked Creek at Freeburg",
+        "official_name": "CROOKED CREEK AT FREEBURG MN",
+        "ref": "05387030",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05387030",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.9746369,
+          43.63718529
+        ]
+      },
+      "properties": {
+        "name": "Cedar River near Austin",
+        "official_name": "CEDAR RIVER NEAR AUSTIN, MN",
+        "ref": "05457000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05457000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1611041,
+          43.89023529
+        ]
+      },
+      "properties": {
+        "name": "Des Moines River above Windom",
+        "official_name": "DES MOINES RIVER ABOVE WINDOM, MN",
+        "ref": "05475350",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05475350",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.9851299,
+          43.6207916
+        ]
+      },
+      "properties": {
+        "name": "Des Moines River at Jackson",
+        "official_name": "DES MOINES RIVER AT JACKSON, MN",
+        "ref": "05476000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05476000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.0913889,
+          46.7794444
+        ]
+      },
+      "properties": {
+        "name": "Superior Bay Duluth Ship Canal at Duluth",
+        "official_name": "SUPERIOR BAY DULUTH SHIP CANAL AT DULUTH, MN",
+        "ref": "464646092052900",
+        "website": "https://waterdata.usgs.gov/monitoring-location/464646092052900",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "tidal": "yes",
+        "monitoring:tide_gauge": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    }
+  ]
+}
