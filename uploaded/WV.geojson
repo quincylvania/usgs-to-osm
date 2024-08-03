@@ -1,0 +1,4907 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8817342,
+          38.809275
+        ]
+      },
+      "properties": {
+        "name": "Tygart Valley River near Dailey",
+        "official_name": "TYGART VALLEY RIVER NEAR DAILEY, WV",
+        "ref": "03050000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03050000",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "591.474",
+        "ele:accuracy": "0.0457",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8789587,
+          38.92371705
+        ]
+      },
+      "properties": {
+        "name": "Tygart Valley River near Elkins",
+        "official_name": "TYGART VALLEY RIVER NEAR ELKINS, WV",
+        "ref": "03050500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03050500",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "ele": "577.398",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.93590799,
+          39.0292694
+        ]
+      },
+      "properties": {
+        "name": "Tygart Valley River at Belington",
+        "official_name": "TYGART VALLEY RIVER AT BELINGTON, WV",
+        "ref": "03051000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03051000",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "512",
+        "ele:accuracy": "0.0244",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0681352,
+          39.03954454
+        ]
+      },
+      "properties": {
+        "name": "Middle Fork River at Audra",
+        "official_name": "MIDDLE FORK RIVER AT AUDRA, WV",
+        "ref": "03052000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03052000",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "508.833",
+        "ele:accuracy": "0.0488",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.20924949,
+          39.0053762
+        ]
+      },
+      "properties": {
+        "name": "Buckhannon River at Buckhannon",
+        "official_name": "BUCKHANNON R AT BUCKHANNON, WV",
+        "ref": "03052450",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03052450",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "ele": "421.919",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.038691,
+          39.15037545
+        ]
+      },
+      "properties": {
+        "name": "Tygart Valley River at Philippi",
+        "official_name": "TYGART VALLEY RIVER AT PHILIPPI, WV",
+        "ref": "03054500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03054500",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "390.053",
+        "ele:accuracy": "0.0457",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0336896,
+          39.3128703
+        ]
+      },
+      "properties": {
+        "name": "Tygart Lake near Grafton",
+        "official_name": "TYGART LAKE NR GRAFTON, WV",
+        "ref": "03055500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03055500",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9934094,
+          39.33648107
+        ]
+      },
+      "properties": {
+        "name": "Three Fork Creek near Grafton",
+        "official_name": "THREE FORK CREEK NR GRAFTON, WV",
+        "ref": "03056250",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03056250",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "304.617",
+        "ele:accuracy": "0.0366",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4733611,
+          39.00452778
+        ]
+      },
+      "properties": {
+        "name": "West Fork River below Stonewall Jackson Dam near Weston",
+        "official_name": "WEST FORK R BL STONEWALL JACKSON DAM NR WESTON, WV",
+        "ref": "03058000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03058000",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "ele": "306.629",
+        "ele:accuracy": "0.0366",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3589793,
+          39.23870156
+        ]
+      },
+      "properties": {
+        "name": "West Fork River near Mount Clare",
+        "official_name": "WEST FORK RIVER NEAR MOUNT CLARE, WV",
+        "ref": "03058975",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03058975",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "ele": "283.586",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2759187,
+          39.42230818
+        ]
+      },
+      "properties": {
+        "name": "West Fork River at Enterprise",
+        "official_name": "WEST FORK RIVER AT ENTERPRISE, WV",
+        "ref": "03061000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03061000",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "ele": "264.914",
+        "ele:accuracy": "0.0274",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3709444,
+          39.51613889
+        ]
+      },
+      "properties": {
+        "name": "Whetstone Run near Mannington",
+        "official_name": "WHETSTONE RUN NEAR MANNINGTON, WV",
+        "ref": "03061430",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03061430",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "ele": "305.775",
+        "ele:accuracy": "0.0335",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.05062599,
+          39.56452757
+        ]
+      },
+      "properties": {
+        "name": "Monongahela River below Opekiska Lock and Dam",
+        "official_name": "MONONGAHELA R AT OPEKISKA LOCK & DAM (LOWER), WV",
+        "ref": "03062225",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03062225",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "ele": "251.521",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9689533,
+          39.62008188
+        ]
+      },
+      "properties": {
+        "name": "Monongahela River below Morgantown Lock and Dam",
+        "official_name": "MONONGAHELA R AT MORGANTOWN LOCK & DAM (LOWER), WV",
+        "ref": "03062450",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03062450",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "ele": "240.033",
+        "ele:accuracy": "0.0274",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6228373,
+          39.07232928
+        ]
+      },
+      "properties": {
+        "name": "Dry Fork at Hendricks",
+        "official_name": "DRY FORK AT HENDRICKS, WV",
+        "ref": "03065000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03065000",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "517.895",
+        "ele:accuracy": "0.0366",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4683852,
+          39.1270524
+        ]
+      },
+      "properties": {
+        "name": "Blackwater River at Davis",
+        "official_name": "BLACKWATER RIVER AT DAVIS, WV",
+        "ref": "03066000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03066000",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:pH": "yes",
+        "ele": "932.475",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.770342,
+          38.91316335
+        ]
+      },
+      "properties": {
+        "name": "Shavers Fork below Bowden",
+        "official_name": "SHAVERS FORK BELOW BOWDEN, WV",
+        "ref": "03068800",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03068800",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "643.933",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6755278,
+          39.12155556
+        ]
+      },
+      "properties": {
+        "name": "Cheat River near Parsons",
+        "official_name": "CHEAT RIVER NEAR PARSONS, WV",
+        "ref": "03069500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03069500",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "484.571",
+        "ele:accuracy": "0.0488",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6444969,
+          39.4948104
+        ]
+      },
+      "properties": {
+        "name": "Cheat River at Albright",
+        "official_name": "CHEAT RIVER AT ALBRIGHT, WV",
+        "ref": "03070260",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03070260",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "357.744",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8556116,
+          39.72007846
+        ]
+      },
+      "properties": {
+        "name": "Cheat Lake near Stewartstown",
+        "official_name": "CHEAT LAKE NEAR STEWARTSTOWN, WV",
+        "ref": "03071590",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03071590",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "ele": "-0.137",
+        "ele:accuracy": "0.0244",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.70146889,
+          40.14979387
+        ]
+      },
+      "properties": {
+        "name": "Ohio River below Pike Island Locks and Dam",
+        "official_name": "OHIO R AT PIKE ISLAND LOCK & DAM (LOWER), WV",
+        "ref": "03111520",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03111520",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "ele": "186.154",
+        "ele:accuracy": "0.0244",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6609116,
+          40.0445177
+        ]
+      },
+      "properties": {
+        "name": "Wheeling Creek at Elm Grove",
+        "official_name": "WHEELING CREEK AT ELM GROVE, WV",
+        "ref": "03112000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03112000",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "203.311",
+        "ele:accuracy": "0.0335",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5637358,
+          39.2681306
+        ]
+      },
+      "properties": {
+        "name": "Ohio River at Parkersburg",
+        "official_name": "OHIO RIVER AT PARKERSBURG, WV",
+        "ref": "03151000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03151000",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "ele": "170.871",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5253667,
+          38.7434337
+        ]
+      },
+      "properties": {
+        "name": "Little Kanawha River near Wildcat",
+        "official_name": "LITTLE KANAWHA RIVER NR WILDCAT, WV",
+        "ref": "03151400",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03151400",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "258.928",
+        "ele:accuracy": "0.0488",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8382222,
+          38.9329722
+        ]
+      },
+      "properties": {
+        "name": "Little Kanawha River at Glenville",
+        "official_name": "LITTLE KANAWHA RIVER AT GLENVILLE, WV",
+        "ref": "03152000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03152000",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "212.522",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0947567,
+          38.9217307
+        ]
+      },
+      "properties": {
+        "name": "Little Kanawha River at Grantsville",
+        "official_name": "LITTLE KANAWHA RIVER AT GRANTSVILLE, WV",
+        "ref": "03153500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03153500",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "ele": "198.794",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8860833,
+          37.3485
+        ]
+      },
+      "properties": {
+        "name": "East River at Willowton",
+        "official_name": "EAST RIVER AT WILLOWTON, WV",
+        "ref": "03177120",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03177120",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "482.742",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7701944,
+          37.52925
+        ]
+      },
+      "properties": {
+        "name": "Indian Creek at Red Sulphur Springs",
+        "official_name": "INDIAN CREEK AT RED SULPHUR SPRINGS, WV",
+        "ref": "03177480",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03177480",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "ele": "462.717",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0103678,
+          37.54400779
+        ]
+      },
+      "properties": {
+        "name": "Bluestone River near Pipestem",
+        "official_name": "BLUESTONE RIVER NEAR PIPESTEM, WV",
+        "ref": "03179000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03179000",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "ele": "465.402",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.07648838,
+          37.95511285
+        ]
+      },
+      "properties": {
+        "name": "New River at Thurmond",
+        "official_name": "NEW RIVER AT THURMOND, WV",
+        "ref": "03185400",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03185400",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "ele": "313.944",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5264749,
+          38.2953903
+        ]
+      },
+      "properties": {
+        "name": "Cranberry River near Richwood",
+        "official_name": "CRANBERRY RIVER NEAR RICHWOOD, WV",
+        "ref": "03187500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03187500",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "649.163",
+        "ele:accuracy": "0.0335",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6409242,
+          38.29094494
+        ]
+      },
+      "properties": {
+        "name": "Gauley River near Craigsville",
+        "official_name": "GAULEY RIVER NEAR CRAIGSVILLE, WV",
+        "ref": "03189100",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03189100",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "569.857",
+        "ele:accuracy": "0.0335",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8881536,
+          38.2151103
+        ]
+      },
+      "properties": {
+        "name": "Gauley River below Summersville Dam",
+        "official_name": "GAULEY RIVER BELOW SUMMERSVILLE DAM, WV",
+        "ref": "03189600",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03189600",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "ele": "411.419",
+        "ele:accuracy": "0.0457",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8762069,
+          38.1126125
+        ]
+      },
+      "properties": {
+        "name": "Meadow River at Nallen",
+        "official_name": "MEADOW RIVER AT NALLEN, WV",
+        "ref": "03190000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03190000",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "569.833",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4903644,
+          38.59732627
+        ]
+      },
+      "properties": {
+        "name": "Elk River below Webster Springs",
+        "official_name": "ELK RIVER BELOW WEBSTER SPRINGS, WV",
+        "ref": "03194700",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03194700",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "310.683",
+        "ele:accuracy": "0.0366",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7095413,
+          38.66315555
+        ]
+      },
+      "properties": {
+        "name": "Elk River at Sutton",
+        "official_name": "ELK RIVER AT SUTTON, WV",
+        "ref": "03195500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03195500",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "ele": "243.718",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8009334,
+          38.5748233
+        ]
+      },
+      "properties": {
+        "name": "Birch River at Herold",
+        "official_name": "BIRCH RIVER AT HEROLD, WV",
+        "ref": "03196500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03196500",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "ele": "283.982",
+        "ele:accuracy": "0.0274",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8845474,
+          38.59232159
+        ]
+      },
+      "properties": {
+        "name": "Elk River near Frametown",
+        "official_name": "ELK RIVER NEAR FRAMETOWN, WV",
+        "ref": "03196600",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03196600",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "236.162",
+        "ele:accuracy": "0.0213",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2840057,
+          38.47093228
+        ]
+      },
+      "properties": {
+        "name": "Elk River at Queen Shoals",
+        "official_name": "ELK RIVER AT QUEEN SHOALS, WV",
+        "ref": "03197000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03197000",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "183.977",
+        "ele:accuracy": "0.0396",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.841518,
+          38.33898309
+        ]
+      },
+      "properties": {
+        "name": "Coal River at Tornado",
+        "official_name": "COAL RIVER AT TORNADO, WV",
+        "ref": "03200500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03200500",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "173.666",
+        "ele:accuracy": "0.0213",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.139589,
+          38.84396959
+        ]
+      },
+      "properties": {
+        "name": "Ohio River at Point Pleasant",
+        "official_name": "OHIO RIVER AT POINT PLEASANT, WV",
+        "ref": "03201500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03201500",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "ele": "156.375",
+        "ele:accuracy": "0.0213",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7073342,
+          37.62316608
+        ]
+      },
+      "properties": {
+        "name": "Clear Fork at Clear Fork",
+        "official_name": "CLEAR FORK AT CLEAR FORK, WV",
+        "ref": "03202750",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03202750",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "345.247",
+        "ele:accuracy": "0.0366",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9759574,
+          37.84232616
+        ]
+      },
+      "properties": {
+        "name": "Guyandotte River at Logan",
+        "official_name": "GUYANDOTTE RIVER AT LOGAN, WV",
+        "ref": "03203600",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03203600",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "194.859",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.2026417,
+          38.22092326
+        ]
+      },
+      "properties": {
+        "name": "Guyandotte River at Branchland",
+        "official_name": "GUYANDOTTE RIVER AT BRANCHLAND, WV",
+        "ref": "03204000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03204000",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "ele": "167.03",
+        "ele:accuracy": "0.0335",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.500434,
+          38.41341549
+        ]
+      },
+      "properties": {
+        "name": "Ohio River at Huntington",
+        "official_name": "OHIO RIVER AT HUNTINGTON, WV",
+        "ref": "03206000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03206000",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "ele": "149.108",
+        "ele:accuracy": "0.0427",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5998295,
+          37.44122439
+        ]
+      },
+      "properties": {
+        "name": "Tug Fork downstream of Elkhorn Creek at Welch",
+        "official_name": "TUG FORK DOWNSTREAM OF ELKHORN CREEK AT WELCH, WV",
+        "ref": "03212750",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03212750",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "386.383",
+        "ele:accuracy": "0.0213",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8026142,
+          37.39538968
+        ]
+      },
+      "properties": {
+        "name": "Dry Fork at Beartown",
+        "official_name": "DRY FORK AT BEARTOWN, WV",
+        "ref": "03212980",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03212980",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "321.686",
+        "ele:accuracy": "0.0457",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.17313,
+          38.62205317
+        ]
+      },
+      "properties": {
+        "name": "Pickens Rain Gage",
+        "official_name": "PICKENS RAIN",
+        "ref": "383734080104402",
+        "website": "https://waterdata.usgs.gov/monitoring-location/383734080104402",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "ele": "1050.792",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9220278,
+          38.6523472
+        ]
+      },
+      "properties": {
+        "name": "Huttonsville Rain Gage",
+        "official_name": "HUTTONSVILLE 4SE RAIN",
+        "ref": "383828079544901",
+        "website": "https://waterdata.usgs.gov/monitoring-location/383828079544901",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "ele": "974.842",
+        "ele:accuracy": "0.0396",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5881667,
+          38.81969444
+        ]
+      },
+      "properties": {
+        "name": "Whitmer Rain Gage",
+        "official_name": "WHITMER 3W RAIN",
+        "ref": "384911079351701",
+        "website": "https://waterdata.usgs.gov/monitoring-location/384911079351701",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "ele": "859.17",
+        "ele:accuracy": "0.0366",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4509167,
+          38.87216667
+        ]
+      },
+      "properties": {
+        "name": "Meteorological Station at Walkersville",
+        "official_name": "METEOROLOGICAL STATION AT WALKERSVILLE, WV",
+        "ref": "385220080270303",
+        "website": "https://waterdata.usgs.gov/monitoring-location/385220080270303",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "ele": "332.628",
+        "ele:accuracy": "0.0396",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4468333,
+          39.045
+        ]
+      },
+      "properties": {
+        "name": "Meteorological Station at Canaan Valley",
+        "official_name": "METEOROLOGICAL STATION AT CANAAN VALLEY, WV",
+        "ref": "390242079264900",
+        "website": "https://waterdata.usgs.gov/monitoring-location/390242079264900",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "ele": "984.227",
+        "ele:accuracy": "0.0335",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5454444,
+          39.2854722
+        ]
+      },
+      "properties": {
+        "name": "Ten Mile Creek Rain Gage near Salem near Clarksburg",
+        "official_name": "TEN MILE CREEK NEAR SALEM NEAR CLARKSBURG RAIN",
+        "ref": "391710080323501",
+        "website": "https://waterdata.usgs.gov/monitoring-location/391710080323501",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "ele": "315.684",
+        "ele:accuracy": "0.0274",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6385833,
+          39.6613611
+        ]
+      },
+      "properties": {
+        "name": "Meteorological Station at Bruceton Mills",
+        "official_name": "METEOROLOGICAL STATION AT BRUCETON MILLS, WV",
+        "ref": "393941079381901",
+        "website": "https://waterdata.usgs.gov/monitoring-location/393941079381901",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "ele": "466.301",
+        "ele:accuracy": "0.0274",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4436911,
+          39.67119365
+        ]
+      },
+      "properties": {
+        "name": "Hundred Rain Gage",
+        "official_name": "HUNDRED 3WNW RAIN",
+        "ref": "394153080302701",
+        "website": "https://waterdata.usgs.gov/monitoring-location/394153080302701",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "ele": "320.003",
+        "ele:accuracy": "0.0274",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5734395,
+          39.82877355
+        ]
+      },
+      "properties": {
+        "name": "Cameron Rain Gage",
+        "official_name": "CAMERON 1S RAIN",
+        "ref": "394912080341401",
+        "website": "https://waterdata.usgs.gov/monitoring-location/394912080341401",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "ele": "324.908",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.17892449,
+          39.36676569
+        ]
+      },
+      "properties": {
+        "name": "Abram Creek at Oakmont",
+        "official_name": "ABRAM CREEK AT OAKMONT, WV",
+        "ref": "01595300",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01595300",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "559.278",
+        "ele:accuracy": "0.0335",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1108056,
+          39.4451111
+        ]
+      },
+      "properties": {
+        "name": "North Branch Potomac River at Barnum",
+        "official_name": "NORTH BRANCH POTOMAC RIVER AT BARNUM, WV",
+        "ref": "01595800",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01595800",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:pH": "yes",
+        "ele": "350.91",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.13138889,
+          39.26944444
+        ]
+      },
+      "properties": {
+        "name": "Linton Creek near Laurel Dale",
+        "official_name": "LINTON CREEK NEAR LAUREL DALE, WV",
+        "ref": "01599200",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01599200",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "487.528",
+        "ele:accuracy": "0.0244",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8219649,
+          39.44314946
+        ]
+      },
+      "properties": {
+        "name": "Patterson Creek near Headsville",
+        "official_name": "PATTERSON CREEK NEAR HEADSVILLE, WV",
+        "ref": "01604500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01604500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "190.47",
+        "ele:accuracy": "0.0396",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7600181,
+          39.4856472
+        ]
+      },
+      "properties": {
+        "name": "Painter Run near Fort Ashby",
+        "official_name": "PAINTER RUN NEAR FORT ASHBY, WV",
+        "ref": "01605002",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01605002",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "213.034",
+        "ele:accuracy": "0.0579",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3378199,
+          38.63567247
+        ]
+      },
+      "properties": {
+        "name": "South Branch Potomac River at Franklin",
+        "official_name": "SOUTH BRANCH POTOMAC RIVER AT FRANKLIN, WV",
+        "ref": "01605500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01605500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "516.002",
+        "ele:accuracy": "0.0427",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2336508,
+          38.9845546
+        ]
+      },
+      "properties": {
+        "name": "North Fork South Branch Potomac River at Cabins",
+        "official_name": "N F SOUTH BRANCH POTOMAC RIVER AT CABINS, WV",
+        "ref": "01606000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01606000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "319.827",
+        "ele:accuracy": "0.0366",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.17587059,
+          38.99122107
+        ]
+      },
+      "properties": {
+        "name": "South Branch Potomac River near Petersburg",
+        "official_name": "SOUTH BRANCH POTOMAC RIVER NEAR PETERSBURG, WV",
+        "ref": "01606500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01606500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "294.4",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.16309189,
+          38.8548343
+        ]
+      },
+      "properties": {
+        "name": "South Mill Creek near Mozer",
+        "official_name": "SOUTH MILL CREEK NEAR MOZER, WV",
+        "ref": "01606900",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01606900",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "390.028",
+        "ele:accuracy": "0.0488",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.31888889,
+          38.46638889
+        ]
+      },
+      "properties": {
+        "name": "Brushy Fork near Sugar Grove",
+        "official_name": "BRUSHY FORK NEAR SUGAR GROVE, WV",
+        "ref": "01607300",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01607300",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "595.287",
+        "ele:accuracy": "0.0518",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2436497,
+          38.63150665
+        ]
+      },
+      "properties": {
+        "name": "South Fork South Branch Potomac River at Brandywine",
+        "official_name": "S F SOUTH BRANCH POTOMAC RIVER AT BRANDYWINE, WV",
+        "ref": "01607500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01607500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "475.147",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9561387,
+          39.0123313
+        ]
+      },
+      "properties": {
+        "name": "South Fork South Branch Potomac River near Moorefield",
+        "official_name": "S F SOUTH BRANCH POTOMAC RIVER NR MOOREFIELD, WV",
+        "ref": "01608000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01608000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "262.482",
+        "ele:accuracy": "0.0335",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9593056,
+          39.10391667
+        ]
+      },
+      "properties": {
+        "name": "South Branch Potomac River near Moorefield",
+        "official_name": "SOUTH BRANCH POTOMAC RIVER NEAR MOOREFIELD, WV",
+        "ref": "01608070",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01608070",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "232.913",
+        "ele:accuracy": "0.0274",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6541817,
+          39.44703879
+        ]
+      },
+      "properties": {
+        "name": "South Branch Potomac River near Springfield",
+        "official_name": "SOUTH BRANCH POTOMAC RIVER NEAR SPRINGFIELD, WV",
+        "ref": "01608500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01608500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "ele": "171.231",
+        "ele:accuracy": "0.0244",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7977778,
+          39.04277778
+        ]
+      },
+      "properties": {
+        "name": "Parker Hollow Run at Needmore",
+        "official_name": "PARKER HOLLOW RUN AT NEEDMORE, WV",
+        "ref": "01610195",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01610195",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "468.801",
+        "ele:accuracy": "0.0457",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5983333,
+          39.0427222
+        ]
+      },
+      "properties": {
+        "name": "Waites Run near Wardensville",
+        "official_name": "WAITES RUN NEAR WARDENSVILLE, WV",
+        "ref": "01610400",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01610400",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "377.882",
+        "ele:accuracy": "0.0488",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.3097312,
+          39.5823158
+        ]
+      },
+      "properties": {
+        "name": "Cacapon River near Great Cacapon",
+        "official_name": "CACAPON RIVER NEAR GREAT CACAPON, WV",
+        "ref": "01611500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01611500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "ele": "139.129",
+        "ele:accuracy": "0.0579",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.2291667,
+          39.6058333
+        ]
+      },
+      "properties": {
+        "name": "Unnamed Tributary to Warm Spring Run near Berkeley Spring",
+        "official_name": "UNNAMED TRIB TO WARM SPR RUN NR BERKELEY SPR, WV",
+        "ref": "01613020",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01613020",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "210.291",
+        "ele:accuracy": "0.0579",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.2189444,
+          39.6405833
+        ]
+      },
+      "properties": {
+        "name": "Warm Springs Run near Berkeley Springs",
+        "official_name": "WARM SPRINGS RUN NEAR BERKELEY SPRINGS, WV",
+        "ref": "01613030",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01613030",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "175.711",
+        "ele:accuracy": "0.0579",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.0372224,
+          39.51204187
+        ]
+      },
+      "properties": {
+        "name": "Back Creek near Jones Springs",
+        "official_name": "BACK CREEK NEAR JONES SPRINGS, WV",
+        "ref": "01614000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01614000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "126.833",
+        "ele:accuracy": "0.0488",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.0534361,
+          39.334625
+        ]
+      },
+      "properties": {
+        "name": "Mill Creek at Bunker Hill",
+        "official_name": "MILL CREEK AT BUNKER HILL, WV",
+        "ref": "01616400",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01616400",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "162.312",
+        "ele:accuracy": "0.064",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9336111,
+          39.35463889
+        ]
+      },
+      "properties": {
+        "name": "Hopewell Run at Leetown",
+        "official_name": "HOPEWELL RUN AT LEETOWN, WV",
+        "ref": "01616425",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01616425",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "136.066",
+        "ele:accuracy": "0.0457",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9386084,
+          39.42371047
+        ]
+      },
+      "properties": {
+        "name": "Opequon Creek near Martinsburg",
+        "official_name": "OPEQUON CREEK NEAR MARTINSBURG, WV",
+        "ref": "01616500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01616500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "108.103",
+        "ele:accuracy": "0.0244",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9713871,
+          39.46954296
+        ]
+      },
+      "properties": {
+        "name": "Tuscarora Creek above Martinsburg",
+        "official_name": "TUSCARORA CREEK ABOVE MARTINSBURG, WV",
+        "ref": "01617000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01617000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "137.245",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.80138889,
+          39.4347222
+        ]
+      },
+      "properties": {
+        "name": "Potomac River at Shepherdstown",
+        "official_name": "POTOMAC RIVER AT SHEPHERDSTOWN, WV",
+        "ref": "01618000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01618000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "85.423",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8318333,
+          39.4830833
+        ]
+      },
+      "properties": {
+        "name": "Rockymarsh Run at Scrabble",
+        "official_name": "ROCKYMARSH RUN AT SCRABBLE, WV",
+        "ref": "01618100",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01618100",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "110.347",
+        "ele:accuracy": "0.0366",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8348611,
+          39.2115833
+        ]
+      },
+      "properties": {
+        "name": "Bullskin Run below Kabletown",
+        "official_name": "BULLSKIN RUN BELOW KABLETOWN, WV",
+        "ref": "01636464",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01636464",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "113.742",
+        "ele:accuracy": "0.0335",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.7891606,
+          39.28204576
+        ]
+      },
+      "properties": {
+        "name": "Shenandoah River at Millville",
+        "official_name": "SHENANDOAH RIVER AT MILLVILLE, WV",
+        "ref": "01636500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/01636500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "89.105",
+        "ele:accuracy": "0.0396",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0370128,
+          38.55289056
+        ]
+      },
+      "properties": {
+        "name": "Tygart Valley River at Valley Head",
+        "official_name": "TYGART VALLEY RIVER AT VALLEY HEAD, WV",
+        "ref": "03049925",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03049925",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "710.617",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0611111,
+          38.5983333
+        ]
+      },
+      "properties": {
+        "name": "Elkwater Fork near Spangler",
+        "official_name": "ELKWATER FORK NEAR SPANGLER, WV",
+        "ref": "03049930",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03049930",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "707.666",
+        "ele:accuracy": "0.0335",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.95963889,
+          38.73166667
+        ]
+      },
+      "properties": {
+        "name": "Tygart Valley River at Mill Creek",
+        "official_name": "TYGART VALLEY RIVER AT MILL CREEK, WV",
+        "ref": "03049975",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03049975",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "606.887",
+        "ele:accuracy": "0.0213",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8760472,
+          38.91915278
+        ]
+      },
+      "properties": {
+        "name": "Tygart Valley River Bypass Channel near Elkins",
+        "official_name": "TYGART VALLEY RIVER BYPASS CHANNEL NEAR ELKINS, WV",
+        "ref": "03050339",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03050339",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "578.041",
+        "ele:accuracy": "0.0274",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.04562858,
+          38.7459407
+        ]
+      },
+      "properties": {
+        "name": "Middle Fork River at Adolph",
+        "official_name": "MIDDLE FORK RIVER AT ADOLPH, WV",
+        "ref": "03051100",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03051100",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "699.87",
+        "ele:accuracy": "0.0213",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0889669,
+          38.91788048
+        ]
+      },
+      "properties": {
+        "name": "Middle Fork River at Ellamore",
+        "official_name": "MIDDLE FORK RIVER AT ELLAMORE, WV",
+        "ref": "03051260",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03051260",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "554.724",
+        "ele:accuracy": "0.0213",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.21388889,
+          38.81963889
+        ]
+      },
+      "properties": {
+        "name": "Buckhannon River at Alton",
+        "official_name": "BUCKHANNON RIVER AT ALTON, WV",
+        "ref": "03052120",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03052120",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "541.416",
+        "ele:accuracy": "0.0427",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1525806,
+          38.96398938
+        ]
+      },
+      "properties": {
+        "name": "Sand Run near Buckhannon",
+        "official_name": "SAND RUN NEAR BUCKHANNON, WV",
+        "ref": "03052500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03052500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "466.344",
+        "ele:accuracy": "0.0427",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1145254,
+          39.05121
+        ]
+      },
+      "properties": {
+        "name": "Buckhannon River at Hall",
+        "official_name": "BUCKHANNON RIVER AT HALL, WV",
+        "ref": "03053500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03053500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "415.381",
+        "ele:accuracy": "0.0427",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0250779,
+          39.31981459
+        ]
+      },
+      "properties": {
+        "name": "Tygart Valley River at Tygart Dam near Grafton",
+        "official_name": "TYGART VALLEY R AT TYGART DAM NR GRAFTON, WV",
+        "ref": "03056000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03056000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "292.608",
+        "ele:accuracy": "0.0366",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1325789,
+          39.4350866
+        ]
+      },
+      "properties": {
+        "name": "Tygart Valley River at Colfax",
+        "official_name": "TYGART VALLEY RIVER AT COLFAX, WV",
+        "ref": "03057000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03057000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:pH": "yes",
+        "ele": "260.811",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4578658,
+          38.86870938
+        ]
+      },
+      "properties": {
+        "name": "West Fork River at Walkersville",
+        "official_name": "WEST FORK RIVER AT WALKERSVILLE, WV",
+        "ref": "03057300",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03057300",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "326.139",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.47375,
+          39.02930556
+        ]
+      },
+      "properties": {
+        "name": "West Fork River at Weston",
+        "official_name": "WEST FORK RIVER AT WESTON, WV",
+        "ref": "03058020",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03058020",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "304.068",
+        "ele:accuracy": "0.0335",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4675915,
+          39.09064846
+        ]
+      },
+      "properties": {
+        "name": "West Fork River at Butcherville",
+        "official_name": "WEST FORK RIVER AT BUTCHERVILLE, WV",
+        "ref": "03058500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03058500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "302.496",
+        "ele:accuracy": "0.0274",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1681667,
+          39.50566667
+        ]
+      },
+      "properties": {
+        "name": "Buffalo Creek at Barrackville",
+        "official_name": "BUFFALO CREEK AT BARRACKVILLE, WV",
+        "ref": "03061500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03061500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "269.583",
+        "ele:accuracy": "0.0274",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.05118159,
+          39.563972
+        ]
+      },
+      "properties": {
+        "name": "Monongahela River above Opekiska Lock and Dam",
+        "official_name": "MONONGAHELA R AT OPEKISKA LOCK & DAM (UPPER), WV",
+        "ref": "03062224",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03062224",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "258.257",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0095122,
+          39.58174955
+        ]
+      },
+      "properties": {
+        "name": "Monongahela River above Hildebrand Lock and Dam",
+        "official_name": "MONONGAHELA R AT HILDEBRAND LOCK & DAM (UPPER), WV",
+        "ref": "03062245",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03062245",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "251.628",
+        "ele:accuracy": "0.0213",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0100678,
+          39.5828606
+        ]
+      },
+      "properties": {
+        "name": "Monongahela River below Hildebrand Lock and Dam",
+        "official_name": "MONONGAHELA R AT HILDEBRAND LOCK & DAM (LOWER), WV",
+        "ref": "03062250",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03062250",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "245.224",
+        "ele:accuracy": "0.0213",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9695089,
+          39.6198041
+        ]
+      },
+      "properties": {
+        "name": "Monongahela River above Morgantown Lock and Dam",
+        "official_name": "MONONGAHELA R AT MORGANTOWN LOCK & DAM (UPPER), WV",
+        "ref": "03062445",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03062445",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "245.215",
+        "ele:accuracy": "0.0274",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9525633,
+          39.62924826
+        ]
+      },
+      "properties": {
+        "name": "Deckers Creek at Morgantown",
+        "official_name": "DECKERS CREEK AT MORGANTOWN, WV",
+        "ref": "03062500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03062500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "245.352",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5573056,
+          38.87216667
+        ]
+      },
+      "properties": {
+        "name": "Dry Fork at Job",
+        "official_name": "DRY FORK AT JOB, WV",
+        "ref": "03063550",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03063550",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "772.525",
+        "ele:accuracy": "0.0244",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5313056,
+          39.01577778
+        ]
+      },
+      "properties": {
+        "name": "Dry Fork at Gladwin",
+        "official_name": "DRY FORK AT GLADWIN, WV",
+        "ref": "03064800",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03064800",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "578.227",
+        "ele:accuracy": "0.0366",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8697849,
+          38.6170576
+        ]
+      },
+      "properties": {
+        "name": "Shavers Fork near Cheat Bridge",
+        "official_name": "SHAVERS FORK NR CHEAT BRIDGE, WV",
+        "ref": "03067510",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03067510",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "ele": "1078.303",
+        "ele:accuracy": "0.0457",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7375,
+          38.8075
+        ]
+      },
+      "properties": {
+        "name": "Shavers Fork at Bemis",
+        "official_name": "SHAVERS FORK AT BEMIS, WV",
+        "ref": "03068000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03068000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "784.196",
+        "ele:accuracy": "0.0213",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6679194,
+          39.34976389
+        ]
+      },
+      "properties": {
+        "name": "Cheat River below Saltlick Creek at Rowlesburg",
+        "official_name": "CHEAT RIVER BELOW SALTLICK CREEK AT ROWLESBURG, WV",
+        "ref": "0307020015",
+        "website": "https://waterdata.usgs.gov/monitoring-location/0307020015",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "416.296",
+        "ele:accuracy": "0.0244",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7045556,
+          39.62175
+        ]
+      },
+      "properties": {
+        "name": "Big Sandy Creek at Rockville",
+        "official_name": "BIG SANDY CREEK AT ROCKVILLE, WV",
+        "ref": "03070500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03070500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "403.068",
+        "ele:accuracy": "0.0274",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5925723,
+          40.4356229
+        ]
+      },
+      "properties": {
+        "name": "Kings Creek at Weirton",
+        "official_name": "KINGS CREEK AT WEIRTON, WV",
+        "ref": "03110830",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03110830",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "206.898",
+        "ele:accuracy": "0.0427",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6998021,
+          40.15284939
+        ]
+      },
+      "properties": {
+        "name": "Ohio River above Pike Island Locks and Dam near Wheeling",
+        "official_name": "OHIO R AT PIKE ISLAND DAM NR WHEELING (UPPER), WV",
+        "ref": "03111515",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03111515",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "192.524",
+        "ele:accuracy": "0.0244",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5256277,
+          39.95285399
+        ]
+      },
+      "properties": {
+        "name": "Dunkard Fork near Majorsville",
+        "official_name": "DUNKARD FORK NEAR MAJORSVILLE, WV",
+        "ref": "03111950",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03111950",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "243.59",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7284154,
+          40.0572949
+        ]
+      },
+      "properties": {
+        "name": "Ohio River at Wheeling",
+        "official_name": "OHIO RIVER AT WHEELING, WV",
+        "ref": "03112500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03112500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "185.105",
+        "ele:accuracy": "0.0335",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.46688889,
+          39.6921111
+        ]
+      },
+      "properties": {
+        "name": "West Virginia Fork Fish Creek near Hundred",
+        "official_name": "WV FORK FISH CREEK NEAR HUNDRED, WV",
+        "ref": "0311404647",
+        "website": "https://waterdata.usgs.gov/monitoring-location/0311404647",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "300.746",
+        "ele:accuracy": "0.0335",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5627222,
+          39.4992222
+        ]
+      },
+      "properties": {
+        "name": "South Fork Fishing Creek at Smithfield",
+        "official_name": "SOUTH FORK FISHING CREEK AT SMITHFIELD, WV",
+        "ref": "03114283",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03114283",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "249.753",
+        "ele:accuracy": "0.0427",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7334722,
+          39.26725
+        ]
+      },
+      "properties": {
+        "name": "Meathouse Fork at Highway 18 near West Union",
+        "official_name": "MEATHOUSE FORK AT HWY 18 NEAR WEST UNION, WV",
+        "ref": "03114350",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03114350",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "238.247",
+        "ele:accuracy": "0.0274",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8694722,
+          39.48163889
+        ]
+      },
+      "properties": {
+        "name": "Middle Island Creek at Highway 18 near Middlebourne",
+        "official_name": "MIDDLE ISLAND CREEK AT HWY 18 NR MIDDLEBOURNE, WV",
+        "ref": "03114431",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03114431",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "203.966",
+        "ele:accuracy": "0.0274",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9970537,
+          39.4750762
+        ]
+      },
+      "properties": {
+        "name": "Middle Island Creek at Little",
+        "official_name": "MIDDLE ISLAND CREEK AT LITTLE, WV",
+        "ref": "03114500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03114500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "192.341",
+        "ele:accuracy": "0.0244",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5952778,
+          38.73194444
+        ]
+      },
+      "properties": {
+        "name": "Saltlick Creek near Flatwoods",
+        "official_name": "SALTLICK CREEK NEAR FLATWOODS, WV",
+        "ref": "03151550",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03151550",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "243.697",
+        "ele:accuracy": "0.0152",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6762077,
+          38.8650952
+        ]
+      },
+      "properties": {
+        "name": "Little Kanawha River at Burnsville",
+        "official_name": "LITTLE KANAWHA RIVER AT BURNSVILLE, WV",
+        "ref": "03151600",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03151600",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "224.881",
+        "ele:accuracy": "0.0396",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.73838889,
+          38.92538889
+        ]
+      },
+      "properties": {
+        "name": "Sand Fork near Glenville",
+        "official_name": "SAND FORK NEAR GLENVILLE, WV",
+        "ref": "03151915",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03151915",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "220.337",
+        "ele:accuracy": "0.0488",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.22338889,
+          38.84455556
+        ]
+      },
+      "properties": {
+        "name": "West Fork Little Kanawha River at Rocksdale",
+        "official_name": "WEST FORK LITTLE KANAWHA RIVER AT ROCKSDALE, WV",
+        "ref": "03154000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03154000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "200.193",
+        "ele:accuracy": "0.0396",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.38956408,
+          39.0589686
+        ]
+      },
+      "properties": {
+        "name": "Little Kanawha River at Palestine",
+        "official_name": "LITTLE KANAWHA RIVER AT PALESTINE, WV",
+        "ref": "03155000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03155000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "178.247",
+        "ele:accuracy": "0.0366",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2123373,
+          39.07896905
+        ]
+      },
+      "properties": {
+        "name": "South Fork Hughes River below MacFarlan",
+        "official_name": "SOUTH FORK HUGHES RIVER BELOW MACFARLAN, WV",
+        "ref": "03155220",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03155220",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "190.256",
+        "ele:accuracy": "0.0274",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0998337,
+          39.21896789
+        ]
+      },
+      "properties": {
+        "name": "North Fork Hughes River near Cairo",
+        "official_name": "NORTH FORK HUGHES RIVER NEAR CAIRO, WV",
+        "ref": "03155405",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03155405",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "204.051",
+        "ele:accuracy": "0.0274",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5345833,
+          39.17725
+        ]
+      },
+      "properties": {
+        "name": "Little Tygart Creek at Mineral Wells",
+        "official_name": "LITTLE TYGART CREEK AT MINERAL WELLS, WV",
+        "ref": "03155588",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03155588",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "178.311",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6255556,
+          38.7436111
+        ]
+      },
+      "properties": {
+        "name": "Tug Fork at Statts Mills",
+        "official_name": "TUG FORK AT STATTS MILLS, WV",
+        "ref": "03159750",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03159750",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "179.832",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.11,
+          37.4334722
+        ]
+      },
+      "properties": {
+        "name": "Bluestone River near Spanishburg",
+        "official_name": "BLUESTONE R NR SPANISHBURG, WV",
+        "ref": "03178000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03178000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "625.145",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.10188889,
+          37.49227778
+        ]
+      },
+      "properties": {
+        "name": "Camp Creek at Highway 19 near Camp Creek",
+        "official_name": "CAMP CREEK AT HWY 19 NEAR CAMP CREEK, WV",
+        "ref": "03178120",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03178120",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "597.378",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1648167,
+          37.3062288
+        ]
+      },
+      "properties": {
+        "name": "Middle Fork Brush Creek at Edison",
+        "official_name": "MIDDLE FORK BRUSH CREEK AT EDISON, WV",
+        "ref": "03178150",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03178150",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "749.991",
+        "ele:accuracy": "0.0366",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1440833,
+          37.33663889
+        ]
+      },
+      "properties": {
+        "name": "Brush Creek near Princeton",
+        "official_name": "BRUSH CREEK NEAR PRINCETON, WV",
+        "ref": "03178179",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03178179",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "731.124",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.833115,
+          38.54372659
+        ]
+      },
+      "properties": {
+        "name": "Greenbrier River at Durbin",
+        "official_name": "GREENBRIER RIVER AT DURBIN, WV",
+        "ref": "03180500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03180500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "822.783",
+        "ele:accuracy": "0.0335",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9694444,
+          38.3317222
+        ]
+      },
+      "properties": {
+        "name": "Greenbrier River at Clover Lick",
+        "official_name": "GREENBRIER RIVER AT CLOVER LICK, WV",
+        "ref": "03180900",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03180900",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "692.993",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0278056,
+          38.1978611
+        ]
+      },
+      "properties": {
+        "name": "Knapp Creek near Marlinton",
+        "official_name": "KNAPP CREEK NEAR MARLINTON, WV",
+        "ref": "03181949",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03181949",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "670.286",
+        "ele:accuracy": "0.0244",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0808982,
+          38.22012028
+        ]
+      },
+      "properties": {
+        "name": "Marlin Run at Marlinton",
+        "official_name": "MARLIN RUN AT MARLINTON, WV",
+        "ref": "03182050",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03182050",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "667.53",
+        "ele:accuracy": "0.0457",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.13,
+          38.1862222
+        ]
+      },
+      "properties": {
+        "name": "Greenbrier River at Buckeye",
+        "official_name": "GREENBRIER RIVER AT BUCKEYE, WV",
+        "ref": "03182500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03182500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "635.721",
+        "ele:accuracy": "0.0335",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.35638889,
+          37.98930556
+        ]
+      },
+      "properties": {
+        "name": "Greenbrier River at Renick",
+        "official_name": "GREENBRIER RIVER AT RENICK, WV",
+        "ref": "03182600",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03182600",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "563.88",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.28988889,
+          37.9086111
+        ]
+      },
+      "properties": {
+        "name": "Anthony Creek near Anthony",
+        "official_name": "ANTHONY CREEK NEAR ANTHONY, WV",
+        "ref": "03182700",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03182700",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "568.056",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2781241,
+          37.7412334
+        ]
+      },
+      "properties": {
+        "name": "Dry Creek at Tuckahoe",
+        "official_name": "DRY CREEK AT TUCKAHOE, WV",
+        "ref": "03182888",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03182888",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "614.51",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3975278,
+          37.78213889
+        ]
+      },
+      "properties": {
+        "name": "Greenbrier River at Caldwell",
+        "official_name": "GREENBRIER RIVER AT CALDWELL, WV",
+        "ref": "03182890",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03182890",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "509.138",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3046111,
+          37.79344444
+        ]
+      },
+      "properties": {
+        "name": "Howard Creek at White Sulphur Springs",
+        "official_name": "HOWARD CREEK AT WHITE SULPHUR SPRINGS, WV",
+        "ref": "03182900",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03182900",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "557.388",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4685556,
+          37.74488889
+        ]
+      },
+      "properties": {
+        "name": "Greenbrier River at Ronceverte",
+        "official_name": "GREENBRIER RIVER AT RONCEVERTE, WV",
+        "ref": "03182970",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03182970",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "499.567",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.641468,
+          37.7242874
+        ]
+      },
+      "properties": {
+        "name": "Greenbrier River at Alderson",
+        "official_name": "GREENBRIER RIVER AT ALDERSON, WV",
+        "ref": "03183500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03183500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "ele": "466.039",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.805083,
+          37.64012018
+        ]
+      },
+      "properties": {
+        "name": "Greenbrier River at Hilldale",
+        "official_name": "GREENBRIER RIVER AT HILLDALE, WV",
+        "ref": "03184000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03184000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "423.172",
+        "ele:accuracy": "0.0457",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8925874,
+          37.6703969
+        ]
+      },
+      "properties": {
+        "name": "New River at Hinton",
+        "official_name": "NEW RIVER AT HINTON, WV",
+        "ref": "03184500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03184500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "412.961",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1623212,
+          37.7606708
+        ]
+      },
+      "properties": {
+        "name": "Piney Creek at Raleigh",
+        "official_name": "PINEY CREEK AT RALEIGH, WV",
+        "ref": "03185000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03185000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "635.24",
+        "ele:accuracy": "0.0427",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4839737,
+          38.37899915
+        ]
+      },
+      "properties": {
+        "name": "Williams River at Dyer",
+        "official_name": "WILLIAMS RIVER AT DYER, WV",
+        "ref": "03186500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03186500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "668.701",
+        "ele:accuracy": "0.0427",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6009232,
+          38.36594285
+        ]
+      },
+      "properties": {
+        "name": "Gauley River at Camden-on-Gauley",
+        "official_name": "GAULEY RIVER AT CAMDEN ON GAULEY, WV",
+        "ref": "03187000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03187000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "610.667",
+        "ele:accuracy": "0.0335",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5880556,
+          38.1636111
+        ]
+      },
+      "properties": {
+        "name": "Laurel Creek near Fenwick",
+        "official_name": "LAUREL CREEK NEAR FENWICK, WV",
+        "ref": "03188900",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03188900",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "761.299",
+        "ele:accuracy": "0.0396",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7231111,
+          37.9848333
+        ]
+      },
+      "properties": {
+        "name": "Meadow River near Hines",
+        "official_name": "MEADOW RIVER NEAR HINES, WV",
+        "ref": "03189863",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03189863",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "718.627",
+        "ele:accuracy": "0.0335",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7686944,
+          37.9695833
+        ]
+      },
+      "properties": {
+        "name": "Sewell Creek above Little Sewell Creek at Rainelle",
+        "official_name": "SEWELL CREEK AB LTL SEWELL CREEK AT RAINELLE, WV",
+        "ref": "0318989690",
+        "website": "https://waterdata.usgs.gov/monitoring-location/0318989690",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "723.504",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0231111,
+          38.2646111
+        ]
+      },
+      "properties": {
+        "name": "Peters Creek near Lockwood",
+        "official_name": "PETERS CREEK NEAR LOCKWOOD, WV",
+        "ref": "03191500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03191500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "324.399",
+        "ele:accuracy": "0.0457",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1809415,
+          38.2334395
+        ]
+      },
+      "properties": {
+        "name": "Gauley River above Belva",
+        "official_name": "GAULEY RIVER ABOVE BELVA, WV",
+        "ref": "03192000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03192000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "203.85",
+        "ele:accuracy": "0.0366",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2142745,
+          38.1381632
+        ]
+      },
+      "properties": {
+        "name": "Kanawha River at Kanawha Falls",
+        "official_name": "KANAWHA RIVER AT KANAWHA FALLS, WV",
+        "ref": "03193000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03193000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "189.098",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.63638889,
+          38.3472222
+        ]
+      },
+      "properties": {
+        "name": "Kanawha River at South Side Bridge at Charleston",
+        "official_name": "KANAWHA RIVER AT S SIDE BRIDGE AT CHARLESTON, WV",
+        "ref": "0319382976",
+        "website": "https://waterdata.usgs.gov/monitoring-location/0319382976",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "170.1",
+        "ele:accuracy": "0.0274",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0876087,
+          38.46065656
+        ]
+      },
+      "properties": {
+        "name": "Elk River at Clay",
+        "official_name": "ELK RIVER AT CLAY, WV",
+        "ref": "03196800",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03196800",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "206.42",
+        "ele:accuracy": "0.0488",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3476944,
+          38.5227222
+        ]
+      },
+      "properties": {
+        "name": "Big Sandy Creek below Little Hand Creek near Clendenin",
+        "official_name": "BIG SANDY CREEK BL LT HAND CREEK NR CLENDENIN, WV",
+        "ref": "03197445",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03197445",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "182.484",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5011944,
+          38.45594444
+        ]
+      },
+      "properties": {
+        "name": "Little Sandy Creek near Elkview",
+        "official_name": "LITTLE SANDY CREEK NEAR ELKVIEW,WV",
+        "ref": "03197790",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03197790",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "185.593",
+        "ele:accuracy": "0.0366",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5128611,
+          38.36088889
+        ]
+      },
+      "properties": {
+        "name": "Unnamed Tributary to Elk Twomile Creek near Charleston",
+        "official_name": "UNNAMED TRIB TO ELK TWOMILE CR NR CHARLESTON, WV",
+        "ref": "03197910",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03197910",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "253.313",
+        "ele:accuracy": "0.0274",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5943056,
+          38.35905556
+        ]
+      },
+      "properties": {
+        "name": "Elk Twomile Creek near Charleston",
+        "official_name": "ELK TWOMILE CREEK NEAR CHARLESTON, WV",
+        "ref": "03197939",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03197939",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "181.28",
+        "ele:accuracy": "0.0274",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.627068,
+          38.3581527
+        ]
+      },
+      "properties": {
+        "name": "Elk River at Charleston",
+        "official_name": "ELK RIVER AT CHARLESTON, WV",
+        "ref": "03197950",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03197950",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "ele": "165.098",
+        "ele:accuracy": "0.0274",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7020701,
+          38.37148448
+        ]
+      },
+      "properties": {
+        "name": "Kanawha River at Charleston",
+        "official_name": "KANAWHA RIVER AT CHARLESTON, WV",
+        "ref": "03198000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03198000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "166.829",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.524278,
+          37.9662186
+        ]
+      },
+      "properties": {
+        "name": "Clear Fork at Whitesville",
+        "official_name": "CLEAR FORK AT WHITESVILLE, WV",
+        "ref": "03198350",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03198350",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "249.476",
+        "ele:accuracy": "0.0457",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7115106,
+          38.1798222
+        ]
+      },
+      "properties": {
+        "name": "Big Coal River at Ashford",
+        "official_name": "BIG COAL RIVER AT ASHFORD, WV",
+        "ref": "03198500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03198500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "189.509",
+        "ele:accuracy": "0.0274",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8365,
+          38.07977778
+        ]
+      },
+      "properties": {
+        "name": "Little Coal River at Danville",
+        "official_name": "LITTLE COAL RIVER AT DANVILLE, WV",
+        "ref": "03199000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03199000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "201.387",
+        "ele:accuracy": "0.0335",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6312379,
+          38.52620409
+        ]
+      },
+      "properties": {
+        "name": "Pocatalico River at Sissonville",
+        "official_name": "POCATALICO RIVER AT SISSONVILLE, WV",
+        "ref": "03201000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03201000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "180.969",
+        "ele:accuracy": "0.0213",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.0068032,
+          38.4453673
+        ]
+      },
+      "properties": {
+        "name": "Hurricane Creek at Hurricane",
+        "official_name": "HURRICANE CREEK AT HURRICANE, WV",
+        "ref": "03201405",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03201405",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "182.633",
+        "ele:accuracy": "0.0213",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5371111,
+          37.5818611
+        ]
+      },
+      "properties": {
+        "name": "Guyandotte River at Pineville",
+        "official_name": "GUYANDOTTE RIVER AT PINEVILLE, WV",
+        "ref": "03202300",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03202300",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "387.126",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6451096,
+          37.60400034
+        ]
+      },
+      "properties": {
+        "name": "Guyandotte River near Baileysville",
+        "official_name": "GUYANDOTTE RIVER NEAR BAILEYSVILLE, WV",
+        "ref": "03202400",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03202400",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "347.292",
+        "ele:accuracy": "0.0366",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8215,
+          37.5852222
+        ]
+      },
+      "properties": {
+        "name": "Little Huff Creek at Little Cub Creek Road at Hanover",
+        "official_name": "LITTLE HUFF CR AT LITTLE CUB CR RD AT HANOVER, WV",
+        "ref": "03202928",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03202928",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "298.936",
+        "ele:accuracy": "0.0183",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8767857,
+          37.740385
+        ]
+      },
+      "properties": {
+        "name": "Guyandotte River at Man",
+        "official_name": "GUYANDOTTE RIVER AT MAN, WV",
+        "ref": "03203000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03203000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "216.426",
+        "ele:accuracy": "0.0213",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.00988889,
+          37.84494444
+        ]
+      },
+      "properties": {
+        "name": "Island Creek at Route 44 at Logan",
+        "official_name": "ISLAND CREEK AT ROUTE 44 AT LOGAN, WV",
+        "ref": "03203647",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03203647",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "197.59",
+        "ele:accuracy": "0.0274",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.0586111,
+          38.165
+        ]
+      },
+      "properties": {
+        "name": "Mud River at Palermo",
+        "official_name": "MUD RIVER AT PALERMO, WV",
+        "ref": "03204250",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03204250",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "213.104",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.11438889,
+          38.27830556
+        ]
+      },
+      "properties": {
+        "name": "Mud River at Hamlin",
+        "official_name": "MUD RIVER AT HAMLIN, WV",
+        "ref": "03204294",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03204294",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "189.829",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.0401667,
+          38.25441667
+        ]
+      },
+      "properties": {
+        "name": "Middle Fork Mud River near Griffithsville",
+        "official_name": "MIDDLE FORK MUD RIVER NEAR GRIFFITHSVILLE, WV",
+        "ref": "03204346",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03204346",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "192.451",
+        "ele:accuracy": "0.0396",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.1131111,
+          38.38825
+        ]
+      },
+      "properties": {
+        "name": "Mud River near Milton",
+        "official_name": "MUD RIVER NEAR MILTON, WV",
+        "ref": "03204500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03204500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "174.897",
+        "ele:accuracy": "0.0366",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3059722,
+          38.0118333
+        ]
+      },
+      "properties": {
+        "name": "East Fork Twelvepole Creek near Dunlow",
+        "official_name": "EAST FORK TWELVEPOLE CREEK NEAR DUNLOW, WV",
+        "ref": "03206600",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03206600",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "218.694",
+        "ele:accuracy": "0.0335",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4343191,
+          38.24897409
+        ]
+      },
+      "properties": {
+        "name": "Twelvepole Creek below Wayne",
+        "official_name": "TWELVEPOLE CREEK BELOW WAYNE, WV",
+        "ref": "03207020",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03207020",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "170.597",
+        "ele:accuracy": "0.0427",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4488611,
+          38.32413889
+        ]
+      },
+      "properties": {
+        "name": "Twelvepole Creek at Lavalette",
+        "official_name": "TWELVEPOLE CREEK AT LAVALETTE, WV",
+        "ref": "03207061",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03207061",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "162.154",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8383056,
+          37.47927778
+        ]
+      },
+      "properties": {
+        "name": "Tug Fork at Litwar",
+        "official_name": "TUG FORK AT LITWAR, WV",
+        "ref": "03213000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03213000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "284.622",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8711111,
+          37.44555556
+        ]
+      },
+      "properties": {
+        "name": "Panther Creek near Panther",
+        "official_name": "PANTHER CREEK NEAR PANTHER, WV",
+        "ref": "03213500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03213500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "319.735",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4087578,
+          37.83731869
+        ]
+      },
+      "properties": {
+        "name": "Tug Fork at Kermit",
+        "official_name": "TUG FORK AT KERMIT, WV",
+        "ref": "03214500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03214500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "174.742",
+        "ele:accuracy": "0.0427",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.14232689,
+          38.11372008
+        ]
+      },
+      "properties": {
+        "name": "New River below Hawks Nest Dam",
+        "official_name": "NEW RIVER BELOW HAWKS NEST DAM, WV",
+        "ref": "380649081083301",
+        "website": "https://waterdata.usgs.gov/monitoring-location/380649081083301",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "224.013",
+        "ele:accuracy": "0.0457",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4742222,
+          39.0036111
+        ]
+      },
+      "properties": {
+        "name": "Stonewall Jackson Lake near Weston",
+        "official_name": "STONEWALL JACKSON LAKE NEAR WESTON, WV",
+        "ref": "03057900",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03057900",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "-0.18",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8861976,
+          37.64067498
+        ]
+      },
+      "properties": {
+        "name": "Bluestone Lake near Hinton",
+        "official_name": "BLUESTONE LAKE NEAR HINTON, WV",
+        "ref": "03179800",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03179800",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "-0.183",
+        "ele:accuracy": "0.061",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1531556,
+          38.2267611
+        ]
+      },
+      "properties": {
+        "name": "Gauley River below Rich Creek at Jodie",
+        "official_name": "GAULEY RIVER BELOW RICH CREEK AT JODIE, WV",
+        "ref": "03191982",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03191982",
+        "man_made": "monitoring_station",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "ele": "208.483",
+        "ele:accuracy": "0.4877",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.60695,
+          38.3692472
+        ]
+      },
+      "properties": {
+        "name": "Elk River above Elk Twomile Creek at Charleston",
+        "official_name": "ELK RIVER AB ELK TWOMILE CREEK AT CHARLESTON, WV",
+        "ref": "03197937",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03197937",
+        "man_made": "monitoring_station",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "ele": "174.041",
+        "ele:accuracy": "0.4877",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    }
+  ]
+}
