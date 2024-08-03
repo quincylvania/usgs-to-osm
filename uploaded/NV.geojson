@@ -1,0 +1,4344 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.2144392,
+          39.0116129
+        ]
+      },
+      "properties": {
+        "name": "Lehman Creek near Baker",
+        "official_name": "LEHMAN CK NR BAKER, NV",
+        "ref": "10243260",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10243260",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "2038.493",
+        "ele:accuracy": "0.0183",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.5296389,
+          39.21657778
+        ]
+      },
+      "properties": {
+        "name": "Cleve Creek near Ely",
+        "official_name": "CLEVE CK NR ELY, NV",
+        "ref": "10243700",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10243700",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1887.248",
+        "ele:accuracy": "0.0152",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.689161,
+          39.20153889
+        ]
+      },
+      "properties": {
+        "name": "Steptoe Creek near Ely",
+        "official_name": "STEPTOE CK NR ELY, NV",
+        "ref": "10244950",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10244950",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "2243.608",
+        "ele:accuracy": "0.0152",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.6666667,
+          38.68
+        ]
+      },
+      "properties": {
+        "name": "Geyser Creek at Springs Orifice near Minerva",
+        "official_name": "GEYSER CK AT SPGS ORIFICE NR MINERVA, NV",
+        "ref": "10245100",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10245100",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1972.248",
+        "ele:accuracy": "0.0183",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.4644444,
+          39.76977778
+        ]
+      },
+      "properties": {
+        "name": "Coils Creek above Horse Creek near Eureka",
+        "official_name": "COILS CK ABV HORSE CK NR EUREKA, NV",
+        "ref": "10245960",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10245960",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1952.244",
+        "ele:accuracy": "1.3106",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.3009444,
+          39.78977778
+        ]
+      },
+      "properties": {
+        "name": "Roberts Creek near Eureka",
+        "official_name": "ROBERTS CK NR EUREKA, NV",
+        "ref": "10245970",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10245970",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "2055.266",
+        "ele:accuracy": "1.3106",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.7032778,
+          38.95019444
+        ]
+      },
+      "properties": {
+        "name": "Big Warm Springs near Duckwater",
+        "official_name": "BIG WARM SPGS NR DUCKWATER, NV",
+        "ref": "10246835",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10246835",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "1706.88",
+        "ele:accuracy": "1.524",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.367526,
+          38.84715919
+        ]
+      },
+      "properties": {
+        "name": "Little Currant Creek near Currant",
+        "official_name": "L CURRANT CK NR CURRANT, NV",
+        "ref": "10246846",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10246846",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "2042.16",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.755869,
+          38.18688086
+        ]
+      },
+      "properties": {
+        "name": "Big Creek near Warm Springs",
+        "official_name": "BIG CK NR WARM SPGS, NV",
+        "ref": "10247200",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10247200",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1716.024",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1134216,
+          39.2124291
+        ]
+      },
+      "properties": {
+        "name": "Kingston Creek below Cougar Canyon near Austin",
+        "official_name": "KINGSTON CK BLW COUGAR CYN NR AUSTIN, NV",
+        "ref": "10249280",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10249280",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1965.789",
+        "ele:accuracy": "0.0183",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2453673,
+          38.8874302
+        ]
+      },
+      "properties": {
+        "name": "South Twin River near Round Mountain",
+        "official_name": "S TWIN RV NR ROUND MOUNTAIN, NV",
+        "ref": "10249300",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10249300",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "1950.72",
+        "ele:accuracy": "12.192",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.7720849,
+          38.67658636
+        ]
+      },
+      "properties": {
+        "name": "Walker Lake near Hawthorne",
+        "official_name": "WALKER LAKE NR HAWTHORNE, NV",
+        "ref": "10288500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10288500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "1188.72",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.0479917,
+          38.81371389
+        ]
+      },
+      "properties": {
+        "name": "East Walker River above Strosnider Ditch near Mason",
+        "official_name": "E WALKER RV ABV STROSNIDER DITCH NR MASON, NV",
+        "ref": "10293500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10293500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1394.186",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.5203083,
+          38.6932333
+        ]
+      },
+      "properties": {
+        "name": "Topaz Lake near Topaz",
+        "official_name": "TOPAZ LAKE NR TOPAZ, CA",
+        "ref": "10297000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10297000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "1493.52",
+        "ele:accuracy": "1.524",
+        "ele:datum": "LMSL",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.5080556,
+          38.69555556
+        ]
+      },
+      "properties": {
+        "name": "Topaz Canal below Topaz Lake near Topaz",
+        "official_name": "TOPAZ CANAL BLW TOPAZ LAKE NR TOPAZ, CA",
+        "ref": "10297010",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10297010",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1525.829",
+        "ele:accuracy": "1.3106",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.427861,
+          38.72806389
+        ]
+      },
+      "properties": {
+        "name": "West Walker River at Hoye Bridge near Wellington",
+        "official_name": "W WALKER RV AT HOYE BRG NR WELLINGTON, NV",
+        "ref": "10297500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10297500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1517.904",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.227377,
+          38.8096366
+        ]
+      },
+      "properties": {
+        "name": "West Walker River near Hudson",
+        "official_name": "W WALKER RV NR HUDSON, NV",
+        "ref": "10300000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10300000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1417.32",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.1915833,
+          38.92125
+        ]
+      },
+      "properties": {
+        "name": "Walker River at Snyder Lane near Mason",
+        "official_name": "WALKER RV AT SNYDER LN NR MASON, NV",
+        "ref": "10300600",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10300600",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1349.045",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.1560556,
+          39.02041667
+        ]
+      },
+      "properties": {
+        "name": "Walker River below Yerington Weir near Yerington",
+        "official_name": "WALKER RVR BLW YERINGTON WEIR NR YERINGTON, NV",
+        "ref": "10301115",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10301115",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1338.072",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.1330556,
+          39.04827778
+        ]
+      },
+      "properties": {
+        "name": "Walker River at Miller Lane near Yerington",
+        "official_name": "WALKER RV AT MILLER LN NR YERINGTON, NV",
+        "ref": "10301120",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10301120",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1326.794",
+        "ele:accuracy": "1.3106",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.1166944,
+          39.12816667
+        ]
+      },
+      "properties": {
+        "name": "Walker River below Mason Valley Wildlife Management Area at railroad crossing near Wabuska",
+        "official_name": "WALKER RV BLW MASON VLY WMA AT RR XING NR WABUSKA",
+        "ref": "10301300",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10301300",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1310.64",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.0988889,
+          39.1524611
+        ]
+      },
+      "properties": {
+        "name": "Walker River near Wabuska",
+        "official_name": "WALKER RV NR WABUSKA, NV",
+        "ref": "10301500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10301500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "1310.64",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.929317,
+          39.1032533
+        ]
+      },
+      "properties": {
+        "name": "Walker River above Weber Reservoir near Schurz",
+        "official_name": "WALKER RV ABV WEBER RES NR SCHURZ, NV",
+        "ref": "10301600",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10301600",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1284.732",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.8601474,
+          39.04464245
+        ]
+      },
+      "properties": {
+        "name": "Weber Reservoir near Schurz",
+        "official_name": "WEBER RES NR SCHURZ, NV",
+        "ref": "10301700",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10301700",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "1285.646",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.8623696,
+          39.0338091
+        ]
+      },
+      "properties": {
+        "name": "Walker River at PT Site below Weber Reservoir near Schurz",
+        "official_name": "WALKER RV AT PT SITE BLW WEBER RES NR SCHURZ, NV",
+        "ref": "10301720",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10301720",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1271.016",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755",
+        "fixme": "What does PT site mean?"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.8609803,
+          39.0140869
+        ]
+      },
+      "properties": {
+        "name": "Canal Number 2 above Little Dam near Schurz",
+        "official_name": "CANAL NO 2 ABV LITTLE DAM NR SCHURZ, NV",
+        "ref": "10301742",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10301742",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1267.968",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.8609803,
+          39.01353135
+        ]
+      },
+      "properties": {
+        "name": "Walker River above Little Dam near Schurz",
+        "official_name": "WALKER RV ABV LITTLE DAM NR SCHURZ, NV",
+        "ref": "10301745",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10301745",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1267.968",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.861258,
+          39.01242024
+        ]
+      },
+      "properties": {
+        "name": "Canal Number 1 below Little Dam near Schurz",
+        "official_name": "CANAL NO 1 BLW LITTLE DAM NR SCHURZ, NV",
+        "ref": "10301755",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10301755",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1267.968",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.8037557,
+          38.94019785
+        ]
+      },
+      "properties": {
+        "name": "Walker River at Lateral 2-A Siphon near Schurz",
+        "official_name": "WALKER RV AT LATERAL 2-A SIPHON NR SCHURZ, NV",
+        "ref": "10302002",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10302002",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "1251.204",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.727085,
+          38.79103038
+        ]
+      },
+      "properties": {
+        "name": "Walker River near mouth at Walker Lake",
+        "official_name": "WALKER RV NR MOUTH AT WALKER LAKE, NV",
+        "ref": "10302025",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10302025",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "1200.912",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7060833,
+          38.84519444
+        ]
+      },
+      "properties": {
+        "name": "East Fork Carson River near Gardnerville",
+        "official_name": "E FK CARSON RV NR GARDNERVILLE, NV",
+        "ref": "10309000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10309000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1534.973",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.6918056,
+          38.88013889
+        ]
+      },
+      "properties": {
+        "name": "East Fork Carson River near Dresslerville",
+        "official_name": "E FK CARSON RV NR DRESSLERVILLE, NV",
+        "ref": "10309010",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10309010",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1492.301",
+        "ele:accuracy": "1.3106",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.5685833,
+          38.85894444
+        ]
+      },
+      "properties": {
+        "name": "Pine Nut Creek near Gardnerville",
+        "official_name": "PINE NUT CK NR GARDNERVILLE, NV",
+        "ref": "10309050",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10309050",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1936.699",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7982365,
+          39.11324216
+        ]
+      },
+      "properties": {
+        "name": "Clear Creek near Carson City",
+        "official_name": "CLEAR CK NR CARSON CITY, NV",
+        "ref": "10310500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10310500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1524",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7132334,
+          39.10768747
+        ]
+      },
+      "properties": {
+        "name": "Carson River near Carson City",
+        "official_name": "CARSON RV NR CARSON CITY, NV",
+        "ref": "10311000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10311000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1408.322",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.8079599,
+          39.15379796
+        ]
+      },
+      "properties": {
+        "name": "Kings Canyon Creek near Carson City",
+        "official_name": "KINGS CYN CK NR CARSON CITY, NV",
+        "ref": "10311100",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10311100",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1578.864",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.805738,
+          39.17629816
+        ]
+      },
+      "properties": {
+        "name": "Ash Canyon Creek near Carson City",
+        "official_name": "ASH CYN CK NR CARSON CITY, NV",
+        "ref": "10311200",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10311200",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1548.384",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.722225,
+          39.165275
+        ]
+      },
+      "properties": {
+        "name": "Eagle Valley Creek at Carson City",
+        "official_name": "EAGLE VALLEY CK AT CARSON CITY, NV",
+        "ref": "10311300",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10311300",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1408.176",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.6948694,
+          39.18137778
+        ]
+      },
+      "properties": {
+        "name": "Carson River at Deer Run Road near Carson City",
+        "official_name": "CARSON RV AT DEER RUN RD NR CARSON CITY, NV",
+        "ref": "10311400",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10311400",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1394.862",
+        "ele:accuracy": "0.0152",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.5878583,
+          39.23779444
+        ]
+      },
+      "properties": {
+        "name": "Carson River at Dayton",
+        "official_name": "CARSON RV AT DAYTON, NV",
+        "ref": "10311700",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10311700",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1325.88",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.5251389,
+          39.28091667
+        ]
+      },
+      "properties": {
+        "name": "Carson River above Sixmile Canyon Creek below Dayton",
+        "official_name": "CARSON R ABV SIXMILE CYN CK BLW DAYTON, NV",
+        "ref": "10311750",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10311750",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1309.116",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.311111,
+          39.29166667
+        ]
+      },
+      "properties": {
+        "name": "Carson River near Fort Churchill",
+        "official_name": "CARSON RV NR FORT CHURCHILL, NV",
+        "ref": "10312000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10312000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1274.064",
+        "ele:accuracy": "1.524",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.067661,
+          39.46241539
+        ]
+      },
+      "properties": {
+        "name": "Lahontan Reservoir near Fallon",
+        "official_name": "LAHONTAN RES NR FALLON, NV",
+        "ref": "10312100",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10312100",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "1267.968",
+        "ele:accuracy": "1.524",
+        "ele:datum": "LMSL",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.0462583,
+          39.4639361
+        ]
+      },
+      "properties": {
+        "name": "Carson River below Lahontan Reservoir near Fallon",
+        "official_name": "CARSON RV BLW LAHONTAN RESERVOIR NR FALLON, NV",
+        "ref": "10312150",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10312150",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1231.392",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.7259842,
+          39.55880594
+        ]
+      },
+      "properties": {
+        "name": "Carson River at Tarzyn Road near Fallon",
+        "official_name": "CARSON RV AT TARZYN RD NR FALLON, NV",
+        "ref": "10312275",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10312275",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1194.816",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.2866389,
+          41.4778611
+        ]
+      },
+      "properties": {
+        "name": "Hanks Creek at Marys River Ranch Road near Deeth",
+        "official_name": "HANKS CK AT MARYS RV RANCH RD NR DEETH, NV",
+        "ref": "10313900",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10313900",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1786.128",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.2564468,
+          41.2526961
+        ]
+      },
+      "properties": {
+        "name": "Marys River above Hot Springs Creek near Deeth",
+        "official_name": "MARYS RV ABV HOT SPGS CK NR DEETH, NV",
+        "ref": "10315500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10315500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1677.619",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.477003,
+          40.69076057
+        ]
+      },
+      "properties": {
+        "name": "Lamoille Creek near Lamoille",
+        "official_name": "LAMOILLE CK NR LAMOILLE, NV",
+        "ref": "10316500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10316500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1901.952",
+        "ele:accuracy": "12.192",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.5719444,
+          41.3297222
+        ]
+      },
+      "properties": {
+        "name": "Beaver Creek above confluence with the North Fork Humboldt River near Halleck",
+        "official_name": "BEAVER CK ABV CONF N FK HUMBOLDT RV NR HALLECK, NV",
+        "ref": "10317480",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10317480",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "1705.661",
+        "ele:accuracy": "1.3106",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.492575,
+          41.17875278
+        ]
+      },
+      "properties": {
+        "name": "North Fork Humboldt River at Devils Gate near Halleck",
+        "official_name": "N FK HUMBOLDT RV AT DEVILS GATE NR HALLECK, NV",
+        "ref": "10317500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10317500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1636.776",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.6241667,
+          40.93655556
+        ]
+      },
+      "properties": {
+        "name": "Humboldt River near Elko",
+        "official_name": "HUMBOLDT RV NR ELKO, NV",
+        "ref": "10318500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10318500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1567.379",
+        "ele:accuracy": "0.061",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.7305222,
+          40.6274972
+        ]
+      },
+      "properties": {
+        "name": "South Fork Humboldt River above Tenmile Creek near Elko",
+        "official_name": "S FK HUMBOLDT RV ABV TENMILE CK NR ELKO, NV",
+        "ref": "10319900",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10319900",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1607.82",
+        "ele:accuracy": "7.62",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.8134002,
+          40.6849236
+        ]
+      },
+      "properties": {
+        "name": "South Fork Humboldt River above Dixie Creek near Elko",
+        "official_name": "S FK HUMBOLDT RV ABV DIXIE CK NR ELKO, NV",
+        "ref": "10320000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10320000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1566.672",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.009242,
+          40.72769715
+        ]
+      },
+      "properties": {
+        "name": "Humboldt River near Carlin",
+        "official_name": "HUMBOLDT RV NR CARLIN, NV",
+        "ref": "10321000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10321000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1504.371",
+        "ele:accuracy": "0.1219",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0778547,
+          40.72602928
+        ]
+      },
+      "properties": {
+        "name": "Susie Creek at Carlin",
+        "official_name": "SUSIE CK AT CARLIN, NV",
+        "ref": "10321590",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10321590",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1496.751",
+        "ele:accuracy": "0.1219",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.2234155,
+          40.8249142
+        ]
+      },
+      "properties": {
+        "name": "Maggie Creek above Maggie Creek Canyon near Carlin",
+        "official_name": "MAGGIE CK ABV MAGGIE CK CYN NR CARLIN, NV",
+        "ref": "10321940",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10321940",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1562.1",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.2000813,
+          40.80324824
+        ]
+      },
+      "properties": {
+        "name": "Maggie Creek at Maggie Creek Canyon near Carlin",
+        "official_name": "MAGGIE CK AT MAGGIE CR CYN NR CARLIN, NV",
+        "ref": "10321950",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10321950",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1552.956",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.093575,
+          40.71624444
+        ]
+      },
+      "properties": {
+        "name": "Maggie Creek at Carlin",
+        "official_name": "MAGGIE CK AT CARLIN, NV",
+        "ref": "10322000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10322000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1492.575",
+        "ele:accuracy": "0.1219",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.1259112,
+          40.710473
+        ]
+      },
+      "properties": {
+        "name": "Marys Creek at Carlin",
+        "official_name": "MARYS CK AT CARLIN, NV",
+        "ref": "10322150",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10322150",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1497.178",
+        "ele:accuracy": "0.1219",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.2017444,
+          40.60741747
+        ]
+      },
+      "properties": {
+        "name": "Humboldt River at Palisade",
+        "official_name": "HUMBOLDT RV AT PALISADE, NV",
+        "ref": "10322500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10322500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1471.94",
+        "ele:accuracy": "0.1219",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.5034444,
+          40.11555556
+        ]
+      },
+      "properties": {
+        "name": "Horse Creek at Horse Canyon near Garden Gate Pass",
+        "official_name": "HORSE CK AT HORSE CYN NR GARDEN GATE PASS, NV",
+        "ref": "10322505",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10322505",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1879.092",
+        "ele:accuracy": "1.3106",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.4125278,
+          39.90480556
+        ]
+      },
+      "properties": {
+        "name": "Tonkin Spring Outflow above Denay Creek near Eureka",
+        "official_name": "TONKIN SPG OUTFLOW ABV DENAY CK NR EUREKA, NV",
+        "ref": "10322510",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10322510",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1978.152",
+        "ele:accuracy": "1.3106",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.1669444,
+          39.869
+        ]
+      },
+      "properties": {
+        "name": "Henderson Creek below Vinnini Creek near Eureka",
+        "official_name": "HENDERSON CK BLW VINNINI CK NR EUREKA, NV",
+        "ref": "10322535",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10322535",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1958.035",
+        "ele:accuracy": "1.3106",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.3782778,
+          39.89030556
+        ]
+      },
+      "properties": {
+        "name": "Pete Hanson Creek above Henderson Creek near Eureka",
+        "official_name": "PETE HANSON CK ABV HENDERSON CK NR EUREKA, NV",
+        "ref": "10322555",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10322555",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "2107.387",
+        "ele:accuracy": "1.3106",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.1251389,
+          40.38125
+        ]
+      },
+      "properties": {
+        "name": "Pine Creek at Modarelli Mine Road near Hay Ranch",
+        "official_name": "PINE CK AT MODARELLI MINE RD NR HAY RANCH, NV",
+        "ref": "10322800",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10322800",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1573.835",
+        "ele:accuracy": "0.1219",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.1732694,
+          40.5947972
+        ]
+      },
+      "properties": {
+        "name": "Pine Creek near Palisade",
+        "official_name": "PINE CK NR PALISADE, NV",
+        "ref": "10323000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10323000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1480.874",
+        "ele:accuracy": "0.0122",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.5309216,
+          40.7054675
+        ]
+      },
+      "properties": {
+        "name": "Humboldt River at Old US 40 Bridge at Dunphy",
+        "official_name": "HUMBOLDT RV AT OLD US 40 BRG AT DUNPHY, NV",
+        "ref": "10323425",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10323425",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1408.146",
+        "ele:accuracy": "0.1219",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.5883417,
+          40.83040556
+        ]
+      },
+      "properties": {
+        "name": "Rock Creek near Battle Mountain",
+        "official_name": "ROCK CK NR BATTLE MOUNTAIN, NV",
+        "ref": "10324500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10324500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1422.166",
+        "ele:accuracy": "0.1219",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.4400903,
+          40.95491015
+        ]
+      },
+      "properties": {
+        "name": "Boulder Creek near Dunphy",
+        "official_name": "BOULDER CK NR DUNPHY, NV",
+        "ref": "10324700",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10324700",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1529.486",
+        "ele:accuracy": "0.1219",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.9312118,
+          40.6676885
+        ]
+      },
+      "properties": {
+        "name": "Humboldt River at Battle Mountain",
+        "official_name": "HUMBOLDT RV AT BATTLE MOUNTAIN, NV",
+        "ref": "10325000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10325000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1369.436",
+        "ele:accuracy": "0.1219",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3176168,
+          40.99212549
+        ]
+      },
+      "properties": {
+        "name": "Humboldt River at Comus",
+        "official_name": "HUMBOLDT RV AT COMUS, NV",
+        "ref": "10327500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10327500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1329.934",
+        "ele:accuracy": "0.1219",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.373511,
+          41.4158222
+        ]
+      },
+      "properties": {
+        "name": "Little Humboldt River near Paradise Valley",
+        "official_name": "L HUMBOLDT RV NR PARADISE VALLEY, NV",
+        "ref": "10329000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10329000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1360.749",
+        "ele:accuracy": "0.1219",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4179047,
+          41.5346175
+        ]
+      },
+      "properties": {
+        "name": "Martin Creek near Paradise Valley",
+        "official_name": "MARTIN CK NR PARADISE VALLEY, NV",
+        "ref": "10329500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10329500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1416.985",
+        "ele:accuracy": "0.1219",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.204312,
+          40.6924048
+        ]
+      },
+      "properties": {
+        "name": "Humboldt River near Imlay",
+        "official_name": "HUMBOLDT RV NR IMLAY, NV",
+        "ref": "10333000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10333000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1259.799",
+        "ele:accuracy": "0.1219",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3076469,
+          40.4674063
+        ]
+      },
+      "properties": {
+        "name": "Humboldt River near Rye Patch",
+        "official_name": "HUMBOLDT RV NR RYE PATCH, NV",
+        "ref": "10335000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10335000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1239.835",
+        "ele:accuracy": "0.1219",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.9465774,
+          39.24046325
+        ]
+      },
+      "properties": {
+        "name": "Third Creek near Crystal Bay",
+        "official_name": "THIRD CK NR CRYSTAL BAY, NV",
+        "ref": "10336698",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10336698",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "1901.217",
+        "ele:accuracy": "0.0792",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.9449106,
+          39.2401855
+        ]
+      },
+      "properties": {
+        "name": "Incline Creek near Crystal Bay",
+        "official_name": "INCLINE CK NR CRYSTAL BAY, NV",
+        "ref": "10336700",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10336700",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "1905.305",
+        "ele:accuracy": "0.0488",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.905511,
+          39.172975
+        ]
+      },
+      "properties": {
+        "name": "Marlette Lake near Carson City",
+        "official_name": "MARLETTE LAKE NR CARSON CITY, NV",
+        "ref": "10336710",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10336710",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "2377.44",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.907963,
+          39.17213045
+        ]
+      },
+      "properties": {
+        "name": "Marlette Creek near Carson City",
+        "official_name": "MARLETTE CK NR CARSON CITY, NV",
+        "ref": "10336715",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10336715",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "2365.248",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.9399057,
+          39.08740806
+        ]
+      },
+      "properties": {
+        "name": "Glenbrook Creek at Glenbrook",
+        "official_name": "GLENBROOK CK AT GLENBROOK, NV",
+        "ref": "10336730",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10336730",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "1901.952",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.9954782,
+          39.5243537
+        ]
+      },
+      "properties": {
+        "name": "Dog Creek at Verdi",
+        "official_name": "DOG CK AT VERDI, NV",
+        "ref": "10347310",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10347310",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1493.52",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.931864,
+          39.50713218
+        ]
+      },
+      "properties": {
+        "name": "Truckee River near Mogul",
+        "official_name": "TRUCKEE RV NR MOGUL, NV",
+        "ref": "10347460",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10347460",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1429.817",
+        "ele:accuracy": "1.3106",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.8945,
+          39.4951111
+        ]
+      },
+      "properties": {
+        "name": "Hunter Creek near Reno",
+        "official_name": "HUNTER CK NR RENO, NV",
+        "ref": "10347600",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10347600",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1487.424",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7954684,
+          39.53018865
+        ]
+      },
+      "properties": {
+        "name": "Truckee River at Reno",
+        "official_name": "TRUCKEE RV AT RENO, NV",
+        "ref": "10348000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10348000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1355.763",
+        "ele:accuracy": "0.0152",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7766389,
+          39.5258333
+        ]
+      },
+      "properties": {
+        "name": "Truckee River at Glendale Avenue near Sparks",
+        "official_name": "TRUCKEE RV AT GLENDALE AVE NR SPARKS, NV",
+        "ref": "10348036",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10348036",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1351.178",
+        "ele:accuracy": "1.3106",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7416444,
+          39.51761667
+        ]
+      },
+      "properties": {
+        "name": "Truckee River near Sparks",
+        "official_name": "TRUCKEE RV NR SPARKS, NV",
+        "ref": "10348200",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10348200",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "1336.862",
+        "ele:accuracy": "0.0213",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7265766,
+          39.56879988
+        ]
+      },
+      "properties": {
+        "name": "North Truckee Drain at Spanish Springs Road near Spark",
+        "official_name": "N TRUCKEE DRAIN AT SPANISH SPRINGS RD NR SPARK, NV",
+        "ref": "10348245",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10348245",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1344.168",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7149722,
+          39.5315833
+        ]
+      },
+      "properties": {
+        "name": "North Truckee Drain near Big Fish Drive near Sparks",
+        "official_name": "N TRUCKEE DRAIN NR BIG FISH DR NR SPARKS, NV",
+        "ref": "10348295",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10348295",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1339.291",
+        "ele:accuracy": "1.3106",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.8710833,
+          39.20227778
+        ]
+      },
+      "properties": {
+        "name": "Franktown Creek near Carson City",
+        "official_name": "FRANKTOWN CK NR CARSON CITY, NV",
+        "ref": "10348460",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10348460",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "2276.856",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.8413528,
+          39.27406389
+        ]
+      },
+      "properties": {
+        "name": "Franktown Creek at Old US 395 near Franktown",
+        "official_name": "FRANKTOWN CK AT OLD US 395 NR FRANKTOWN, NV",
+        "ref": "10348505",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10348505",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1547.47",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.8309167,
+          39.29082778
+        ]
+      },
+      "properties": {
+        "name": "Ophir Creek near Steamboat",
+        "official_name": "OPHIR CK NR STEAMBOAT, NV",
+        "ref": "10348520",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10348520",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1559.357",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.8281667,
+          39.3034222
+        ]
+      },
+      "properties": {
+        "name": "Davis Creek at Davis Creek Campground Road near Washoe City",
+        "official_name": "DAVIS CK AT DAVIS CK CMPGRD RD NR WASHOE CITY, NV",
+        "ref": "10348550",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10348550",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1554.48",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.8232083,
+          39.31238889
+        ]
+      },
+      "properties": {
+        "name": "Winters Creek below U.S. Route 395 Alternate near Washoe City",
+        "official_name": "WINTERS CK BLW US ALT 395 NR WASHOE CITY, NV",
+        "ref": "10348570",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10348570",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1552.956",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.801861,
+          39.32980556
+        ]
+      },
+      "properties": {
+        "name": "Little Washoe Lake near Steamboat",
+        "official_name": "LITTLE WASHOE LAKE NR STEAMBOAT, NV",
+        "ref": "10348800",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10348800",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "1537.411",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.8019167,
+          39.3298333
+        ]
+      },
+      "properties": {
+        "name": "Steamboat Creek at Washoe Lake Dam at New Washoe City",
+        "official_name": "STEAMBOAT CK AT WASHOE LK DAM AT NEW WASHOE CITY",
+        "ref": "10348801",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10348801",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1537.106",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.8585225,
+          39.35435414
+        ]
+      },
+      "properties": {
+        "name": "Galena Creek at Galena Creek State Park",
+        "official_name": "GALENA CK AT GALENA CK STATE PARK, NV",
+        "ref": "10348850",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10348850",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1926.336",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7900556,
+          39.3490833
+        ]
+      },
+      "properties": {
+        "name": "Galena Creek below Galena Creek Bridge at Pleasant Valley",
+        "official_name": "GALENA CK BLW GALENA CK BRDG AT PLEASANT VLY, NV",
+        "ref": "10348995",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10348995",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1497.482",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7436583,
+          39.3771333
+        ]
+      },
+      "properties": {
+        "name": "Steamboat Creek at Steamboat",
+        "official_name": "STEAMBOAT CK AT STEAMBOAT, NV",
+        "ref": "10349300",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10349300",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1402.08",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7547778,
+          39.42413889
+        ]
+      },
+      "properties": {
+        "name": "Whites Creek at Old Virginia Road near Reno",
+        "official_name": "WHITES CK AT OLD VIRGINIA RD NR RENO, NV",
+        "ref": "10349770",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10349770",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1375.258",
+        "ele:accuracy": "0.4877",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7285199,
+          39.4657449
+        ]
+      },
+      "properties": {
+        "name": "Steamboat Creek at Short Lane at Reno",
+        "official_name": "STEAMBOAT CK AT SHORT LN AT RENO, NV",
+        "ref": "10349849",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10349849",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1345.692",
+        "ele:accuracy": "1.524",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.712409,
+          39.5129672
+        ]
+      },
+      "properties": {
+        "name": "Steamboat Creek at Cleanwater Way near Reno",
+        "official_name": "STEAMBOAT CK AT CLEANWATER WAY NR RENO, NV",
+        "ref": "10349980",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10349980",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1333.5",
+        "ele:accuracy": "1.524",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7010198,
+          39.5204672
+        ]
+      },
+      "properties": {
+        "name": "Truckee River at Vista",
+        "official_name": "TRUCKEE RV AT VISTA, NV",
+        "ref": "10350000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10350000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1332.33",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.5532362,
+          39.55657878
+        ]
+      },
+      "properties": {
+        "name": "Truckee River near Tracy",
+        "official_name": "TRUCKEE RV NR TRACY, NV",
+        "ref": "10350340",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10350340",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1296.875",
+        "ele:accuracy": "0.0152",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.486186,
+          39.56545278
+        ]
+      },
+      "properties": {
+        "name": "Truckee River at Clark",
+        "official_name": "TRUCKEE RV AT CLARK, NV",
+        "ref": "10350500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10350500",
+        "man_made": "monitoring_station",
+        "monitoring:water_temperature": "yes",
+        "monitoring:pH": "yes",
+        "ele": "1289.304",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.2971146,
+          39.6126902
+        ]
+      },
+      "properties": {
+        "name": "Truckee Canal near Wadsworth",
+        "official_name": "TRUCKEE CANAL NR WADSWORTH, NV",
+        "ref": "10351300",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10351300",
+        "man_made": "monitoring_station",
+        "monitoring:flow_rate": "yes",
+        "ele": "1280.16",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.0451614,
+          39.5038035
+        ]
+      },
+      "properties": {
+        "name": "Truckee Canal near Hazen",
+        "official_name": "TRUCKEE CANAL NR HAZEN, NV",
+        "ref": "10351400",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10351400",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1269.958",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.4412872,
+          39.58463448
+        ]
+      },
+      "properties": {
+        "name": "Truckee River below Derby Dam near Wadsworth",
+        "official_name": "TRUCKEE RV BLW DERBY DAM NR WADSWORTH, NV",
+        "ref": "10351600",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10351600",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "1275.75",
+        "ele:accuracy": "0.0152",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.2832254,
+          39.63213447
+        ]
+      },
+      "properties": {
+        "name": "Truckee River at Wadsworth",
+        "official_name": "TRUCKEE RV AT WADSWORTH, NV",
+        "ref": "10351650",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10351650",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1231.087",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.3375222,
+          39.7773722
+        ]
+      },
+      "properties": {
+        "name": "Truckee River near Nixon",
+        "official_name": "TRUCKEE RV NR NIXON, NV",
+        "ref": "10351700",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10351700",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "1200.912",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.831812,
+          41.9665572
+        ]
+      },
+      "properties": {
+        "name": "Mcdermitt Creek near McDermitt",
+        "official_name": "MCDERMITT CK NR MCDERMITT, NV",
+        "ref": "10352500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10352500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1385.316",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.688611,
+          41.9447222
+        ]
+      },
+      "properties": {
+        "name": "Salmon Falls Creek near San Jacinto",
+        "official_name": "SALMON FALLS CREEK NR SAN JACINTO NV",
+        "ref": "13105000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13105000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1560.576",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.6745268,
+          41.9332368
+        ]
+      },
+      "properties": {
+        "name": "Bruneau River at Rowland",
+        "official_name": "BRUNEAU RV AT ROWLAND, NV",
+        "ref": "13161500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13161500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1371.6",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.4286816,
+          41.8904614
+        ]
+      },
+      "properties": {
+        "name": "Jarbidge River below Jarbidge",
+        "official_name": "JARBIDGE RV BLW JARBIDGE, NV",
+        "ref": "13162225",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13162225",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1844.04",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.8445289,
+          41.6874054
+        ]
+      },
+      "properties": {
+        "name": "Wild Horse Reservoir near Gold Creek",
+        "official_name": "WILD HORSE RES NR GOLD CR, NV",
+        "ref": "13174000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13174000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "1891.284",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.8448067,
+          41.68879428
+        ]
+      },
+      "properties": {
+        "name": "Owyhee River near Gold Creek",
+        "official_name": "OWYHEE RV NR GOLD CK, NV",
+        "ref": "13174500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13174500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1864.995",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.9892597,
+          41.8604583
+        ]
+      },
+      "properties": {
+        "name": "Owyhee River near Mountain City",
+        "official_name": "OWYHEE RV NR MOUNTAIN CITY, NV",
+        "ref": "13175100",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13175100",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1694.688",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.4866944,
+          40.171
+        ]
+      },
+      "properties": {
+        "name": "Willow Creek at Allison Ranch near Garden Gate Pass",
+        "official_name": "WILLOW CK AT ALLISON RANCH NR GARDEN GATE PASS, NV",
+        "ref": "103225055",
+        "website": "https://waterdata.usgs.gov/monitoring-location/103225055",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1974.494",
+        "ele:accuracy": "1.3106",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5956944,
+          41.974
+        ]
+      },
+      "properties": {
+        "name": "Quinn River below confluence of the East Fork and South Fork Quinn Rivers near McDermitt",
+        "official_name": "QUINN RV BLW CONFL E FK S FK QUINN NR MC DERMITT",
+        "ref": "103530001",
+        "website": "https://waterdata.usgs.gov/monitoring-location/103530001",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1453.896",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.6952715,
+          36.7110817
+        ]
+      },
+      "properties": {
+        "name": "Muddy River near Moapa",
+        "official_name": "MUDDY RV NR MOAPA, NV",
+        "ref": "09416000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09416000",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "521.208",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.0452761,
+          36.1596948
+        ]
+      },
+      "properties": {
+        "name": "Sloan Channel at Charleston Boulevard near Las Vegas",
+        "official_name": "SLOAN CHANNEL AT CHARLESTON BLVD NR LAS VEGAS, NV",
+        "ref": "09419665",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09419665",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "521.427",
+        "ele:accuracy": "0.0213",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.0655537,
+          36.14302819
+        ]
+      },
+      "properties": {
+        "name": "Flamingo Wash at Nellis Boulevard near Las Vegas",
+        "official_name": "FLAMINGO WASH AT NELLIS BLVD NR LAS VEGAS, NV",
+        "ref": "094196781",
+        "website": "https://waterdata.usgs.gov/monitoring-location/094196781",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "522.037",
+        "ele:accuracy": "0.0152",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.0477755,
+          36.13969527
+        ]
+      },
+      "properties": {
+        "name": "Las Vegas Wash below Flamingo Wash Confluence near Las Vegas",
+        "official_name": "LV WASH BLW FLAMINGO WASH CONFL NR LAS VEGAS, NV",
+        "ref": "094196783",
+        "website": "https://waterdata.usgs.gov/monitoring-location/094196783",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "512.381",
+        "ele:accuracy": "0.0122",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.0356667,
+          36.13191667
+        ]
+      },
+      "properties": {
+        "name": "Las Vegas Wash at Vegas Valley Drive near Las Vegas",
+        "official_name": "LAS VEGAS WASH AT VEGAS VALLEY DR NR LAS VEGAS, NV",
+        "ref": "094196784",
+        "website": "https://waterdata.usgs.gov/monitoring-location/094196784",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "508.995",
+        "ele:accuracy": "0.0122",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.9591584,
+          36.044699
+        ]
+      },
+      "properties": {
+        "name": "C-1 Channel near Warm Springs Road at Henderson",
+        "official_name": "C-1 CHANNEL NR WARM SPGS RD AT HENDERSON, NV",
+        "ref": "09419740",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09419740",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "564.572",
+        "ele:accuracy": "0.0183",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.9683333,
+          36.085
+        ]
+      },
+      "properties": {
+        "name": "C-1 Channel above mouth near Henderson",
+        "official_name": "C-1 CHANNEL ABV MOUTH NR HENDERSON, NV",
+        "ref": "09419745",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09419745",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "462.942",
+        "ele:accuracy": "0.0122",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0272522,
+          36.45745676
+        ]
+      },
+      "properties": {
+        "name": "Grapevine Springs Precipitation Gage",
+        "official_name": "230 S17 E53 21CAC 2 Grapevine Springs Precip",
+        "ref": "362727116013502",
+        "website": "https://waterdata.usgs.gov/monitoring-location/362727116013502",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "ele": "1358.798",
+        "ele:accuracy": "1.3106",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.066411,
+          36.63078889
+        ]
+      },
+      "properties": {
+        "name": "Virgin Peak Precipitation and Wind Gage",
+        "official_name": "VIRGIN PEAK PRECIP AND WIND",
+        "ref": "363751114035901",
+        "website": "https://waterdata.usgs.gov/monitoring-location/363751114035901",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "ele": "2202.485",
+        "ele:accuracy": "0.4877",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.606236,
+          38.1932333
+        ]
+      },
+      "properties": {
+        "name": "Grant Range Precipitation Gage near Cherry Creek Summit",
+        "official_name": "GRANT RANGE PRECIP NR CHERRY CK SUMMIT, NV",
+        "ref": "381136115362201",
+        "website": "https://waterdata.usgs.gov/monitoring-location/381136115362201",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "ele": "2254.301",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.4972306,
+          38.37371944
+        ]
+      },
+      "properties": {
+        "name": "Grant Range Precipitation Gage near Timber Mountain",
+        "official_name": "GRANT RANGE PRECIP NR TIMBER MOUNTAIN",
+        "ref": "382226115220501",
+        "website": "https://waterdata.usgs.gov/monitoring-location/382226115220501",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "ele": "2763.926",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.5685733,
+          38.85894444
+        ]
+      },
+      "properties": {
+        "name": "Pine Nut Creek Precipitation Gage near Gardnerville",
+        "official_name": "PINE NUT CK PRECIP NR GARDNERVILLE, NV",
+        "ref": "385132119340701",
+        "website": "https://waterdata.usgs.gov/monitoring-location/385132119340701",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "ele": "1936.699",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.8601374,
+          39.04464245
+        ]
+      },
+      "properties": {
+        "name": "Weber Reservoir Precipitation and Air Gage near Schurz",
+        "official_name": "WEBER RES NR SCHURZ, NV - PRECIP AND AIR",
+        "ref": "390241118513301",
+        "website": "https://waterdata.usgs.gov/monitoring-location/390241118513301",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:air_temperature": "yes",
+        "ele": "1285.037",
+        "ele:accuracy": "1.3106",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7436483,
+          39.3771333
+        ]
+      },
+      "properties": {
+        "name": "Steamboat Creek Precipitation Gage at Steamboat",
+        "official_name": "STEAMBOAT CK AT STEAMBOAT, NV PRECIP",
+        "ref": "392238119443701",
+        "website": "https://waterdata.usgs.gov/monitoring-location/392238119443701",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "ele": "1402.08",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.2786889,
+          39.9172611
+        ]
+      },
+      "properties": {
+        "name": "Roberts Mountains Precipitation Gage near Lower Dry Creek Spring",
+        "official_name": "ROBERTS MOUNTAINS PRECIP NR LWR DRY CK SPG, NV",
+        "ref": "395454116163601",
+        "website": "https://waterdata.usgs.gov/monitoring-location/395454116163601",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "ele": "2157.679",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.17325939999999,
+          40.5947972
+        ]
+      },
+      "properties": {
+        "name": "Pine Creek Precipitation Gage near Palisade",
+        "official_name": "PINE CR PRECIP NR PALISADE, NV",
+        "ref": "403541116102401",
+        "website": "https://waterdata.usgs.gov/monitoring-location/403541116102401",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "ele": "1487.058",
+        "ele:accuracy": "0.0122",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.08,
+          38.9333333
+        ]
+      },
+      "properties": {
+        "name": "Preston Big Spring near Preston",
+        "official_name": "PRESTON BIG SPRG NR PRESTON, NV",
+        "ref": "09415510",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09415510",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1741.981",
+        "ele:accuracy": "0.0152",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1516667,
+          38.37944444
+        ]
+      },
+      "properties": {
+        "name": "Hot Creek near Sunnyside",
+        "official_name": "HOT CK NR SUNNYSIDE, NV",
+        "ref": "09415558",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09415558",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1589.367",
+        "ele:accuracy": "0.0152",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.195,
+          37.46
+        ]
+      },
+      "properties": {
+        "name": "Ash Springs Creek below diversion at Highway 93 at Ash Springs",
+        "official_name": "ASH SPGS CK BLW DIV AT HWY 93 AT ASH SPGS, NV",
+        "ref": "09415645",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09415645",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1091.108",
+        "ele:accuracy": "0.0213",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.7155502,
+          36.72163699
+        ]
+      },
+      "properties": {
+        "name": "Muddy Springs at LDS Farm near Moapa",
+        "official_name": "MUDDY SPGS AT LDS FARM NR MOAPA, NV",
+        "ref": "09415900",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09415900",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "539.496",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.7157139,
+          36.70936389
+        ]
+      },
+      "properties": {
+        "name": "Pederson East Springs near Moapa",
+        "official_name": "PEDERSON E SPGS NR MOAPA, NV",
+        "ref": "09415908",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09415908",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "550.987",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.7159722,
+          36.70958056
+        ]
+      },
+      "properties": {
+        "name": "Pederson Springs near Moapa",
+        "official_name": "PEDERSON SPGS NR MOAPA, NV",
+        "ref": "09415910",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09415910",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "551.99",
+        "ele:accuracy": "0.0244",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.7146056,
+          36.71051944
+        ]
+      },
+      "properties": {
+        "name": "Warm Springs West Inflow near Moapa",
+        "official_name": "WARM SPGS W INFLOW NR MOAPA, NV",
+        "ref": "09415915",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09415915",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "549.859",
+        "ele:accuracy": "1.524",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.7136639,
+          36.7111833
+        ]
+      },
+      "properties": {
+        "name": "Warm Springs West near Moapa",
+        "official_name": "WARM SPGS W NR MOAPA, NV",
+        "ref": "09415920",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09415920",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "539.801",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.7096667,
+          36.7113333
+        ]
+      },
+      "properties": {
+        "name": "Warm Springs Confluence at Iverson Flume near Moapa",
+        "official_name": "WARM SPGS CONFL AT IVERSON FLUME NR MOAPA, NV",
+        "ref": "09415927",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09415927",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "542.544",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.206927,
+          38.0041285
+        ]
+      },
+      "properties": {
+        "name": "Meadow Valley Wash at Eagle Canyon near Ursine",
+        "official_name": "MEADOW VALLEY WASH AT EAGLE CYN NR URSINE, NV",
+        "ref": "09417500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09417500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1723.312",
+        "ele:accuracy": "0.0152",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.5630556,
+          37.55837778
+        ]
+      },
+      "properties": {
+        "name": "Meadow Valley Wash near Caliente",
+        "official_name": "MEADOW VALLEY WASH NR CALIENTE, NV",
+        "ref": "09418500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09418500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1280.16",
+        "ele:accuracy": "1.524",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.6580556,
+          36.8382
+        ]
+      },
+      "properties": {
+        "name": "Meadow Valley Wash near Rox",
+        "official_name": "MEADOW VALLEY WASH NR ROX, NV",
+        "ref": "09418700",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09418700",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "565.404",
+        "ele:accuracy": "9.144",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.5397075,
+          36.64302844
+        ]
+      },
+      "properties": {
+        "name": "Muddy River near Glendale",
+        "official_name": "MUDDY RV NR GLENDALE, NV",
+        "ref": "09419000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09419000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "446.154",
+        "ele:accuracy": "0.0183",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.3529139,
+          36.4475583
+        ]
+      },
+      "properties": {
+        "name": "Virgin River below confluence of Muddy River near Overton",
+        "official_name": "VIRGIN RV BLW CONF OF MUDDY RV NR OVERTON, NV",
+        "ref": "09419530",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09419530",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "333.146",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.4435833,
+          36.3765833
+        ]
+      },
+      "properties": {
+        "name": "Rogers Spring near Overton Beach",
+        "official_name": "ROGERS SPNG NR OVERTON BEACH, NV",
+        "ref": "09419550",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09419550",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "477.012",
+        "ele:accuracy": "4.8768",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.3581194,
+          36.43884444
+        ]
+      },
+      "properties": {
+        "name": "Corn Creek Springs at Desert National Wildlife Refuge Headquarters",
+        "official_name": "CORN CK SPGS AT NATIONAL FISH & WILDLIFE HDQRS, NV",
+        "ref": "09419625",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09419625",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "892.299",
+        "ele:accuracy": "0.0244",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.0219944,
+          36.10805
+        ]
+      },
+      "properties": {
+        "name": "Las Vegas Wasteway near East Las Vegas",
+        "official_name": "LAS VEGAS WASTEWAY NR E LAS VEGAS, NV",
+        "ref": "09419679",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09419679",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "498.918",
+        "ele:accuracy": "0.0914",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.0238843,
+          36.09080799
+        ]
+      },
+      "properties": {
+        "name": "Duck Creek at Broadbent Boulevard at East Las Vegas",
+        "official_name": "DUCK CK AT BROADBENT BLVD AT E LAS VEGAS, NV",
+        "ref": "09419696",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09419696",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "488.387",
+        "ele:accuracy": "0.0152",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.0000505,
+          36.09152507
+        ]
+      },
+      "properties": {
+        "name": "Las Vegas Wash below Duck Creek confluence near Henderson",
+        "official_name": "LV WASH BLW DUCK CK CONF NR HENDERSON, NV",
+        "ref": "09419698",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09419698",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "474.385",
+        "ele:accuracy": "0.0914",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.9858276,
+          36.08747539
+        ]
+      },
+      "properties": {
+        "name": "Las Vegas Wash at Pabco Road near Henderson",
+        "official_name": "LAS VEGAS WASH AT PABCO RD NR HENDERSON, NV",
+        "ref": "09419700",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09419700",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "466.374",
+        "ele:accuracy": "0.0914",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.972225,
+          36.08978889
+        ]
+      },
+      "properties": {
+        "name": "Las Vegas Wash above Bostick Weir near Henderson",
+        "official_name": "LV WASH ABV BOSTICK WEIR NR HENDERSON, NV",
+        "ref": "09419747",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09419747",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "458.66",
+        "ele:accuracy": "0.0914",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.9551833,
+          36.09420556
+        ]
+      },
+      "properties": {
+        "name": "Las Vegas Wash above Homestead Weir near Henderson",
+        "official_name": "LV WASH ABV HOMESTEAD WEIR NR HENDERSON, NV",
+        "ref": "09419749",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09419749",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "447.306",
+        "ele:accuracy": "0.0914",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.9433194,
+          36.100375
+        ]
+      },
+      "properties": {
+        "name": "Las Vegas Wash above Three Kids Wash below Henderson",
+        "official_name": "LV WASH ABV THREE KIDS WASH BLW HENDERSON, NV",
+        "ref": "09419753",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09419753",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "427.29",
+        "ele:accuracy": "0.0914",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.934437,
+          36.10247588
+        ]
+      },
+      "properties": {
+        "name": "Las Vegas Wash Overflow at Lake Las Vegas Inlet",
+        "official_name": "LAS VEGAS WASH OVERFLOW AT LAKE LAS VEGAS INLET",
+        "ref": "09419756",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09419756",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "424.318",
+        "ele:accuracy": "0.0152",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.904992,
+          36.12219816
+        ]
+      },
+      "properties": {
+        "name": "Las Vegas Wash below Lake Las Vegas near Boulder City",
+        "official_name": "LV WASH BLW LAKE LAS VEGAS NR BOULDER CITY, NV",
+        "ref": "09419800",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09419800",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "380.832",
+        "ele:accuracy": "0.0152",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.7385936,
+          36.01525847
+        ]
+      },
+      "properties": {
+        "name": "Colorado River below Hoover Dam",
+        "official_name": "COLORADO RV BLW HOOVER DAM, AZ-NV",
+        "ref": "09421500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09421500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "205.889",
+        "ele:accuracy": "10.0584",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.5721876,
+          35.19166556
+        ]
+      },
+      "properties": {
+        "name": "Colorado River below Davis Dam",
+        "official_name": "COLORADO RIVER BELOW DAVIS DAM, AZ-NV",
+        "ref": "09423000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09423000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "149.352",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.7252306,
+          36.16354444
+        ]
+      },
+      "properties": {
+        "name": "Kiup Spring",
+        "official_name": "162 S20 E56 31DADA1 KIUP SPRING",
+        "ref": "360956115432801",
+        "website": "https://waterdata.usgs.gov/monitoring-location/360956115432801",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1561.137",
+        "ele:accuracy": "0.0152",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.27595,
+          36.26661944
+        ]
+      },
+      "properties": {
+        "name": "Quail Spring",
+        "official_name": "223 S19 E69 22BCAA1 QUAIL SPRING",
+        "ref": "361600114163301",
+        "website": "https://waterdata.usgs.gov/monitoring-location/361600114163301",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "798.271",
+        "ele:accuracy": "1.3106",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.2117806,
+          36.45948889
+        ]
+      },
+      "properties": {
+        "name": "Red Rock Springs Outflow near Lake Mead",
+        "official_name": "RED ROCK SPRINGS OUTFLOW NR LAKE MEAD, NV",
+        "ref": "362734114124201",
+        "website": "https://waterdata.usgs.gov/monitoring-location/362734114124201",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "570.89",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.1126667,
+          38.90913889
+        ]
+      },
+      "properties": {
+        "name": "Spring Creek Spring at source",
+        "official_name": "195 N12 E70 15CBCD1 SPRING CK SPRING AT SOURCE",
+        "ref": "385433114063901",
+        "website": "https://waterdata.usgs.gov/monitoring-location/385433114063901",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1872.386",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.7218056,
+          38.7
+        ]
+      },
+      "properties": {
+        "name": "Walker Lake center",
+        "official_name": "WALKER LAKE 3 CENTER NDOW",
+        "ref": "384200118431901",
+        "website": "https://waterdata.usgs.gov/monitoring-location/384200118431901",
+        "man_made": "monitoring_station",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.725,
+          38.75169444
+        ]
+      },
+      "properties": {
+        "name": "Walker Lake north",
+        "official_name": "WALKER LAKE 4 NORTH NDOW",
+        "ref": "384506118433001",
+        "website": "https://waterdata.usgs.gov/monitoring-location/384506118433001",
+        "man_made": "monitoring_station",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    }
+  ]
+}
