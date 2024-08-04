@@ -1,0 +1,6182 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1474945,
+          39.19305265
+        ]
+      },
+      "properties": {
+        "name": "Kansas River near Belvue",
+        "official_name": "KANSAS R NR BELVUE, KS",
+        "ref": "06888350",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06888350",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "282.15",
+        "ele:accuracy": "0.0213",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4806139,
+          37.70169444
+        ]
+      },
+      "properties": {
+        "name": "Cowskin Creek at 119th Street in Wichita",
+        "official_name": "COWSKIN C AT 119TH ST AT WICHITA, KS",
+        "ref": "07144480",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07144480",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "400.227",
+        "ele:accuracy": "0.0244",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.4918171,
+          37.0111372
+        ]
+      },
+      "properties": {
+        "name": "Cimarron River near Forgan",
+        "official_name": "Cimarron River near Forgan, OK",
+        "ref": "07156900",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07156900",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "707.474",
+        "ele:accuracy": "0.0762",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1086149,
+          39.9477773
+        ]
+      },
+      "properties": {
+        "name": "Turkey Creek near Seneca",
+        "official_name": "TURKEY C NR SENECA, KS",
+        "ref": "06814000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06814000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "316.297",
+        "ele:accuracy": "0.0244",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1138889,
+          39.5597222
+        ]
+      },
+      "properties": {
+        "name": "Missouri River at Atchison",
+        "official_name": "MISSOURI R AT ATCHISON, KS",
+        "ref": "06818300",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06818300",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.9095,
+          39.3269722
+        ]
+      },
+      "properties": {
+        "name": "Missouri River at Leavenworth",
+        "official_name": "Missouri River at Leavenworth, KS",
+        "ref": "06820475",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06820475",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "226.771",
+        "ele:accuracy": "0.4877",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.0132611,
+          39.67184444
+        ]
+      },
+      "properties": {
+        "name": "South Fork Republican River near Colorado-Kansas State Line",
+        "official_name": "SF REPUBLICAN R NR CO-KS ST LINE, KS",
+        "ref": "06827000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06827000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1057.034",
+        "ele:accuracy": "0.0518",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.9924889,
+          40.0016
+        ]
+      },
+      "properties": {
+        "name": "Sappa Creek near Lyle",
+        "official_name": "SAPPA C NR LYLE, KS",
+        "ref": "06845110",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06845110",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "678.399",
+        "ele:accuracy": "0.0366",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.560148,
+          39.98500557
+        ]
+      },
+      "properties": {
+        "name": "Beaver Creek at Cedar Bluffs",
+        "official_name": "BEAVER C AT CEDAR BLUFFS, KS",
+        "ref": "06846500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06846500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "768.495",
+        "ele:accuracy": "0.0122",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.1006875,
+          39.769727
+        ]
+      },
+      "properties": {
+        "name": "Prairie Dog Creek above Keith Sebelius Lake",
+        "official_name": "PRAIRIE DOG C AB KEITH SEBELIUS LAKE, KS",
+        "ref": "06847900",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06847900",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "711.912",
+        "ele:accuracy": "0.0152",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.4781028,
+          39.978775
+        ]
+      },
+      "properties": {
+        "name": "Prairie Dog Creek near Woodruff",
+        "official_name": "PRAIRIE DOG C NR WOODRUFF, KS",
+        "ref": "06848500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06848500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "615.94",
+        "ele:accuracy": "0.0732",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.9318583,
+          39.9936611
+        ]
+      },
+      "properties": {
+        "name": "Republican River near Hardy",
+        "official_name": "REPUBLICAN R NR HARDY, NE",
+        "ref": "06853500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06853500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "457.816",
+        "ele:accuracy": "0.0213",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.2503276,
+          39.89918
+        ]
+      },
+      "properties": {
+        "name": "White Rock Creek near Burr Oak",
+        "official_name": "WHITE ROCK C NR BURR OAK, KS",
+        "ref": "06853800",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06853800",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "487.991",
+        "ele:accuracy": "0.0122",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7931266,
+          39.79873
+        ]
+      },
+      "properties": {
+        "name": "Republican River at Scandia",
+        "official_name": "REPUBLICAN R AT SCANDIA, KS",
+        "ref": "06854500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06854500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "433.965",
+        "ele:accuracy": "0.0488",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7814333,
+          39.59258056
+        ]
+      },
+      "properties": {
+        "name": "Buffalo Creek 4 miles east of Jamestown",
+        "official_name": "BUFFALO C 4 MI E OF JAMESTOWN, KS",
+        "ref": "06855850",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06855850",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "413.348",
+        "ele:accuracy": "0.0366",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6582056,
+          39.58866944
+        ]
+      },
+      "properties": {
+        "name": "Republican River at Concordia",
+        "official_name": "REPUBLICAN R AT CONCORDIA, KS",
+        "ref": "06856000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06856000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "405.198",
+        "ele:accuracy": "0.0274",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1275203,
+          39.3555515
+        ]
+      },
+      "properties": {
+        "name": "Republican River at Clay Center",
+        "official_name": "REPUBLICAN R AT CLAY CENTER, KS",
+        "ref": "06856600",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06856600",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "ele": "353.455",
+        "ele:accuracy": "0.0335",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8294533,
+          39.0427758
+        ]
+      },
+      "properties": {
+        "name": "Republican River at Junction City",
+        "official_name": "REPUBLICAN R AT JUNCTION CITY, KS",
+        "ref": "06857100",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06857100",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "317.748",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.8584796,
+          38.7947354
+        ]
+      },
+      "properties": {
+        "name": "Smoky Hill River at Elkader",
+        "official_name": "SMOKY HILL R AT ELKADER, KS",
+        "ref": "06860000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06860000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "799.71",
+        "ele:accuracy": "0.0335",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.0585139,
+          38.83950556
+        ]
+      },
+      "properties": {
+        "name": "Hackberry Creek near Trego Center",
+        "official_name": "HACKBERRY C NR TREGO CENTER, KS",
+        "ref": "06860900",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06860900",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "679.96",
+        "ele:accuracy": "0.0244",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.0222667,
+          38.80778889
+        ]
+      },
+      "properties": {
+        "name": "Smoky Hill River near Arnold",
+        "official_name": "SMOKY HILL R NR ARNOLD, KS",
+        "ref": "06861000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06861000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "669.624",
+        "ele:accuracy": "0.0427",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.3470492,
+          38.71167927
+        ]
+      },
+      "properties": {
+        "name": "Smoky Hill River near Schoenchen",
+        "official_name": "SMOKY HILL R NR SCHOENCHEN, KS",
+        "ref": "06862700",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06862700",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "582.08",
+        "ele:accuracy": "0.0396",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.292325,
+          38.71223475
+        ]
+      },
+      "properties": {
+        "name": "Smoky Hill River below Schoenchen",
+        "official_name": "SMOKY HILL R BL SCHOENCHEN, KS",
+        "ref": "06862850",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06862850",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "574.868",
+        "ele:accuracy": "0.0518",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1537086,
+          38.7147345
+        ]
+      },
+      "properties": {
+        "name": "Smoky Hill River at Pfeifer",
+        "official_name": "SMOKY HILL R AT PFEIFER, KS",
+        "ref": "06863000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06863000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "555.257",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6508333,
+          38.9233333
+        ]
+      },
+      "properties": {
+        "name": "Big Creek near Ellis",
+        "official_name": "BIG C NR ELLIS, KS",
+        "ref": "06863420",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06863420",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "657.658",
+        "ele:accuracy": "0.0274",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.3181589,
+          38.852234
+        ]
+      },
+      "properties": {
+        "name": "Big Creek near Hays",
+        "official_name": "BIG C NR HAYS, KS",
+        "ref": "06863500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06863500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "595.671",
+        "ele:accuracy": "0.0396",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.8548066,
+          38.7766781
+        ]
+      },
+      "properties": {
+        "name": "Smoky Hill River near Russell",
+        "official_name": "SMOKY HILL R NR RUSSELL, KS",
+        "ref": "06864000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06864000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "514.399",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.2336684,
+          38.72667589
+        ]
+      },
+      "properties": {
+        "name": "Smoky Hill River at Ellsworth",
+        "official_name": "SMOKY HILL R AT ELLSWORTH, KS",
+        "ref": "06864500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06864500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "460.132",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.9525639,
+          38.61146944
+        ]
+      },
+      "properties": {
+        "name": "Smoky Hill River near Langley",
+        "official_name": "SMOKY HILL R NR LANGLEY, KS",
+        "ref": "06865500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06865500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "425.492",
+        "ele:accuracy": "0.0396",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6664947,
+          38.56380659
+        ]
+      },
+      "properties": {
+        "name": "Smoky Hill River at Lindsborg",
+        "official_name": "SMOKY HILL R AT LINDSBORG, KS",
+        "ref": "06866000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06866000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "395.551",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5717015,
+          38.7111152
+        ]
+      },
+      "properties": {
+        "name": "Smoky Hill River near Mentor",
+        "official_name": "SMOKY HILL R NR MENTOR, KS",
+        "ref": "06866500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06866500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "378.168",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.86955,
+          39.1061861
+        ]
+      },
+      "properties": {
+        "name": "Saline River near Wakeeney",
+        "official_name": "SALINE R NR WAKEENEY, KS",
+        "ref": "06866900",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06866900",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "650.571",
+        "ele:accuracy": "0.1036",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.8540917,
+          38.9658611
+        ]
+      },
+      "properties": {
+        "name": "Saline River near Russell",
+        "official_name": "SALINE R NR RUSSELL, KS",
+        "ref": "06867000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06867000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "473.08",
+        "ele:accuracy": "0.0274",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.8422917,
+          39.05919167
+        ]
+      },
+      "properties": {
+        "name": "Paradise Creek near Paradise",
+        "official_name": "PARADISE C NR PARADISE, KS",
+        "ref": "06867500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06867500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "482.486",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4903429,
+          38.9747332
+        ]
+      },
+      "properties": {
+        "name": "Saline River at Wilson Dam",
+        "official_name": "SALINE R AT WILSON DAM, KS",
+        "ref": "06868200",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06868200",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "435.212",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.1501667,
+          39.02831944
+        ]
+      },
+      "properties": {
+        "name": "Saline River at Lincoln",
+        "official_name": "SALINE R AT LINCOLN, KS",
+        "ref": "06868850",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06868850",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "406.055",
+        "ele:accuracy": "0.0183",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.8733944,
+          39.0037861
+        ]
+      },
+      "properties": {
+        "name": "Saline River at Tescott",
+        "official_name": "SALINE R AT TESCOTT, KS",
+        "ref": "06869500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06869500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "385.709",
+        "ele:accuracy": "0.0335",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6683699,
+          38.8444476
+        ]
+      },
+      "properties": {
+        "name": "Mulberry Creek near Salina",
+        "official_name": "MULBERRY C NR SALINA, KS",
+        "ref": "06869950",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06869950",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "368.421",
+        "ele:accuracy": "0.0396",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4831556,
+          38.8639972
+        ]
+      },
+      "properties": {
+        "name": "Smoky Hill River at New Cambria",
+        "official_name": "SMOKY HILL R AT NEW CAMBRIA, KS",
+        "ref": "06870200",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06870200",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "353.751",
+        "ele:accuracy": "0.0427",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4275583,
+          38.62726389
+        ]
+      },
+      "properties": {
+        "name": "Gypsum Creek near Gypsum",
+        "official_name": "GYPSUM C NR GYPSUM, KS",
+        "ref": "06870300",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06870300",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "375.562",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.3092389,
+          39.67284444
+        ]
+      },
+      "properties": {
+        "name": "North Fork Solomon River at Glade",
+        "official_name": "NF SOLOMON R AT GLADE, KS",
+        "ref": "06871000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06871000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "534.839",
+        "ele:accuracy": "0.0335",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2855722,
+          39.56028889
+        ]
+      },
+      "properties": {
+        "name": "Bow Creek near Stockton",
+        "official_name": "BOW C NR STOCKTON, KS",
+        "ref": "06871500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06871500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "549.378",
+        "ele:accuracy": "0.0366",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.6923222,
+          39.55300278
+        ]
+      },
+      "properties": {
+        "name": "North Fork Solomon River at Portis",
+        "official_name": "NF SOLOMON R AT PORTIS, KS",
+        "ref": "06872500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06872500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "454.627",
+        "ele:accuracy": "0.0244",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5801096,
+          39.37667456
+        ]
+      },
+      "properties": {
+        "name": "South Fork Solomon River above Webster Reservoir",
+        "official_name": "SF SOLOMON R AB WEBSTER RE, KS",
+        "ref": "06873000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06873000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "589.38",
+        "ele:accuracy": "0.1585",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1017567,
+          39.4397325
+        ]
+      },
+      "properties": {
+        "name": "South Fork Solomon River at Woodston",
+        "official_name": "SF SOLOMON R AT WOODSTON, KS",
+        "ref": "06873460",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06873460",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "506.523",
+        "ele:accuracy": "0.0427",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.6942395,
+          39.42778826
+        ]
+      },
+      "properties": {
+        "name": "South Fork Solomon River at Osborne",
+        "official_name": "SF SOLOMON R AT OSBORNE, KS",
+        "ref": "06874000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06874000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "458.95",
+        "ele:accuracy": "0.0335",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.2836658,
+          39.4738987
+        ]
+      },
+      "properties": {
+        "name": "Solomon River near Glen Elder",
+        "official_name": "SOLOMON R NR GLEN ELDER, KS",
+        "ref": "06875900",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06875900",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "419.198",
+        "ele:accuracy": "0.0488",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.1098985,
+          39.45450957
+        ]
+      },
+      "properties": {
+        "name": "Solomon River at Beloit",
+        "official_name": "SOLOMON R AT BELOIT, KS",
+        "ref": "06876000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06876000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "408.377",
+        "ele:accuracy": "0.0335",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.9292333,
+          39.3681222
+        ]
+      },
+      "properties": {
+        "name": "Solomon River near Simpson",
+        "official_name": "SOLOMON R NR SIMPSON, KS",
+        "ref": "06876070",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06876070",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "394.228",
+        "ele:accuracy": "0.0274",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7112889,
+          39.12002778
+        ]
+      },
+      "properties": {
+        "name": "Solomon River near Minneapolis",
+        "official_name": "SOLOMON R NR MINNEAPOLIS, KS",
+        "ref": "06876440",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06876440",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "371.237",
+        "ele:accuracy": "0.0213",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.83655,
+          39.13912778
+        ]
+      },
+      "properties": {
+        "name": "Salt Creek near Ada",
+        "official_name": "SALT C NR ADA, KS",
+        "ref": "06876700",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06876700",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "380.412",
+        "ele:accuracy": "0.0274",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4770444,
+          38.96899167
+        ]
+      },
+      "properties": {
+        "name": "Solomon River at Niles",
+        "official_name": "SOLOMON R AT NILES, KS",
+        "ref": "06876900",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06876900",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "354.007",
+        "ele:accuracy": "0.0457",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2601528,
+          39.00084444
+        ]
+      },
+      "properties": {
+        "name": "Mud Creek near Talmage",
+        "official_name": "MUD C NR TALMAGE, KS",
+        "ref": "06877110",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06877110",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "356.921",
+        "ele:accuracy": "0.0366",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1177952,
+          38.90638906
+        ]
+      },
+      "properties": {
+        "name": "Smoky Hill River at Enterprise",
+        "official_name": "SMOKY HILL R AT ENTERPRISE, KS",
+        "ref": "06877600",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06877600",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "334.853",
+        "ele:accuracy": "0.0244",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.0402922,
+          39.031109
+        ]
+      },
+      "properties": {
+        "name": "Chapman Creek near Chapman",
+        "official_name": "CHAPMAN C NR CHAPMAN, KS",
+        "ref": "06878000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06878000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "336.694",
+        "ele:accuracy": "0.0335",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8580556,
+          38.94916667
+        ]
+      },
+      "properties": {
+        "name": "Lyon Creek near Junction City",
+        "official_name": "LYON C NR JUNCTION CITY, KS",
+        "ref": "06878600",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06878600",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "325.487",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7663963,
+          39.06166457
+        ]
+      },
+      "properties": {
+        "name": "Kansas River at Fort Riley",
+        "official_name": "KANSAS R AT FORT RILEY, KS",
+        "ref": "06879100",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06879100",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "314.435",
+        "ele:accuracy": "0.0274",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.5946889,
+          39.102075
+        ]
+      },
+      "properties": {
+        "name": "Kings Creek near Manhattan",
+        "official_name": "KINGS C NR MANHATTAN, KS",
+        "ref": "06879650",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06879650",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "333.826",
+        "ele:accuracy": "0.0244",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7100278,
+          39.2185833
+        ]
+      },
+      "properties": {
+        "name": "Wildcat Creek at Keats",
+        "official_name": "WILDCAT C AT KEATS, KS",
+        "ref": "06879805",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06879805",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "335.996",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6425556,
+          39.18838889
+        ]
+      },
+      "properties": {
+        "name": "Wildcat Creek at Scenic Drive in Manhattan",
+        "official_name": "WILDCAT C AT SCENIC DRIVE, MANHATTAN, KS",
+        "ref": "06879810",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06879810",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "317.285",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6108417,
+          39.18474167
+        ]
+      },
+      "properties": {
+        "name": "Wildcat Creek at Seth Childs Road in Manhattan",
+        "official_name": "WILDCAT C AT SETH CHILDS RD, MANHATTAN, KS",
+        "ref": "06879815",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06879815",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "310.177",
+        "ele:accuracy": "0.061",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.5547245,
+          39.1747194
+        ]
+      },
+      "properties": {
+        "name": "Kansas River at Manhattan",
+        "official_name": "KANSAS R AT MANHATTAN, KS",
+        "ref": "06879820",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06879820",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "300.627",
+        "ele:accuracy": "0.0244",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6622425,
+          39.8419463
+        ]
+      },
+      "properties": {
+        "name": "Big Blue River at Marysville",
+        "official_name": "BIG BLUE R AT MARYSVILLE, KS",
+        "ref": "06882510",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06882510",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "338.91",
+        "ele:accuracy": "0.0274",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.0047222,
+          39.98027778
+        ]
+      },
+      "properties": {
+        "name": "Little Blue River at Hollenberg",
+        "official_name": "Little Blue River at Hollenberg, KS",
+        "ref": "06884025",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06884025",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "370.667",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.0375267,
+          39.81361476
+        ]
+      },
+      "properties": {
+        "name": "Mill Creek at Washington",
+        "official_name": "MILL C AT WASHINGTON, KS",
+        "ref": "06884200",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06884200",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "384.606",
+        "ele:accuracy": "0.0335",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8047432,
+          39.72583518
+        ]
+      },
+      "properties": {
+        "name": "Little Blue River near Barnes",
+        "official_name": "L BLUE R NR BARNES, KS",
+        "ref": "06884400",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06884400",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "342.62",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6400162,
+          39.6872225
+        ]
+      },
+      "properties": {
+        "name": "Big Blue River at Blue Rapids",
+        "official_name": "BIG BLUE R AT BLUE RAPIDS, KS",
+        "ref": "06884700",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06884700",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "327.764",
+        "ele:accuracy": "0.0335",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.4427888,
+          39.68194349
+        ]
+      },
+      "properties": {
+        "name": "Black Vermillion River near Frankfort",
+        "official_name": "BLACK VERMILLION R NR FRANKFORT, KS",
+        "ref": "06885500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06885500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "337.441",
+        "ele:accuracy": "0.0366",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8322357,
+          39.47222064
+        ]
+      },
+      "properties": {
+        "name": "Fancy Creek at Winkler",
+        "official_name": "FANCY C AT WINKLER, KS",
+        "ref": "06886500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06886500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "335.557",
+        "ele:accuracy": "0.0335",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7415556,
+          39.3096111
+        ]
+      },
+      "properties": {
+        "name": "Mill Creek near Riley",
+        "official_name": "MILL C NR RILEY, KS",
+        "ref": "06886850",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06886850",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "244.145",
+        "ele:accuracy": "0.4877",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.5713918,
+          39.2372186
+        ]
+      },
+      "properties": {
+        "name": "Big Blue River near Manhattan",
+        "official_name": "BIG BLUE R NR MANHATTAN, KS",
+        "ref": "06887000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06887000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "ele": "301.523",
+        "ele:accuracy": "0.0274",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3055532,
+          39.19833014
+        ]
+      },
+      "properties": {
+        "name": "Kansas River at Wamego",
+        "official_name": "KANSAS R AT WAMEGO, KS",
+        "ref": "06887500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06887500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "ele": "289.88",
+        "ele:accuracy": "0.0244",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.2174979,
+          39.34777386
+        ]
+      },
+      "properties": {
+        "name": "Vermillion Creek near Wamego",
+        "official_name": "VERMILLION C NR WAMEGO, KS",
+        "ref": "06888000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06888000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "302.17",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3149982,
+          39.24916286
+        ]
+      },
+      "properties": {
+        "name": "Rock Creek near Louisville",
+        "official_name": "ROCK C NR LOUISVILLE, KS",
+        "ref": "06888300",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06888300",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "296.01",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1691605,
+          39.06472106
+        ]
+      },
+      "properties": {
+        "name": "Mill Creek near Paxico",
+        "official_name": "MILL C NR PAXICO, KS",
+        "ref": "06888500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06888500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "293.108",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9544342,
+          39.1388874
+        ]
+      },
+      "properties": {
+        "name": "Cross Creek at Rossville",
+        "official_name": "CROSS C AT ROSSVILLE, KS",
+        "ref": "06888700",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06888700",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "273.549",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7163715,
+          39.07194435
+        ]
+      },
+      "properties": {
+        "name": "Kansas River above Topeka Weir at Topeka",
+        "official_name": "KANSAS R AB TOPEKA WEIR AT TOPEKA, KS",
+        "ref": "06888990",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06888990",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "ele": "261.262",
+        "ele:accuracy": "0.0335",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6497028,
+          39.0666666
+        ]
+      },
+      "properties": {
+        "name": "Kansas River at Topeka",
+        "official_name": "KANSAS R AT TOPEKA, KS",
+        "ref": "06889000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06889000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "258.19",
+        "ele:accuracy": "0.0183",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9760556,
+          39.6095472
+        ]
+      },
+      "properties": {
+        "name": "Soldier Creek near Corning",
+        "official_name": "SOLDIER CREEK NR CORNING, KS",
+        "ref": "06889110",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06889110",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "ele": "387.401",
+        "ele:accuracy": "0.4877",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9505944,
+          39.4631449
+        ]
+      },
+      "properties": {
+        "name": "Soldier Creek near Circleville",
+        "official_name": "SOLDIER C NR CIRCLEVILLE, KS",
+        "ref": "06889160",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06889160",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "ele": "333.628",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.8885992,
+          39.23833024
+        ]
+      },
+      "properties": {
+        "name": "Soldier Creek near Delia",
+        "official_name": "SOLDIER C NR DELIA, KS",
+        "ref": "06889200",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06889200",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "286.567",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7249828,
+          39.0994439
+        ]
+      },
+      "properties": {
+        "name": "Soldier Creek near Topeka",
+        "official_name": "SOLDIER C NR TOPEKA, KS",
+        "ref": "06889500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06889500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "263.067",
+        "ele:accuracy": "0.0244",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.725,
+          39.0175
+        ]
+      },
+      "properties": {
+        "name": "Shunganunga Creek at Gage Boulevard in Topeka",
+        "official_name": "SHUNGANUNGA C AT GAGE BLVD, TOPEKA, KS",
+        "ref": "06889585",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06889585",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "275.478",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.685815,
+          39.02972276
+        ]
+      },
+      "properties": {
+        "name": "Shunganunga Creek at Topeka",
+        "official_name": "SHUNGANUNGA C AT TOPEKA, KS",
+        "ref": "06889630",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06889630",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "267.816",
+        "ele:accuracy": "0.0244",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.532756,
+          39.5213873
+        ]
+      },
+      "properties": {
+        "name": "Delaware River near Muscotah",
+        "official_name": "DELAWARE R NR MUSCOTAH, KS",
+        "ref": "06890100",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06890100",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "280.776",
+        "ele:accuracy": "0.0244",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4038634,
+          39.07500017
+        ]
+      },
+      "properties": {
+        "name": "Delaware River at Perry",
+        "official_name": "DELAWARE R AT PERRY, KS",
+        "ref": "06890900",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06890900",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "243.755",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3863633,
+          39.05111157
+        ]
+      },
+      "properties": {
+        "name": "Kansas River at Lecompton",
+        "official_name": "KANSAS R AT LECOMPTON, KS",
+        "ref": "06891000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06891000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "250.628",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2321111,
+          38.97327778
+        ]
+      },
+      "properties": {
+        "name": "Kansas River at Lawrence",
+        "official_name": "KANSAS R AT LAWRENCE, KS",
+        "ref": "06891080",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06891080",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "243.834",
+        "ele:accuracy": "0.0244",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6969444,
+          38.88166667
+        ]
+      },
+      "properties": {
+        "name": "Wakarusa River at Wakarusa",
+        "official_name": "WAKARUSA R AT WAKARUSA, KS",
+        "ref": "06891200",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06891200",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "284.488",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5944444,
+          38.89194444
+        ]
+      },
+      "properties": {
+        "name": "Wakarusa River near Richland",
+        "official_name": "WAKARUSA R NR RICHLAND, KS",
+        "ref": "06891260",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06891260",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "271.79",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.261084,
+          38.9113923
+        ]
+      },
+      "properties": {
+        "name": "Wakarusa River near Lawrence",
+        "official_name": "WAKARUSA R NR LAWRENCE, KS",
+        "ref": "06891500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06891500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "243.721",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1088565,
+          39.3463877
+        ]
+      },
+      "properties": {
+        "name": "Stranger Creek at Easton",
+        "official_name": "STRANGER C AT EASTON, KS",
+        "ref": "06891850",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06891850",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "268.096",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.0108006,
+          39.1163912
+        ]
+      },
+      "properties": {
+        "name": "Stranger Creek near Tonganoxie",
+        "official_name": "STRANGER C NR TONGANOXIE, KS",
+        "ref": "06892000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06892000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "244.288",
+        "ele:accuracy": "0.0274",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.9646893,
+          38.9833375
+        ]
+      },
+      "properties": {
+        "name": "Kansas River at Desoto",
+        "official_name": "KANSAS R AT DESOTO, KS",
+        "ref": "06892350",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06892350",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "ele": "229.856",
+        "ele:accuracy": "0.0732",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.9736111,
+          38.95666667
+        ]
+      },
+      "properties": {
+        "name": "Kill Creek at 95th Street near Desoto",
+        "official_name": "KILL C AT 95TH ST NR DESOTO, KS",
+        "ref": "06892360",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06892360",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "ele": "233.48",
+        "ele:accuracy": "1.524",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.9161111,
+          38.95527778
+        ]
+      },
+      "properties": {
+        "name": "Cedar Creek at 95th Street near Desoto",
+        "official_name": "CEDAR C AT 95TH ST NR DESOTO, KS",
+        "ref": "06892493",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06892493",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "241.862",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.9230556,
+          38.95638889
+        ]
+      },
+      "properties": {
+        "name": "Camp Creek at 95th Street near Desoto",
+        "official_name": "CAMP C AT 95TH ST NR DESOTO, KS",
+        "ref": "06892494",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06892494",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "245.166",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.9227778,
+          38.97805556
+        ]
+      },
+      "properties": {
+        "name": "Cedar Creek near Desoto",
+        "official_name": "CEDAR C NR DESOTO, KS",
+        "ref": "06892495",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06892495",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "ele": "213.36",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8172222,
+          39.02916667
+        ]
+      },
+      "properties": {
+        "name": "Mill Creek at Johnson Drive in Shawnee",
+        "official_name": "MILL C AT JOHNSON DRIVE, SHAWNEE, KS",
+        "ref": "06892513",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06892513",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "213.36",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.7894444,
+          39.0461111
+        ]
+      },
+      "properties": {
+        "name": "Kansas River near Lake Quivira",
+        "official_name": "KANSAS R NR LAKE QUIVIRA, KS",
+        "ref": "06892518",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06892518",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "ele": "221.577",
+        "ele:accuracy": "0.0213",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.6091232,
+          39.0900045
+        ]
+      },
+      "properties": {
+        "name": "Kansas River at Kansas City",
+        "official_name": "KANSAS R AT KANSAS CITY, KS",
+        "ref": "06892950",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06892950",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "215.53",
+        "ele:accuracy": "0.0244",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.6757906,
+          38.8125082
+        ]
+      },
+      "properties": {
+        "name": "Blue River near Stanley",
+        "official_name": "BLUE R NR STANLEY, KS",
+        "ref": "06893080",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06893080",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "270.196",
+        "ele:accuracy": "0.0274",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.6122222,
+          38.8422222
+        ]
+      },
+      "properties": {
+        "name": "Blue River at Kenneth Road in Overland Park",
+        "official_name": "BLUE R AT KENNETH RD, OVERLAND PARK, KS",
+        "ref": "06893100",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06893100",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "ele": "261.628",
+        "ele:accuracy": "1.524",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.6713469,
+          38.9405621
+        ]
+      },
+      "properties": {
+        "name": "Indian Creek at Overland Park",
+        "official_name": "INDIAN C AT OVERLAND PARK, KS",
+        "ref": "06893300",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06893300",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "261.214",
+        "ele:accuracy": "0.0244",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.64,
+          38.9061111
+        ]
+      },
+      "properties": {
+        "name": "Tomahawk Creek near Overland Park",
+        "official_name": "TOMAHAWK C NR OVERLAND PARK, KS",
+        "ref": "06893350",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06893350",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "ele": "259.214",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.6077778,
+          38.9383333
+        ]
+      },
+      "properties": {
+        "name": "Indian Creek at State Line Road in Leawood",
+        "official_name": "INDIAN C AT STATE LINE RD, LEAWOOD, KS",
+        "ref": "06893390",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06893390",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "ele": "244.885",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.961657,
+          38.56695524
+        ]
+      },
+      "properties": {
+        "name": "Marais des Cygnes River near Reading",
+        "official_name": "MARAIS DES CYGNES R NR READING, KS",
+        "ref": "06910800",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06910800",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "319.528",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6961111,
+          38.5161111
+        ]
+      },
+      "properties": {
+        "name": "Marais des Cygnes River at Melvern",
+        "official_name": "MARAIS DES CYGNES R AT MELVERN, KS",
+        "ref": "06911000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06911000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "287.122",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6847068,
+          38.60139907
+        ]
+      },
+      "properties": {
+        "name": "Salt Creek at Lyndon",
+        "official_name": "SALT C AT LYNDON, KS",
+        "ref": "06911490",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06911490",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "298.728",
+        "ele:accuracy": "0.0244",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.8383205,
+          38.7091737
+        ]
+      },
+      "properties": {
+        "name": "Dragoon Creek near Burlingame",
+        "official_name": "DRAGOON C NR BURLINGAME, KS",
+        "ref": "06911900",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06911900",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "309.817",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5597037,
+          38.6450089
+        ]
+      },
+      "properties": {
+        "name": "Hundred and Ten Mile Creek near Quenemo",
+        "official_name": "HUNDRED AND TEN MILE C NR QUENEMO, KS",
+        "ref": "06912500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06912500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "280.312",
+        "ele:accuracy": "0.0366",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4535902,
+          38.5841777
+        ]
+      },
+      "properties": {
+        "name": "Marais des Cygnes River near Pomona",
+        "official_name": "MARAIS DES CYGNES R NR POMONA, KS",
+        "ref": "06913000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06913000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "272.525",
+        "ele:accuracy": "0.0335",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2683071,
+          38.61806669
+        ]
+      },
+      "properties": {
+        "name": "Marais des Cygnes River near Ottawa",
+        "official_name": "MARAIS DES CYGNES R NR OTTAWA, KS",
+        "ref": "06913500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06913500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "261.524",
+        "ele:accuracy": "0.0244",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2488634,
+          38.333631
+        ]
+      },
+      "properties": {
+        "name": "Pottawatomie Creek near Garnett",
+        "official_name": "POTTAWATOMIE C NR GARNETT, KS",
+        "ref": "06914000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06914000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "266.212",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.084136,
+          38.4439057
+        ]
+      },
+      "properties": {
+        "name": "Pottawatomie Creek at Lane",
+        "official_name": "POTTAWATOMIE C AT LANE, KS",
+        "ref": "06914500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06914500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "257.09",
+        "ele:accuracy": "0.0396",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.977188,
+          38.75334168
+        ]
+      },
+      "properties": {
+        "name": "Big Bull Creek near Edgerton",
+        "official_name": "BIG BULL C NR EDGERTON, KS",
+        "ref": "06914950",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06914950",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "ele": "281.955",
+        "ele:accuracy": "0.0274",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8794073,
+          38.7675084
+        ]
+      },
+      "properties": {
+        "name": "Little Bull Creek near Spring Hill",
+        "official_name": "L BULL C NR SPRING HILL, KS",
+        "ref": "06914990",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06914990",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "ele": "290.258",
+        "ele:accuracy": "0.0274",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8963521,
+          38.6563999
+        ]
+      },
+      "properties": {
+        "name": "Big Bull Creek near Hillsdale",
+        "official_name": "BIG BULL C NR HILLSDALE, KS",
+        "ref": "06915000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06915000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "261.427",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.7724591,
+          38.34529858
+        ]
+      },
+      "properties": {
+        "name": "Marais des Cygnes River at La Cygne",
+        "official_name": "MARAIS DES CYGNES R AT LA CYGNE, KS",
+        "ref": "06915800",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06915800",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "236.677",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.6130113,
+          38.2186367
+        ]
+      },
+      "properties": {
+        "name": "Marais des Cygnes River near Kansas-Missouri State Line",
+        "official_name": "MARAIS DES CYGNES R NR KS-MO ST LINE, KS",
+        "ref": "06916600",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06916600",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "227.006",
+        "ele:accuracy": "0.0396",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.7041264,
+          38.00892428
+        ]
+      },
+      "properties": {
+        "name": "Little Osage River at Fulton",
+        "official_name": "L OSAGE R AT FULTON, KS",
+        "ref": "06917000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06917000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "235.318",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.981361,
+          37.83559565
+        ]
+      },
+      "properties": {
+        "name": "Marmaton River near Uniontown",
+        "official_name": "MARMATON R NR UNIONTOWN, KS",
+        "ref": "06917240",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06917240",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "261.802",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.7027392,
+          37.848929
+        ]
+      },
+      "properties": {
+        "name": "Marmaton River near Fort Scott",
+        "official_name": "MARMATON R NR FORT SCOTT, KS",
+        "ref": "06917500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06917500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "228.826",
+        "ele:accuracy": "0.0183",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.0390714,
+          38.03834599
+        ]
+      },
+      "properties": {
+        "name": "Frontier Ditch near Coolidge",
+        "official_name": "FRONTIER DITCH NR COOLIDGE, KS",
+        "ref": "07137000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07137000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1018.983",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.934925,
+          38.03139167
+        ]
+      },
+      "properties": {
+        "name": "Frontier Ditch Return near Coolidge",
+        "official_name": "FRONTIER DITCH RETURN NR COOLIDGE, KS",
+        "ref": "07137010",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07137010",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1016.103",
+        "ele:accuracy": "0.0366",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.0115706,
+          38.0275129
+        ]
+      },
+      "properties": {
+        "name": "Arkansas River near Coolidge",
+        "official_name": "ARKANSAS R NR COOLIDGE, KS",
+        "ref": "07137500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07137500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "1015.24",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.7568387,
+          37.9661241
+        ]
+      },
+      "properties": {
+        "name": "Arkansas River at Syracuse",
+        "official_name": "ARKANSAS R AT SYRACUSE, KS",
+        "ref": "07138000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07138000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "978.201",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.5493371,
+          37.930015
+        ]
+      },
+      "properties": {
+        "name": "Arkansas River at Kendall",
+        "official_name": "ARKANSAS R AT KENDALL, KS",
+        "ref": "07138020",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07138020",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "950.607",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.4412815,
+          37.89723858
+        ]
+      },
+      "properties": {
+        "name": "Amazon Great Eastern Ditch near Lakin",
+        "official_name": "AMAZON GREAT EASTERN DITCH NR LAKIN, KS",
+        "ref": "07138050",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07138050",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "938.083",
+        "ele:accuracy": "0.0366",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.3587818,
+          37.8722397
+        ]
+      },
+      "properties": {
+        "name": "Southside Ditch near Lakin",
+        "official_name": "SOUTHSIDE DITCH NR LAKIN, KS",
+        "ref": "07138063",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07138063",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "927.668",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.1207222,
+          37.9598611
+        ]
+      },
+      "properties": {
+        "name": "Southside Ditch Return near Deerfield",
+        "official_name": "SOUTHSIDE DITCH RETURN NR DEERFIELD, KS",
+        "ref": "07138064",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07138064",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "897.636",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.1287794,
+          37.9697442
+        ]
+      },
+      "properties": {
+        "name": "Arkansas River at Deerfield",
+        "official_name": "ARKANSAS R AT DEERFIELD, KS",
+        "ref": "07138070",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07138070",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "890.016",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.0607228,
+          37.99807888
+        ]
+      },
+      "properties": {
+        "name": "Farmers Ditch near Deerfield",
+        "official_name": "FARMERS DITCH NR DEERFIELD, KS",
+        "ref": "07138075",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07138075",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "886.785",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.8773844,
+          37.9558565
+        ]
+      },
+      "properties": {
+        "name": "Arkansas River at Garden City",
+        "official_name": "ARKANSAS R AT GARDEN CITY, KS",
+        "ref": "07139000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07139000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "858.143",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.0329126,
+          37.7447427
+        ]
+      },
+      "properties": {
+        "name": "Arkansas River at Dodge City",
+        "official_name": "ARKANSAS R AT DODGE CITY, KS",
+        "ref": "07139500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07139500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "752.746",
+        "ele:accuracy": "0.0427",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6434539,
+          38.2066829
+        ]
+      },
+      "properties": {
+        "name": "Pawnee River near Burdett",
+        "official_name": "PAWNEE R NR BURDETT, KS",
+        "ref": "07140850",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07140850",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "641.034",
+        "ele:accuracy": "0.0488",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.0822222,
+          38.04916667
+        ]
+      },
+      "properties": {
+        "name": "Buckner Creek above Horsethief Reservoir near Jetmore",
+        "official_name": "BUCKNER C AB HORSETHIEF RE NR JETMORE, KS",
+        "ref": "07140880",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07140880",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "736.9",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.0452778,
+          38.06027778
+        ]
+      },
+      "properties": {
+        "name": "Buckner Creek below Horsethief Reservoir near Jetmore",
+        "official_name": "BUCKNER C BL HORSETHIEF RE NR JETMORE, KS",
+        "ref": "07140890",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07140890",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "721.215",
+        "ele:accuracy": "0.0366",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.9166778,
+          38.07555556
+        ]
+      },
+      "properties": {
+        "name": "Buckner Creek near Jetmore",
+        "official_name": "BUCKNER C NR JETMORE, KS",
+        "ref": "07140900",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07140900",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "685.962",
+        "ele:accuracy": "0.0518",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.7165124,
+          38.11835078
+        ]
+      },
+      "properties": {
+        "name": "Buckner Creek at Hanston",
+        "official_name": "BUCKNER C AT HANSTON, KS",
+        "ref": "07141000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07141000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "650.632",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.405775,
+          38.20758889
+        ]
+      },
+      "properties": {
+        "name": "Pawnee River at Rozel",
+        "official_name": "PAWNEE R AT ROZEL, KS",
+        "ref": "07141200",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07141200",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "621.524",
+        "ele:accuracy": "0.0244",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.00165,
+          38.20380278
+        ]
+      },
+      "properties": {
+        "name": "Arkansas River near Larned",
+        "official_name": "ARKANSAS R NR LARNED, KS",
+        "ref": "07141220",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07141220",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "592.729",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.7642519,
+          38.35306787
+        ]
+      },
+      "properties": {
+        "name": "Arkansas River at Great Bend",
+        "official_name": "ARKANSAS R AT GREAT BEND, KS",
+        "ref": "07141300",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07141300",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "559.613",
+        "ele:accuracy": "0.0396",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.4375472,
+          38.47721389
+        ]
+      },
+      "properties": {
+        "name": "Walnut Creek at Nekoma",
+        "official_name": "WALNUT C AT NEKOMA, KS",
+        "ref": "07141780",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07141780",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "610.645",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0144361,
+          38.46170278
+        ]
+      },
+      "properties": {
+        "name": "Walnut Creek at Albert",
+        "official_name": "WALNUT C AT ALBERT, KS",
+        "ref": "07141900",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07141900",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "578.361",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.7570282,
+          38.44778957
+        ]
+      },
+      "properties": {
+        "name": "Cheyenne Bottoms Diversion near Great Bend",
+        "official_name": "CHEYENNE BOTTOMS DV NR GREAT BEND, KS",
+        "ref": "07142019",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07142019",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "554.065",
+        "ele:accuracy": "0.0518",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.8758056,
+          37.8715361
+        ]
+      },
+      "properties": {
+        "name": "Rattlesnake Creek near Macksville",
+        "official_name": "RATTLESNAKE C NR MACKSVILLE, KS",
+        "ref": "07142300",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07142300",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "598.713",
+        "ele:accuracy": "0.0274",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5461389,
+          38.09363056
+        ]
+      },
+      "properties": {
+        "name": "Rattlesnake Creek near Zenith",
+        "official_name": "RATTLESNAKE C NR ZENITH, KS",
+        "ref": "07142575",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07142575",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "543.824",
+        "ele:accuracy": "0.0213",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.111169,
+          38.1450113
+        ]
+      },
+      "properties": {
+        "name": "Arkansas River near Nickerson",
+        "official_name": "ARKANSAS R NR NICKERSON, KS",
+        "ref": "07142680",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07142680",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "482.181",
+        "ele:accuracy": "0.0213",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.192575,
+          38.30951667
+        ]
+      },
+      "properties": {
+        "name": "Cow Creek near Lyons",
+        "official_name": "COW C NR LYONS, KS",
+        "ref": "07143300",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07143300",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "496.327",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.0078315,
+          38.14417747
+        ]
+      },
+      "properties": {
+        "name": "Cow Creek near Hutchinson",
+        "official_name": "COW C NR HUTCHINSON, KS",
+        "ref": "07143310",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07143310",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "476.027",
+        "ele:accuracy": "0.0274",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7751194,
+          37.94614167
+        ]
+      },
+      "properties": {
+        "name": "Arkansas River near Hutchinson",
+        "official_name": "ARKANSAS R NR HUTCHINSON, KS",
+        "ref": "07143330",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07143330",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "443.386",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3897665,
+          37.78140109
+        ]
+      },
+      "properties": {
+        "name": "Arkansas River near Maize",
+        "official_name": "ARKANSAS R NR MAIZE, KS",
+        "ref": "07143375",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07143375",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "401.592",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.591987,
+          38.1122326
+        ]
+      },
+      "properties": {
+        "name": "Little Arkansas River at Alta Mills",
+        "official_name": "L ARKANSAS R AT ALTA MILLS, KS",
+        "ref": "07143665",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07143665",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "424.294",
+        "ele:accuracy": "0.0396",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5405417,
+          38.02853056
+        ]
+      },
+      "properties": {
+        "name": "Little Arkansas River at Highway 50 near Halstead",
+        "official_name": "L ARKANSAS R AT HWY 50 NR HALSTEAD, KS",
+        "ref": "07143672",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07143672",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "ele": "417.893",
+        "ele:accuracy": "0.0457",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4457333,
+          37.98516667
+        ]
+      },
+      "properties": {
+        "name": "Emma Creek at Sedgwick",
+        "official_name": "EMMA C AT SEDGWICK, KS",
+        "ref": "07144050",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07144050",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "417.905",
+        "ele:accuracy": "0.0762",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4244864,
+          37.88306739
+        ]
+      },
+      "properties": {
+        "name": "Little Arkansas River near Sedgwick",
+        "official_name": "L ARKANSAS R NR SEDGWICK, KS",
+        "ref": "07144100",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07144100",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "ele": "408.621",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3885694,
+          37.8321722
+        ]
+      },
+      "properties": {
+        "name": "Little Arkansas River at Valley Center",
+        "official_name": "L ARKANSAS R AT VALLEY CENTER, KS",
+        "ref": "07144200",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07144200",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "404.122",
+        "ele:accuracy": "0.0366",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4074556,
+          37.83935
+        ]
+      },
+      "properties": {
+        "name": "Floodway at Little Arkansas River at Valley Center",
+        "official_name": "FLOODWAY AT L ARKANSAS R AT VALLEY CENTER, KS",
+        "ref": "07144201",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07144201",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "408.109",
+        "ele:accuracy": "0.0335",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3351944,
+          37.6433222
+        ]
+      },
+      "properties": {
+        "name": "Arkansas River at Wichita",
+        "official_name": "ARKANSAS R AT WICHITA, KS",
+        "ref": "07144300",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07144300",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "384.926",
+        "ele:accuracy": "0.2134",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4022677,
+          37.7161242
+        ]
+      },
+      "properties": {
+        "name": "Floodway at Arkansas River at Wichita",
+        "official_name": "FLOODWAY AT ARKANSAS R AT WICHITA, KS",
+        "ref": "07144301",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07144301",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "396.405",
+        "ele:accuracy": "0.0183",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2805998,
+          37.64695967
+        ]
+      },
+      "properties": {
+        "name": "Gypsum Creek at Oliver Street in Wichita",
+        "official_name": "GYPSUM C AT OLIVER ST, WICHITA, KS",
+        "ref": "07144325",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07144325",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "387.096",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4898944,
+          37.73679167
+        ]
+      },
+      "properties": {
+        "name": "Cowskin Creek at 29th Street north of Wichita",
+        "official_name": "COWSKIN C AT 29TH ST NORTH OF WICHITA, KS",
+        "ref": "07144470",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07144470",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "405.579",
+        "ele:accuracy": "0.0335",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4808194,
+          37.673675
+        ]
+      },
+      "properties": {
+        "name": "Calfskin Creek at 119th Street in Wichita",
+        "official_name": "CALFSKIN C AT 119TH ST, WICHITA, KS",
+        "ref": "07144486",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07144486",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "398.008",
+        "ele:accuracy": "0.0335",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4576139,
+          37.6657111
+        ]
+      },
+      "properties": {
+        "name": "Cowskin Creek at Kellogg Street in Wichita",
+        "official_name": "COWSKIN C AT KELLOGG ST, WICHITA, KS",
+        "ref": "07144490",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07144490",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "394.033",
+        "ele:accuracy": "0.0183",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2755694,
+          37.54430556
+        ]
+      },
+      "properties": {
+        "name": "Arkansas River at Derby",
+        "official_name": "ARKANSAS R AT DERBY, KS",
+        "ref": "07144550",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07144550",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "375.075",
+        "ele:accuracy": "0.0244",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2615472,
+          37.4755222
+        ]
+      },
+      "properties": {
+        "name": "Arkansas River at Mulvane",
+        "official_name": "ARKANSAS R AT MULVANE, KS",
+        "ref": "07144570",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07144570",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "366.9",
+        "ele:accuracy": "0.0152",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.0137806,
+          37.8621972
+        ]
+      },
+      "properties": {
+        "name": "North Fork Ninnescah River above Cheney Reservoir",
+        "official_name": "NF NINNESCAH R AB CHENEY RE, KS",
+        "ref": "07144780",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07144780",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "ele": "443.902",
+        "ele:accuracy": "0.0366",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.7209237,
+          37.637796
+        ]
+      },
+      "properties": {
+        "name": "South Fork Ninnescah River near Pratt",
+        "official_name": "SF NINNESCAH R NR PRATT, KS",
+        "ref": "07144910",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07144910",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "555.254",
+        "ele:accuracy": "0.0335",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.8531094,
+          37.561683
+        ]
+      },
+      "properties": {
+        "name": "South Fork Ninnescah River near Murdock",
+        "official_name": "SF NINNESCAH R NR MURDOCK, KS",
+        "ref": "07145200",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07145200",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "413.931",
+        "ele:accuracy": "0.0213",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4235556,
+          37.45696389
+        ]
+      },
+      "properties": {
+        "name": "Ninnescah River near Peck",
+        "official_name": "NINNESCAH R NR PECK, KS",
+        "ref": "07145500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07145500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "372.88",
+        "ele:accuracy": "0.0427",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1629139,
+          37.2744861
+        ]
+      },
+      "properties": {
+        "name": "Arkansas River on Highway 160 at Oxford",
+        "official_name": "ARKANSAS R ON HWY 160 AT OXFORD, KS",
+        "ref": "07145600",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07145600",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "343.375",
+        "ele:accuracy": "0.0335",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4036569,
+          37.24946707
+        ]
+      },
+      "properties": {
+        "name": "Slate Creek at Wellington",
+        "official_name": "SLATE C AT WELLINGTON, KS",
+        "ref": "07145700",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07145700",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "352.916",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.0392194,
+          37.0375083
+        ]
+      },
+      "properties": {
+        "name": "Arkansas River at Arkansas City",
+        "official_name": "ARKANSAS R AT ARKANSAS CITY, KS",
+        "ref": "07146500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07146500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "320.238",
+        "ele:accuracy": "0.0335",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8491667,
+          37.82666667
+        ]
+      },
+      "properties": {
+        "name": "West Branch Walnut River near El Dorado",
+        "official_name": "WB WALNUT R NR EL DORADO, KS",
+        "ref": "07146800",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07146800",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "383.96",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.0143222,
+          37.79602778
+        ]
+      },
+      "properties": {
+        "name": "Whitewater River at Towanda",
+        "official_name": "WHITEWATER R AT TOWANDA, KS",
+        "ref": "07147070",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07147070",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "375.565",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9963889,
+          37.6797222
+        ]
+      },
+      "properties": {
+        "name": "Whitewater River at Augusta",
+        "official_name": "WHITEWATER R AT AUGUSTA, KS",
+        "ref": "07147190",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07147190",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "365.242",
+        "ele:accuracy": "0.0274",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9956889,
+          37.22440278
+        ]
+      },
+      "properties": {
+        "name": "Walnut River at Winfield",
+        "official_name": "WALNUT R AT WINFIELD, KS",
+        "ref": "07147800",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07147800",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "330.236",
+        "ele:accuracy": "0.0335",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.0258709,
+          37.05641826
+        ]
+      },
+      "properties": {
+        "name": "Walnut River at Arkansas City",
+        "official_name": "WALNUT R AT ARKANSAS CITY, KS",
+        "ref": "07147900",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07147900",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "317.01",
+        "ele:accuracy": "0.0427",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8913056,
+          37.04844444
+        ]
+      },
+      "properties": {
+        "name": "Grouse Creek near Silverdale",
+        "official_name": "GROUSE C NR SILVERDALE, KS",
+        "ref": "07148111",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07148111",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "318.236",
+        "ele:accuracy": "0.0335",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4701556,
+          37.03890556
+        ]
+      },
+      "properties": {
+        "name": "Medicine Lodge River near Kiowa",
+        "official_name": "MEDICINE LODGE R NR KIOWA, KS",
+        "ref": "07149000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07149000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "392.448",
+        "ele:accuracy": "0.0274",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6015694,
+          37.12868889
+        ]
+      },
+      "properties": {
+        "name": "Chikaskia River near Corbin",
+        "official_name": "CHIKASKIA R NR CORBIN, KS",
+        "ref": "07151500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07151500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "337.886",
+        "ele:accuracy": "0.0244",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.8979456,
+          37.12196746
+        ]
+      },
+      "properties": {
+        "name": "Cimarron River near Elkhart",
+        "official_name": "CIMARRON R NR ELKHART, KS",
+        "ref": "07155590",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07155590",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1029.276",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.2112531,
+          37.032528
+        ]
+      },
+      "properties": {
+        "name": "Crooked Creek near Englewood",
+        "official_name": "CROOKED C NR ENGLEWOOD, KS",
+        "ref": "07157500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07157500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "659.734",
+        "ele:accuracy": "0.0366",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.4821611,
+          37.0267111
+        ]
+      },
+      "properties": {
+        "name": "Cimarron River near Buttermilk",
+        "official_name": "Cimarron R near Buttermilk, KS",
+        "ref": "07157740",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07157740",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "517.669",
+        "ele:accuracy": "0.0335",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.4787056,
+          37.0301722
+        ]
+      },
+      "properties": {
+        "name": "Bluff Creek near Buttermilk",
+        "official_name": "BLUFF C NR BUTTERMILK, KS",
+        "ref": "07157940",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07157940",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "518.309",
+        "ele:accuracy": "0.0274",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0230028,
+          37.98237778
+        ]
+      },
+      "properties": {
+        "name": "Verdigris River near Virgil",
+        "official_name": "VERDIGRIS R NR VIRGIL, KS",
+        "ref": "07165750",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07165750",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "289.103",
+        "ele:accuracy": "0.0427",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.674703,
+          37.5297764
+        ]
+      },
+      "properties": {
+        "name": "Verdigris River near Altoona",
+        "official_name": "VERDIGRIS R NR ALTOONA, KS",
+        "ref": "07166500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07166500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "242.819",
+        "ele:accuracy": "0.0396",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.2232972,
+          37.70819167
+        ]
+      },
+      "properties": {
+        "name": "Otter Creek at Climax",
+        "official_name": "OTTER C AT CLIMAX, KS",
+        "ref": "07167500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07167500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "298.189",
+        "ele:accuracy": "0.0396",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.8334222,
+          37.50796389
+        ]
+      },
+      "properties": {
+        "name": "Fall River at Fredonia",
+        "official_name": "FALL R AT FREDONIA, KS",
+        "ref": "07169500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07169500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "249.884",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.185548,
+          37.37559729
+        ]
+      },
+      "properties": {
+        "name": "Elk River at Elk Falls",
+        "official_name": "ELK R AT ELK FALLS, KS",
+        "ref": "07169800",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07169800",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "273.619",
+        "ele:accuracy": "0.0427",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6777573,
+          37.22368014
+        ]
+      },
+      "properties": {
+        "name": "Verdigris River at Independence",
+        "official_name": "VERDIGRIS R AT INDEPENDENCE, KS",
+        "ref": "07170500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07170500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "218.6",
+        "ele:accuracy": "0.0274",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.469144,
+          37.2667325
+        ]
+      },
+      "properties": {
+        "name": "Big Hill Creek near Cherryvale",
+        "official_name": "BIG HILL C NR CHERRYVALE, KS",
+        "ref": "07170700",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07170700",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "242.743",
+        "ele:accuracy": "0.0244",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5927549,
+          37.0053578
+        ]
+      },
+      "properties": {
+        "name": "Verdigris River at Coffeyville",
+        "official_name": "VERDIGRIS R AT COFFEYVILLE, KS",
+        "ref": "07170990",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07170990",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "205.932",
+        "ele:accuracy": "0.0488",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3166611,
+          37.00395556
+        ]
+      },
+      "properties": {
+        "name": "Caney River near Elgin",
+        "official_name": "CANEY R NR ELGIN, KS",
+        "ref": "07172000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07172000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "232.895",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6496611,
+          38.75129167
+        ]
+      },
+      "properties": {
+        "name": "Neosho River near Parkerville",
+        "official_name": "NEOSHO R NR PARKERVILLE, KS",
+        "ref": "07179300",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07179300",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "396.651",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.493614,
+          38.66584085
+        ]
+      },
+      "properties": {
+        "name": "Neosho River at Council Grove",
+        "official_name": "NEOSHO R AT COUNCIL GROVE, KS",
+        "ref": "07179500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07179500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "367.802",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3702778,
+          38.61055556
+        ]
+      },
+      "properties": {
+        "name": "Rock Creek near Dunlap",
+        "official_name": "ROCK C NR DUNLAP, KS",
+        "ref": "07179700",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07179700",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "358.801",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3713894,
+          38.55473265
+        ]
+      },
+      "properties": {
+        "name": "Neosho River near Dunlap",
+        "official_name": "NEOSHO R NR DUNLAP, KS",
+        "ref": "07179710",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07179710",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "348.612",
+        "ele:accuracy": "0.0335",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.2505533,
+          38.46695699
+        ]
+      },
+      "properties": {
+        "name": "Neosho River near Americus",
+        "official_name": "NEOSHO R NR AMERICUS, KS",
+        "ref": "07179730",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07179730",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "337.444",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1583287,
+          38.42862475
+        ]
+      },
+      "properties": {
+        "name": "Neosho River at Burlingame Road near Emporia",
+        "official_name": "NEOSHO R AT BURLINGAME RD NR EMPORIA, KS",
+        "ref": "07179750",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07179750",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "329.181",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2611639,
+          38.49665278
+        ]
+      },
+      "properties": {
+        "name": "North Fork Cottonwood River near Durham",
+        "official_name": "NF COTTONWOOD R NR DURHAM, KS",
+        "ref": "07179785",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07179785",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "412.62",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.0823056,
+          38.3658583
+        ]
+      },
+      "properties": {
+        "name": "North Cottonwood River below Marion Lake",
+        "official_name": "N COTTONWOOD R BL MARION LK, KS",
+        "ref": "07179795",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07179795",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "395.399",
+        "ele:accuracy": "0.0335",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.032801,
+          38.34862667
+        ]
+      },
+      "properties": {
+        "name": "Cottonwood River at Marion",
+        "official_name": "COTTONWOOD R AT MARION, KS",
+        "ref": "07180200",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07180200",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "389.848",
+        "ele:accuracy": "0.0427",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8772436,
+          38.2361285
+        ]
+      },
+      "properties": {
+        "name": "Cottonwood River near Florence",
+        "official_name": "COTTONWOOD R NR FLORENCE, KS",
+        "ref": "07180400",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07180400",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "375.568",
+        "ele:accuracy": "0.0274",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8243417,
+          38.19653056
+        ]
+      },
+      "properties": {
+        "name": "Cedar Creek near Cedar Point",
+        "official_name": "CEDAR C NR CEDAR POINT, KS",
+        "ref": "07180500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07180500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "385.057",
+        "ele:accuracy": "0.0396",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.5973194,
+          38.387675
+        ]
+      },
+      "properties": {
+        "name": "Cottonwood River at Cottonwood Falls",
+        "official_name": "COTTONWOOD R AT COTTONWOOD FALLS, KS",
+        "ref": "07182000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07182000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "352.282",
+        "ele:accuracy": "0.0335",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.5127844,
+          38.28557125
+        ]
+      },
+      "properties": {
+        "name": "South Fork Cottonwood River near Bazaar",
+        "official_name": "SF COTTONWOOD R NR BAZAAR, KS",
+        "ref": "07182200",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07182200",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "356.631",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.356112,
+          38.3975139
+        ]
+      },
+      "properties": {
+        "name": "Cottonwood River near Plymouth",
+        "official_name": "COTTONWOOD R NR PLYMOUTH, KS",
+        "ref": "07182250",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07182250",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "338.121",
+        "ele:accuracy": "0.0853",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1814167,
+          38.3851111
+        ]
+      },
+      "properties": {
+        "name": "Cottonwood River at Emporia",
+        "official_name": "COTTONWOOD R AT EMPORIA, KS",
+        "ref": "07182260",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07182260",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "328.346",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0002687,
+          38.3680712
+        ]
+      },
+      "properties": {
+        "name": "Neosho River at Neosho Rapids",
+        "official_name": "NEOSHO R AT NEOSHO RAPIDS, KS",
+        "ref": "07182390",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07182390",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "318.723",
+        "ele:accuracy": "0.0213",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.95325,
+          38.3151111
+        ]
+      },
+      "properties": {
+        "name": "Neosho River at Hartford",
+        "official_name": "NEOSHO R AT HARTFORD, KS",
+        "ref": "07182395",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07182395",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "318.723",
+        "ele:accuracy": "0.0274",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.735264,
+          38.19446678
+        ]
+      },
+      "properties": {
+        "name": "Neosho River at Burlington",
+        "official_name": "NEOSHO R AT BURLINGTON, KS",
+        "ref": "07182510",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07182510",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "299.908",
+        "ele:accuracy": "0.0488",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4277596,
+          37.92225778
+        ]
+      },
+      "properties": {
+        "name": "Neosho River near Iola",
+        "official_name": "NEOSHO R NR IOLA, KS",
+        "ref": "07183000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07183000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "283.278",
+        "ele:accuracy": "0.0427",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2643611,
+          37.5495
+        ]
+      },
+      "properties": {
+        "name": "Neosho River near Erie",
+        "official_name": "NEOSHO R NR ERIE, KS",
+        "ref": "07183300",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07183300",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "259.562",
+        "ele:accuracy": "0.0366",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1099687,
+          37.34005866
+        ]
+      },
+      "properties": {
+        "name": "Neosho River near Parsons",
+        "official_name": "NEOSHO R NR PARSONS, KS",
+        "ref": "07183500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07183500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "247.226",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.0327428,
+          37.2811711
+        ]
+      },
+      "properties": {
+        "name": "Lightning Creek near McCune",
+        "official_name": "LIGHTNING C NR MCCUNE, KS",
+        "ref": "07184000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07184000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "249.357",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1924979,
+          37.19379589
+        ]
+      },
+      "properties": {
+        "name": "Labette Creek near Oswego",
+        "official_name": "LABETTE C NR OSWEGO, KS",
+        "ref": "07184500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07184500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "246.687",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.675,
+          37.28055556
+        ]
+      },
+      "properties": {
+        "name": "Cow Creek near Scammon",
+        "official_name": "COW C NR SCAMMON, KS",
+        "ref": "07186055",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07186055",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "256.032",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.7210595,
+          37.0236757
+        ]
+      },
+      "properties": {
+        "name": "Spring River near Baxter Springs",
+        "official_name": "SPRING R NR BAXTER SPRINGS, KS",
+        "ref": "07187600",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07187600",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "236.894",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2805556,
+          37.5997222
+        ]
+      },
+      "properties": {
+        "name": "McConnell Creek at Oliver Street in Wichita",
+        "official_name": "McConnell C at Oliver St, Wichita, KS",
+        "ref": "373559097165000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/373559097165000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "395.326",
+        "ele:accuracy": "0.4877",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2608333,
+          37.6061111
+        ]
+      },
+      "properties": {
+        "name": "McConnell Creek at 47th Street in Wichita",
+        "official_name": "McConnell C at 47th St, Wichita, KS",
+        "ref": "373622097153900",
+        "website": "https://waterdata.usgs.gov/monitoring-location/373622097153900",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "398.983",
+        "ele:accuracy": "0.4877",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4411111,
+          37.89713889
+        ]
+      },
+      "properties": {
+        "name": "Little Arkansas River upstream of Aquifer Storage and Recovery Facility near Sedgwick",
+        "official_name": "L ARKANSAS R UPSTREAM OF ASR FAC NR SEDGWICK, KS",
+        "ref": "375350097262800",
+        "website": "https://waterdata.usgs.gov/monitoring-location/375350097262800",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8997329,
+          39.0761087
+        ]
+      },
+      "properties": {
+        "name": "Milford Lake near Junction City",
+        "official_name": "MILFORD LAKE NR JUNCTION CITY, KS",
+        "ref": "06857050",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06857050",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.7206719,
+          38.7891792
+        ]
+      },
+      "properties": {
+        "name": "Cedar Bluff Reservoir near Ellis",
+        "official_name": "CEDAR BLUFF RE NR ELLIS, KS",
+        "ref": "06861500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06861500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.9669933,
+          38.60695248
+        ]
+      },
+      "properties": {
+        "name": "Kanopolis Lake near Kanopolis",
+        "official_name": "KANOPOLIS LK NR KANOPOLIS, KS",
+        "ref": "06865000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06865000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4925653,
+          38.96445544
+        ]
+      },
+      "properties": {
+        "name": "Wilson Lake near Wilson",
+        "official_name": "WILSON LK NR WILSON, KS",
+        "ref": "06868100",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06868100",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6025038,
+          39.25444066
+        ]
+      },
+      "properties": {
+        "name": "Tuttle Creek Lake near Manhattan",
+        "official_name": "TUTTLE C LK NR MANHATTAN, KS",
+        "ref": "06886900",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06886900",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4263636,
+          39.11416639
+        ]
+      },
+      "properties": {
+        "name": "Perry Lake near Perry",
+        "official_name": "PERRY LK NR PERRY, KS",
+        "ref": "06890898",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06890898",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3324742,
+          38.93111379
+        ]
+      },
+      "properties": {
+        "name": "Clinton Lake near Lawrence",
+        "official_name": "CLINTON LK NR LAWRENCE, KS",
+        "ref": "06891478",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06891478",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.709708,
+          38.50945745
+        ]
+      },
+      "properties": {
+        "name": "Melvern Lake near Melvern",
+        "official_name": "MELVERN LK NR MELVERN, KS",
+        "ref": "06910997",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06910997",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5641482,
+          38.6475088
+        ]
+      },
+      "properties": {
+        "name": "Pomona Lake near Quenemo",
+        "official_name": "POMONA LK NR QUENEMO, KS",
+        "ref": "06912490",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06912490",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8985744,
+          38.6591776
+        ]
+      },
+      "properties": {
+        "name": "Hillsdale Lake near Hillsdale",
+        "official_name": "HILLSDALE LK NR HILLSDALE, KS",
+        "ref": "06914995",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06914995",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.0495775,
+          38.0600185
+        ]
+      },
+      "properties": {
+        "name": "Horsethief Reservoir near Jetmore",
+        "official_name": "HORSETHIEF RE NR JETMORE, KS",
+        "ref": "07140885",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07140885",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "740.167",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7942177,
+          37.72612305
+        ]
+      },
+      "properties": {
+        "name": "Cheney Reservoir near Cheney",
+        "official_name": "CHENEY RE NR CHENEY, KS",
+        "ref": "07144790",
+        "website": "https://waterdata.usgs.gov/monitoring-location/07144790",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "monitoring:wind_direction": "yes",
+        "monitoring:wind_speed": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7133394,
+          39.0902755
+        ]
+      },
+      "properties": {
+        "name": "Kansas River near Ogden",
+        "official_name": "KANSAS R NR OGDEN, KS",
+        "ref": "06879150",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06879150",
+        "man_made": "monitoring_station",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.6560139,
+          39.0440833
+        ]
+      },
+      "properties": {
+        "name": "Turkey Creek at Mission",
+        "official_name": "TURKEY CREEK AT MISSION, KS",
+        "ref": "06892900",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06892900",
+        "man_made": "monitoring_station",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "ele": "255.118",
+        "ele:accuracy": "0.4877",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.0049917,
+          39.21636389
+        ]
+      },
+      "properties": {
+        "name": "Milford Lake near Wakefield",
+        "official_name": "MILFORD LAKE NEAR WAKEFIELD, KS",
+        "ref": "391259097001800",
+        "website": "https://waterdata.usgs.gov/monitoring-location/391259097001800",
+        "man_made": "monitoring_station",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    }
+  ]
+}
