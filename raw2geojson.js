@@ -444,7 +444,9 @@ for (var state in featuresByState) {
         }
         locs[loc] = true;
     });
-    fs.writeFileSync('./output/bystate/' + state + '.geojson', JSON.stringify({
+    var filename = state;
+    if (!filename) filename = "_nostate";
+    fs.writeFileSync('./output/bystate/' + filename + '.geojson', JSON.stringify({
         type: "FeatureCollection",
         features: featuresByState[state]
     }, null, 2));
