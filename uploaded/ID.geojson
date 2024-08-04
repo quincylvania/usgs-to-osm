@@ -1,0 +1,5787 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.0538022,
+          42.21104338
+        ]
+      },
+      "properties": {
+        "name": "Bear River at Border",
+        "official_name": "BEAR RIVER AT BORDER, WY",
+        "ref": "10039500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10039500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1846.128",
+        "ele:accuracy": "0.0701",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.356875,
+          42.4015929
+        ]
+      },
+      "properties": {
+        "name": "Bear River at Pescadero",
+        "official_name": "BEAR RIVER AT PESCADERO ID",
+        "ref": "10068500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10068500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1801.322",
+        "ele:accuracy": "0.0579",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.92134,
+          42.0129808
+        ]
+      },
+      "properties": {
+        "name": "Bear River at Idaho-Utah State Line",
+        "official_name": "BEAR RIVER AT IDAHO-UTAH STATE LINE",
+        "ref": "10092700",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10092700",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1348.496",
+        "ele:accuracy": "0.0244",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2295833,
+          42.0297222
+        ]
+      },
+      "properties": {
+        "name": "Malad River at Woodruff",
+        "official_name": "MALAD RIVER AT WOODRUFF ID",
+        "ref": "10125500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/10125500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1330.998",
+        "ele:accuracy": "0.0366",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0491944,
+          48.6168833
+        ]
+      },
+      "properties": {
+        "name": "Kootenai River at Leonia",
+        "official_name": "KOOTENAI RIVER AT LEONIA, ID",
+        "ref": "12305000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12305000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "547.04",
+        "ele:accuracy": "0.1951",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.1797222,
+          48.99916667
+        ]
+      },
+      "properties": {
+        "name": "Moyie River at Eastport",
+        "official_name": "MOYIE RIVER AT EASTPORT ID",
+        "ref": "12306500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12306500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "799.783",
+        "ele:accuracy": "0.1768",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.1962389,
+          48.6993
+        ]
+      },
+      "properties": {
+        "name": "Kootenai River Bel Moyie River near Bonners Ferry",
+        "official_name": "KOOTENAI RIVER BEL MOYIE RIVER NR BONNERS FERRY ID",
+        "ref": "12308000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12308000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "542.849",
+        "ele:accuracy": "0.4877",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.3125,
+          48.69805556
+        ]
+      },
+      "properties": {
+        "name": "Kootenai River at Bonners Ferry",
+        "official_name": "KOOTENAI RIVER AT BONNERS FERRY ID",
+        "ref": "12309500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12309500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "518.16",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.5691667,
+          48.9972222
+        ]
+      },
+      "properties": {
+        "name": "Boundary Creek near Porthill",
+        "official_name": "BOUNDARY CREEK NR PORTHILL ID",
+        "ref": "12321500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12321500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "539.094",
+        "ele:accuracy": "0.1554",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.5075,
+          48.99638889
+        ]
+      },
+      "properties": {
+        "name": "Kootenai River at Porthill",
+        "official_name": "KOOTENAI RIVER AT PORTHILL ID",
+        "ref": "12322000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12322000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "518.16",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0727778,
+          48.08805556
+        ]
+      },
+      "properties": {
+        "name": "Clark Fork River below Cabinet Gorge Dam",
+        "official_name": "CLARK FORK RIVER BELOW CABINET GORGE DAM ID",
+        "ref": "12391950",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12391950",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "634.094",
+        "ele:accuracy": "0.1036",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.1816667,
+          48.15166667
+        ]
+      },
+      "properties": {
+        "name": "Lightning Creek at Clark Fork",
+        "official_name": "LIGHTNING CREEK AT CLARK FORK ID",
+        "ref": "12392155",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12392155",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "639.873",
+        "ele:accuracy": "0.0244",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.5019444,
+          48.42
+        ]
+      },
+      "properties": {
+        "name": "Pack River near Colburn",
+        "official_name": "PACK RIVER NR COLBURN ID",
+        "ref": "12392300",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12392300",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "634.008",
+        "ele:accuracy": "0.0274",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.8869444,
+          48.5075
+        ]
+      },
+      "properties": {
+        "name": "Priest Lake at outlet near Coolin",
+        "official_name": "PRIEST LAKE AT OUTLET NR COOLIN ID",
+        "ref": "12393000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12393000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "743.233",
+        "ele:accuracy": "0.1554",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.9085833,
+          48.4880333
+        ]
+      },
+      "properties": {
+        "name": "Priest River Outflow near Coolin",
+        "official_name": "PRIEST R OUTFLOW NR COOLIN, ID",
+        "ref": "12393501",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12393501",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "736.659",
+        "ele:accuracy": "0.0396",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.9146429,
+          48.20852
+        ]
+      },
+      "properties": {
+        "name": "Priest River near Priest River",
+        "official_name": "Priest River near Priest River, ID",
+        "ref": "12395000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12395000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "639.836",
+        "ele:accuracy": "0.0396",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0341667,
+          48.1822222
+        ]
+      },
+      "properties": {
+        "name": "Pend Oreille River at Newport",
+        "official_name": "PEND OREILLE RIVER AT NEWPORT WA",
+        "ref": "12395500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12395500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "610.749",
+        "ele:accuracy": "0.0274",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.9791667,
+          47.7061111
+        ]
+      },
+      "properties": {
+        "name": "North Fork Coeur d'Alene River above Shoshone Creek near Prichard",
+        "official_name": "NF COEUR D ALENE R AB SHOSHONE CK NR PRICHARD ID",
+        "ref": "12411000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12411000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "758.693",
+        "ele:accuracy": "0.0457",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.2528,
+          47.5722
+        ]
+      },
+      "properties": {
+        "name": "North Fork Coeur d'Alene River at Enaville",
+        "official_name": "NF COEUR D ALENE RIVER AT ENAVILLE ID",
+        "ref": "12413000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12413000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "664.184",
+        "ele:accuracy": "0.0579",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.9147222,
+          47.4725
+        ]
+      },
+      "properties": {
+        "name": "Canyon Creek above mouth at Wallace",
+        "official_name": "CANYON CREEK AB MOUTH AT WALLACE, ID",
+        "ref": "12413125",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12413125",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "843.452",
+        "ele:accuracy": "0.0366",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.9227,
+          47.4749
+        ]
+      },
+      "properties": {
+        "name": "Ninemile Creek above mouth at Wallace",
+        "official_name": "NINEMILE CREEK AB MOUTH AT WALLACE, ID",
+        "ref": "12413130",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12413130",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "849.871",
+        "ele:accuracy": "0.125",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.9284444,
+          47.47518056
+        ]
+      },
+      "properties": {
+        "name": "South Fork Coeur d'Alene River above Placer Creek at Wallace",
+        "official_name": "SF COEUR D ALENE R ABV PLACER CR AT WALLACE ID",
+        "ref": "12413131",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12413131",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "829.349",
+        "ele:accuracy": "0.0457",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0925,
+          47.53138889
+        ]
+      },
+      "properties": {
+        "name": "South Fork Coeur d'Alene at Elizabeth Park near Kellogg",
+        "official_name": "SF COEUR D ALENE AT ELIZABETH PARK NR KELLOGG ID",
+        "ref": "12413210",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12413210",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "814.779",
+        "ele:accuracy": "0.0457",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.2197222,
+          47.5483333
+        ]
+      },
+      "properties": {
+        "name": "South Fork Coeur d'Alene River above Pine Creek near Pinehurst",
+        "official_name": "SF COEUR D ALENE RIVER ABV PINE CR NR PINEHURST ID",
+        "ref": "12413355",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12413355",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "639.998",
+        "ele:accuracy": "0.0518",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.2362917,
+          47.5513111
+        ]
+      },
+      "properties": {
+        "name": "South Fork Coeur d'Alene River near Pinehurst",
+        "official_name": "SF Coeur D Alene River nr Pinehurst, ID",
+        "ref": "12413470",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12413470",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "658.968",
+        "ele:accuracy": "0.0366",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.3246222,
+          47.5548222
+        ]
+      },
+      "properties": {
+        "name": "Coeur d'Alene River near Cataldo",
+        "official_name": "COEUR D ALENE RIVER NR CATALDO ID",
+        "ref": "12413500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12413500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "641.186",
+        "ele:accuracy": "0.0274",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7330556,
+          47.4786111
+        ]
+      },
+      "properties": {
+        "name": "Coeur d'Alene River near Harrison",
+        "official_name": "COEUR D ALENE RIVER NR HARRISON ID",
+        "ref": "12413860",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12413860",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "641.113",
+        "ele:accuracy": "0.0701",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.3532001,
+          47.05602858
+        ]
+      },
+      "properties": {
+        "name": "St. Joe River at Red Ives Ranger Station",
+        "official_name": "St Joe River at Red Ives Ranger Station, ID",
+        "ref": "12413875",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12413875",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1124.992",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.1888889,
+          47.2744444
+        ]
+      },
+      "properties": {
+        "name": "St. Joe River at Calder",
+        "official_name": "ST JOE RIVER AT CALDER, ID",
+        "ref": "12414500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12414500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "663.095",
+        "ele:accuracy": "0.0274",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.4933333,
+          47.1761111
+        ]
+      },
+      "properties": {
+        "name": "St. Maries River near Santa",
+        "official_name": "ST MARIES RIVER NR SANTA, ID",
+        "ref": "12414900",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12414900",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "790.179",
+        "ele:accuracy": "0.0274",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.5547222,
+          47.3169444
+        ]
+      },
+      "properties": {
+        "name": "St. Joe River at St. Maries",
+        "official_name": "ST JOE RIVER AT SAINT MARIES, ID",
+        "ref": "12415070",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12415070",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "653.436",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.6755556,
+          47.3522222
+        ]
+      },
+      "properties": {
+        "name": "St. Joe River at Ramsdell near St. Maries",
+        "official_name": "ST JOE RIVER AT RAMSDELL NR ST MARIES ID",
+        "ref": "12415135",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12415135",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "640.074",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7705556,
+          47.6661111
+        ]
+      },
+      "properties": {
+        "name": "Coeur d'Alene Lake at Coeur d'Alene",
+        "official_name": "COEUR D ALENE LAKE AT COEUR D ALENE ID",
+        "ref": "12415500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12415500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "640.306",
+        "ele:accuracy": "0.0366",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.8152778,
+          47.6947222
+        ]
+      },
+      "properties": {
+        "name": "Spokane River below Blackwell near Coeur d'Alene",
+        "official_name": "SPOKANE RIVER BLW BLACKWELL NR COEUR D ALENE ID",
+        "ref": "12417650",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12417650",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "640.059",
+        "ele:accuracy": "0.0488",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.9779747,
+          47.70295737
+        ]
+      },
+      "properties": {
+        "name": "Spokane River near Post Falls",
+        "official_name": "Spokane River near Post Falls, ID",
+        "ref": "12419000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12419000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "610.514",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.2188889,
+          43.3508333
+        ]
+      },
+      "properties": {
+        "name": "Snake River near Irwin",
+        "official_name": "SNAKE RIVER NR IRWIN ID",
+        "ref": "13032500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13032500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1632.713",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.66,
+          43.6125
+        ]
+      },
+      "properties": {
+        "name": "Snake River near Heise",
+        "official_name": "SNAKE RIVER NR HEISE ID",
+        "ref": "13037500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13037500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1529.514",
+        "ele:accuracy": "0.0213",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.716111,
+          43.63888889
+        ]
+      },
+      "properties": {
+        "name": "Dry Bed near Ririe",
+        "official_name": "DRY BED NR RIRIE ID",
+        "ref": "13038000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13038000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1517.462",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8780556,
+          43.73527778
+        ]
+      },
+      "properties": {
+        "name": "Snake River at Lorenzo",
+        "official_name": "SNAKE RIVER AT LORENZO ID",
+        "ref": "13038500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13038500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1478.557",
+        "ele:accuracy": "0.0274",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.353611,
+          44.5972222
+        ]
+      },
+      "properties": {
+        "name": "Henrys Lake near Lake",
+        "official_name": "HENRYS LAKE NR LAKE ID",
+        "ref": "13039000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13039000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "1969.834",
+        "ele:accuracy": "0.0549",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.3497222,
+          44.5944444
+        ]
+      },
+      "properties": {
+        "name": "Henrys Fork near Lake",
+        "official_name": "HENRYS FORK NR LAKE ID",
+        "ref": "13039500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13039500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1966.381",
+        "ele:accuracy": "0.064",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.2563372,
+          44.4993666
+        ]
+      },
+      "properties": {
+        "name": "Big Springs at Big Springs",
+        "official_name": "Big Springs At Big Springs ID",
+        "ref": "13040500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13040500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1949.806",
+        "ele:accuracy": "0.4877",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.3947222,
+          44.41666667
+        ]
+      },
+      "properties": {
+        "name": "Henrys Fork near Island Park",
+        "official_name": "HENRYS FORK NR ISLAND PARK ID",
+        "ref": "13042500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13042500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1898.145",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.5105556,
+          44.0697222
+        ]
+      },
+      "properties": {
+        "name": "Henrys Fork near Ashton",
+        "official_name": "HENRYS FORK NR ASHTON ID",
+        "ref": "13046000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13046000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1552.496",
+        "ele:accuracy": "0.0213",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.1519444,
+          44.06194444
+        ]
+      },
+      "properties": {
+        "name": "Fall River above Yellowstone Canal near Squirrel",
+        "official_name": "FALL RIVER AB YELLOWSTONE CANAL NR SQUIRREL ID",
+        "ref": "13046995",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13046995",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1751.954",
+        "ele:accuracy": "0.0488",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.2413889,
+          44.0686111
+        ]
+      },
+      "properties": {
+        "name": "Fall River near Squirrel",
+        "official_name": "FALL RIVER NR SQUIRREL ID",
+        "ref": "13047500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13047500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1701.567",
+        "ele:accuracy": "0.2316",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.358611,
+          44.0561111
+        ]
+      },
+      "properties": {
+        "name": "Fall River near Ashton",
+        "official_name": "FALL RIVER NR ASHTON ID",
+        "ref": "13047600",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13047600",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1626.199",
+        "ele:accuracy": "0.3018",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.5666667,
+          44.0183333
+        ]
+      },
+      "properties": {
+        "name": "Fall River near Chester",
+        "official_name": "FALL RIVER NR CHESTER ID",
+        "ref": "13049500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13049500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1540.602",
+        "ele:accuracy": "0.0792",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6725,
+          43.96694444
+        ]
+      },
+      "properties": {
+        "name": "Henrys Fork at St. Anthony",
+        "official_name": "HENRYS FORK AT ST ANTHONY ID",
+        "ref": "13050500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13050500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1509.732",
+        "ele:accuracy": "0.0213",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.2091667,
+          43.78194444
+        ]
+      },
+      "properties": {
+        "name": "Teton River above South Leigh Creek near Driggs",
+        "official_name": "TETON RIVER AB SOUTH LEIGH CREEK NR DRIGGS ID",
+        "ref": "13052200",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13052200",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1815.477",
+        "ele:accuracy": "0.0335",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6138889,
+          43.9272222
+        ]
+      },
+      "properties": {
+        "name": "Teton River near St. Anthony",
+        "official_name": "TETON RIVER NR ST ANTHONY ID",
+        "ref": "13055000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13055000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1515.63",
+        "ele:accuracy": "0.0274",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7577778,
+          43.8875
+        ]
+      },
+      "properties": {
+        "name": "North Fork Teton River near Sugar City",
+        "official_name": "NF TETON RIVER NR SUGAR CITY ID",
+        "ref": "13055250",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13055250",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1488.786",
+        "ele:accuracy": "0.0213",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7777778,
+          43.835
+        ]
+      },
+      "properties": {
+        "name": "South Fork Teton River near Rexburg",
+        "official_name": "SF TETON RIVER NEAR REXBURG ID",
+        "ref": "13055340",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13055340",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1479.527",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.905,
+          43.8258333
+        ]
+      },
+      "properties": {
+        "name": "Henrys Fork near Rexburg",
+        "official_name": "HENRYS FORK NR REXBURG ID",
+        "ref": "13056500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13056500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1465.954",
+        "ele:accuracy": "0.0213",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9791667,
+          43.75277778
+        ]
+      },
+      "properties": {
+        "name": "Snake River near Menan",
+        "official_name": "SNAKE RIVER NR MENAN ID",
+        "ref": "13057000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13057000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1461.455",
+        "ele:accuracy": "0.0274",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0619444,
+          43.6008333
+        ]
+      },
+      "properties": {
+        "name": "Great Western Spillback near Idaho Falls",
+        "official_name": "GREAT WESTERN SPILLBACK NR IDAHO FALLS ID",
+        "ref": "13057132",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13057132",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1446.587",
+        "ele:accuracy": "0.0274",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.058611,
+          43.6047222
+        ]
+      },
+      "properties": {
+        "name": "Snake River above Eagle Rock near Idaho Falls",
+        "official_name": "SNAKE RIVER AB EAGLE ROCK NR IDAHO FALLS ID",
+        "ref": "13057155",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13057155",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1442.682",
+        "ele:accuracy": "0.0183",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7283333,
+          43.44194444
+        ]
+      },
+      "properties": {
+        "name": "Willow Creek below Tex Creek near Ririe",
+        "official_name": "WILLOW CREEK BL TEX CREEK NR RIRIE ID",
+        "ref": "13057940",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13057940",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1570.47",
+        "ele:accuracy": "0.0396",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.746111,
+          43.5833333
+        ]
+      },
+      "properties": {
+        "name": "Willow Creek near Ririe",
+        "official_name": "WILLOW CREEK NR RIRIE ID",
+        "ref": "13058000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13058000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1508.224",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.895,
+          43.57416667
+        ]
+      },
+      "properties": {
+        "name": "Sand Creek near Ucon",
+        "official_name": "SAND CREEK NEAR UCON ID",
+        "ref": "13058510",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13058510",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1477.841",
+        "ele:accuracy": "0.0244",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9130556,
+          43.57638889
+        ]
+      },
+      "properties": {
+        "name": "Willow Creek Floodway Channel near Ucon",
+        "official_name": "WILLOW CREEK FLOODWAY CHANNEL NR UCON ID",
+        "ref": "13058520",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13058520",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1475.232",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0480556,
+          43.5747222
+        ]
+      },
+      "properties": {
+        "name": "Willow Creek Floodway Channel at mouth near Idaho Falls",
+        "official_name": "WILLOW CR FLOODWAY CHANNEL AT MOUTH NR ID FALLS ID",
+        "ref": "13058529",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13058529",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1441.546",
+        "ele:accuracy": "0.0152",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9119444,
+          43.5758333
+        ]
+      },
+      "properties": {
+        "name": "Willow Creek below floodway channel near Ucon",
+        "official_name": "WILLOW CREEK BLW FLOODWAY CHANNEL NR UCON ID",
+        "ref": "13058530",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13058530",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1473.696",
+        "ele:accuracy": "0.0213",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.135,
+          43.41305556
+        ]
+      },
+      "properties": {
+        "name": "Snake River near Shelley",
+        "official_name": "SNAKE RIVER NR SHELLEY ID",
+        "ref": "13060000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13060000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1402.607",
+        "ele:accuracy": "0.0183",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3691667,
+          43.1975
+        ]
+      },
+      "properties": {
+        "name": "Snake River at Blackfoot",
+        "official_name": "SNAKE RIVER AT BLACKFOOT ID",
+        "ref": "13062500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13062500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1362.398",
+        "ele:accuracy": "0.0183",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.5066667,
+          42.81527778
+        ]
+      },
+      "properties": {
+        "name": "Blackfoot River above reservoir near Henry",
+        "official_name": "BLACKFOOT RIVER AB RESERVOIR NR HENRY ID",
+        "ref": "13063000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13063000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1909.026",
+        "ele:accuracy": "0.0853",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0477778,
+          43.26277778
+        ]
+      },
+      "properties": {
+        "name": "Blackfoot River near Shelley",
+        "official_name": "BLACKFOOT RIVER NR SHELLEY ID",
+        "ref": "13066000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13066000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1415.967",
+        "ele:accuracy": "0.1433",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3877778,
+          43.1708333
+        ]
+      },
+      "properties": {
+        "name": "Blackfoot River Bypass near Blackfoot",
+        "official_name": "BLACKFOOT RIVER BYPASS NR BLACKFOOT ID",
+        "ref": "13068495",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13068495",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1361.484",
+        "ele:accuracy": "0.0244",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.4766667,
+          43.13055556
+        ]
+      },
+      "properties": {
+        "name": "Blackfoot River near Blackfoot",
+        "official_name": "BLACKFOOT RIVER NR BLACKFOOT ID",
+        "ref": "13068500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13068500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1346.85",
+        "ele:accuracy": "0.0274",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.4772036,
+          43.13047008
+        ]
+      },
+      "properties": {
+        "name": "Blackfoot River and Bypass Channel near Blackfoot",
+        "official_name": "BLACKFOOT RIVER AND BYPASS CHANNEL NR BLACKFOOT ID",
+        "ref": "13068501",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13068501",
+        "man_made": "monitoring_station",
+        "monitoring:flow_rate": "yes",
+        "ele": "1349.045",
+        "ele:accuracy": "0.4877",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.5188889,
+          43.12527778
+        ]
+      },
+      "properties": {
+        "name": "Snake River near Blackfoot",
+        "official_name": "SNAKE RIVER NR BLACKFOOT ID",
+        "ref": "13069500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13069500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1341.833",
+        "ele:accuracy": "0.0274",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0880556,
+          42.6247222
+        ]
+      },
+      "properties": {
+        "name": "Portneuf River at Topaz",
+        "official_name": "PORTNEUF RIVER AT TOPAZ ID",
+        "ref": "13073000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13073000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1500.155",
+        "ele:accuracy": "0.0213",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2255556,
+          42.63
+        ]
+      },
+      "properties": {
+        "name": "Marsh Creek near McCammon",
+        "official_name": "MARSH CREEK NR MCCAMMON ID",
+        "ref": "13075000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13075000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1405.219",
+        "ele:accuracy": "0.0213",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.4680556,
+          42.87166667
+        ]
+      },
+      "properties": {
+        "name": "Portneuf River at Pocatello",
+        "official_name": "PORTNEUF RIVER AT POCATELLO ID",
+        "ref": "13075500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13075500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1347.667",
+        "ele:accuracy": "0.0457",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.5444444,
+          42.9447222
+        ]
+      },
+      "properties": {
+        "name": "Portneuf River near Tyhee",
+        "official_name": "PORTNEUF RIVER NR TYHEE ID",
+        "ref": "13075910",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13075910",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1330.934",
+        "ele:accuracy": "0.0183",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.55,
+          43.0425
+        ]
+      },
+      "properties": {
+        "name": "Spring Creek at Sheepskin Road near Fort Hall",
+        "official_name": "SPRING CREEK AT SHEEPSKIN RD NR FORT HALL ID",
+        "ref": "13075983",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13075983",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1332.266",
+        "ele:accuracy": "0.0244",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.8794444,
+          42.7675
+        ]
+      },
+      "properties": {
+        "name": "Snake River at Neeley",
+        "official_name": "SNAKE RIVER AT NEELEY ID",
+        "ref": "13077000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13077000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1293.699",
+        "ele:accuracy": "0.0488",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.4513889,
+          42.0636111
+        ]
+      },
+      "properties": {
+        "name": "Raft River above Onemile Creek near Malta",
+        "official_name": "RAFT RIVER AB ONEMILE CREEK NR MALTA ID",
+        "ref": "13078000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13078000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1509.671",
+        "ele:accuracy": "0.0335",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.4963417,
+          42.27766944
+        ]
+      },
+      "properties": {
+        "name": "Cassia Creek below Blacksmith Creek",
+        "official_name": "CASSIA CREEK BELOW BLACKSMITH CK, ID",
+        "ref": "13079300",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13079300",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1482.139",
+        "ele:accuracy": "0.0213",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.5002778,
+          42.67277778
+        ]
+      },
+      "properties": {
+        "name": "Snake River near Minidoka at Howells Ferry",
+        "official_name": "SNAKE R NR MINIDOKA ID AT HOWELLS FERRY",
+        "ref": "13081500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13081500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1260.238",
+        "ele:accuracy": "0.0183",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.9355556,
+          42.1261111
+        ]
+      },
+      "properties": {
+        "name": "Goose Creek above Trapper Creek near Oakley",
+        "official_name": "GOOSE CREEK AB TRAPPER CREEK NR OAKLEY ID",
+        "ref": "13082500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13082500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1451.528",
+        "ele:accuracy": "0.3658",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.983611,
+          42.1658333
+        ]
+      },
+      "properties": {
+        "name": "Trapper Creek near Oakley",
+        "official_name": "TRAPPER CREEK NR OAKLEY ID",
+        "ref": "13083000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13083000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1470.69",
+        "ele:accuracy": "0.0701",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0133333,
+          42.52305556
+        ]
+      },
+      "properties": {
+        "name": "Milner Lake at Milner Dam",
+        "official_name": "MILNER LAKE AT MILNER DAM ID",
+        "ref": "13087900",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13087900",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "1257.407",
+        "ele:accuracy": "0.0183",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0183333,
+          42.52805556
+        ]
+      },
+      "properties": {
+        "name": "Snake River Gaging Station at Milner",
+        "official_name": "SNAKE RIVER GAGING STATION AT MILNER ID",
+        "ref": "13087995",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13087995",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1239.241",
+        "ele:accuracy": "0.0244",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.3469444,
+          42.5897222
+        ]
+      },
+      "properties": {
+        "name": "Devils Washbowl Spring near Kimberly",
+        "official_name": "DEVILS WASHBOWL SPRING NR KIMBERLY 10S 18E 04AAD1S",
+        "ref": "13089500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13089500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1078.992",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.4763889,
+          42.6061111
+        ]
+      },
+      "properties": {
+        "name": "Snake River near Twin Falls",
+        "official_name": "SNAKE RIVER NR TWIN FALLS ID",
+        "ref": "13090500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13090500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "954.024",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.4947222,
+          42.5625
+        ]
+      },
+      "properties": {
+        "name": "Rock Creek above Highway 30/93 Crossing at Twin Falls",
+        "official_name": "ROCK CREEK AB HWY 30/93 XING AT TWIN FALLS ID",
+        "ref": "13092747",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13092747",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "1106.424",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.6287528,
+          42.6518222
+        ]
+      },
+      "properties": {
+        "name": "Snake River at Pigeon Cove near Twin Falls",
+        "official_name": "SNAKE RIVER AT PIGEON COVE NR TWIN FALLS, ID",
+        "ref": "13093383",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13093383",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "ele": "880.445",
+        "ele:accuracy": "0.0427",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.6747698,
+          42.6643497
+        ]
+      },
+      "properties": {
+        "name": "Niagara Springs at Diversion Number 2 near Buhl",
+        "official_name": "NIAGARA SPRINGS AT DIV NO.2 NR BUHL ID",
+        "ref": "13093692",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13093692",
+        "man_made": "monitoring_station",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.7122222,
+          42.6658333
+        ]
+      },
+      "properties": {
+        "name": "Snake River near Buhl",
+        "official_name": "SNAKE RIVER NR BUHL ID",
+        "ref": "13094000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13094000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "902.29",
+        "ele:accuracy": "0.0366",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.8091667,
+          42.67388889
+        ]
+      },
+      "properties": {
+        "name": "Briggs Spring at head near Buhl",
+        "official_name": "BRIGGS SPRING AT HEAD NEAR BUHL ID",
+        "ref": "13095175",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13095175",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "915.924",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.8102778,
+          42.7075
+        ]
+      },
+      "properties": {
+        "name": "Box Canyon Springs near Wendell",
+        "official_name": "BOX CANYON SPRINGS NR WENDELL ID",
+        "ref": "13095500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13095500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "899.16",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.7333333,
+          42.2122222
+        ]
+      },
+      "properties": {
+        "name": "Salmon River Canal Company Reservoir near Rogerson",
+        "official_name": "SALMON RIVER CANAL CO RES NR ROGERSON ID",
+        "ref": "13106500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13106500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.8552778,
+          42.69638889
+        ]
+      },
+      "properties": {
+        "name": "Salmon Falls Creek near Hagerman",
+        "official_name": "SALMON FALLS CREEK NR HAGERMAN ID",
+        "ref": "13108150",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13108150",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "883.92",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.221111,
+          44.00277778
+        ]
+      },
+      "properties": {
+        "name": "Camas Creek at Camas",
+        "official_name": "CAMAS CREEK AT CAMAS ID",
+        "ref": "13112000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13112000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1465.219",
+        "ele:accuracy": "0.0274",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3580556,
+          43.8897222
+        ]
+      },
+      "properties": {
+        "name": "Mud Lake near Terreton",
+        "official_name": "MUD LAKE NR TERRETON ID",
+        "ref": "13115000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13115000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "1456.212",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.4102778,
+          44.25916667
+        ]
+      },
+      "properties": {
+        "name": "Medicine Lodge Creek near Small",
+        "official_name": "MEDICINE LODGE CREEK NR SMALL ID",
+        "ref": "13116500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13116500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1664.717",
+        "ele:accuracy": "0.0274",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.2452778,
+          44.1386111
+        ]
+      },
+      "properties": {
+        "name": "Little Lost River below Wet Creek near Howe",
+        "official_name": "LITTLE LOST RIVER BL WET CREEK NR HOWE ID",
+        "ref": "13118700",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13118700",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1791.419",
+        "ele:accuracy": "0.0884",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.0970083,
+          43.884825
+        ]
+      },
+      "properties": {
+        "name": "Little Lost River above flood diversion near Howe",
+        "official_name": "LITTLE LOST RIVER AB FLOOD DIVERSION NR HOWE ID",
+        "ref": "13118975",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13118975",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1543.138",
+        "ele:accuracy": "0.0914",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.0880556,
+          43.87027778
+        ]
+      },
+      "properties": {
+        "name": "Little Lost River near Howe",
+        "official_name": "LITTLE LOST RIVER NR HOWE, ID",
+        "ref": "13119000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13119000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1531.833",
+        "ele:accuracy": "0.0549",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.1138889,
+          43.93277778
+        ]
+      },
+      "properties": {
+        "name": "North Fork Big Lost River at Wild Horse near Chilly",
+        "official_name": "NF BIG LOST RIVER AT WILD HORSE NR CHILLY ID",
+        "ref": "13120000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13120000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "2091.528",
+        "ele:accuracy": "0.0183",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.021111,
+          43.9983333
+        ]
+      },
+      "properties": {
+        "name": "Big Lost River at Howell Ranch near Chilly",
+        "official_name": "BIG LOST RIVER AT HOWELL RANCH NR CHILLY ID",
+        "ref": "13120500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13120500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "2019.708",
+        "ele:accuracy": "0.0152",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.8402778,
+          44.06666667
+        ]
+      },
+      "properties": {
+        "name": "Thousand Springs Creek near Chilly",
+        "official_name": "THOUSAND SPRINGS CREEK NR CHILLY ID",
+        "ref": "13122000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13122000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1908.67",
+        "ele:accuracy": "0.0183",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.7990833,
+          43.98513889
+        ]
+      },
+      "properties": {
+        "name": "Warm Springs Creek below diversion near MacKay",
+        "official_name": "WARM SPRINGS CREEK BELOW DIVERSION NR MACKAY ID",
+        "ref": "13124265",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13124265",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1871.999",
+        "ele:accuracy": "0.0213",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.6753583,
+          43.9530472
+        ]
+      },
+      "properties": {
+        "name": "MacKay Reservoir Auxiliary near MacKay",
+        "official_name": "MACKAY RES  AUXILIARY NR MACKAY ID",
+        "ref": "13125950",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13125950",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "1846.783",
+        "ele:accuracy": "0.4877",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.675,
+          43.95138889
+        ]
+      },
+      "properties": {
+        "name": "MacKay Reservoir near MacKay",
+        "official_name": "MACKAY RES NR MACKAY ID",
+        "ref": "13126000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13126000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "1830.211",
+        "ele:accuracy": "0.0213",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.6483333,
+          43.93916667
+        ]
+      },
+      "properties": {
+        "name": "Big Lost River below MacKay Reservoir near MacKay",
+        "official_name": "BIG LOST RIVER BL MACKAY RES NR MACKAY ID",
+        "ref": "13127000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13127000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1813.737",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.5777778,
+          43.96694444
+        ]
+      },
+      "properties": {
+        "name": "Lower Cedar Creek above diversions near MacKay",
+        "official_name": "LOWER CEDAR CREEK AB DIVS NR MACKAY ID",
+        "ref": "13128900",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13128900",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "2079.693",
+        "ele:accuracy": "0.0884",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.4666694,
+          43.859375
+        ]
+      },
+      "properties": {
+        "name": "Big Lost River near Leslie",
+        "official_name": "BIG LOST RIVER NR LESLIE ID",
+        "ref": "13130300",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13130300",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1729.673",
+        "ele:accuracy": "0.061",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.5147222,
+          43.7336111
+        ]
+      },
+      "properties": {
+        "name": "Antelope Creek near Darlington",
+        "official_name": "ANTELOPE CREEK NR DARLINGTON, ID",
+        "ref": "13131000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13131000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1790.392",
+        "ele:accuracy": "0.0518",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.3608889,
+          43.7843611
+        ]
+      },
+      "properties": {
+        "name": "Big Lost River below Moore Diversion near Moore",
+        "official_name": "BIG LOST RIVER BELOW MOORE DIV NR MOORE ID",
+        "ref": "13132100",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13132100",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1682.691",
+        "ele:accuracy": "0.0244",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.3265,
+          43.63819444
+        ]
+      },
+      "properties": {
+        "name": "Big Lost River at Arco at Sunset Road",
+        "official_name": "BIG LOST RIVER AT ARCO AT SUNSET ROAD ID",
+        "ref": "13132373",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13132373",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1622.249",
+        "ele:accuracy": "0.0183",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.2705556,
+          43.5822222
+        ]
+      },
+      "properties": {
+        "name": "Big Lost River near Arco",
+        "official_name": "BIG LOST RIVER NR ARCO ID",
+        "ref": "13132500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13132500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1597.088",
+        "ele:accuracy": "0.0213",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.0838889,
+          43.5136111
+        ]
+      },
+      "properties": {
+        "name": "INL Diversion at head near Arco",
+        "official_name": "INL DIVERSION AT HEAD NEAR ARCO ID",
+        "ref": "13132513",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13132513",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1524.93",
+        "ele:accuracy": "0.0213",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.0819444,
+          43.5158333
+        ]
+      },
+      "properties": {
+        "name": "Big Lost River below INL Diversion near Arco",
+        "official_name": "BIG LOST RIVER BL INL DIV NEAR ARCO ID",
+        "ref": "13132520",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13132520",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1524.917",
+        "ele:accuracy": "0.0183",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.9433333,
+          43.57388889
+        ]
+      },
+      "properties": {
+        "name": "Big Lost River at Lincoln Boulevard Bridge near Atomic City",
+        "official_name": "BIG LOST R AT LINCOLN BLVD BRIDGE NR ATOMIC CITY",
+        "ref": "13132535",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13132535",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1494.151",
+        "ele:accuracy": "0.0183",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.875,
+          43.7233333
+        ]
+      },
+      "properties": {
+        "name": "Big Lost River above Big Lost River Sinks near Howe",
+        "official_name": "BIG LOST RIVER AB BIG LOST RIVER SINKS NR HOWE ID",
+        "ref": "13132565",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13132565",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1464.326",
+        "ele:accuracy": "0.0183",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.4250556,
+          43.78626389
+        ]
+      },
+      "properties": {
+        "name": "Big Wood River near Ketchum",
+        "official_name": "BIG WOOD RIVER NR KETCHUM ID",
+        "ref": "13135500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13135500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1897.386",
+        "ele:accuracy": "0.0061",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.4191667,
+          43.7861111
+        ]
+      },
+      "properties": {
+        "name": "North Fork Big Wood River near Sawtooth National Recreation Area Headquarters near Ketchum",
+        "official_name": "NF BIG WOOD RIVER NR SAWTOOTH NRA HQ NR KETCHUM ID",
+        "ref": "13135520",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13135520",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1898.678",
+        "ele:accuracy": "0.0122",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.4055167,
+          43.6830972
+        ]
+      },
+      "properties": {
+        "name": "Warm Springs Creek at Gates Road near Ketchum",
+        "official_name": "WARM SPRINGS CR AT GATES RD NR KETCHUM, ID",
+        "ref": "13136550",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13136550",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1792.77",
+        "ele:accuracy": "0.0366",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.3847222,
+          43.6897222
+        ]
+      },
+      "properties": {
+        "name": "Warm Springs Creek near Ketchum",
+        "official_name": "WARM SPRINGS CREEK NEAR KETCHUM ID",
+        "ref": "13137000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13137000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1771.272",
+        "ele:accuracy": "0.0061",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.3243806,
+          43.72319444
+        ]
+      },
+      "properties": {
+        "name": "Trail Creek near Sun Valley",
+        "official_name": "TRAIL CREEK NR SUN VALLEY, ID",
+        "ref": "13137300",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13137300",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1849.548",
+        "ele:accuracy": "0.0122",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.362261,
+          43.67421667
+        ]
+      },
+      "properties": {
+        "name": "Trail Creek at Ketchum",
+        "official_name": "TRAIL CREEK AT KETCHUM ID",
+        "ref": "13137500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13137500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1759.729",
+        "ele:accuracy": "0.0152",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.3302778,
+          43.60305556
+        ]
+      },
+      "properties": {
+        "name": "East Fork Big Wood River at Gimlet",
+        "official_name": "EAST FORK BIG WOOD RIVER AT GIMLET ID",
+        "ref": "13138000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13138000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1713.506",
+        "ele:accuracy": "0.0091",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.3216667,
+          43.5172222
+        ]
+      },
+      "properties": {
+        "name": "Big Wood River Total Flow at Hailey",
+        "official_name": "BIG WOOD RIVER AT HAILEY ID TOTAL FLOW",
+        "ref": "13139510",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13139510",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1615.053",
+        "ele:accuracy": "0.0091",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.2677389,
+          43.4679833
+        ]
+      },
+      "properties": {
+        "name": "Big Wood River at South Broadford Bridge near Bellevue",
+        "official_name": "BIG WOOD R AT S BROADFORD BRIDGE NR BELLEVUE, ID",
+        "ref": "13140335",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13140335",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1570.442",
+        "ele:accuracy": "0.0061",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.3191667,
+          43.32916667
+        ]
+      },
+      "properties": {
+        "name": "Big Wood River at Stanton Crossing near Bellevue",
+        "official_name": "BIG WOOD RIVER AT STANTON CROSSING NR BELLEVUE ID",
+        "ref": "13140800",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13140800",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1471.544",
+        "ele:accuracy": "0.0061",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.5419444,
+          43.33277778
+        ]
+      },
+      "properties": {
+        "name": "Camas Creek near Blaine",
+        "official_name": "CAMAS CREEK NR BLAINE ID",
+        "ref": "13141500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13141500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1484.376",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.3566667,
+          43.24805556
+        ]
+      },
+      "properties": {
+        "name": "Big Wood River below Magic Dam near Richfield",
+        "official_name": "BIG WOOD RIVER BL MAGIC DAM NR RICHFIELD ID",
+        "ref": "13142500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13142500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1420.856",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0572222,
+          43.49305556
+        ]
+      },
+      "properties": {
+        "name": "Little Wood River above High Five Creek near Carey",
+        "official_name": "LITTLE WOOD RIVER AB HIGH FIVE CREEK NR CAREY ID",
+        "ref": "13147900",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13147900",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1618.72",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.9997222,
+          43.39
+        ]
+      },
+      "properties": {
+        "name": "Little Wood River near Carey",
+        "official_name": "LITTLE WOOD RIVER NR CAREY ID",
+        "ref": "13148500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13148500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1521.507",
+        "ele:accuracy": "0.0335",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.10835,
+          43.3233611
+        ]
+      },
+      "properties": {
+        "name": "Silver Creek at Sportsman Access near Picabo",
+        "official_name": "SILVER CREEK AT SPORTSMAN ACCESS NR PICABO ID",
+        "ref": "13150430",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13150430",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "1473.54",
+        "ele:accuracy": "0.0061",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.8030556,
+          42.88638889
+        ]
+      },
+      "properties": {
+        "name": "Malad River near Gooding",
+        "official_name": "MALAD RIVER NR GOODING ID",
+        "ref": "13152500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13152500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1019.556",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.2025,
+          43.0022222
+        ]
+      },
+      "properties": {
+        "name": "Snake River at King Hill",
+        "official_name": "SNAKE RIVER AT KING HILL ID",
+        "ref": "13154500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13154500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "760.479",
+        "ele:accuracy": "0.0792",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.7025,
+          43.2611111
+        ]
+      },
+      "properties": {
+        "name": "Canyon Creek at Oregon Trail Crossing near Mountain Home",
+        "official_name": "CANYON CR AT OREGON TRAIL XING NR MOUNTAIN HOME ID",
+        "ref": "13159800",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13159800",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1078.992",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.9938889,
+          42.59388889
+        ]
+      },
+      "properties": {
+        "name": "Big Jacks Creek at Parker Trail near Grasmere",
+        "official_name": "BIG JACKS CREEK AT PARKER TRAIL NR GRASMERE, ID",
+        "ref": "13161930",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13161930",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1254.557",
+        "ele:accuracy": "1.3106",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.7202778,
+          42.7711111
+        ]
+      },
+      "properties": {
+        "name": "Bruneau River near Hot Spring",
+        "official_name": "BRUNEAU RIVER NR HOT SPRING ID",
+        "ref": "13168500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13168500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "792.023",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.975,
+          42.9436111
+        ]
+      },
+      "properties": {
+        "name": "C.J. Strike Reservoir near Grand View",
+        "official_name": "CJ STRIKE RES NR GRAND VIEW ID",
+        "ref": "13171500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13171500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.3906389,
+          43.25481389
+        ]
+      },
+      "properties": {
+        "name": "Snake River near Murphy",
+        "official_name": "SNAKE RIVER NR MURPHY ID",
+        "ref": "13172500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13172500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "690.53",
+        "ele:accuracy": "0.192",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.8684417,
+          42.26136944
+        ]
+      },
+      "properties": {
+        "name": "East Fork Owyhee River at Crutcher Crossing",
+        "official_name": "EF OWYHEE RIVER AT CRUTCHER CROSSING, ID",
+        "ref": "13176400",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13176400",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "1296.513",
+        "ele:accuracy": "0.0244",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.7252778,
+          43.66805556
+        ]
+      },
+      "properties": {
+        "name": "Boise River near Twin Springs",
+        "official_name": "BOISE RIVER NR TWIN SPRINGS ID",
+        "ref": "13185000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13185000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1018.032",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.3080556,
+          43.4958333
+        ]
+      },
+      "properties": {
+        "name": "South Fork Boise River near Featherville",
+        "official_name": "SF BOISE RIVER NR FEATHERVILLE ID",
+        "ref": "13186000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13186000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1285.817",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.4775,
+          43.3436111
+        ]
+      },
+      "properties": {
+        "name": "South Fork Boise River at Anderson Ranch Dam",
+        "official_name": "SF BOISE RIVER AT ANDERSON RANCH DAM ID",
+        "ref": "13190500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13190500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "1167.384",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.7219444,
+          43.55055556
+        ]
+      },
+      "properties": {
+        "name": "South Fork Boise River at Neal Bridge near Arrowrock Dam",
+        "official_name": "SF BOISE RIVER AT NEAL BRIDGE NR ARROWROCK DAM ID",
+        "ref": "13192200",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13192200",
+        "man_made": "monitoring_station",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.9897222,
+          43.64805556
+        ]
+      },
+      "properties": {
+        "name": "Mores Creek above Robie Creek near Arrowrock Dam",
+        "official_name": "MORES CREEK AB ROBIE CREEK NR ARROWROCK DAM ID",
+        "ref": "13200000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13200000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "950.976",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0552778,
+          43.52555556
+        ]
+      },
+      "properties": {
+        "name": "Lucky Peak Lake near Boise",
+        "official_name": "LUCKY PEAK LAKE NR BOISE ID",
+        "ref": "13201500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13201500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.2791667,
+          43.66055556
+        ]
+      },
+      "properties": {
+        "name": "Boise River at Glenwood Bridge near Boise",
+        "official_name": "BOISE RIVER AT GLENWOOD BRIDGE NR BOISE ID",
+        "ref": "13206000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13206000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "614.55",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.353611,
+          43.67527778
+        ]
+      },
+      "properties": {
+        "name": "Boise River South Channel at Eagle",
+        "official_name": "BOISE RIVER SOUTH CHANNEL AT EAGLE ID",
+        "ref": "13206305",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13206305",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "777.24",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.3563889,
+          43.69166667
+        ]
+      },
+      "properties": {
+        "name": "Eagle Drain at Eagle",
+        "official_name": "EAGLE DRAIN AT EAGLE, ID",
+        "ref": "13206400",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13206400",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.5587056,
+          43.68175556
+        ]
+      },
+      "properties": {
+        "name": "Boise River near Middleton",
+        "official_name": "Boise R near Middleton, ID",
+        "ref": "13210045",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13210045",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "740.054",
+        "ele:accuracy": "0.4877",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.585411,
+          43.67405
+        ]
+      },
+      "properties": {
+        "name": "Fifteenmile Creek near Midland Boulevard near Middleton",
+        "official_name": "FIFTEENMILE CREEK NR MIDLAND BLVD NR MIDDLETON, ID",
+        "ref": "13210810",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13210810",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "734.568",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.6181917,
+          43.70655
+        ]
+      },
+      "properties": {
+        "name": "North Middleton Drain Mill Slough at Middleton",
+        "official_name": "N MIDDLETON DRAIN MILL SLOUGH AT MIDDLETON ID",
+        "ref": "13210824",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13210824",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "728.472",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.6181917,
+          43.70210556
+        ]
+      },
+      "properties": {
+        "name": "South Middleton Drain at Middleton",
+        "official_name": "SOUTH MIDDLETON DRAIN AT MIDDLETON ID",
+        "ref": "13210831",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13210831",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "728.472",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.6631917,
+          43.68321667
+        ]
+      },
+      "properties": {
+        "name": "Mason Creek at Caldwell",
+        "official_name": "MASON CREEK AT CALDWELL ID",
+        "ref": "13210980",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13210980",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "722.071",
+        "ele:accuracy": "0.4877",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.6856944,
+          43.69960556
+        ]
+      },
+      "properties": {
+        "name": "West Hartley Gulch near Caldwell",
+        "official_name": "W HARTLEY GULCH NR CALDWELL ID",
+        "ref": "13210986",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13210986",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "719.328",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7011306,
+          43.67735278
+        ]
+      },
+      "properties": {
+        "name": "Boise River at Caldwell",
+        "official_name": "BOISE RIVER AT CALDWELL, ID",
+        "ref": "13211205",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13211205",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7054944,
+          43.67776944
+        ]
+      },
+      "properties": {
+        "name": "Boise River above Indian Creek at Caldwell",
+        "official_name": "BOISE RIVER ABV INDIAN CREEK AT CALDWELL, ID",
+        "ref": "13211210",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13211210",
+        "man_made": "monitoring_station",
+        "monitoring:water_temperature": "yes",
+        "ele": "715.366",
+        "ele:accuracy": "1.3106",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7997222,
+          43.72803056
+        ]
+      },
+      "properties": {
+        "name": "Conway Gulch below 1st Street at Notus",
+        "official_name": "CONWAY GULCH BELOW 1ST ST AT NOTUS, ID",
+        "ref": "13212549",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13212549",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "708.05",
+        "ele:accuracy": "1.3106",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.8893167,
+          43.73071667
+        ]
+      },
+      "properties": {
+        "name": "Dixie Drain near Wilder",
+        "official_name": "DIXIE DRAIN NR WILDER ID",
+        "ref": "13212890",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13212890",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "685.8",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.9727778,
+          43.78166667
+        ]
+      },
+      "properties": {
+        "name": "Boise River near Parma",
+        "official_name": "BOISE RIVER NR PARMA ID",
+        "ref": "13213000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13213000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "ele": "670.395",
+        "ele:accuracy": "0.0091",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.975711,
+          43.79960556
+        ]
+      },
+      "properties": {
+        "name": "Sand Run Gulch near Parma",
+        "official_name": "SAND RUN GULCH NR PARMA ID",
+        "ref": "13213072",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13213072",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "670.56",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.9825,
+          43.8761111
+        ]
+      },
+      "properties": {
+        "name": "Snake River at Nyssa",
+        "official_name": "SNAKE RIVER AT NYSSA OR",
+        "ref": "13213100",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13213100",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "658.53",
+        "ele:accuracy": "0.0091",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.6222222,
+          44.08527778
+        ]
+      },
+      "properties": {
+        "name": "South Fork Payette River at Lowman",
+        "official_name": "SOUTH FORK PAYETTE RIVER AT LOWMAN, ID",
+        "ref": "13235000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13235000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1149.096",
+        "ele:accuracy": "1.3106",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.6419444,
+          44.29194444
+        ]
+      },
+      "properties": {
+        "name": "Deadwood River below Deadwood Reservoir near Lowman",
+        "official_name": "DEADWOOD RIVER BL DEADWOOD RES NR LOWMAN ID",
+        "ref": "13236500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13236500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1579.022",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.9822222,
+          44.1086111
+        ]
+      },
+      "properties": {
+        "name": "Middle Fork Payette River near Crouch",
+        "official_name": "MIDDLE FORK PAYETTE RIVER NR CROUCH ID",
+        "ref": "13237920",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13237920",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "926.592",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.1191667,
+          44.9122222
+        ]
+      },
+      "properties": {
+        "name": "Payette Lake at McCall",
+        "official_name": "PAYETTE LAKE AT MCCALL ID",
+        "ref": "13238500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13238500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "1518.431",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.1191667,
+          44.9072222
+        ]
+      },
+      "properties": {
+        "name": "North Fork Payette River at McCall",
+        "official_name": "NF PAYETTE RIVER AT MCCALL ID",
+        "ref": "13239000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13239000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1514.17",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.9972222,
+          44.9136111
+        ]
+      },
+      "properties": {
+        "name": "Lake Fork Payette River above Jumbo Creek near McCall",
+        "official_name": "LAKE FORK PAYETTE RIVER AB JUMBO CR NR MCCALL ID",
+        "ref": "13240000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13240000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1566.672",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.1072222,
+          44.11416667
+        ]
+      },
+      "properties": {
+        "name": "North Fork Payette River near Banks",
+        "official_name": "NF PAYETTE RIVER NR BANKS ID",
+        "ref": "13246000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13246000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "939.128",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.1966667,
+          43.9433333
+        ]
+      },
+      "properties": {
+        "name": "Payette River near Horseshoe Bend",
+        "official_name": "PAYETTE RIVER NR HORSESHOE BEND ID",
+        "ref": "13247500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13247500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "800.286",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.4427778,
+          43.93055556
+        ]
+      },
+      "properties": {
+        "name": "Payette River near Emmett",
+        "official_name": "PAYETTE RIVER NR EMMETT ID",
+        "ref": "13249500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13249500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "731.618",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.6277778,
+          43.8961111
+        ]
+      },
+      "properties": {
+        "name": "Payette River near Letha",
+        "official_name": "PAYETTE RIVER NR LETHA ID",
+        "ref": "13250000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13250000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "693.774",
+        "ele:accuracy": "0.0091",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.9252778,
+          44.0422222
+        ]
+      },
+      "properties": {
+        "name": "Payette River near Payette",
+        "official_name": "PAYETTE RIVER NR PAYETTE ID",
+        "ref": "13251000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13251000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "651.797",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.6433333,
+          44.5794444
+        ]
+      },
+      "properties": {
+        "name": "Weiser River near Cambridge",
+        "official_name": "WEISER RIVER NR CAMBRIDGE ID",
+        "ref": "13258500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13258500",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "807.001",
+        "ele:accuracy": "0.0274",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7822222,
+          44.29138889
+        ]
+      },
+      "properties": {
+        "name": "Crane Creek at mouth near Weiser",
+        "official_name": "CRANE CREEK AT MOUTH NR WEISER ID",
+        "ref": "13265500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13265500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "691.896",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7722222,
+          44.27
+        ]
+      },
+      "properties": {
+        "name": "Weiser River near Weiser",
+        "official_name": "WEISER RIVER NR WEISER ID",
+        "ref": "13266000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13266000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "672.419",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.9808333,
+          44.24555556
+        ]
+      },
+      "properties": {
+        "name": "Snake River at Weiser",
+        "official_name": "SNAKE RIVER AT WEISER ID",
+        "ref": "13269000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13269000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "636.886",
+        "ele:accuracy": "0.0152",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.931111,
+          44.2225
+        ]
+      },
+      "properties": {
+        "name": "Valley Creek at Stanley",
+        "official_name": "VALLEY CREEK AT STANLEY ID",
+        "ref": "13295000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13295000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1896.408",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.7338889,
+          44.27888889
+        ]
+      },
+      "properties": {
+        "name": "Yankee Fork Salmon River near Clayton",
+        "official_name": "YANKEE FORK SALMON RIVER NR CLAYTON ID",
+        "ref": "13296000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13296000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1813.56",
+        "ele:accuracy": "1.524",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.7327778,
+          44.2683333
+        ]
+      },
+      "properties": {
+        "name": "Salmon River below Yankee Fork near Clayton",
+        "official_name": "SALMON RIVER BL YANKEE FORK NR CLAYTON ID",
+        "ref": "13296500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13296500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1798.32",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.5166667,
+          44.27027778
+        ]
+      },
+      "properties": {
+        "name": "Thompson Creek near Clayton",
+        "official_name": "THOMPSON CREEK NR CLAYTON ID",
+        "ref": "13297330",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13297330",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1737.36",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.4813889,
+          44.2975
+        ]
+      },
+      "properties": {
+        "name": "Bruno Creek near Clayton",
+        "official_name": "BRUNO CREEK NR CLAYTON ID",
+        "ref": "13297350",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13297350",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1779.118",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.4716667,
+          44.2908333
+        ]
+      },
+      "properties": {
+        "name": "Paasasikwana Naokwaide below Bruno Creek",
+        "official_name": "Paasasikwana Naokwaide bl Bruno Ck",
+        "ref": "13297355",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13297355",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1740.408",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.3267583,
+          44.26664167
+        ]
+      },
+      "properties": {
+        "name": "Salmon River above East Fork near Clayton",
+        "official_name": "SALMON RIVER AB EAST FORK NR CLAYTON ID",
+        "ref": "13297380",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13297380",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1623.423",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0469444,
+          44.69166667
+        ]
+      },
+      "properties": {
+        "name": "Pahsimeroi River at Ellis",
+        "official_name": "PAHSIMEROI RIVER AT ELLIS ID",
+        "ref": "13302005",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13302005",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1413.918",
+        "ele:accuracy": "0.0427",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.8952778,
+          45.1836111
+        ]
+      },
+      "properties": {
+        "name": "Salmon River at Salmon",
+        "official_name": "SALMON RIVER AT SALMON ID",
+        "ref": "13302500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13302500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1193.289",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.3704056,
+          44.68879167
+        ]
+      },
+      "properties": {
+        "name": "Big Timber Creek above mouth at Leadore",
+        "official_name": "Big Timber Creek Abv Mouth at Leadore ID",
+        "ref": "13304050",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13304050",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "1809.979",
+        "ele:accuracy": "0.0366",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.5658778,
+          44.80256667
+        ]
+      },
+      "properties": {
+        "name": "Lemhi River near McFarland",
+        "official_name": "Lemhi River near McFarland, ID",
+        "ref": "13304700",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13304700",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1637.127",
+        "ele:accuracy": "0.0457",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.6391667,
+          44.94
+        ]
+      },
+      "properties": {
+        "name": "Lemhi River near Lemhi",
+        "official_name": "LEMHI RIVER NR LEMHI ID",
+        "ref": "13305000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13305000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1493.447",
+        "ele:accuracy": "0.0366",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.7988889,
+          45.13277778
+        ]
+      },
+      "properties": {
+        "name": "Lemhi River below L5 Diversion near Salmon",
+        "official_name": "LEMHI RIVER BELOW L5 DIVERSION NEAR SALMON, ID",
+        "ref": "13305310",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13305310",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1270.638",
+        "ele:accuracy": "0.0579",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.2366667,
+          45.0897222
+        ]
+      },
+      "properties": {
+        "name": "Panther Creek at Cobalt",
+        "official_name": "PANTHER CREEK AT COBALT, ID",
+        "ref": "13306370",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13306370",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1538.216",
+        "ele:accuracy": "0.0366",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.1338889,
+          45.20555556
+        ]
+      },
+      "properties": {
+        "name": "Napias Creek below Arnett Creek near Leesburg",
+        "official_name": "NAPIAS CREEK BELOW ARNETT CREEK NEAR LEESBURG, ID",
+        "ref": "13306385",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13306385",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1926.321",
+        "ele:accuracy": "0.0335",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.44,
+          45.3225
+        ]
+      },
+      "properties": {
+        "name": "Salmon River near Shoup",
+        "official_name": "SALMON RIVER NR SHOUP ID",
+        "ref": "13307000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13307000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "962.433",
+        "ele:accuracy": "0.0366",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.0143472,
+          44.7215194
+        ]
+      },
+      "properties": {
+        "name": "Middle Fork Salmon River at Middle Fork Lodge near Yellow Pine",
+        "official_name": "MF SALMON RIVER AT MF LODGE NR YELLOW PINE ID",
+        "ref": "13309220",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13309220",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1347.521",
+        "ele:accuracy": "1.3106",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.5963889,
+          45.2936111
+        ]
+      },
+      "properties": {
+        "name": "Middle Fork Salmon River at mouth near Shoup",
+        "official_name": "MF SALMON RIVER AT MOUTH NR SHOUP, ID",
+        "ref": "13310199",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13310199",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "910.249",
+        "ele:accuracy": "0.0488",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.725,
+          44.9869444
+        ]
+      },
+      "properties": {
+        "name": "South Fork Salmon River near Krassel Ranger Station",
+        "official_name": "SF SALMON RIVER NR KRASSEL RANGER STATION ID",
+        "ref": "13310700",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13310700",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1143",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.3295,
+          44.9057222
+        ]
+      },
+      "properties": {
+        "name": "East Fork South Fork Salmon River at Stibnite",
+        "official_name": "EF OF SF SALMON RIVER AT STIBNITE, ID",
+        "ref": "13311000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13311000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:pH": "yes",
+        "ele": "1970.837",
+        "ele:accuracy": "1.3106",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.3366944,
+          44.93477778
+        ]
+      },
+      "properties": {
+        "name": "East Fork South Fork Salmon River above Sugar Creek near Stibnite",
+        "official_name": "EFSF SALMON R ABV SUGAR CRK NR STIBNITE, ID",
+        "ref": "13311250",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13311250",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1811.731",
+        "ele:accuracy": "1.3106",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.3372222,
+          44.9363611
+        ]
+      },
+      "properties": {
+        "name": "Sugar Creek near Stibnite",
+        "official_name": "SUGAR CREEK NR STIBNITE, ID",
+        "ref": "13311450",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13311450",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:pH": "yes",
+        "ele": "1813.56",
+        "ele:accuracy": "1.3106",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.5,
+          44.96166667
+        ]
+      },
+      "properties": {
+        "name": "Johnson Creek at Yellow Pine",
+        "official_name": "JOHNSON CREEK AT YELLOW PINE ID",
+        "ref": "13313000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13313000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1419.073",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.3252778,
+          45.41305556
+        ]
+      },
+      "properties": {
+        "name": "Little Salmon River at Riggins",
+        "official_name": "LITTLE SALMON RIVER AT RIGGINS ID",
+        "ref": "13316500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13316500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "535.009",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.3238889,
+          45.75027778
+        ]
+      },
+      "properties": {
+        "name": "Salmon River at White Bird",
+        "official_name": "SALMON RIVER AT WHITE BIRD ID",
+        "ref": "13317000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13317000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "431.6",
+        "ele:accuracy": "0.061",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.9169444,
+          46.00305556
+        ]
+      },
+      "properties": {
+        "name": "Snake River at McDuff Rapids at China Garden",
+        "official_name": "SNAKE RIVER AT McDUFF RAPIDS AT CHINA GARDEN ID",
+        "ref": "13317660",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13317660",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "259.08",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.5138889,
+          46.08666667
+        ]
+      },
+      "properties": {
+        "name": "Selway River near Lowell",
+        "official_name": "SELWAY RIVER NR LOWELL ID",
+        "ref": "13336500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13336500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "467.396",
+        "ele:accuracy": "0.0914",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.5872222,
+          46.1508333
+        ]
+      },
+      "properties": {
+        "name": "Lochsa River near Lowell",
+        "official_name": "LOCHSA RIVER NR LOWELL ID",
+        "ref": "13337000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13337000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "445.77",
+        "ele:accuracy": "0.1219",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.866161,
+          46.0470361
+        ]
+      },
+      "properties": {
+        "name": "Upper Clear Creek near Kooskia",
+        "official_name": "UPPER CLEAR CREEK NEAR KOOSKIA, ID",
+        "ref": "13337095",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13337095",
+        "man_made": "monitoring_station",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.9766667,
+          46.08638889
+        ]
+      },
+      "properties": {
+        "name": "South Fork Clearwater River at Stites",
+        "official_name": "SF CLEARWATER RIVER AT STITES ID",
+        "ref": "13338500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13338500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "404.506",
+        "ele:accuracy": "0.1829",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0697972,
+          46.2114194
+        ]
+      },
+      "properties": {
+        "name": "Lawyer Creek at Kamiah",
+        "official_name": "LAWYER CREEK AT KAMIAH ID",
+        "ref": "13338950",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13338950",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "421.194",
+        "ele:accuracy": "0.2134",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.1625,
+          46.37166667
+        ]
+      },
+      "properties": {
+        "name": "Lolo Creek near Greer",
+        "official_name": "LOLO CREEK NR GREER ID",
+        "ref": "13339500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13339500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "328.513",
+        "ele:accuracy": "0.2438",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.2575,
+          46.4783333
+        ]
+      },
+      "properties": {
+        "name": "Clearwater River at Orofino",
+        "official_name": "CLEARWATER RIVER AT OROFINO ID",
+        "ref": "13340000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13340000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "302.938",
+        "ele:accuracy": "0.2743",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.621111,
+          46.84055556
+        ]
+      },
+      "properties": {
+        "name": "North Fork Clearwater River near Canyon Ranger Station",
+        "official_name": "NF CLEARWATER RIVER NR CANYON RANGER STATION ID",
+        "ref": "13340600",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13340600",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "520.035",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.3204192,
+          46.5043462
+        ]
+      },
+      "properties": {
+        "name": "North Fork Clearwater River at Ahsahka",
+        "official_name": "NF CLEARWATER RIVER AT AHSAHKA ID",
+        "ref": "13341000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13341000",
+        "man_made": "monitoring_station",
+        "monitoring:air_pressure": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "295.601",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.3925,
+          46.50027778
+        ]
+      },
+      "properties": {
+        "name": "Clearwater River near Peck",
+        "official_name": "CLEARWATER RIVER NR PECK ID",
+        "ref": "13341050",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13341050",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:air_pressure": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "286.536",
+        "ele:accuracy": "0.0335",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.4183028,
+          46.4679333
+        ]
+      },
+      "properties": {
+        "name": "Big Canyon Creek near Peck",
+        "official_name": "BIG CANYON CREEK NR PECK ID",
+        "ref": "13341140",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13341140",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "334.552",
+        "ele:accuracy": "0.0366",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7619444,
+          46.4986111
+        ]
+      },
+      "properties": {
+        "name": "Potlatch River below Little Potlatch Creek near Spalding",
+        "official_name": "POTLATCH RIVER BEL LITTLE POTLATCH CR NR SPALDING",
+        "ref": "13341570",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13341570",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "257.068",
+        "ele:accuracy": "0.0396",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.806111,
+          46.42638889
+        ]
+      },
+      "properties": {
+        "name": "Lapwai Creek near Lapwai",
+        "official_name": "LAPWAI CREEK NR LAPWAI, ID",
+        "ref": "13342450",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13342450",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "264.533",
+        "ele:accuracy": "0.0427",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.8275,
+          46.4483333
+        ]
+      },
+      "properties": {
+        "name": "Clearwater River at Spalding",
+        "official_name": "CLEARWATER RIVER AT SPALDING ID",
+        "ref": "13342500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13342500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "235.802",
+        "ele:accuracy": "0.0457",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.951111,
+          46.91527778
+        ]
+      },
+      "properties": {
+        "name": "Palouse River near Potlatch",
+        "official_name": "PALOUSE RIVER NR POTLATCH, ID",
+        "ref": "13345000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13345000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "749.363",
+        "ele:accuracy": "0.0488",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0241667,
+          46.7319444
+        ]
+      },
+      "properties": {
+        "name": "Paradise Creek at University of Idaho at Moscow",
+        "official_name": "PARADISE CR AT UNIVERSITY OF IDAHO AT MOSCOW ID",
+        "ref": "13346800",
+        "website": "https://waterdata.usgs.gov/monitoring-location/13346800",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "773.125",
+        "ele:accuracy": "0.0518",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.106436,
+          43.3251111
+        ]
+      },
+      "properties": {
+        "name": "Silver Creek near West Campground",
+        "official_name": "Silver Ck near West Campground",
+        "ref": "131504301",
+        "website": "https://waterdata.usgs.gov/monitoring-location/131504301",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:water_velocity": "yes",
+        "ele": "1472.202",
+        "ele:accuracy": "0.061",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.6731778,
+          43.70030556
+        ]
+      },
+      "properties": {
+        "name": "East Hartley above Backwater near Caldwell",
+        "official_name": "EAST HARTLEY ABV BACKWATER NR CALDWELL, ID",
+        "ref": "132109867",
+        "website": "https://waterdata.usgs.gov/monitoring-location/132109867",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "722.071",
+        "ele:accuracy": "1.3106",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.3087778,
+          42.07952778
+        ]
+      },
+      "properties": {
+        "name": "Bear Lake 2.8 miles south of North Beach Spring near Lifton",
+        "official_name": "BEAR LAKE 2.8 MI S OF N BEACH SP NR LIFTON, ID",
+        "ref": "420446111183201",
+        "website": "https://waterdata.usgs.gov/monitoring-location/420446111183201",
+        "man_made": "monitoring_station",
+        "monitoring:air_temperature": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "ele": "1803.502",
+        "ele:accuracy": "0.4877",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.8177778,
+          42.7075
+        ]
+      },
+      "properties": {
+        "name": "Box Canyon Springs below Aqueduct Diversion near Wendell",
+        "official_name": "BOX CANYON SPRINGS BEL AQUEDUCT DIV NR WENDELL ID",
+        "ref": "4242271144904",
+        "website": "https://waterdata.usgs.gov/monitoring-location/4242271144904",
+        "man_made": "monitoring_station",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    }
+  ]
+}

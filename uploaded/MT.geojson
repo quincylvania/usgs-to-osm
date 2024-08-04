@@ -1,0 +1,6221 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.054461,
+          48.8779472
+        ]
+      },
+      "properties": {
+        "name": "Tobacco River at Eureka",
+        "official_name": "Tobacco River at Eureka, MT",
+        "ref": "12301250",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12301250",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "778.801",
+        "ele:accuracy": "0.061",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.3187194,
+          48.40066389
+        ]
+      },
+      "properties": {
+        "name": "Kootenai River below Libby Dam near Libby",
+        "official_name": "Kootenai River bl Libby Dam nr Libby MT",
+        "ref": "12301933",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12301933",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "640.08",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.31465,
+          48.35560278
+        ]
+      },
+      "properties": {
+        "name": "Fisher River near Libby",
+        "official_name": "Fisher River near Libby MT",
+        "ref": "12302055",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12302055",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "650.474",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.9701583,
+          48.5617222
+        ]
+      },
+      "properties": {
+        "name": "Yaak River near Troy",
+        "official_name": "Yaak River near Troy MT",
+        "ref": "12304500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12304500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "560.527",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.5273583,
+          45.9912694
+        ]
+      },
+      "properties": {
+        "name": "Blacktail Creek above Grove Gulch at Butte",
+        "official_name": "Blacktail Creek above Grove Gulch, at Butte, MT",
+        "ref": "12323233",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12323233",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "1663.294",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.538761,
+          45.99572778
+        ]
+      },
+      "properties": {
+        "name": "Silver Bow Creek at Montana Street at Butte",
+        "official_name": "Silver Bow Creek at Montana Street, at Butte, MT",
+        "ref": "12323242",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12323242",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "1660.855",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.5634889,
+          45.996575
+        ]
+      },
+      "properties": {
+        "name": "Silver Bow Creek below Blacktail Creek at Butte",
+        "official_name": "Silver Bow Cr bl Blacktail Cr, at Butte, MT",
+        "ref": "12323250",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12323250",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1648.806",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.8052833,
+          46.1077583
+        ]
+      },
+      "properties": {
+        "name": "Silver Bow Creek at Opportunity",
+        "official_name": "Silver Bow Creek at Opportunity MT",
+        "ref": "12323600",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12323600",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "1497.178",
+        "ele:accuracy": "0.6096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.9171889,
+          46.0829722
+        ]
+      },
+      "properties": {
+        "name": "Mill Creek near Anaconda",
+        "official_name": "Mill Creek nr Anaconda, MT",
+        "ref": "12323670",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12323670",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1667.256",
+        "ele:accuracy": "1.524",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.819775,
+          46.11437778
+        ]
+      },
+      "properties": {
+        "name": "Mill Creek at Opportunity",
+        "official_name": "Mill Creek at Opportunity, MT",
+        "ref": "12323700",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12323700",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1505.712",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.8935306,
+          46.0645111
+        ]
+      },
+      "properties": {
+        "name": "Willow Creek near Anaconda",
+        "official_name": "Willow Creek nr Anaconda, MT",
+        "ref": "12323710",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12323710",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1581.912",
+        "ele:accuracy": "1.524",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.810611,
+          46.10716389
+        ]
+      },
+      "properties": {
+        "name": "Willow Creek at Opportunity",
+        "official_name": "Willow Creek at Opportunity, MT",
+        "ref": "12323720",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12323720",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1502.664",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.780561,
+          46.1794972
+        ]
+      },
+      "properties": {
+        "name": "Silver Bow Creek at Warm Springs",
+        "official_name": "Silver Bow Creek at Warm Springs MT",
+        "ref": "12323750",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12323750",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "1459.367",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.9031528,
+          46.13366667
+        ]
+      },
+      "properties": {
+        "name": "Warm Springs Creek near Anaconda",
+        "official_name": "Warm Springs Creek near Anaconda MT",
+        "ref": "12323760",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12323760",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1569.72",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.7850778,
+          46.180375
+        ]
+      },
+      "properties": {
+        "name": "Warm Springs Creek at Warm Springs",
+        "official_name": "Warm Springs Creek at Warm Springs MT",
+        "ref": "12323770",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12323770",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "1466.088",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.76735,
+          46.20824167
+        ]
+      },
+      "properties": {
+        "name": "Clark Fork near Galen",
+        "official_name": "Clark Fork near Galen MT",
+        "ref": "12323800",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12323800",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "1447.495",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.8937972,
+          46.161325
+        ]
+      },
+      "properties": {
+        "name": "Lost Creek near Anaconda",
+        "official_name": "Lost Creek near Anaconda MT",
+        "ref": "12323840",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12323840",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1554.48",
+        "ele:accuracy": "1.524",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.7741667,
+          46.2185722
+        ]
+      },
+      "properties": {
+        "name": "Lost Creek near Galen",
+        "official_name": "Lost Creek near Galen, MT",
+        "ref": "12323850",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12323850",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1447.8",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.7425389,
+          46.39765
+        ]
+      },
+      "properties": {
+        "name": "Clark Fork at Deer Lodge",
+        "official_name": "Clark Fork at Deer Lodge MT",
+        "ref": "12324200",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12324200",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "1372.271",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.789686,
+          46.5109111
+        ]
+      },
+      "properties": {
+        "name": "Clark Fork above Little Blackfoot River near Garrison",
+        "official_name": "Clark Fork ab Little Blackfoot R nr Garrison MT",
+        "ref": "12324400",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12324400",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "1325.88",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.7931722,
+          46.5194833
+        ]
+      },
+      "properties": {
+        "name": "Little Blackfoot River near Garrison",
+        "official_name": "Little Blackfoot River near Garrison MT",
+        "ref": "12324590",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12324590",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1324.042",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.9287139,
+          46.58998889
+        ]
+      },
+      "properties": {
+        "name": "Clark Fork at Goldcreek",
+        "official_name": "Clark Fork at Goldcreek MT",
+        "ref": "12324680",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12324680",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1271.869",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.2786707,
+          46.21520277
+        ]
+      },
+      "properties": {
+        "name": "Georgetown Lake near Philipsburg",
+        "official_name": "Georgetown Lake near Philipsburg, MT",
+        "ref": "12325000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12325000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "1950.11",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.2998722,
+          46.23266667
+        ]
+      },
+      "properties": {
+        "name": "Flint Creek near Southern Cross",
+        "official_name": "Flint Creek near Southern Cross MT",
+        "ref": "12325500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12325500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1716.024",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.2402778,
+          46.4637583
+        ]
+      },
+      "properties": {
+        "name": "Flint Creek at Maxville",
+        "official_name": "Flint Creek at Maxville MT",
+        "ref": "12329500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12329500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1471.69",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.2357694,
+          46.47165278
+        ]
+      },
+      "properties": {
+        "name": "Boulder Creek at Maxville",
+        "official_name": "Boulder Creek at Maxville MT",
+        "ref": "12330000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12330000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1447.8",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.1506917,
+          46.62872778
+        ]
+      },
+      "properties": {
+        "name": "Flint Creek near Drummond",
+        "official_name": "Flint Creek near Drummond MT",
+        "ref": "12331500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12331500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1224.464",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.3307806,
+          46.71191389
+        ]
+      },
+      "properties": {
+        "name": "Clark Fork near Drummond",
+        "official_name": "Clark Fork near Drummond MT",
+        "ref": "12331800",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12331800",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1161.288",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.5015694,
+          46.1845694
+        ]
+      },
+      "properties": {
+        "name": "Middle Fork Rock Creek near Philipsburg",
+        "official_name": "Middle Fork Rock Cr nr Philipsburg MT",
+        "ref": "12332000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12332000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1659.356",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.683061,
+          46.7223361
+        ]
+      },
+      "properties": {
+        "name": "Rock Creek near Clinton",
+        "official_name": "Rock Creek near Clinton MT",
+        "ref": "12334510",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12334510",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "1072.731",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.8140306,
+          46.8259111
+        ]
+      },
+      "properties": {
+        "name": "Clark Fork at Turah Bridge near Bonner",
+        "official_name": "Clark Fork at Turah Bridge nr Bonner MT",
+        "ref": "12334550",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12334550",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1011.936",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.014986,
+          46.9187944
+        ]
+      },
+      "properties": {
+        "name": "Blackfoot River above Nevada Creek near Helmville",
+        "official_name": "Blackfoot R ab Nevada Cr nr Helmville MT",
+        "ref": "12335100",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12335100",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1295.4",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.767786,
+          46.77777778
+        ]
+      },
+      "properties": {
+        "name": "Nevada Creek above reservoir near Helmville",
+        "official_name": "Nevada Cr ab reservoir, nr Helmville, MT",
+        "ref": "12335500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12335500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1414.272",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.092186,
+          46.9794944
+        ]
+      },
+      "properties": {
+        "name": "North Fork Blackfoot River above Dry Gulch near Ovando",
+        "official_name": "NF Blackfoot R ab Dry Gulch nr Ovando MT",
+        "ref": "12338300",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12338300",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1237.488",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.7563194,
+          46.8994111
+        ]
+      },
+      "properties": {
+        "name": "Blackfoot River near Bonner",
+        "official_name": "Blackfoot River near Bonner MT",
+        "ref": "12340000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12340000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "1019.483",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.9321194,
+          46.87676389
+        ]
+      },
+      "properties": {
+        "name": "Clark Fork above Missoula",
+        "official_name": "Clark Fork above Missoula MT",
+        "ref": "12340500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12340500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "974.842",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.2822944,
+          45.72482778
+        ]
+      },
+      "properties": {
+        "name": "West Fork Bitterroot River near Conner",
+        "official_name": "West Fork Bitterroot River nr Conner MT",
+        "ref": "12342500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12342500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1396.411",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.1412333,
+          45.97205
+        ]
+      },
+      "properties": {
+        "name": "Bitterroot River near Darby",
+        "official_name": "Bitterroot River near Darby MT",
+        "ref": "12344000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12344000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "1201.564",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.1237667,
+          46.4432
+        ]
+      },
+      "properties": {
+        "name": "Bitterroot River at Bell Crossing near Victor",
+        "official_name": "Bitterroot River at Bell Crossing nr Victor MT",
+        "ref": "12350250",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12350250",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1014.984",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.054861,
+          46.83173889
+        ]
+      },
+      "properties": {
+        "name": "Bitterroot River near Missoula",
+        "official_name": "Bitterroot River near Missoula MT",
+        "ref": "12352500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12352500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "947.928",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.1277472,
+          46.8686333
+        ]
+      },
+      "properties": {
+        "name": "Clark Fork below Missoula",
+        "official_name": "Clark Fork below Missoula MT",
+        "ref": "12353000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12353000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "939.967",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.890409,
+          47.19631608
+        ]
+      },
+      "properties": {
+        "name": "Clark Fork at Superior",
+        "official_name": "Clark Fork at Superior, MT",
+        "ref": "12353650",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12353650",
+        "man_made": "monitoring_station",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.122625,
+          47.2967111
+        ]
+      },
+      "properties": {
+        "name": "St. Regis River near St. Regis",
+        "official_name": "St. Regis River near St. Regis, MT",
+        "ref": "12354000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12354000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "806.196",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.0868694,
+          47.30163889
+        ]
+      },
+      "properties": {
+        "name": "Clark Fork at St. Regis",
+        "official_name": "Clark Fork at St. Regis MT",
+        "ref": "12354500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12354500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "792.593",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.890966,
+          47.32187569
+        ]
+      },
+      "properties": {
+        "name": "Clark Fork near Paradise",
+        "official_name": "Clark Fork near Paradise, MT",
+        "ref": "12354700",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12354700",
+        "man_made": "monitoring_station",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.1267639,
+          48.4957972
+        ]
+      },
+      "properties": {
+        "name": "North Fork Flathead River near Columbia Falls",
+        "official_name": "N F Flathead River nr Columbia Falls MT",
+        "ref": "12355500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12355500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "958.776",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0102083,
+          48.49551667
+        ]
+      },
+      "properties": {
+        "name": "Middle Fork Flathead River near West Glacier",
+        "official_name": "M F Flathead River near West Glacier MT",
+        "ref": "12358500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12358500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "953.634",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.5606833,
+          47.9790972
+        ]
+      },
+      "properties": {
+        "name": "South Fork Flathead River above Twin Creek near Hungry Horse",
+        "official_name": "S F Flathead R ab Twin C nr Hungry Horse MT",
+        "ref": "12359800",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12359800",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1089.66",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0142831,
+          48.341075
+        ]
+      },
+      "properties": {
+        "name": "Hungry Horse Reservoir near Hungry Horse",
+        "official_name": "Hungry Horse Reservoir nr Hungry Horse MT",
+        "ref": "12362000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12362000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "974.141",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0378583,
+          48.35657778
+        ]
+      },
+      "properties": {
+        "name": "South Fork Flathead River near Columbia Falls",
+        "official_name": "S F Flathead River nr Columbia Falls MT",
+        "ref": "12362500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12362500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "926.592",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.18495,
+          48.3618111
+        ]
+      },
+      "properties": {
+        "name": "Flathead River at Columbia Falls",
+        "official_name": "Flathead River at Columbia Falls MT",
+        "ref": "12363000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12363000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "908.773",
+        "ele:accuracy": "0.0549",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.241886,
+          48.2211361
+        ]
+      },
+      "properties": {
+        "name": "Flathead River near Kalispell",
+        "official_name": "Flathead River near Kalispell, MT",
+        "ref": "12363500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12363500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "887.273",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.313736,
+          48.21725
+        ]
+      },
+      "properties": {
+        "name": "Stillwater River at Lawrence Park at Kalispell",
+        "official_name": "Stillwater River at Lawrence Park, at Kalispell",
+        "ref": "12365700",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12365700",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "896.112",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.2785944,
+          48.3201861
+        ]
+      },
+      "properties": {
+        "name": "Whitefish River near Kalispell",
+        "official_name": "Whitefish River near Kalispell MT",
+        "ref": "12366000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12366000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "905.204",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.248925,
+          48.1543111
+        ]
+      },
+      "properties": {
+        "name": "Flathead River at Foys Bend near Kalispell",
+        "official_name": "Flathead River at Foys Bend nr Kalispell MT",
+        "ref": "12366500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12366500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "884.112",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.9788194,
+          48.02423056
+        ]
+      },
+      "properties": {
+        "name": "Swan River near Bigfork",
+        "official_name": "Swan River near Bigfork, MT",
+        "ref": "12370000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12370000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "933.48",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.1612972,
+          47.6969083
+        ]
+      },
+      "properties": {
+        "name": "Flathead Lake at Polson",
+        "official_name": "Flathead Lake at Polson MT",
+        "ref": "12371550",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12371550",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "877.214",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "LMSL",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.2467278,
+          47.6802861
+        ]
+      },
+      "properties": {
+        "name": "Flathead River near Polson",
+        "official_name": "Flathead River near Polson MT",
+        "ref": "12372000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12372000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "820.735",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.9793806,
+          47.3228222
+        ]
+      },
+      "properties": {
+        "name": "Mission Creek above reservoir near St. Ignatius",
+        "official_name": "Mission Creek ab reservoir nr St. Ignatius MT",
+        "ref": "12377150",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12377150",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1054.608",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.850736,
+          47.19555
+        ]
+      },
+      "properties": {
+        "name": "South Fork Jocko River near Arlee",
+        "official_name": "South Fork Jocko River near Arlee MT",
+        "ref": "12381400",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12381400",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1210.056",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.585,
+          47.36679167
+        ]
+      },
+      "properties": {
+        "name": "Flathead River at Perma",
+        "official_name": "Flathead River at Perma MT",
+        "ref": "12388700",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12388700",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "752.643",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.8565333,
+          47.4292
+        ]
+      },
+      "properties": {
+        "name": "Clark Fork near Plains",
+        "official_name": "Clark Fork near Plains MT",
+        "ref": "12389000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12389000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "746.489",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.229536,
+          47.5918583
+        ]
+      },
+      "properties": {
+        "name": "Thompson River near Thompson Falls",
+        "official_name": "Thompson River near Thompson Falls MT",
+        "ref": "12389500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12389500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "740.655",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.3551,
+          47.5860611
+        ]
+      },
+      "properties": {
+        "name": "Prospect Creek at Thompson Falls",
+        "official_name": "Prospect Creek at Thompson Falls MT",
+        "ref": "12390700",
+        "website": "https://waterdata.usgs.gov/monitoring-location/12390700",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "726.156",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.5544028,
+          46.16653889
+        ]
+      },
+      "properties": {
+        "name": "Shields River Precipitation Station near Wilsall",
+        "official_name": "Shields R Precip Station nr Wilsall, MT",
+        "ref": "461000110331601",
+        "website": "https://waterdata.usgs.gov/monitoring-location/461000110331601",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "ele": "1752.6",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.3796528,
+          46.1848222
+        ]
+      },
+      "properties": {
+        "name": "Dugout Creek Precipitation Station near Wilsall",
+        "official_name": "Dugout Cr Precip Station nr Wilsall, MT",
+        "ref": "461105110224701",
+        "website": "https://waterdata.usgs.gov/monitoring-location/461105110224701",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "ele": "1983.334",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.26175,
+          46.58535278
+        ]
+      },
+      "properties": {
+        "name": "Mule Creek Meteorologic Station near White Sulphur Springs",
+        "official_name": "Mule Cr Met Station nr White Sulphur Springs, MT",
+        "ref": "463507111154201",
+        "website": "https://waterdata.usgs.gov/monitoring-location/463507111154201",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "ele": "1944.624",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.1939833,
+          46.6784944
+        ]
+      },
+      "properties": {
+        "name": "Camas Creek Precipitation Station near White Sulphur Springs",
+        "official_name": "Camas Cr Precip Station nr White Sulphur Springs",
+        "ref": "464041111113801",
+        "website": "https://waterdata.usgs.gov/monitoring-location/464041111113801",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "ele": "1414.882",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.6567306,
+          48.7988333
+        ]
+      },
+      "properties": {
+        "name": "Swiftcurrent Creek at Many Glacier",
+        "official_name": "Swiftcurrent Creek at Many Glacier MT",
+        "ref": "05014500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05014500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1486.443",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.4206533,
+          48.83303718
+        ]
+      },
+      "properties": {
+        "name": "St. Mary River near Babb",
+        "official_name": "St. Mary River near Babb MT",
+        "ref": "05017500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05017500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1361.886",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.4169444,
+          48.85277778
+        ]
+      },
+      "properties": {
+        "name": "St. Mary Canal at intake near Babb",
+        "official_name": "St. Mary Canal at intake near Babb MT",
+        "ref": "05018000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05018000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1362.456",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.3753306,
+          48.94696667
+        ]
+      },
+      "properties": {
+        "name": "St. Mary Canal at St. Mary Crossing near Babb",
+        "official_name": "St. Mary Canal at St. Mary Crossing near Babb MT",
+        "ref": "05018500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05018500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1356.36",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6256694,
+          44.61579167
+        ]
+      },
+      "properties": {
+        "name": "Red Rock Creek above lakes near Lakeview",
+        "official_name": "Red Rock Cr ab Lakes, nr Lakeview, MT",
+        "ref": "06006000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06006000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "2033.93",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3712222,
+          44.65588056
+        ]
+      },
+      "properties": {
+        "name": "Red Rock River below Lima Reservoir near Monida",
+        "official_name": "Red Rock R bl Lima Reservoir nr Monida MT",
+        "ref": "06012500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06012500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1990.344",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.7504944,
+          45.11612778
+        ]
+      },
+      "properties": {
+        "name": "Beaverhead River at Barretts",
+        "official_name": "Beaverhead River at Barretts MT",
+        "ref": "06016000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06016000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1605.738",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6553333,
+          45.2183833
+        ]
+      },
+      "properties": {
+        "name": "Beaverhead River at Dillon",
+        "official_name": "Beaverhead River at Dillon MT",
+        "ref": "06017000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06017000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1554.48",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.4528306,
+          45.38338889
+        ]
+      },
+      "properties": {
+        "name": "Beaverhead River near Twin Bridges",
+        "official_name": "Beaverhead River near Twin Bridges MT",
+        "ref": "06018500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06018500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1465.829",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1428167,
+          45.1923194
+        ]
+      },
+      "properties": {
+        "name": "Ruby River above reservoir near Alder",
+        "official_name": "Ruby River above reservoir near Alder, MT",
+        "ref": "06019500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06019500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1645.92",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1112389,
+          45.2418694
+        ]
+      },
+      "properties": {
+        "name": "Ruby River below reservoir near Alder",
+        "official_name": "Ruby River below reservoir near Alder, MT",
+        "ref": "06020600",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06020600",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1611.356",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3308889,
+          45.50691389
+        ]
+      },
+      "properties": {
+        "name": "Ruby River near Twin Bridges",
+        "official_name": "Ruby River near Twin Bridges MT",
+        "ref": "06023000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06023000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "1423.416",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.338111,
+          45.54688889
+        ]
+      },
+      "properties": {
+        "name": "Beaverhead River at Twin Bridges",
+        "official_name": "Beaverhead River at Twin Bridges, MT",
+        "ref": "06023100",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06023100",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "1408.176",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.4569417,
+          45.61796667
+        ]
+      },
+      "properties": {
+        "name": "Big Hole River below Big Lake Creek at Wisdom",
+        "official_name": "Big Hole River bl Big Lake Cr at Wisdom MT",
+        "ref": "06024450",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06024450",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "1840.992",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.3132694,
+          45.80754167
+        ]
+      },
+      "properties": {
+        "name": "Big Hole River below Mudd Creek near Wisdom",
+        "official_name": "Big Hole River bl Mudd Cr nr Wisdom MT",
+        "ref": "06024540",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06024540",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1792.224",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.7359694,
+          45.7012694
+        ]
+      },
+      "properties": {
+        "name": "Big Hole River at Maiden Rock near Divide",
+        "official_name": "Big Hole River at Maiden Rock nr Divide MT",
+        "ref": "06025250",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06025250",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "1615.44",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.701725,
+          45.52658056
+        ]
+      },
+      "properties": {
+        "name": "Big Hole River near Melrose",
+        "official_name": "Big Hole River near Melrose MT",
+        "ref": "06025500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06025500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "1534.019",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.5560917,
+          45.4400944
+        ]
+      },
+      "properties": {
+        "name": "Big Hole River near Glen",
+        "official_name": "Big Hole River near Glen MT",
+        "ref": "06026210",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06026210",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "1478.28",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.360675,
+          45.5500222
+        ]
+      },
+      "properties": {
+        "name": "Big Hole River below Hamilton Ditch near Twin Bridges",
+        "official_name": "Big Hole R bl Hamilton Ditch nr Twin Bridges, MT",
+        "ref": "06026420",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06026420",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "1411.224",
+        "ele:accuracy": "1.524",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3293972,
+          45.6132833
+        ]
+      },
+      "properties": {
+        "name": "Jefferson River near Twin Bridges",
+        "official_name": "Jefferson River near Twin Bridges MT",
+        "ref": "06026500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06026500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "1389.888",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1872278,
+          45.74750278
+        ]
+      },
+      "properties": {
+        "name": "Jefferson River at Parsons Bridge near Silver Star",
+        "official_name": "Jefferson River at Parsons Bdg nr Silver Star, MT",
+        "ref": "06027600",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06027600",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "1347.216",
+        "ele:accuracy": "1.524",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.09165,
+          46.21103056
+        ]
+      },
+      "properties": {
+        "name": "Boulder River near Boulder",
+        "official_name": "Boulder River near Boulder MT",
+        "ref": "06033000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06033000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1466.088",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.741025,
+          45.7230583
+        ]
+      },
+      "properties": {
+        "name": "Willow Creek near Harrison",
+        "official_name": "Willow Creek near Harrison MT",
+        "ref": "06035000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06035000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "1447.8",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.5956722,
+          45.8971361
+        ]
+      },
+      "properties": {
+        "name": "Jefferson River near Three Forks",
+        "official_name": "Jefferson River near Three Forks MT",
+        "ref": "06036650",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06036650",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "1242.596",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.0679639,
+          44.6570722
+        ]
+      },
+      "properties": {
+        "name": "Madison River near West Yellowstone",
+        "official_name": "Madison River near West Yellowstone, MT",
+        "ref": "06037500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06037500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "2026.92",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.3387806,
+          44.86639167
+        ]
+      },
+      "properties": {
+        "name": "Madison River below Hebgen Lake near Grayling",
+        "official_name": "Madison River bl Hebgen Lake nr Grayling MT",
+        "ref": "06038500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06038500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "1965.494",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.580886,
+          44.88865556
+        ]
+      },
+      "properties": {
+        "name": "Madison River at Kirby Ranch near Cameron",
+        "official_name": "Madison River at Kirby Ranch nr Cameron MT",
+        "ref": "06038800",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06038800",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "1786.128",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7516333,
+          45.2331333
+        ]
+      },
+      "properties": {
+        "name": "Madison River near Cameron",
+        "official_name": "Madison River near Cameron MT",
+        "ref": "06040000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06040000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "1565.148",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6338583,
+          45.4865944
+        ]
+      },
+      "properties": {
+        "name": "Madison River above powerplant near McAllister",
+        "official_name": "Madison River ab powerplant nr McAllister MT",
+        "ref": "06040800",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06040800",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1429.512",
+        "ele:accuracy": "1.524",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6345056,
+          45.49023056
+        ]
+      },
+      "properties": {
+        "name": "Madison River below Ennis Lake near McAllister",
+        "official_name": "Madison River bl Ennis Lake nr McAllister MT",
+        "ref": "06041000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06041000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "1429.216",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.2113917,
+          45.29727778
+        ]
+      },
+      "properties": {
+        "name": "Gallatin River above Deer Creek near Big Sky",
+        "official_name": "Gallatin River above Deer Creek, near Big Sky, MT",
+        "ref": "06043120",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06043120",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "1790.7",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.2707083,
+          45.4973
+        ]
+      },
+      "properties": {
+        "name": "Gallatin River near Gallatin Gateway",
+        "official_name": "Gallatin River near Gallatin Gateway, MT",
+        "ref": "06043500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06043500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1575.106",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.0661944,
+          45.72566667
+        ]
+      },
+      "properties": {
+        "name": "East Gallatin River above Water Reclamation Facility near Bozeman",
+        "official_name": "E Gallatin R ab Water Reclamation Fa nr Bozeman MT",
+        "ref": "06048650",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06048650",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1409.7",
+        "ele:accuracy": "1.524",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.0718889,
+          45.56332778
+        ]
+      },
+      "properties": {
+        "name": "Hyalite Creek at Hyalite River South near Bozeman",
+        "official_name": "Hyalite C at Hyalite R S nr Bozeman MT",
+        "ref": "06050000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06050000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1688.47",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.438286,
+          45.88535556
+        ]
+      },
+      "properties": {
+        "name": "Gallatin River at Logan",
+        "official_name": "Gallatin River at Logan MT",
+        "ref": "06052500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06052500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "1245.541",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.4202778,
+          46.1465722
+        ]
+      },
+      "properties": {
+        "name": "Missouri River at Toston",
+        "official_name": "Missouri River at Toston MT",
+        "ref": "06054500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06054500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "1190.451",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.946786,
+          46.5190972
+        ]
+      },
+      "properties": {
+        "name": "Prickly Pear Creek near Clancy",
+        "official_name": "Prickly Pear Creek near Clancy MT",
+        "ref": "06061500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06061500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1239.652",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2566472,
+          46.5238972
+        ]
+      },
+      "properties": {
+        "name": "Tenmile Creek near Rimini",
+        "official_name": "Tenmile Creek near Rimini MT",
+        "ref": "06062500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06062500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1478.28",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0882639,
+          46.60500556
+        ]
+      },
+      "properties": {
+        "name": "Tenmile Creek near Helena",
+        "official_name": "Tenmile Creek near Helena MT",
+        "ref": "06063000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06063000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1204.938",
+        "ele:accuracy": "0.0091",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8887944,
+          46.76619167
+        ]
+      },
+      "properties": {
+        "name": "Missouri River below Hauser Dam near Helena",
+        "official_name": "Missouri River bl Hauser Dam near Helena MT",
+        "ref": "06065500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06065500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1091.184",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0106667,
+          46.99473889
+        ]
+      },
+      "properties": {
+        "name": "Missouri River below Holter Dam near Wolf Creek",
+        "official_name": "Missouri River bl Holter Dam nr Wolf Cr MT",
+        "ref": "06066500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06066500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "1055.861",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.070311,
+          47.0054361
+        ]
+      },
+      "properties": {
+        "name": "Little Prickly Pear Creek at Wolf Creek",
+        "official_name": "Little Prickly Pear Cr at Wolf Cr MT",
+        "ref": "06071300",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06071300",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1081.241",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0959056,
+          47.199025
+        ]
+      },
+      "properties": {
+        "name": "Dearborn River near Craig",
+        "official_name": "Dearborn River near Craig MT",
+        "ref": "06073500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06073500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "1158.24",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6952306,
+          47.2694861
+        ]
+      },
+      "properties": {
+        "name": "Missouri River at Cascade",
+        "official_name": "Missouri River at Cascade MT",
+        "ref": "06074000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06074000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1017.361",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.1939194,
+          46.6784861
+        ]
+      },
+      "properties": {
+        "name": "Camas Creek near mouth near White Sulphur Springs",
+        "official_name": "Camas C nr Mouth nr White Sulphur Springs MT",
+        "ref": "06076590",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06076590",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "ele": "1414.882",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.1785556,
+          46.7958
+        ]
+      },
+      "properties": {
+        "name": "Smith River near Fort Logan",
+        "official_name": "Smith River near Ft Logan MT",
+        "ref": "06076690",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06076690",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1341.12",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.1922389,
+          46.82798056
+        ]
+      },
+      "properties": {
+        "name": "Smith River below Eagle Creek near Fort Logan",
+        "official_name": "Smith River bl Eagle Cr nr Fort Logan MT",
+        "ref": "06077200",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06077200",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "1325.88",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.3862389,
+          47.18929167
+        ]
+      },
+      "properties": {
+        "name": "Smith River near Eden",
+        "official_name": "Smith River near Eden MT",
+        "ref": "06077500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06077500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1072.896",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.3884444,
+          47.43496667
+        ]
+      },
+      "properties": {
+        "name": "Missouri River near Ulm",
+        "official_name": "Missouri River near Ulm MT",
+        "ref": "06078200",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06078200",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1009.885",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.8593333,
+          47.6398611
+        ]
+      },
+      "properties": {
+        "name": "North Fork Sun River near Augusta",
+        "official_name": "North Fork Sun River near Augusta MT",
+        "ref": "06078500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06078500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1458.687",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.865761,
+          47.6286083
+        ]
+      },
+      "properties": {
+        "name": "South Fork Sun River near Augusta",
+        "official_name": "South Fork Sun River near Augusta MT",
+        "ref": "06079000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06079000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1441.704",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6920556,
+          47.61850556
+        ]
+      },
+      "properties": {
+        "name": "Sun River below Diversion Dam near Augusta",
+        "official_name": "Sun River bl Diversion Dam nr Augusta MT",
+        "ref": "06080900",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06080900",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1331.976",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3674306,
+          47.5471361
+        ]
+      },
+      "properties": {
+        "name": "Sun River below Willow Creek near Augusta",
+        "official_name": "Sun River bl Willow Cr nr Augusta MT",
+        "ref": "06082200",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06082200",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1206.027",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9319139,
+          47.50162778
+        ]
+      },
+      "properties": {
+        "name": "Sun River at Simms",
+        "official_name": "Sun River at Simms MT",
+        "ref": "06085800",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06085800",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "1088.136",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.5417694,
+          47.56126667
+        ]
+      },
+      "properties": {
+        "name": "Muddy Creek at Vaughn",
+        "official_name": "Muddy Creek at Vaughn MT",
+        "ref": "06088500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06088500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1014.984",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.511036,
+          47.52577778
+        ]
+      },
+      "properties": {
+        "name": "Sun River near Vaughn",
+        "official_name": "Sun River near Vaughn MT",
+        "ref": "06089000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06089000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1018.038",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.0605806,
+          47.5844444
+        ]
+      },
+      "properties": {
+        "name": "Missouri River near Great Falls",
+        "official_name": "Missouri River near Great Falls MT",
+        "ref": "06090300",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06090300",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "855.638",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9317472,
+          47.2085944
+        ]
+      },
+      "properties": {
+        "name": "Belt Creek near Monarch",
+        "official_name": "Belt Creek near Monarch MT",
+        "ref": "06090500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06090500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1213.104",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.6661417,
+          47.8169111
+        ]
+      },
+      "properties": {
+        "name": "Missouri River at Fort Benton",
+        "official_name": "Missouri River at Fort Benton MT",
+        "ref": "06090800",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06090800",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "796.762",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.9899833,
+          48.42695278
+        ]
+      },
+      "properties": {
+        "name": "Two Medicine River below South Fork near Browning",
+        "official_name": "Two Medicine River bl South Fork nr Browning MT",
+        "ref": "06091700",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06091700",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1274.064",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6122694,
+          48.5077222
+        ]
+      },
+      "properties": {
+        "name": "Two Medicine River above Badger Creek near Piegan",
+        "official_name": "Two Medicine River ab Badger Cr, nr Piegan, MT",
+        "ref": "06092020",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06092020",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1157.021",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.8017806,
+          48.36945
+        ]
+      },
+      "properties": {
+        "name": "Badger Creek below Four Horns Canal near Browning",
+        "official_name": "Badger Cr bl Four Horns Canal nr Browning MT",
+        "ref": "06093200",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06093200",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1261.872",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6979167,
+          48.24466667
+        ]
+      },
+      "properties": {
+        "name": "Birch Creek below Heart Butte Road near Heart Butte",
+        "official_name": "Birch Cr bl Heart Butte Road, nr Heart Butte, MT",
+        "ref": "06094900",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06094900",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1304.849",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.319661,
+          48.39110278
+        ]
+      },
+      "properties": {
+        "name": "Birch Creek at Bullhead Bridge near Valier",
+        "official_name": "Birch Creek at Bullhead Bridge, nr Valier, MT",
+        "ref": "06098120",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06098120",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1067.714",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.5940056,
+          48.67847778
+        ]
+      },
+      "properties": {
+        "name": "Cut Bank Creek above Gillam Coulee near Sundance",
+        "official_name": "Cut Bank Cr ab Gillam Coulee, nr Sundance, MT",
+        "ref": "06098800",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06098800",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1168.908",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3464806,
+          48.63340278
+        ]
+      },
+      "properties": {
+        "name": "Cut Bank Creek at Cut Bank",
+        "official_name": "Cut Bank Creek at Cut Bank MT",
+        "ref": "06099000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06099000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1085.521",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.889836,
+          48.4271972
+        ]
+      },
+      "properties": {
+        "name": "Marias River near Shelby",
+        "official_name": "Marias River near Shelby MT",
+        "ref": "06099500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06099500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "941.137",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.3453056,
+          48.44865556
+        ]
+      },
+      "properties": {
+        "name": "Willow Creek near Galata",
+        "official_name": "Willow Creek near Galata, MT",
+        "ref": "06101200",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06101200",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "922.325",
+        "ele:accuracy": "1.524",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.0805278,
+          48.3059611
+        ]
+      },
+      "properties": {
+        "name": "Marias River near Chester",
+        "official_name": "Marias River near Chester MT",
+        "ref": "06101500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06101500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "857.716",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.5808389,
+          47.94590278
+        ]
+      },
+      "properties": {
+        "name": "Marias River near Loma",
+        "official_name": "Marias River near Loma MT",
+        "ref": "06102050",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06102050",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "783.336",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6119833,
+          47.8830833
+        ]
+      },
+      "properties": {
+        "name": "Teton River below South Fork near Choteau",
+        "official_name": "Teton River bl South Fork nr Choteau MT",
+        "ref": "06102500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06102500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1453.896",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.5529417,
+          47.930325
+        ]
+      },
+      "properties": {
+        "name": "Teton River near Dutton",
+        "official_name": "Teton River near Dutton MT",
+        "ref": "06108000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06108000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "986.028",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.5144333,
+          47.9327194
+        ]
+      },
+      "properties": {
+        "name": "Teton River at Loma",
+        "official_name": "Teton River at Loma MT",
+        "ref": "06108800",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06108800",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "780.288",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.2588222,
+          48.0037833
+        ]
+      },
+      "properties": {
+        "name": "Missouri River at Virgelle",
+        "official_name": "Missouri River at Virgelle MT",
+        "ref": "06109500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06109500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "764.286",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.1889444,
+          46.9177222
+        ]
+      },
+      "properties": {
+        "name": "Judith River above Carr Creek near Utica",
+        "official_name": "Judith River above Carr Creek near Utica MT",
+        "ref": "06110020",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06110020",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1425.854",
+        "ele:accuracy": "1.3106",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.4575,
+          47.0878333
+        ]
+      },
+      "properties": {
+        "name": "Big Spring Creek at Reed and Bowles Trading Post near Lewistown",
+        "official_name": "Big Spring Cr at R&B Trading Post nr Lewistown MT",
+        "ref": "06111800",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06111800",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1171.346",
+        "ele:accuracy": "1.3106",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.6520139,
+          47.6651583
+        ]
+      },
+      "properties": {
+        "name": "Judith River near mouth near Winifred",
+        "official_name": "Judith River nr mouth, nr Winifred MT",
+        "ref": "06114700",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06114700",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "762.61",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.6877444,
+          47.63143056
+        ]
+      },
+      "properties": {
+        "name": "Missouri River near Landusky",
+        "official_name": "Missouri River near Landusky MT",
+        "ref": "06115200",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06115200",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "682.74",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.3185028,
+          46.4623194
+        ]
+      },
+      "properties": {
+        "name": "South Fork Musselshell River at Martinsdale",
+        "official_name": "South Fork Musselshell River at Martinsdale, MT",
+        "ref": "06119200",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06119200",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1457.858",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.2489667,
+          46.4769583
+        ]
+      },
+      "properties": {
+        "name": "Musselshell River near Martinsdale",
+        "official_name": "Musselshell River nr Martinsdale, MT",
+        "ref": "06119600",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06119600",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1420.368",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.8411944,
+          46.4288
+        ]
+      },
+      "properties": {
+        "name": "Musselshell River at Harlowton",
+        "official_name": "Musselshell River at Harlowton MT",
+        "ref": "06120500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06120500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1271.461",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.4605472,
+          46.31899167
+        ]
+      },
+      "properties": {
+        "name": "Musselshell River above Mud Creek near Shawmut",
+        "official_name": "Musselshell River ab Mud Cr nr Shawmut MT",
+        "ref": "06123030",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06123030",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1155.192",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.9376111,
+          46.28905556
+        ]
+      },
+      "properties": {
+        "name": "Musselshell River above Big Coulee Creek at Lavina",
+        "official_name": "Musselshell River ab Big Coulee Creek at Lavina MT",
+        "ref": "06125600",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06125600",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1043.33",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.5701028,
+          46.4277194
+        ]
+      },
+      "properties": {
+        "name": "Musselshell River near Roundup",
+        "official_name": "Musselshell River near Roundup MT",
+        "ref": "06126500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06126500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "973.226",
+        "ele:accuracy": "1.3106",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.1088722,
+          46.522425
+        ]
+      },
+      "properties": {
+        "name": "Musselshell River at Musselshell",
+        "official_name": "Musselshell River at Musselshell MT",
+        "ref": "06127500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06127500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "909.743",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.9328417,
+          46.9286611
+        ]
+      },
+      "properties": {
+        "name": "Flatwillow Creek near Mosby",
+        "official_name": "Flatwillow Creek near Mosby MT",
+        "ref": "06130000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06130000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "781.202",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.8891639,
+          46.99469167
+        ]
+      },
+      "properties": {
+        "name": "Musselshell River at Mosby",
+        "official_name": "Musselshell River at Mosby MT",
+        "ref": "06130500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06130500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "760.141",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.1534528,
+          47.5365944
+        ]
+      },
+      "properties": {
+        "name": "Nelson Creek near Van Norman",
+        "official_name": "Nelson Creek near Van Norman MT",
+        "ref": "06131200",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06131200",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "701.04",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.0623556,
+          48.96352778
+        ]
+      },
+      "properties": {
+        "name": "North Fork Milk River above St. Mary Canal near Browning",
+        "official_name": "N F Milk River ab St. Mary canal nr Browning MT",
+        "ref": "06133500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06133500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1292.352",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.4217778,
+          48.9748194
+        ]
+      },
+      "properties": {
+        "name": "Milk River at Eastern Crossing of International Boundary",
+        "official_name": "Milk River at Eastern Crossing of Int Bndry",
+        "ref": "06135000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06135000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "810.768",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.8354167,
+          48.2988333
+        ]
+      },
+      "properties": {
+        "name": "Boxelder Creek near Rocky Boy",
+        "official_name": "Boxelder Creek near Rocky Boy, MT",
+        "ref": "06137570",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06137570",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "985.723",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.019575,
+          48.31035278
+        ]
+      },
+      "properties": {
+        "name": "Boxelder Creek at Box Elder",
+        "official_name": "Boxelder Creek at Box Elder, MT",
+        "ref": "06137575",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06137575",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "814.426",
+        "ele:accuracy": "1.524",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.9208278,
+          48.45269167
+        ]
+      },
+      "properties": {
+        "name": "Big Sandy Creek above Spring Coulee near Laredo",
+        "official_name": "Big Sandy Cr ab Spring Coulee, nr Laredo, MT",
+        "ref": "06138580",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06138580",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "780.898",
+        "ele:accuracy": "1.524",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.8415778,
+          48.52671389
+        ]
+      },
+      "properties": {
+        "name": "Big Sandy Creek near Havre",
+        "official_name": "Big Sandy Creek near Havre MT",
+        "ref": "06139500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06139500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "765.048",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.6421333,
+          48.1761472
+        ]
+      },
+      "properties": {
+        "name": "West Fork Beaver Creek near Rocky Boy",
+        "official_name": "West Fork Beaver Creek nr Rocky Boy, MT",
+        "ref": "06139800",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06139800",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "1414.882",
+        "ele:accuracy": "12.192",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.6435694,
+          48.17931667
+        ]
+      },
+      "properties": {
+        "name": "Beaver Creek above Elk Creek near Rocky Boy",
+        "official_name": "Beaver Creek ab Elk Creek, nr Rocky Boy, MT",
+        "ref": "06139850",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06139850",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "1407.871",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.6522667,
+          48.22408056
+        ]
+      },
+      "properties": {
+        "name": "Beaver Creek at Reservation Boundary near Rocky Boy",
+        "official_name": "Beaver Cr at Res Bndry nr Rocky Boy MT",
+        "ref": "06139900",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06139900",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1271.321",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.6959556,
+          48.5636861
+        ]
+      },
+      "properties": {
+        "name": "Milk River at Havre",
+        "official_name": "Milk River at Havre MT",
+        "ref": "06140500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06140500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "751.405",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.3911306,
+          48.5788694
+        ]
+      },
+      "properties": {
+        "name": "Clear Creek near Chinook",
+        "official_name": "Clear Creek near Chinook MT",
+        "ref": "06142400",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06142400",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "752.856",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.2316944,
+          48.64949167
+        ]
+      },
+      "properties": {
+        "name": "Battle Creek near Chinook",
+        "official_name": "Battle Creek near Chinook MT",
+        "ref": "06151500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06151500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "734.568",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.8551667,
+          48.52430556
+        ]
+      },
+      "properties": {
+        "name": "Milk River at Merrill Road near Harlem",
+        "official_name": "Milk River at Merrill Rd, nr Harlem, MT",
+        "ref": "06153800",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06153800",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "717.194",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.75895,
+          48.48964167
+        ]
+      },
+      "properties": {
+        "name": "Milk River near Harlem",
+        "official_name": "Milk River near Harlem MT",
+        "ref": "06154100",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06154100",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "706.953",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.7140528,
+          48.2237333
+        ]
+      },
+      "properties": {
+        "name": "Peoples Creek near Hays",
+        "official_name": "Peoples Creek near Hays MT",
+        "ref": "06154400",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06154400",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "827.258",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.2940944,
+          48.40277778
+        ]
+      },
+      "properties": {
+        "name": "Milk River near Dodson",
+        "official_name": "Milk River near Dodson MT",
+        "ref": "06155030",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06155030",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "685.8",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.876375,
+          48.3621944
+        ]
+      },
+      "properties": {
+        "name": "Milk River at Malta",
+        "official_name": "Milk River at Malta MT",
+        "ref": "06155500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06155500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "684.581",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.2187556,
+          48.50920278
+        ]
+      },
+      "properties": {
+        "name": "Milk River at Juneberg Bridge near Saco",
+        "official_name": "Milk River at Juneberg Bridge nr Saco MT",
+        "ref": "06164510",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06164510",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "649.224",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.5821861,
+          48.3567833
+        ]
+      },
+      "properties": {
+        "name": "Beaver Creek below Guston Coulee near Saco",
+        "official_name": "Beaver Cr bl Guston Coulee nr Saco MT",
+        "ref": "06166000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06166000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "675.132",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.1711389,
+          48.4203111
+        ]
+      },
+      "properties": {
+        "name": "Beaver Creek near Hinsdale",
+        "official_name": "Beaver Creek near Hinsdale MT",
+        "ref": "06167500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06167500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "649.224",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.8398417,
+          48.969375
+        ]
+      },
+      "properties": {
+        "name": "Rock Creek below Horse Creek near International Boundary",
+        "official_name": "Rock Creek bl Horse Creek nr int'l boundary",
+        "ref": "06169500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06169500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "771.144",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.8223167,
+          48.30790556
+        ]
+      },
+      "properties": {
+        "name": "Milk River at Tampico",
+        "official_name": "Milk River at Tampico MT",
+        "ref": "06172310",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06172310",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "643.128",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.3643139,
+          48.13005278
+        ]
+      },
+      "properties": {
+        "name": "Milk River at Nashua",
+        "official_name": "Milk River at Nashua MT",
+        "ref": "06174500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06174500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "618.058",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.1227992,
+          48.03057289
+        ]
+      },
+      "properties": {
+        "name": "Missouri River at West Frazer Pump Plant near Frazer",
+        "official_name": "Missouri R at W Frazer Pump Plant nr Frazer MT",
+        "ref": "06175100",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06175100",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "609.6",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.0005722,
+          48.0333506
+        ]
+      },
+      "properties": {
+        "name": "Missouri River at East Frazer Pump Plant near Frazer",
+        "official_name": "Missouri R at E Frazer Pump Plant nr Frazer MT",
+        "ref": "06175510",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06175510",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "594.36",
+        "ele:accuracy": "1.524",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.5330972,
+          48.067325
+        ]
+      },
+      "properties": {
+        "name": "Missouri River near Wolf Point",
+        "official_name": "Missouri River near Wolf Point MT",
+        "ref": "06177000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06177000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "596.972",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.5756444,
+          47.4139722
+        ]
+      },
+      "properties": {
+        "name": "Redwater River at Circle",
+        "official_name": "Redwater River at Circle MT",
+        "ref": "06177500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06177500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "729.789",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.6969083,
+          48.9902861
+        ]
+      },
+      "properties": {
+        "name": "Poplar River at International Boundary",
+        "official_name": "Poplar River at international boundary",
+        "ref": "06178000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06178000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "749.808",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.1928167,
+          48.11791667
+        ]
+      },
+      "properties": {
+        "name": "Poplar River near Poplar",
+        "official_name": "Poplar River near Poplar MT",
+        "ref": "06181000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06181000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "592.226",
+        "ele:accuracy": "1.3106",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.5120861,
+          48.6728972
+        ]
+      },
+      "properties": {
+        "name": "Big Muddy Creek near Antelope",
+        "official_name": "Big Muddy Creek near Antelope MT",
+        "ref": "06183450",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06183450",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "609.6",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.6295194,
+          48.16448056
+        ]
+      },
+      "properties": {
+        "name": "Big Muddy Creek near mouth near Culbertson",
+        "official_name": "Big Muddy Creek nr mouth nr Culbertson MT",
+        "ref": "06185110",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06185110",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "578.053",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.4733,
+          48.1235
+        ]
+      },
+      "properties": {
+        "name": "Missouri River near Culbertson",
+        "official_name": "Missouri River near Culbertson MT",
+        "ref": "06185500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06185500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "574.06",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.0018722,
+          45.00283056
+        ]
+      },
+      "properties": {
+        "name": "Soda Butte Creek at Yellowstone National Park boundary at Silver Gate",
+        "official_name": "Soda Butte Cr at Park Bndry at Silver Gate",
+        "ref": "06187915",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06187915",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "2237.232",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.690975,
+          44.9923444
+        ]
+      },
+      "properties": {
+        "name": "Gardner River near Mammoth",
+        "official_name": "Gardner River near Mammoth, YNP",
+        "ref": "06191000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06191000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1714.186",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.7936667,
+          45.1121194
+        ]
+      },
+      "properties": {
+        "name": "Yellowstone River at Corwin Springs",
+        "official_name": "Yellowstone River at Corwin Springs MT",
+        "ref": "06191500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06191500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "1548.107",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.5664972,
+          45.5972111
+        ]
+      },
+      "properties": {
+        "name": "Yellowstone River near Livingston",
+        "official_name": "Yellowstone River near Livingston, MT",
+        "ref": "06192500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06192500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "1384.551",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.5542861,
+          46.1671611
+        ]
+      },
+      "properties": {
+        "name": "Shields River above Smith Creek near Wilsall",
+        "official_name": "Shields River ab Smith Cr, nr Wilsall, MT",
+        "ref": "06192980",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06192980",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "ele": "1751.686",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.4794694,
+          45.7383611
+        ]
+      },
+      "properties": {
+        "name": "Shields River near Livingston",
+        "official_name": "Shields River nr Livingston MT",
+        "ref": "06195600",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06195600",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1347.216",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.0877222,
+          45.5123333
+        ]
+      },
+      "properties": {
+        "name": "East Boulder River below Dry Fork Creek near McLeod",
+        "official_name": "East Boulder River bl Dry Fork Cr nr Mcleod, MT",
+        "ref": "06197800",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06197800",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1875.13",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.9387056,
+          45.8337944
+        ]
+      },
+      "properties": {
+        "name": "Boulder River at Big Timber",
+        "official_name": "Boulder River at Big Timber MT",
+        "ref": "06200000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06200000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1236.36",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.7313028,
+          45.24323889
+        ]
+      },
+      "properties": {
+        "name": "West Rosebud Creek near Roscoe",
+        "official_name": "West Rosebud Creek near Roscoe MT",
+        "ref": "06204050",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06204050",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1992.051",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.6998945,
+          45.25438735
+        ]
+      },
+      "properties": {
+        "name": "West Rosebud Creek at Emerald Lake Campground near Roscoe",
+        "official_name": "W Rosebud Cr at Emerald Lk Campground nr Roscoe",
+        "ref": "06204070",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06204070",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "1932.432",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.4220556,
+          45.53674167
+        ]
+      },
+      "properties": {
+        "name": "Stillwater River near Absarokee",
+        "official_name": "Stillwater River near Absarokee, MT",
+        "ref": "06205000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06205000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "1206.094",
+        "ele:accuracy": "1.3106",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.0653667,
+          45.0099111
+        ]
+      },
+      "properties": {
+        "name": "Clarks Fork Yellowstone River near Belfry",
+        "official_name": "Clarks Fork Yellowstone River nr Belfry MT",
+        "ref": "06207500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06207500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1215.006",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.8441056,
+          45.46571389
+        ]
+      },
+      "properties": {
+        "name": "Clarks Fork Yellowstone River at Edgar",
+        "official_name": "Clarks Fork Yellowstone River at Edgar MT",
+        "ref": "06208500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06208500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1054.608",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.8315328,
+          45.5163372
+        ]
+      },
+      "properties": {
+        "name": "White Horse Canal near Silesia",
+        "official_name": "White Horse Canal near Silesia MT",
+        "ref": "06208790",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06208790",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.3291889,
+          45.0861472
+        ]
+      },
+      "properties": {
+        "name": "Rock Creek near Red Lodge",
+        "official_name": "Rock Creek near Red Lodge MT",
+        "ref": "06209500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06209500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1950.72",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.2533111,
+          45.43785
+        ]
+      },
+      "properties": {
+        "name": "Red Lodge Creek above Cooney Reservoir near Boyd",
+        "official_name": "Red Lodge Cr ab Cooney Re nr Boyd MT",
+        "ref": "06211000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06211000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1294.79",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.2305306,
+          45.4221472
+        ]
+      },
+      "properties": {
+        "name": "Willow Creek near Boyd",
+        "official_name": "Willow Creek near Boyd MT",
+        "ref": "06211500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06211500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1298.448",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.4680306,
+          45.8001194
+        ]
+      },
+      "properties": {
+        "name": "Yellowstone River at Billings",
+        "official_name": "Yellowstone River at Billings MT",
+        "ref": "06214500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06214500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "939.199",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.9184433,
+          45.3163485
+        ]
+      },
+      "properties": {
+        "name": "Big Horn Canal near St. Xavier",
+        "official_name": "Big Horn Canal near St. Xavier MT",
+        "ref": "06286490",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06286490",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "939.275",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.9188889,
+          45.31690278
+        ]
+      },
+      "properties": {
+        "name": "Bighorn River below Yellowtail Afterbay Dam near St. Xavier",
+        "official_name": "Bighorn R bl Yellowtail Afterbay Dam nr St. Xavier",
+        "ref": "06287000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06287000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "944.88",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.7492707,
+          45.46079565
+        ]
+      },
+      "properties": {
+        "name": "Bighorn River at bridge at St. Xavier",
+        "official_name": "Bighorn River at bridge, at St. Xavier, MT",
+        "ref": "06287800",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06287800",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "923.544",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.6581492,
+          45.64413906
+        ]
+      },
+      "properties": {
+        "name": "Bighorn River at Two Leggins Bridge near Hardin",
+        "official_name": "Bighorn River at Two Leggins Bridge, near Hardin",
+        "ref": "06288400",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06288400",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "895.198",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.6154083,
+          45.0071111
+        ]
+      },
+      "properties": {
+        "name": "Little Bighorn River at Montana–Wyoming State Line near Wyola",
+        "official_name": "Little Bighorn River at State Line nr Wyola MT",
+        "ref": "06289000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06289000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1325.88",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.567306,
+          45.7305341
+        ]
+      },
+      "properties": {
+        "name": "Agency Canal Tailwaste near Hardin",
+        "official_name": "Agency Canal Tailwaste near Hardin MT",
+        "ref": "06293890",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06293890",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "880.872",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.5574694,
+          45.7356861
+        ]
+      },
+      "properties": {
+        "name": "Little Bighorn River near Hardin",
+        "official_name": "Little Bighorn River near Hardin MT",
+        "ref": "06294000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06294000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "878.522",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.4687917,
+          46.1244722
+        ]
+      },
+      "properties": {
+        "name": "Bighorn River above Tullock Creek near Bighorn",
+        "official_name": "Bighorn River ab Tullock Cr nr Bighorn MT",
+        "ref": "06294500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06294500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "822.96",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.6913028,
+          46.2666361
+        ]
+      },
+      "properties": {
+        "name": "Yellowstone River at Forsyth",
+        "official_name": "Yellowstone River at Forsyth MT",
+        "ref": "06295000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06295000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "763.408",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.9903556,
+          45.36116667
+        ]
+      },
+      "properties": {
+        "name": "Rosebud Creek at Reservation Boundary near Kirby",
+        "official_name": "Rosebud C at Reservation Bndry nr Kirby MT",
+        "ref": "06295113",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06295113",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1152.144",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.700309,
+          45.67582545
+        ]
+      },
+      "properties": {
+        "name": "Rosebud Creek below Lame Deer Creek near Lame Deer",
+        "official_name": "Rosebud C Bel Lame Deer C nr Lame Deer MT",
+        "ref": "06295220",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06295220",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "963.168",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.8359444,
+          45.0091361
+        ]
+      },
+      "properties": {
+        "name": "Tongue River at Montana–Wyoming State Line near Decker",
+        "official_name": "Tongue River at State Line nr Decker MT",
+        "ref": "06306300",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06306300",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1045.159",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.7713556,
+          45.141275
+        ]
+      },
+      "properties": {
+        "name": "Tongue River at Tongue River Dam near Decker",
+        "official_name": "Tongue River at Tongue R Dam nr Decker MT",
+        "ref": "06307500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06307500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1019.373",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.4573528,
+          45.41160556
+        ]
+      },
+      "properties": {
+        "name": "Tongue River at Birney Day School Branch near Birney",
+        "official_name": "Tongue R at Birney Day School Br nr Birney MT",
+        "ref": "06307616",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06307616",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "932.688",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.2749444,
+          45.59775
+        ]
+      },
+      "properties": {
+        "name": "Tongue River at Ashland",
+        "official_name": "Tongue River at Ashland, MT",
+        "ref": "06307662",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06307662",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "884.834",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.2234333,
+          45.8403861
+        ]
+      },
+      "properties": {
+        "name": "Tongue River below Brandenberg Bridge near Ashland",
+        "official_name": "Tongue R bl Brandenberg bridge nr Ashland MT",
+        "ref": "06307830",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06307830",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "841.248",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.8455222,
+          46.3845944
+        ]
+      },
+      "properties": {
+        "name": "Tongue River at Miles City",
+        "official_name": "Tongue River at Miles City, MT",
+        "ref": "06308500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06308500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "716.707",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.8600333,
+          46.4207722
+        ]
+      },
+      "properties": {
+        "name": "Yellowstone River at Miles City",
+        "official_name": "Yellowstone River at Miles City, MT",
+        "ref": "06309000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06309000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "711.19",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.8783778,
+          45.0571972
+        ]
+      },
+      "properties": {
+        "name": "Powder River at Moorhead",
+        "official_name": "Powder River at Moorhead MT",
+        "ref": "06324500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06324500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1021.263",
+        "ele:accuracy": "1.524",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.3103306,
+          46.4294361
+        ]
+      },
+      "properties": {
+        "name": "Powder River near Locate",
+        "official_name": "Powder River near Locate MT",
+        "ref": "06326500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06326500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "726.857",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.7184306,
+          47.10588889
+        ]
+      },
+      "properties": {
+        "name": "Yellowstone River at Glendive",
+        "official_name": "Yellowstone River at Glendive, MT",
+        "ref": "06327500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06327500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "626.974",
+        "ele:accuracy": "1.3106",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.5396667,
+          47.2637222
+        ]
+      },
+      "properties": {
+        "name": "Yellowstone River Fish Bypass Channel near Intake",
+        "official_name": "Yellowstone River Fish Bypass Channel nr Intake MT",
+        "ref": "06328495",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06328495",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "609.6",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.1554111,
+          47.67741389
+        ]
+      },
+      "properties": {
+        "name": "Yellowstone River near Sidney",
+        "official_name": "Yellowstone River near Sidney MT",
+        "ref": "06329500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06329500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "573.42",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.4089188,
+          48.1022259
+        ]
+      },
+      "properties": {
+        "name": "Libby Wetland Site below Schrieber Lake near Libby",
+        "official_name": "Libby Wetland Site bl Schrieber Lake nr Libby, MT",
+        "ref": "480608115242901",
+        "website": "https://waterdata.usgs.gov/monitoring-location/480608115242901",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "920.496",
+        "ele:accuracy": "12.192",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.5219833,
+          48.8280944
+        ]
+      },
+      "properties": {
+        "name": "Lake Sherburne at Sherburne",
+        "official_name": "Lake Sherburne at Sherburne MT",
+        "ref": "05015500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/05015500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "1435.44",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.3355556,
+          44.8636111
+        ]
+      },
+      "properties": {
+        "name": "Hebgen Lake near West Yellowstone",
+        "official_name": "Hebgen Lake near West Yellowstone, MT",
+        "ref": "06038000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06038000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "1972.97",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.0622583,
+          48.963275
+        ]
+      },
+      "properties": {
+        "name": "Meteorologic Station at North Fork Milk River above St. Mary Canal",
+        "official_name": "Met Station at NF Milk R ab St. Mary Canal",
+        "ref": "485748113034401",
+        "website": "https://waterdata.usgs.gov/monitoring-location/485748113034401",
+        "man_made": "monitoring_station",
+        "monitoring:air_temperature": "yes",
+        "monitoring:air_humidity": "yes",
+        "ele": "1292.962",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.4225806,
+          48.9752083
+        ]
+      },
+      "properties": {
+        "name": "Meteorologic Station at Milk River at Eastern Crossing of International Boundary",
+        "official_name": "Met Station at Milk R Eastern Crossing Intl Bndry",
+        "ref": "485831110252101",
+        "website": "https://waterdata.usgs.gov/monitoring-location/485831110252101",
+        "man_made": "monitoring_station",
+        "monitoring:air_temperature": "yes",
+        "monitoring:air_humidity": "yes",
+        "ele": "811.987",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.068361,
+          45.8508222
+        ]
+      },
+      "properties": {
+        "name": "Big Hole River near Wise River",
+        "official_name": "Big Hole River near Wise River MT",
+        "ref": "06024580",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06024580",
+        "man_made": "monitoring_station",
+        "monitoring:water_temperature": "yes",
+        "ele": "1737.36",
+        "ele:accuracy": "30.48",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.8916667,
+          48.26
+        ]
+      },
+      "properties": {
+        "name": "Marias River at Highway 223 Bridge near Chester",
+        "official_name": "Marias River at Highway 223 bridge near Chester,MT",
+        "ref": "06101630",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06101630",
+        "man_made": "monitoring_station",
+        "monitoring:water_temperature": "yes",
+        "ele": "838.2",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.2324168,
+          45.74632347
+        ]
+      },
+      "properties": {
+        "name": "Yellowstone River at Springdale",
+        "official_name": "Yellowstone River at Springdale, MT",
+        "ref": "06195750",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06195750",
+        "man_made": "monitoring_station",
+        "monitoring:water_temperature": "yes",
+        "ele": "1281.684",
+        "ele:accuracy": "1.524",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.9407423,
+          45.84716219
+        ]
+      },
+      "properties": {
+        "name": "Yellowstone River at Big Timber",
+        "official_name": "Yellowstone River at Big Timber, MT",
+        "ref": "06195950",
+        "website": "https://waterdata.usgs.gov/monitoring-location/06195950",
+        "man_made": "monitoring_station",
+        "monitoring:water_temperature": "yes",
+        "ele": "1220.724",
+        "ele:accuracy": "1.524",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    }
+  ]
+}
