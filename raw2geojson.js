@@ -177,8 +177,9 @@ function cleanName(name) {
     replace("Rvr", 'River');
     replace("R\\.", 'River');
     replace("R", 'River');
-    replace("Ft\\.", 'Fort');
-    replace("Ft", 'Fort');
+    // often feet instead
+    //replace("Ft\\.", 'Fort');
+    //replace("Ft", 'Fort');
     replace("Phila\\.", 'Philadelphia');
     replace("Phila", 'Philadelphia');
     replace("Miami f", 'Miami');
@@ -247,6 +248,12 @@ function cleanName(name) {
     replace("Crk", 'Creek');
     replace("Str", 'Stream');
     replace("Cnty", 'County');
+    replace("WMA", 'Wildlife Management Area');
+    replace("HW", 'Headwater');
+    replace("TW", 'Tailwater');
+    replace("HW/TW", 'Headwater/Tailwater');
+    replace("Pkwy", 'Parkway');
+    replace("Along", 'along');
     replace("Below", 'below');
     replace("Blw", 'below');
     replace("Bl", 'below');
@@ -256,8 +263,9 @@ function cleanName(name) {
     replace("Intl", 'International');
     replace("Bndry", 'Boundary');
     replace("Trib", 'Tributary');
-    replace("Del", 'Delaware');
+    //replace("Del", 'Delaware');
     replace("Rar", 'Raritan');
+    replace("Brd", 'Bridge');
     replace("Bdg", 'Bridge');
     replace("Brdg", 'Bridge');
     replace("Isla", 'Island');
@@ -269,6 +277,7 @@ function cleanName(name) {
     replace("Ntl", 'National');
     replace("int'l", 'International');
     replace("boundary", 'Boundary');
+    replace("Mdl", 'Middle');
     replace("M Br", 'Middle Branch');
     replace("Br", 'Branch');
     replace("SB", 'South Branch');
@@ -297,6 +306,9 @@ function cleanName(name) {
     replace("Rd\\.", 'Road');
     replace("Ln", 'Lane');
     //replace("La", 'Lane');
+    replace("N F", 'North Fork');
+    replace("M F", 'Middle Fork');
+    replace("S F", 'South Fork');
     replace("N", 'North');
     replace("S", 'South');
     replace("E", 'East');
@@ -320,6 +332,7 @@ function cleanName(name) {
     replace("Northwest of", 'northwest of');
     replace("Southwest of", 'southwest of');
     replace("Dtch", 'Ditch');
+    replace("Dch", 'Ditch');
     replace("Bch", 'Beach');
     replace("Ca", 'Canal');
     replace("Cyn", 'Canyon');
