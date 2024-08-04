@@ -374,6 +374,18 @@ Object.values(builtItems).forEach(item => {
 
     let rawGeoJsonFeature = geoJsonFeaturesById[item.site_no]?.properties;
 
+    if (item.alt_va && ['NAVD88', 'NGVD29', 'LMSL', 'COE1912', "PRVD02", "IGLD"].includes(item.alt_datum_cd)) {
+        var eleFeet = parseFloat(item.alt_va.trim());
+        var accuracyFeet = parseFloat(item.alt_acy_va.trim());
+        if (eleFeet && !isNaN(eleFeet) && eleFeet < 20000 && eleFeet > -280 &&
+            accuracyFeet && !isNaN(accuracyFeet) && accuracyFeet < 200 && accuracyFeet >= 0) {
+
+            item.tags.ele = (Math.round(eleFeet*0.3048*1000)/1000).toString();
+            item.tags["ele:accuracy"] = (Math.round(accuracyFeet*0.3048*10000)/10000).toString();
+            item.tags["ele:datum"] = item.alt_datum_cd;
+        }
+    } 
+
     if (rawGeoJsonFeature && ['Tidal stream', 'Ocean', 'Coastal', 'Estuary'].includes(rawGeoJsonFeature['properties/monitoringLocationType'])) {
         // assume tidal if certain types
         item.tags.tidal = 'yes';
