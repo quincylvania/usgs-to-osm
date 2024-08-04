@@ -1,0 +1,5592 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.7106684,
+          36.943891
+        ]
+      },
+      "properties": {
+        "name": "Chinle Creek near Mexican Water",
+        "official_name": "CHINLE CREEK NEAR MEXICAN WATER, AZ",
+        "ref": "09379200",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09379200",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1438.656",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.5878722,
+          36.8643333
+        ]
+      },
+      "properties": {
+        "name": "Colorado River at Lees Ferry",
+        "official_name": "COLORADO RIVER AT LEES FERRY, AZ",
+        "ref": "09380000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09380000",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "939.698",
+        "ele:accuracy": "1.3106",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.4573125,
+          34.0167143
+        ]
+      },
+      "properties": {
+        "name": "Little Colorado River at Greer",
+        "official_name": "LITTLE COLORADO RIVER AT GREER, AZ",
+        "ref": "09383400",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09383400",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "2524.658",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.3848182,
+          34.37448424
+        ]
+      },
+      "properties": {
+        "name": "Lyman Lake near St. Johns",
+        "official_name": "LYMAN LAKE NEAR ST. JOHNS, AZ",
+        "ref": "09384600",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09384600",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "ele": "1822.704",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.4070467,
+          34.5836456
+        ]
+      },
+      "properties": {
+        "name": "Little Colorado River above Zion Reservoir near St. Johns",
+        "official_name": "LITTLE COLORADO RVR ABV ZION RES. NR ST. JOHNS, AZ",
+        "ref": "09386030",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09386030",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1694.688",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.0442837,
+          34.7828076
+        ]
+      },
+      "properties": {
+        "name": "Little Colorado River at Woodruff",
+        "official_name": "LITTLE COLORADO RIVER AT WOODRUFF, AZ",
+        "ref": "09394500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09394500",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1563.715",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.4470509,
+          35.18224625
+        ]
+      },
+      "properties": {
+        "name": "Puerco River near Chambers",
+        "official_name": "PUERCO RIVER NEAR CHAMBERS, AZ",
+        "ref": "09396100",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09396100",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1743.456",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.2554013,
+          34.90113674
+        ]
+      },
+      "properties": {
+        "name": "Little Colorado River near Joseph City",
+        "official_name": "LITTLE COLORADO RIVER NEAR JOSEPH CITY, AZ",
+        "ref": "09397300",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09397300",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1533.479",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.7142957,
+          34.6364196
+        ]
+      },
+      "properties": {
+        "name": "Chevelon Fork below Wildcat Canyon near Winslow",
+        "official_name": "CHEVELON FORK BELOW WILDCAT CANYON, NR WINSLOW, AZ",
+        "ref": "09397500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09397500",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1799.893",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.1840252,
+          34.55530427
+        ]
+      },
+      "properties": {
+        "name": "Cragin Dam Reservoir near Pine",
+        "official_name": "CRAGIN DAM RESERVOIR NEAR PINE, AZ (BLUE RIDGE)",
+        "ref": "09398300",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09398300",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "ele": "2017.776",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.4263889,
+          35.80444444
+        ]
+      },
+      "properties": {
+        "name": "Cataract Creek at Redlands Crossing near Valle",
+        "official_name": "CATARACT CREEK AT REDLANDS CROSSING NEAR VALLE, AZ",
+        "ref": "09404104",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09404104",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1655.978",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.3682663,
+          35.76498839
+        ]
+      },
+      "properties": {
+        "name": "Diamond Creek near Peach Springs",
+        "official_name": "DIAMOND CREEK NEAR PEACH SPRINGS, AZ",
+        "ref": "09404208",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09404208",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "426.72",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.6191389,
+          34.94702778
+        ]
+      },
+      "properties": {
+        "name": "Trout Creek above Knight Creek near Wikieup",
+        "official_name": "TROUT CREEK ABOVE KNIGHT CREEK, NEAR WIKIEUP, AZ",
+        "ref": "09424380",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09424380",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "752.856",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.6243774,
+          34.46251664
+        ]
+      },
+      "properties": {
+        "name": "Big Sandy River near Wikieup",
+        "official_name": "BIG SANDY RIVER NEAR WIKIEUP, AZ",
+        "ref": "09424450",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09424450",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "426.72",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.3471441,
+          34.305854
+        ]
+      },
+      "properties": {
+        "name": "Santa Maria River near Bagdad",
+        "official_name": "SANTA MARIA RIVER NEAR BAGDAD, AZ",
+        "ref": "09424900",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09424900",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "414.528",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.4923024,
+          33.30005996
+        ]
+      },
+      "properties": {
+        "name": "Eagle Creek near Double Circle Ranch near Morenci",
+        "official_name": "EAGLE CREEK NR DOUBLE CIRCLE RANCH, NR MORENCI, AZ",
+        "ref": "09446500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09446500",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1433.779",
+        "ele:accuracy": "1.2192",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.4422978,
+          33.0645062
+        ]
+      },
+      "properties": {
+        "name": "Eagle Creek above Pumping Plant near Morenci",
+        "official_name": "EAGLE CREEK ABOVE PUMPING PLANT, NEAR MORENCI, AZ.",
+        "ref": "09447000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09447000",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1119.683",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.5312109,
+          33.1695055
+        ]
+      },
+      "properties": {
+        "name": "Gila River below Coolidge Dam",
+        "official_name": "GILA RIVER BELOW COOLIDGE DAM, AZ.",
+        "ref": "09469500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09469500",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "703.884",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.0052778,
+          31.5034722
+        ]
+      },
+      "properties": {
+        "name": "Banning Creek near Bisbee",
+        "official_name": "BANNING CREEK NEAR BISBEE, AZ",
+        "ref": "09470700",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09470700",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1453.228",
+        "ele:accuracy": "1.524",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.3058333,
+          31.44666667
+        ]
+      },
+      "properties": {
+        "name": "Ramsey Canyon near Sierra Vista",
+        "official_name": "RAMSEY CANYON NEAR SIERRA VISTA, AZ",
+        "ref": "09470750",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09470750",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1684.02",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.4020472,
+          31.63201389
+        ]
+      },
+      "properties": {
+        "name": "Upper Babocomari River near Huachuca City",
+        "official_name": "UPPER BABOCOMARI RIVER NEAR HUACHUCA CITY, AZ",
+        "ref": "09471380",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09471380",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1339.846",
+        "ele:accuracy": "0.0762",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.6301,
+          32.84423324
+        ]
+      },
+      "properties": {
+        "name": "Aravaipa Creek near Mammoth",
+        "official_name": "ARAVAIPA CREEK NEAR MAMMOTH, AZ.",
+        "ref": "09473000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09473000",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "707.136",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9765014,
+          33.1028404
+        ]
+      },
+      "properties": {
+        "name": "Gila River at Kelvin",
+        "official_name": "GILA RIVER AT KELVIN, AZ.",
+        "ref": "09474000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09474000",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "531.882",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.8109167,
+          32.3147222
+        ]
+      },
+      "properties": {
+        "name": "Sabino Creek near Tucson",
+        "official_name": "SABINO CREEK NEAR TUCSON, AZ",
+        "ref": "09484000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09484000",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "829.056",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.691193,
+          31.86175124
+        ]
+      },
+      "properties": {
+        "name": "Barrel Canyon near Sonoita",
+        "official_name": "BARREL CANYON NEAR SONOITA, AZ",
+        "ref": "09484580",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09484580",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1330.147",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.7639775,
+          33.47672039
+        ]
+      },
+      "properties": {
+        "name": "Black River below Pumping Plant near Point of Pines",
+        "official_name": "BLACK RVR BLW PUMPING PLANT, NR POINT OF PINES, AZ",
+        "ref": "09489500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09489500",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1744.98",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.166767,
+          33.73644059
+        ]
+      },
+      "properties": {
+        "name": "White River near Fort Apache",
+        "official_name": "WHITE RIVER NEAR FORT APACHE, AZ.",
+        "ref": "09494000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09494000",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1330.754",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.2809417,
+          33.9858809
+        ]
+      },
+      "properties": {
+        "name": "Carrizo Creek near Show Low",
+        "official_name": "CARRIZO CREEK NEAR SHOW LOW, AZ.",
+        "ref": "09496500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09496500",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1447.654",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.4998292,
+          33.79810588
+        ]
+      },
+      "properties": {
+        "name": "Salt River near Chrysotile",
+        "official_name": "SALT RIVER NEAR CHRYSOTILE, AZ",
+        "ref": "09497500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09497500",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1022.473",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.5576092,
+          33.8431053
+        ]
+      },
+      "properties": {
+        "name": "Cibecue Creek near Chrysotile",
+        "official_name": "CIBECUE CREEK NEAR CHRYSOTILE, AZ",
+        "ref": "09497800",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09497800",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "975.36",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.8562266,
+          33.8278262
+        ]
+      },
+      "properties": {
+        "name": "Cherry Creek near Globe",
+        "official_name": "CHERRY CREEK NEAR GLOBE, AZ",
+        "ref": "09497980",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09497980",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "975.36",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9012251,
+          33.5731068
+        ]
+      },
+      "properties": {
+        "name": "Pinal Creek at Inspiration Dam near Globe",
+        "official_name": "PINAL CREEK AT INSPIRATION DAM, NR GLOBE, AZ.",
+        "ref": "09498400",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09498400",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "835.152",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9215037,
+          33.6194949
+        ]
+      },
+      "properties": {
+        "name": "Salt River near Roosevelt",
+        "official_name": "SALT RIVER NEAR ROOSEVELT, AZ",
+        "ref": "09498500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09498500",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "663.592",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9953942,
+          33.4878297
+        ]
+      },
+      "properties": {
+        "name": "Pinto Creek near Miami",
+        "official_name": "PINTO CREEK NEAR MIAMI, AZ",
+        "ref": "09498502",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09498502",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "859.536",
+        "ele:accuracy": "1.524",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9598111,
+          33.79694444
+        ]
+      },
+      "properties": {
+        "name": "South Fork Parker Creek near Roosevelt",
+        "official_name": "SOUTH FORK PARKER CREEK NEAR ROOSEVELT, AZ",
+        "ref": "09498503",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09498503",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1655.936",
+        "ele:accuracy": "0.0823",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.3034659,
+          33.9800413
+        ]
+      },
+      "properties": {
+        "name": "Tonto Creek above Gun Creek near Roosevelt",
+        "official_name": "TONTO CREEK ABOVE GUN CREEK, NEAR ROOSEVELT, AZ",
+        "ref": "09499000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09499000",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "769.053",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.5765243,
+          33.55282304
+        ]
+      },
+      "properties": {
+        "name": "Salt River below Stewart Mountain Dam",
+        "official_name": "SALT RIVER BLW STEWART MOUNTAIN DAM, AZ.",
+        "ref": "09502000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09502000",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "417.576",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6132308,
+          34.8666865
+        ]
+      },
+      "properties": {
+        "name": "Williamson Valley Wash near Paulden",
+        "official_name": "WILLIAMSON VALLEY WASH NEAR PAULDEN, AZ",
+        "ref": "09502800",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09502800",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1357.884",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.4623913,
+          34.55196864
+        ]
+      },
+      "properties": {
+        "name": "Granite Creek at Prescott",
+        "official_name": "GRANITE CREEK AT PRESCOTT, AZ",
+        "ref": "09502960",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09502960",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1610.868",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.4172222,
+          34.6136111
+        ]
+      },
+      "properties": {
+        "name": "Granite Creek below Watson Lake near Prescott",
+        "official_name": "GRANITE CREEK BELOW WATSON LAKE NEAR PRESCOTT, AZ",
+        "ref": "09503300",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09503300",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1530.096",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3429468,
+          34.89502016
+        ]
+      },
+      "properties": {
+        "name": "Verde River near Paulden",
+        "official_name": "VERDE RIVER NEAR PAULDEN, AZ",
+        "ref": "09503700",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09503700",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1254.862",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.065994,
+          34.8522416
+        ]
+      },
+      "properties": {
+        "name": "Verde River near Clarkdale",
+        "official_name": "VERDE RIVER NEAR CLARKDALE, AZ",
+        "ref": "09504000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09504000",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1066.8",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7618227,
+          34.86168418
+        ]
+      },
+      "properties": {
+        "name": "Oak Creek near Sedona",
+        "official_name": "OAK CREEK NEAR SEDONA, AZ",
+        "ref": "09504420",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09504420",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1270.772",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.672094,
+          34.67474409
+        ]
+      },
+      "properties": {
+        "name": "Wet Beaver Creek near Rimrock",
+        "official_name": "WET BEAVER CREEK NEAR RIMROCK, AZ",
+        "ref": "09505200",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09505200",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1225.296",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.775708,
+          34.72863146
+        ]
+      },
+      "properties": {
+        "name": "Dry Beaver Creek near Rimrock",
+        "official_name": "DRY BEAVER CREEK NEAR RIMROCK, AZ",
+        "ref": "09505350",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09505350",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1126.047",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.2637469,
+          34.41780739
+        ]
+      },
+      "properties": {
+        "name": "East Verde River Diversion from East Clear Creek near Pine",
+        "official_name": "EAST VERDE R DIV FROM EAST CLEAR CR NR PINE, AZ",
+        "ref": "09507580",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09507580",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1759.915",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6387561,
+          34.27642068
+        ]
+      },
+      "properties": {
+        "name": "East Verde River near Childs",
+        "official_name": "EAST VERDE RIVER NEAR CHILDS, AZ",
+        "ref": "09507980",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09507980",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "762",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6815278,
+          34.2635583
+        ]
+      },
+      "properties": {
+        "name": "Verde River below East Verde River near Childs",
+        "official_name": "VERDE RIVER BELOW EAST VERDE RIVER NEAR CHILDS, AZ",
+        "ref": "09508000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09508000",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "ele": "746.76",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7162569,
+          34.0730922
+        ]
+      },
+      "properties": {
+        "name": "Verde River below Tangle Creek above Horseshoe Dam",
+        "official_name": "VERDE RVR BLW TANGLE CREEK, ABV HORSESHOE DAM, AZ",
+        "ref": "09508500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09508500",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "618.439",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.541802,
+          33.69421054
+        ]
+      },
+      "properties": {
+        "name": "Sycamore Creek near Fort McDowell",
+        "official_name": "SYCAMORE CREEK NEAR FORT MCDOWELL, AZ",
+        "ref": "09510200",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09510200",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "536.244",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6693043,
+          33.5586557
+        ]
+      },
+      "properties": {
+        "name": "Verde River near Scottsdale",
+        "official_name": "VERDE RIVER NEAR SCOTTSDALE, AZ",
+        "ref": "09511300",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09511300",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "402.43",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9540388,
+          33.88725977
+        ]
+      },
+      "properties": {
+        "name": "Cave Creek below Cottonwood Creek near Cave Creek",
+        "official_name": "CAVE CREEK BLW COTTONWOOD CR NEAR CAVE CREEK, AZ.",
+        "ref": "09512280",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09512280",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "694.944",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.2375,
+          34.48527778
+        ]
+      },
+      "properties": {
+        "name": "Agua Fria River near Humboldt",
+        "official_name": "AGUA FRIA RIVER NEAR HUMBOLDT, AZ",
+        "ref": "09512450",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09512450",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1341.12",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0640455,
+          34.3153073
+        ]
+      },
+      "properties": {
+        "name": "Agua Fria River near Mayer",
+        "official_name": "AGUA FRIA RIVER NEAR MAYER, AZ",
+        "ref": "09512500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09512500",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1046.683",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1679378,
+          34.01558948
+        ]
+      },
+      "properties": {
+        "name": "Agua Fria River near Rock Springs",
+        "official_name": "AGUA FRIA RIVER NEAR ROCK SPRINGS, AZ",
+        "ref": "09512800",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09512800",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "548.64",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0990458,
+          33.97420168
+        ]
+      },
+      "properties": {
+        "name": "New River near Rock Springs",
+        "official_name": "NEW RIVER NEAR ROCK SPRINGS, AZ.",
+        "ref": "09513780",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09513780",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "704.088",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6621198,
+          33.88503188
+        ]
+      },
+      "properties": {
+        "name": "Hassayampa River near Morristown",
+        "official_name": "HASSAYAMPA RIVER NEAR MORRISTOWN, AZ.",
+        "ref": "09516500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09516500",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "558.138",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.541306,
+          32.8822686
+        ]
+      },
+      "properties": {
+        "name": "Gila River near Dateland",
+        "official_name": "GILA RIVER NEAR DATELAND, AZ",
+        "ref": "09520280",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09520280",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "110.743",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.0201653,
+          31.94367567
+        ]
+      },
+      "properties": {
+        "name": "Quitobaquito Spring near Lukeville",
+        "official_name": "QUITOBAQUITO SPRING NEAR LUKEVILLE, AZ",
+        "ref": "09535900",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09535900",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "327.05",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.08415,
+          34.05941667
+        ]
+      },
+      "properties": {
+        "name": "Faught Ridge Precipitation Gage near Pinetop-Lakeside",
+        "official_name": "FAUGHT RIDGE PRECIP NEAR PINETOP-LAKESIDE, AZ",
+        "ref": "340334110050300",
+        "website": "https://waterdata.usgs.gov/monitoring-location/340334110050300",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "ele": "2103.425",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.0577778,
+          34.54916667
+        ]
+      },
+      "properties": {
+        "name": "Precipitation Gage at Little Sycamore Wash",
+        "official_name": "PRECIPITATION AT LITTLE SYCAMORE WASH STREAM-GAGE",
+        "ref": "343257113032800",
+        "website": "https://waterdata.usgs.gov/monitoring-location/343257113032800",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "ele": "835.152",
+        "ele:accuracy": "1.3106",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.067561,
+          34.57073889
+        ]
+      },
+      "properties": {
+        "name": "Precipitation Gage at Upper Little Sycamore Wash",
+        "official_name": "PRECIP. AT UPPER LITTLE SYCAMORE WASH STREAM-GAGE",
+        "ref": "343415113040300",
+        "website": "https://waterdata.usgs.gov/monitoring-location/343415113040300",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "ele": "883.615",
+        "ele:accuracy": "1.3106",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.5375,
+          36.155
+        ]
+      },
+      "properties": {
+        "name": "Chinle Creek at Chinle",
+        "official_name": "CHINLE CREEK AT CHINLE, AZ",
+        "ref": "09379025",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09379025",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1691.64",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.5946052,
+          36.87220977
+        ]
+      },
+      "properties": {
+        "name": "Paria River at Lees Ferry",
+        "official_name": "PARIA RIVER AT LEES FERRY, AZ",
+        "ref": "09382000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09382000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "952.098",
+        "ele:accuracy": "1.524",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.362315,
+          34.31448635
+        ]
+      },
+      "properties": {
+        "name": "Little Colorado River above Lyman Lake near St. Johns",
+        "official_name": "LITTLE COLORADO R ABV LYMAN LAKE NR ST. JOHNS, AZ",
+        "ref": "09384000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09384000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1831.848",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.3623199,
+          34.4505935
+        ]
+      },
+      "properties": {
+        "name": "Little Colorado River below Salado Springs",
+        "official_name": "LITTLE COLORADO RIVER BELOW SALADO SPRINGS, AZ",
+        "ref": "09385700",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09385700",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1763.268",
+        "ele:accuracy": "1.524",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.4892735,
+          34.6047544
+        ]
+      },
+      "properties": {
+        "name": "Little Colorado River below Zion Reservoir near St. Johns",
+        "official_name": "LITTLE COLORADO RVR BLW ZION RES. NR ST JOHNS, AZ",
+        "ref": "09386300",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09386300",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1685.544",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.9878858,
+          34.17948755
+        ]
+      },
+      "properties": {
+        "name": "Show Low Creek near Lakeside",
+        "official_name": "SHOW LOW CREEK NEAR LAKESIDE, AZ",
+        "ref": "09390500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09390500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "2014.728",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.1631768,
+          34.8978039
+        ]
+      },
+      "properties": {
+        "name": "Little Colorado River at Holbrook",
+        "official_name": "LITTLE COLORADO RIVER AT HOLBROOK, AZ",
+        "ref": "09397000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09397000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1543.163",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.5289306,
+          34.92438889
+        ]
+      },
+      "properties": {
+        "name": "Chevelon Creek near Winslow",
+        "official_name": "CHEVELON CREEK NEAR WINSLOW, AZ",
+        "ref": "09398000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09398000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1505.712",
+        "ele:accuracy": "1.524",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.7976357,
+          34.92141094
+        ]
+      },
+      "properties": {
+        "name": "Jacks Canyon Creek near Winslow",
+        "official_name": "JACKS CANYON CREEK NEAR WINSLOW, AZ",
+        "ref": "09399400",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09399400",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1676.4",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.6512444,
+          35.011688
+        ]
+      },
+      "properties": {
+        "name": "Little Colorado River near Winslow",
+        "official_name": "LITTLE COLORADO RIVER NEAR WINSLOW, AZ",
+        "ref": "09400350",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09400350",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1482.242",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.4892222,
+          35.05494444
+        ]
+      },
+      "properties": {
+        "name": "Newman Canyon above Upper Lake Mary",
+        "official_name": "NEWMAN CANYON ABOVE UPPER LAKE MARY, AZ",
+        "ref": "09400815",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09400815",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "2090.928",
+        "ele:accuracy": "9.144",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.2014444,
+          36.1715833
+        ]
+      },
+      "properties": {
+        "name": "Pasture Canyon Springs near Tuba City",
+        "official_name": "PASTURE CANYON SPRINGS NEAR TUBA CITY, AZ",
+        "ref": "09401265",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09401265",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1558.138",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.5673682,
+          35.9263819
+        ]
+      },
+      "properties": {
+        "name": "Little Colorado River near Cameron",
+        "official_name": "LITTLE COLORADO RIVER NEAR CAMERON, AZ",
+        "ref": "09402000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09402000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1212.86",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7771024,
+          36.1952642
+        ]
+      },
+      "properties": {
+        "name": "Little Colorado River above mouth near Desert View",
+        "official_name": "LITTLE COLORADO RIVER ABV MOUTH NR DESERT VIEW, AZ",
+        "ref": "09402300",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09402300",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "841.248",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0862795,
+          36.10137176
+        ]
+      },
+      "properties": {
+        "name": "Colorado River near Grand Canyon",
+        "official_name": "COLORADO RIVER NEAR GRAND CANYON, AZ",
+        "ref": "09402500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09402500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "737.22",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6318566,
+          36.39581624
+        ]
+      },
+      "properties": {
+        "name": "Kanab Creek above mouth near Supai",
+        "official_name": "KANAB CREEK ABOVE THE MOUTH NEAR SUPAI, AZ",
+        "ref": "09403850",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09403850",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "585.216",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.5466667,
+          36.04
+        ]
+      },
+      "properties": {
+        "name": "Cataract Creek below Heather Wash near Supai",
+        "official_name": "CATARACT CREEK BELOW HEATHER WASH NEAR SUPAI, AZ",
+        "ref": "09404107",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09404107",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "1240.231",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.65,
+          36.1833333
+        ]
+      },
+      "properties": {
+        "name": "Cataract Creek below Topocoba Gorge near Supai",
+        "official_name": "CATARACT CREEK BELOW TOPOCOBA GORGE NEAR SUPAI, AZ",
+        "ref": "09404109",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09404109",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "1053.694",
+        "ele:accuracy": "1.3106",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.761305,
+          36.30581618
+        ]
+      },
+      "properties": {
+        "name": "Havasu Creek above mouth near Supai",
+        "official_name": "HAVASU CREEK ABOVE THE MOUTH, NEAR SUPAI, AZ",
+        "ref": "09404115",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09404115",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "548.64",
+        "ele:accuracy": "12.192",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.363544,
+          35.7735994
+        ]
+      },
+      "properties": {
+        "name": "Colorado River above Diamond Creek near Peach Springs",
+        "official_name": "COLORADO RVR ABV DIAMOND CREEK NR PEACH SPRINGS AZ",
+        "ref": "09404200",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09404200",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "408.432",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.65535,
+          35.7999
+        ]
+      },
+      "properties": {
+        "name": "Spencer Creek near Peach Springs",
+        "official_name": "SPENCER CREEK NEAR PEACH SPRINGS, AZ",
+        "ref": "09404222",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09404222",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "493.776",
+        "ele:accuracy": "1.524",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.6577185,
+          35.38416188
+        ]
+      },
+      "properties": {
+        "name": "Truxton Wash near Valentine",
+        "official_name": "TRUXTON WASH NEAR VALENTINE, AZ",
+        "ref": "09404343",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09404343",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1149.096",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.8313889,
+          36.92138889
+        ]
+      },
+      "properties": {
+        "name": "Virgin River above the Narrows near Littlefield",
+        "official_name": "VIRGIN RV ABV THE NARROWS NR LITTLEFIELD, AZ",
+        "ref": "09413700",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09413700",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "609.6",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.9244098,
+          36.8916437
+        ]
+      },
+      "properties": {
+        "name": "Virgin River at Littlefield",
+        "official_name": "VIRGIN RV AT LITTLEFIELD, AZ",
+        "ref": "09415000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09415000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "537.57",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.01475,
+          36.80988889
+        ]
+      },
+      "properties": {
+        "name": "Mesquite Canal near Mesquite",
+        "official_name": "MESQUITE CANAL NR MESQUITE, NV",
+        "ref": "09415060",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09415060",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "499.872",
+        "ele:accuracy": "1.3106",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.5702028,
+          35.1963472
+        ]
+      },
+      "properties": {
+        "name": "Lake Mohave at Davis Dam",
+        "official_name": "LAKE MOHAVE AT DAVIS DAM, AZ-NV",
+        "ref": "09422500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09422500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "183.938",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.5714914,
+          34.8079217
+        ]
+      },
+      "properties": {
+        "name": "Firebreak Canal at Havasu National Wildlife Refuge near Needles",
+        "official_name": "FIREBREAK CANAL AT HAVASU NWR NEAR NEEDLES, CA",
+        "ref": "09423560",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09423560",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "144.17",
+        "ele:accuracy": "1.2192",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.5809722,
+          34.66263889
+        ]
+      },
+      "properties": {
+        "name": "Big Sandy River at U.S. Route 93 Bridge near Wikieup",
+        "official_name": "BIG SANDY RIVER AT US 93 BRIDGE, NEAR WIKIEUP, AZ",
+        "ref": "09424425",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09424425",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "560.832",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.4452053,
+          34.5416838
+        ]
+      },
+      "properties": {
+        "name": "Burro Creek at Old U.S. Route 93 Bridge near Bagdad",
+        "official_name": "BURRO CREEK AT OLD US 93 BRIDGE, NEAR BAGDAD, AZ",
+        "ref": "09424447",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09424447",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "573.024",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.067551,
+          34.57073889
+        ]
+      },
+      "properties": {
+        "name": "Upper Little Sycamore Wash near Bagdad",
+        "official_name": "UPPER LITTLE SYCAMORE WASH NEAR BAGDAD, AZ",
+        "ref": "09424580",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09424580",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "883.615",
+        "ele:accuracy": "1.3106",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.0577678,
+          34.54916667
+        ]
+      },
+      "properties": {
+        "name": "Little Sycamore Wash near Bagdad",
+        "official_name": "LITTLE SYCAMORE WASH NEAR BAGDAD, AZ",
+        "ref": "09424600",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09424600",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "835.152",
+        "ele:accuracy": "1.3106",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.6088195,
+          34.2308539
+        ]
+      },
+      "properties": {
+        "name": "Bill Williams River below Alamo Dam",
+        "official_name": "BILL WILLIAMS RIVER BELOW ALAMO DAM, AZ",
+        "ref": "09426000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09426000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "294.742",
+        "ele:accuracy": "12.192",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0289806,
+          34.2612361
+        ]
+      },
+      "properties": {
+        "name": "Bill Williams River near Parker",
+        "official_name": "BILL WILLIAMS RIVER NEAR PARKER, AZ",
+        "ref": "09426620",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09426620",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "152.894",
+        "ele:accuracy": "0.0335",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.2766175,
+          34.16779378
+        ]
+      },
+      "properties": {
+        "name": "Crir Main Canal near Parker",
+        "official_name": "CRIR MAIN CANAL NEAR PARKER, AZ",
+        "ref": "09428500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09428500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "106.835",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.433566,
+          34.02779463
+        ]
+      },
+      "properties": {
+        "name": "Gardner Lateral Spill near Parker",
+        "official_name": "GARDNER LATERAL SPILL NEAR PARKER, AZ",
+        "ref": "09428505",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09428505",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.4455106,
+          33.99946154
+        ]
+      },
+      "properties": {
+        "name": "Poston Wasteway near Poston",
+        "official_name": "POSTON WASTEWAY NEAR POSTON, AZ",
+        "ref": "09428510",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09428510",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.4974554,
+          33.75696536
+        ]
+      },
+      "properties": {
+        "name": "Palo Verde Drain near Parker",
+        "official_name": "PALO VERDE DRAIN NEAR PARKER, AZ",
+        "ref": "09429030",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09429030",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.503983,
+          33.73163259
+        ]
+      },
+      "properties": {
+        "name": "Colorado River Indian Reservation Lower Main Drain below Tyson Waterworks near Ehrenberg",
+        "official_name": "CRIR LWR MAIN DRAIN BLW TYSON WW, NR EHRENBERG, AZ",
+        "ref": "09429070",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09429070",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "82.906",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.4628056,
+          32.88288889
+        ]
+      },
+      "properties": {
+        "name": "Imperial Reservoir at Imperial Dam",
+        "official_name": "IMPERIAL RESERVOIR AT IMPERIAL DAM, AZ-CA",
+        "ref": "09429495",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09429495",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "55.474",
+        "ele:accuracy": "1.3106",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.0991667,
+          32.72444444
+        ]
+      },
+      "properties": {
+        "name": "Gila River at Duncan",
+        "official_name": "GILA RIVER AT DUNCAN, AZ",
+        "ref": "09439000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09439000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1106.653",
+        "ele:accuracy": "0.0366",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.3086111,
+          32.96527778
+        ]
+      },
+      "properties": {
+        "name": "Gila River near Clifton",
+        "official_name": "GILA RIVER NEAR CLIFTON, AZ",
+        "ref": "09442000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09442000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1017.666",
+        "ele:accuracy": "0.0671",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.1961832,
+          33.29089456
+        ]
+      },
+      "properties": {
+        "name": "Blue River near Clifton",
+        "official_name": "BLUE RIVER NEAR CLIFTON, AZ.",
+        "ref": "09444200",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09444200",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1267.968",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.2990167,
+          33.05604444
+        ]
+      },
+      "properties": {
+        "name": "San Francisco River at Clifton",
+        "official_name": "SAN FRANCISCO RIVER AT CLIFTON, AZ",
+        "ref": "09444500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09444500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1048.003",
+        "ele:accuracy": "0.061",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.4915278,
+          33.35905556
+        ]
+      },
+      "properties": {
+        "name": "Eagle Creek at Eagle School Road near Morenci",
+        "official_name": "EAGLE CREEK AT EAGLE SCHOOL RD, NEAR MORENCI, AZ",
+        "ref": "09446320",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09446320",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1486.113",
+        "ele:accuracy": "0.0671",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.5311876,
+          32.95561778
+        ]
+      },
+      "properties": {
+        "name": "Bonita Creek near Morenci",
+        "official_name": "BONITA CREEK NEAR MORENCI, AZ.",
+        "ref": "09447800",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09447800",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1066.8",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.4796056,
+          32.8827222
+        ]
+      },
+      "properties": {
+        "name": "Gila River at Head of Safford Valley near Solomon,",
+        "official_name": "GILA RIVER AT HEAD OF SAFFORD VALLEY, NR SOLOMON,",
+        "ref": "09448500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09448500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "943.862",
+        "ele:accuracy": "0.0549",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.6392446,
+          32.8017327
+        ]
+      },
+      "properties": {
+        "name": "San Simon River near Solomon",
+        "official_name": "SAN SIMON RIVER NEAR SOLOMON, ARIZ.",
+        "ref": "09457000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09457000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "908.914",
+        "ele:accuracy": "0.4877",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.2200903,
+          33.18561278
+        ]
+      },
+      "properties": {
+        "name": "Gila River at Calva",
+        "official_name": "GILA RIVER AT CALVA, AZ.",
+        "ref": "09466500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09466500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "767.27",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.4514876,
+          33.29644678
+        ]
+      },
+      "properties": {
+        "name": "San Carlos River near Peridot",
+        "official_name": "SAN CARLOS RIVER NEAR PERIDOT, AZ.",
+        "ref": "09468500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09468500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "774.89",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.5278775,
+          33.17561648
+        ]
+      },
+      "properties": {
+        "name": "San Carlos Reservoir at Coolidge Dam",
+        "official_name": "SAN CARLOS RESERVOIR AT COOLIDGE DAM, AZ",
+        "ref": "09469000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09469000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "774.052",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.1111882,
+          31.38010095
+        ]
+      },
+      "properties": {
+        "name": "San Pedro River at Palominas",
+        "official_name": "SAN PEDRO RIVER AT PALOMINAS, AZ.",
+        "ref": "09470500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09470500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1276.387",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.3478588,
+          31.47287518
+        ]
+      },
+      "properties": {
+        "name": "Garden Canyon near Fort Huachuca",
+        "official_name": "GARDEN CANYON NEAR FORT HUACHUCA, AZ",
+        "ref": "09470800",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09470800",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1645.92",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.14,
+          31.55444444
+        ]
+      },
+      "properties": {
+        "name": "San Pedro at Lewis Springs",
+        "official_name": "SAN PEDRO AT LEWIS SPRINGS",
+        "ref": "09470920",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09470920",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "1676.4",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.1751028,
+          31.62594167
+        ]
+      },
+      "properties": {
+        "name": "San Pedro River at Charleston",
+        "official_name": "SAN PEDRO RIVER AT CHARLESTON, AZ",
+        "ref": "09471000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09471000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "1206.02",
+        "ele:accuracy": "0.0792",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.3872222,
+          31.51805556
+        ]
+      },
+      "properties": {
+        "name": "Huachuca Canyon near Fort Huachuca",
+        "official_name": "HUACHUCA CANYON NEAR FORT HUACHUCA, AZ",
+        "ref": "09471310",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09471310",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1706.88",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.2275778,
+          31.70051389
+        ]
+      },
+      "properties": {
+        "name": "Babocomari River near Tombstone",
+        "official_name": "BABOCOMARI RIVER NEAR TOMBSTONE, AZ",
+        "ref": "09471400",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09471400",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1205.682",
+        "ele:accuracy": "0.0762",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.2013333,
+          31.75144444
+        ]
+      },
+      "properties": {
+        "name": "San Pedro River near Tombstone",
+        "official_name": "SAN PEDRO RIVER NEAR TOMBSTONE, AZ",
+        "ref": "09471550",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09471550",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1154.329",
+        "ele:accuracy": "0.0762",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.488275,
+          32.44636667
+        ]
+      },
+      "properties": {
+        "name": "San Pedro River at Redington Bridge near Redington",
+        "official_name": "SAN PEDRO R AT REDINGTON BRIDGE NR REDINGTON, AZ",
+        "ref": "09472050",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09472050",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "857.344",
+        "ele:accuracy": "0.0366",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.26015,
+          33.09440556
+        ]
+      },
+      "properties": {
+        "name": "Florence-Casa Grande Canal near Florence",
+        "official_name": "FLORENCE-CASA GRANDE CANAL, NEAR FLORENCE, AZ.",
+        "ref": "09475500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09475500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "474.571",
+        "ele:accuracy": "0.0701",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.2776263,
+          33.29922128
+        ]
+      },
+      "properties": {
+        "name": "Queen Creek below Whitlow Dam near Superior",
+        "official_name": "QUEEN CREEK BELOW WHITLOW DAM NR SUPERIOR, AZ.",
+        "ref": "09478500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09478500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "621.792",
+        "ele:accuracy": "0.6096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0073648,
+          33.168661
+        ]
+      },
+      "properties": {
+        "name": "Gila River near Maricopa",
+        "official_name": "GILA RIVER NEAR MARICOPA, AZ.",
+        "ref": "09479350",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09479350",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "339.508",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.5895264,
+          31.35537817
+        ]
+      },
+      "properties": {
+        "name": "Santa Cruz River near Lochiel",
+        "official_name": "SANTA CRUZ RIVER NEAR LOCHIEL, AZ",
+        "ref": "09480000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09480000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1408.176",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.851474,
+          31.3445443
+        ]
+      },
+      "properties": {
+        "name": "Santa Cruz River near Nogales",
+        "official_name": "SANTA CRUZ RIVER NEAR NOGALES, AZ.",
+        "ref": "09480500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09480500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1128.534",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.0414792,
+          31.61286778
+        ]
+      },
+      "properties": {
+        "name": "Santa Cruz River at Tubac",
+        "official_name": "SANTA CRUZ RIVER AT TUBAC, AZ.",
+        "ref": "09481740",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09481740",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "969.264",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9800905,
+          31.8714728
+        ]
+      },
+      "properties": {
+        "name": "Santa Cruz River at Continental",
+        "official_name": "SANTA CRUZ RIVER AT CONTINENTAL, AZ",
+        "ref": "09482000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09482000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "859.481",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9878333,
+          32.2001111
+        ]
+      },
+      "properties": {
+        "name": "Santa Cruz River at Silverlake Road at Tucson",
+        "official_name": "SANTA CRUZ RIVER AT SILVERLAKE RD, AT TUCSON, AZ",
+        "ref": "09482440",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09482440",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "716.89",
+        "ele:accuracy": "0.4877",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9885333,
+          32.20705278
+        ]
+      },
+      "properties": {
+        "name": "Santa Cruz River at Starr Pass Grade Control Structure at Tucson",
+        "official_name": "SANTA CRUZ RIVER AT STARR PASS GCS AT TUCSON AZ",
+        "ref": "09482490",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09482490",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "715.975",
+        "ele:accuracy": "0.4877",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9833056,
+          32.2142222
+        ]
+      },
+      "properties": {
+        "name": "Santa Cruz River at Mission Lane Grade Control Structure at Tucson",
+        "official_name": "SANTA CRUZ RIVER AT MISSION LANE GCS AT TUCSON, AZ",
+        "ref": "09482495",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09482495",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "715.061",
+        "ele:accuracy": "0.4877",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9817589,
+          32.22118727
+        ]
+      },
+      "properties": {
+        "name": "Santa Cruz River at Tucson",
+        "official_name": "SANTA CRUZ RIVER AT TUCSON, AZ",
+        "ref": "09482500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09482500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "706.264",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.841199,
+          32.26535338
+        ]
+      },
+      "properties": {
+        "name": "Tanque Verde Creek at Tucson",
+        "official_name": "TANQUE VERDE CREEK AT TUCSON, AZ.",
+        "ref": "09484500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09484500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "752.856",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.57,
+          31.86555556
+        ]
+      },
+      "properties": {
+        "name": "Cienega Creek near Sonoita",
+        "official_name": "CIENEGA CREEK NEAR SONOITA, AZ.",
+        "ref": "09484550",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09484550",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1274.064",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.6775818,
+          32.0359141
+        ]
+      },
+      "properties": {
+        "name": "Pantano Wash near Vail",
+        "official_name": "PANTANO WASH NEAR VAIL, AZ.",
+        "ref": "09484600",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09484600",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "976.884",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.625914,
+          32.12952258
+        ]
+      },
+      "properties": {
+        "name": "Rincon Creek near Tucson",
+        "official_name": "RINCON CREEK NEAR TUCSON, AZ.",
+        "ref": "09485000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09485000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "950.976",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.829531,
+          32.2206319
+        ]
+      },
+      "properties": {
+        "name": "Pantano Wash at Broadway Boulevard at Tucson",
+        "official_name": "PANTANO WASH AT BROADWAY BLVD. AT TUCSON, AZ.",
+        "ref": "09485450",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09485450",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "782.979",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9145354,
+          32.2714643
+        ]
+      },
+      "properties": {
+        "name": "Rillito Creek at Dodge Boulevard at Tucson",
+        "official_name": "RILLITO CREEK AT DODGE BOULEVARD, AT TUCSON, AZ.",
+        "ref": "09485700",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09485700",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "725.424",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.0120406,
+          32.30340807
+        ]
+      },
+      "properties": {
+        "name": "Rillito Creek at La Cholla Boulevard near Tucson",
+        "official_name": "RILLITO CREEK AT LA CHOLLA BLVD NEAR TUCSON, AZ.",
+        "ref": "09486055",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09486055",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "688.848",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.0420429,
+          32.33618529
+        ]
+      },
+      "properties": {
+        "name": "Cañada del Oro below Ina Road near Tucson",
+        "official_name": "CANADA DEL ORO BLW INA ROAD, NEAR TUCSON, AZ.",
+        "ref": "09486350",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09486350",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "682.752",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.0945447,
+          32.3511849
+        ]
+      },
+      "properties": {
+        "name": "Santa Cruz River at Cortaro",
+        "official_name": "SANTA CRUZ RIVER AT CORTARO, AZ",
+        "ref": "09486500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09486500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "640.08",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.3076074,
+          32.47145874
+        ]
+      },
+      "properties": {
+        "name": "Santa Cruz River at Trico Road near Marana",
+        "official_name": "SANTA CRUZ RIVER AT TRICO ROAD, NR MARANA, AZ.",
+        "ref": "09486520",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09486520",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "582.168",
+        "ele:accuracy": "1.524",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.4042694,
+          31.83897238
+        ]
+      },
+      "properties": {
+        "name": "Altar Wash near Three Points",
+        "official_name": "ALTAR WASH NEAR THREE POINTS, AZ.",
+        "ref": "09486800",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09486800",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "906.826",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.3387156,
+          32.07563364
+        ]
+      },
+      "properties": {
+        "name": "Brawley Wash near Three Points",
+        "official_name": "BRAWLEY WASH NEAR THREE POINTS, AZ.",
+        "ref": "09487000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09487000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "774.192",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.169593,
+          33.23226977
+        ]
+      },
+      "properties": {
+        "name": "Santa Cruz River near Laveen",
+        "official_name": "SANTA CRUZ RIVER NEAR LAVEEN, AZ.",
+        "ref": "09489000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09489000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "311.158",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.2117674,
+          33.71282949
+        ]
+      },
+      "properties": {
+        "name": "Black River near Fort Apache",
+        "official_name": "BLACK RIVER NEAR FORT APACHE, AZ.",
+        "ref": "09490500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09490500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1324.356",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.8145413,
+          33.8222723
+        ]
+      },
+      "properties": {
+        "name": "East Fork White River near Fort Apache",
+        "official_name": "EAST FORK WHITE RIVER NEAR FORT APACHE, AZ.",
+        "ref": "09492400",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09492400",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1844.04",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9986111,
+          33.4058333
+        ]
+      },
+      "properties": {
+        "name": "Pinto Creek above Haunted Canyon near Miami",
+        "official_name": "PINTO CREEK ABOVE HAUNTED CANYON NR MIAMI, AZ",
+        "ref": "094985005",
+        "website": "https://waterdata.usgs.gov/monitoring-location/094985005",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "990.6",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.0095609,
+          33.41866469
+        ]
+      },
+      "properties": {
+        "name": "Pinto Creek below Haunted Canyon near Miami",
+        "official_name": "PINTO CREEK BLW HAUNTED CANYON NR MIAMI, AZ",
+        "ref": "09498501",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09498501",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "969.264",
+        "ele:accuracy": "1.524",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.305,
+          33.53277778
+        ]
+      },
+      "properties": {
+        "name": "Fish Creek near Tortilla Flat",
+        "official_name": "FISH CREEK NEAR TORTILLA FLAT, AZ",
+        "ref": "09501150",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09501150",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "657.149",
+        "ele:accuracy": "1.3106",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.4699444,
+          34.8703611
+        ]
+      },
+      "properties": {
+        "name": "Big Chino Wash at Paulden",
+        "official_name": "BIG CHINO WASH AT PAULDEN, AZ",
+        "ref": "09502830",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09502830",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1330.452",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.4446148,
+          34.8255769
+        ]
+      },
+      "properties": {
+        "name": "Del Rio Springs near Chino Valley",
+        "official_name": "DEL RIO SPRINGS NEAR CHINO VALLEY, AZ",
+        "ref": "09502900",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09502900",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1350.264",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.4448909,
+          34.56307975
+        ]
+      },
+      "properties": {
+        "name": "Granite Creek near Prescott",
+        "official_name": "GRANITE CREEK NEAR PRESCOTT, AZ",
+        "ref": "09503000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09503000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1586.268",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0741667,
+          34.8648611
+        ]
+      },
+      "properties": {
+        "name": "Sycamore Creek above Verde River near Clarkdale",
+        "official_name": "SYCAMORE CREEK ABOVE VERDE RVR, NEAR CLARKDALE, AZ",
+        "ref": "09503990",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09503990",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1085.393",
+        "ele:accuracy": "0.4877",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7461944,
+          34.98775
+        ]
+      },
+      "properties": {
+        "name": "West Fork Oak Creek near Sedona",
+        "official_name": "WEST FORK OAK CREEK NR SEDONA, AZ",
+        "ref": "09504350",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09504350",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1613.002",
+        "ele:accuracy": "0.4877",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8909885,
+          34.76446436
+        ]
+      },
+      "properties": {
+        "name": "Oak Creek near Cornville",
+        "official_name": "OAK CREEK NEAR CORNVILLE, AZ",
+        "ref": "09504500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09504500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1057.656",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8984306,
+          34.6116972
+        ]
+      },
+      "properties": {
+        "name": "Verde River above Camp Verde",
+        "official_name": "VERDE RIVER ABOVE CAMP VERDE, AZ",
+        "ref": "09504950",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09504950",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "ele": "951.586",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6940356,
+          34.53863606
+        ]
+      },
+      "properties": {
+        "name": "West Clear Creek near Camp Verde",
+        "official_name": "WEST CLEAR CREEK NEAR CAMP VERDE, AZ",
+        "ref": "09505800",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09505800",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "1106.424",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7898705,
+          34.4483605
+        ]
+      },
+      "properties": {
+        "name": "Verde River near Camp Verde",
+        "official_name": "VERDE RIVER NEAR CAMP VERDE, AZ",
+        "ref": "09506000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09506000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "876.026",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.63,
+          34.39430556
+        ]
+      },
+      "properties": {
+        "name": "Fossil Creek near Strawberry",
+        "official_name": "FOSSIL CREEK NEAR STRAWBERRY, AZ",
+        "ref": "09507480",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09507480",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1097.28",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6929235,
+          34.16086787
+        ]
+      },
+      "properties": {
+        "name": "Wet Bottom Creek near Childs",
+        "official_name": "WET BOTTOM CREEK NEAR CHILDS, AZ",
+        "ref": "09508300",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09508300",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "707.136",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7104223,
+          33.98476097
+        ]
+      },
+      "properties": {
+        "name": "Horseshoe Reservoir at Horseshoe Dam",
+        "official_name": "HORSESHOE RESERVOIR AT HORSESHOE DAM, AZ",
+        "ref": "09509501",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09509501",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "579.12",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6318055,
+          33.8180973
+        ]
+      },
+      "properties": {
+        "name": "Bartlett Reservoir at Bartlett Dam",
+        "official_name": "BARTLETT RESERVOIR AT BARTLETT DAM, AZ",
+        "ref": "09509502",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09509502",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "487.515",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6634729,
+          33.80837509
+        ]
+      },
+      "properties": {
+        "name": "Verde River below Bartlett Dam",
+        "official_name": "VERDE RIVER BELOW BARTLETT DAM, AZ",
+        "ref": "09510000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09510000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "ele": "478.64",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9151434,
+          33.4403229
+        ]
+      },
+      "properties": {
+        "name": "Indian Bend Wash at Curry Road in Tempe",
+        "official_name": "INDIAN BEND WASH AT CURRY ROAD, TEMPE, AZ.",
+        "ref": "09512162",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09512162",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "354.315",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9609781,
+          33.43948927
+        ]
+      },
+      "properties": {
+        "name": "Salt River at Priest Drive near Phoenix",
+        "official_name": "SALT RIVER AT PRIEST DRIVE NEAR PHOENIX, AZ.",
+        "ref": "09512165",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09512165",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "345.948",
+        "ele:accuracy": "1.524",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1198755,
+          33.72920456
+        ]
+      },
+      "properties": {
+        "name": "Skunk Creek near Phoenix",
+        "official_name": "SKUNK CREEK NEAR PHOENIX, AZ",
+        "ref": "09513860",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09513860",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "448.848",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3923808,
+          33.3875427
+        ]
+      },
+      "properties": {
+        "name": "Gila River at Estrella Parkway near Goodyear",
+        "official_name": "GILA RIVER AT ESTRELLA PARKWAY, NEAR GOODYEAR, AZ",
+        "ref": "09514100",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09514100",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "269.138",
+        "ele:accuracy": "1.524",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.8818423,
+          33.31031984
+        ]
+      },
+      "properties": {
+        "name": "Centennial Wash at Southern Pacific Railroad Bridge",
+        "official_name": "CENTENNIAL WASH AT SOUTHERN PACIFIC RAILROAD BRDG",
+        "ref": "09517490",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09517490",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "256.355",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.7715597,
+          33.2292104
+        ]
+      },
+      "properties": {
+        "name": "Enterprise Canal at Gillespie Dam",
+        "official_name": "ENTERPRISE CANAL AT GILLESPIE DAM, AZ",
+        "ref": "09519000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09519000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.7673929,
+          33.22921044
+        ]
+      },
+      "properties": {
+        "name": "Gila River below Gillespie Dam",
+        "official_name": "GILA R BLW GILLESPIE DAM, AZ (LOW-FLOW STATION)",
+        "ref": "09519501",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09519501",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.0146217,
+          33.0750458
+        ]
+      },
+      "properties": {
+        "name": "Gila River below Painted Rock Dam",
+        "official_name": "GILA RIVER BELOW PAINTED ROCK DAM, AZ",
+        "ref": "09519800",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09519800",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "158.097",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.4205019,
+          32.7608789
+        ]
+      },
+      "properties": {
+        "name": "Gila River near Dome",
+        "official_name": "GILA RIVER NEAR DOME, AZ",
+        "ref": "09520500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09520500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "42.422",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.6019333,
+          32.72652778
+        ]
+      },
+      "properties": {
+        "name": "Colorado River above Ocean to Ocean Bridge near Yuma",
+        "official_name": "COLORADO RVR ABV OCEAN TO OCEAN BRIDGE NR YUMA, AZ",
+        "ref": "09520900",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09520900",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "35.662",
+        "ele:accuracy": "0.4877",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.461059,
+          32.8794873
+        ]
+      },
+      "properties": {
+        "name": "Mittry Lake Diversion at Imperial Dam",
+        "official_name": "MITTRY LAKE DIVERSION AT IMPERIAL DAM, AZ",
+        "ref": "09522400",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09522400",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.455781,
+          32.87615405
+        ]
+      },
+      "properties": {
+        "name": "Gila Gravity Main Canal at Imperial Dam",
+        "official_name": "GILA GRAVITY MAIN CANAL AT IMPERIAL DAM, AZ-CA",
+        "ref": "09522500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09522500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "48.768",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.4952265,
+          32.8031001
+        ]
+      },
+      "properties": {
+        "name": "North Gila Main Canal near Yuma",
+        "official_name": "NORTH GILA MAIN CANAL NEAR YUMA, AZ",
+        "ref": "09522600",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09522600",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.4935597,
+          32.75254574
+        ]
+      },
+      "properties": {
+        "name": "North Gila Main Canal Number 2 near Yuma",
+        "official_name": "NORTH GILA MAIN CANAL NO. 2 NEAR YUMA, AZ",
+        "ref": "09522650",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09522650",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.4788889,
+          32.745
+        ]
+      },
+      "properties": {
+        "name": "Gila Monster Farms Turnout Number 1 near Yuma",
+        "official_name": "GILA MONSTER FARMS TURNOUT NO. 1 NEAR YUMA, AZ",
+        "ref": "09522660",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09522660",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "50.292",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.4616667,
+          32.74388889
+        ]
+      },
+      "properties": {
+        "name": "Gila Monster Farms Turnout Number 2 near Yuma",
+        "official_name": "GILA MONSTER FARMS TURNOUT NO. 2 NEAR YUMA, AZ",
+        "ref": "09522680",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09522680",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "51.511",
+        "ele:accuracy": "1.3106",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.4760589,
+          32.6903255
+        ]
+      },
+      "properties": {
+        "name": "South Gila Main Canal near Yuma",
+        "official_name": "SOUTH GILA MAIN CANAL NEAR YUMA, AZ",
+        "ref": "09522800",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09522800",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "50.292",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.47,
+          32.68305556
+        ]
+      },
+      "properties": {
+        "name": "Gila Gravity Canal at Yuma-Mesa Pumping Plant",
+        "official_name": "GILA GRAVITY CANAL AT YUMA-MESA PUMPING PLANT, AZ",
+        "ref": "09522850",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09522850",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "64.313",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.5822222,
+          32.64888889
+        ]
+      },
+      "properties": {
+        "name": "Marine Corps Air Station Diversion of B Canal near Yuma",
+        "official_name": "MCAS DIVERSION OF B CANAL NEAR YUMA, AZ",
+        "ref": "09522880",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09522880",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "63.398",
+        "ele:accuracy": "0.762",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.6218965,
+          32.61782827
+        ]
+      },
+      "properties": {
+        "name": "Unit B Canal near Yuma",
+        "official_name": "UNIT B CANAL NEAR YUMA, AZ",
+        "ref": "09522900",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09522900",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.6199524,
+          32.73032465
+        ]
+      },
+      "properties": {
+        "name": "Yuma Main Canal below Colorado River Siphon at Yuma",
+        "official_name": "YUMA MAIN CANAL BLW COLORADO R. SIPHON AT YUMA, AZ",
+        "ref": "09525500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09525500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "30.663",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.7616667,
+          32.61833333
+        ]
+      },
+      "properties": {
+        "name": "Cocopah Diversion from West Main Canal near Somerton",
+        "official_name": "COCOPAH DIVERSION FROM WEST MAIN CANAL NR SOMERTON",
+        "ref": "09528200",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09528200",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "36.576",
+        "ele:accuracy": "1.3106",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.5246718,
+          32.75865679
+        ]
+      },
+      "properties": {
+        "name": "Levee Canal Wasteway near Yuma",
+        "official_name": "LEVEE CANAL WASTEWAY NEAR YUMA, AZ",
+        "ref": "09528800",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09528800",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "42.672",
+        "ele:accuracy": "0.762",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.5224495,
+          32.75893456
+        ]
+      },
+      "properties": {
+        "name": "Gila Drain Number 1 near Yuma",
+        "official_name": "GILA DRAIN NO. 1 NEAR YUMA, AZ",
+        "ref": "09529000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09529000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "41.148",
+        "ele:accuracy": "0.762",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.5055044,
+          32.726991
+        ]
+      },
+      "properties": {
+        "name": "North Gila Main Canal Wasteway near Yuma",
+        "official_name": "NORTH GILA MAIN CANAL WASTEWAY NEAR YUMA, AZ",
+        "ref": "09529150",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09529150",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "42.672",
+        "ele:accuracy": "0.762",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.5335608,
+          32.7153248
+        ]
+      },
+      "properties": {
+        "name": "Bruce Church Wasteway near Yuma",
+        "official_name": "BRUCE CHURCH WASTEWAY NEAR YUMA, AZ",
+        "ref": "09529250",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09529250",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "42.062",
+        "ele:accuracy": "0.762",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.4368912,
+          32.74254606
+        ]
+      },
+      "properties": {
+        "name": "Wellton-Mohawk Main Outlet Drain near Yuma",
+        "official_name": "WELLTON-MOHAWK MAIN OUTLET DRAIN NR YUMA, AZ",
+        "ref": "09529300",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09529300",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "48.768",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.5089559,
+          31.5900961
+        ]
+      },
+      "properties": {
+        "name": "Leslie Creek near McNeal",
+        "official_name": "LESLIE CREEK NEAR MCNEAL, AZ.",
+        "ref": "09537200",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09537200",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1408.176",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.5850677,
+          31.35232457
+        ]
+      },
+      "properties": {
+        "name": "Whitewater Draw near Douglas",
+        "official_name": "WHITEWATER DRAW NEAR DOUGLAS, AZ.",
+        "ref": "09537500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09537500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1191.506",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.4840472,
+          36.9366548
+        ]
+      },
+      "properties": {
+        "name": "Lake Powell at Glen Canyon Dam",
+        "official_name": "LAKE POWELL AT GLEN CANYON DAM, AZ",
+        "ref": "09379900",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09379900",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "1133.496",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.5802806,
+          33.3484361
+        ]
+      },
+      "properties": {
+        "name": "Hidden Lake near Buckeye",
+        "official_name": "HIDDEN LAKE NEAR BUCKEYE, AZ",
+        "ref": "332055112344901",
+        "website": "https://waterdata.usgs.gov/monitoring-location/332055112344901",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "253.344",
+        "ele:accuracy": "0.1524",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.2018069,
+          36.10499334
+        ]
+      },
+      "properties": {
+        "name": "Moenkopi Wash at Moenkopi",
+        "official_name": "MOENKOPI WASH AT MOENKOPI, AZ",
+        "ref": "09401260",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09401260",
+        "man_made": "monitoring_station",
+        "monitoring:flow_rate": "yes",
+        "ele": "1405.128",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.5118999,
+          33.7319659
+        ]
+      },
+      "properties": {
+        "name": "Palo Verde Canal near Blythe",
+        "official_name": "PALO VERDE CANAL NEAR BLYTHE, CA",
+        "ref": "09429000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09429000",
+        "man_made": "monitoring_station",
+        "monitoring:flow_rate": "yes",
+        "ele": "60.96",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.4338356,
+          32.7422683
+        ]
+      },
+      "properties": {
+        "name": "Wellton-Mohawk Main Canal near Yuma",
+        "official_name": "WELLTON-MOHAWK MAIN CANAL NEAR YUMA, AZ",
+        "ref": "09522700",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09522700",
+        "man_made": "monitoring_station",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.4391135,
+          32.7383795
+        ]
+      },
+      "properties": {
+        "name": "Yuma Irrigation District 15.4 Lateral",
+        "official_name": "YUMA IRRIGATION DISTRICT 15.4 LATERAL",
+        "ref": "09522710",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09522710",
+        "man_made": "monitoring_station",
+        "monitoring:flow_rate": "yes",
+        "ele": "53.34",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.4273353,
+          32.72115785
+        ]
+      },
+      "properties": {
+        "name": "Yuma Irrigation District 16.4 North Lateral",
+        "official_name": "YUMA IRRIGATION DISTRICT 16.4 N. LATERAL",
+        "ref": "09522720",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09522720",
+        "man_made": "monitoring_station",
+        "monitoring:flow_rate": "yes",
+        "ele": "50.902",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.4272519,
+          32.7207134
+        ]
+      },
+      "properties": {
+        "name": "Yuma Irrigation District 16.4 South Lateral",
+        "official_name": "YUMA IRRIGATION DISTRICT 16.4 S. LATERAL",
+        "ref": "09522730",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09522730",
+        "man_made": "monitoring_station",
+        "monitoring:flow_rate": "yes",
+        "ele": "51.511",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.4386134,
+          32.7166302
+        ]
+      },
+      "properties": {
+        "name": "Yuma Irrigation District 17.4 Lateral",
+        "official_name": "YUMA IRRIGATION DISTRICT 17.4 LATERAL",
+        "ref": "09522740",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09522740",
+        "man_made": "monitoring_station",
+        "monitoring:flow_rate": "yes",
+        "ele": "49.987",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.4476136,
+          32.70715829
+        ]
+      },
+      "properties": {
+        "name": "Yuma Irrigation District 18.2 Lateral",
+        "official_name": "YUMA IRRIGATION DISTRICT 18.2 LATERAL",
+        "ref": "09522750",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09522750",
+        "man_made": "monitoring_station",
+        "monitoring:flow_rate": "yes",
+        "ele": "49.987",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.4477247,
+          32.70338063
+        ]
+      },
+      "properties": {
+        "name": "Yuma Irrigation District 18.4 Lateral",
+        "official_name": "YUMA IRRIGATION DISTRICT 18.4 LATERAL",
+        "ref": "09522760",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09522760",
+        "man_made": "monitoring_station",
+        "monitoring:flow_rate": "yes",
+        "ele": "49.987",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.4488358,
+          32.69949187
+        ]
+      },
+      "properties": {
+        "name": "Yuma Irrigation District 18.7 Lateral",
+        "official_name": "YUMA IRRIGATION DIST 18.7 LATERAL",
+        "ref": "09522770",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09522770",
+        "man_made": "monitoring_station",
+        "monitoring:flow_rate": "yes",
+        "ele": "49.987",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.478611,
+          32.67888889
+        ]
+      },
+      "properties": {
+        "name": "City of Yuma Diversion at Avenue 9E Pumping Plant",
+        "official_name": "CITY OF YUMA DIVERSION AT AVENUE 9E PUMPING PLANT",
+        "ref": "09522860",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09522860",
+        "man_made": "monitoring_station",
+        "monitoring:flow_rate": "yes",
+        "ele": "65.532",
+        "ele:accuracy": "1.3106",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.6172222,
+          32.72638889
+        ]
+      },
+      "properties": {
+        "name": "Diversion from Yuma Main Canal for Yuma Municipal",
+        "official_name": "DIVERSION FROM YUMA MAIN CANAL FOR YUMA MUNICIPAL",
+        "ref": "09526000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09526000",
+        "man_made": "monitoring_station",
+        "monitoring:flow_rate": "yes",
+        "ele": "40.843",
+        "ele:accuracy": "0.762",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.58134,
+          32.693659
+        ]
+      },
+      "properties": {
+        "name": "South Gila Terminal Canal Wasteway near Yuma",
+        "official_name": "SOUTH GILA TERMINAL CANAL WASTEWAY NR YUMA, AZ",
+        "ref": "09529420",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09529420",
+        "man_made": "monitoring_station",
+        "monitoring:flow_rate": "yes",
+        "ele": "45.72",
+        "ele:accuracy": "0.762",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.6652778,
+          32.72944444
+        ]
+      },
+      "properties": {
+        "name": "City of Yuma Inflow to Sewage Treatment Plant",
+        "official_name": "CITY OF YUMA INFLOW TO SEWAGE TREATMENT PLANT",
+        "ref": "09530100",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09530100",
+        "man_made": "monitoring_station",
+        "monitoring:flow_rate": "yes",
+        "ele": "37.795",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.7222222,
+          32.7122222
+        ]
+      },
+      "properties": {
+        "name": "Colorado River below Cooper Wasteway near Yuma",
+        "official_name": "COLORADO RIVER BELOW COOPER WASTEWAY NEAR YUMA, AZ",
+        "ref": "09522005",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09522005",
+        "man_made": "monitoring_station",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.7896667,
+          32.48758333
+        ]
+      },
+      "properties": {
+        "name": "Yuma Main Drain above Arizona-Sonora Boundary",
+        "official_name": "YUMA MAIN DRAIN ABOVE ARIZONA-SONORA BOUNDARY",
+        "ref": "09534000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09534000",
+        "man_made": "monitoring_station",
+        "monitoring:water_temperature": "yes",
+        "ele": "26.822",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.7872222,
+          32.48694444
+        ]
+      },
+      "properties": {
+        "name": "242 Lateral above Main Drain at Arizona-Sonora Boundry",
+        "official_name": "242 LATERAL ABOVE MAIN DRAIN AT AZ-SONORA BOUNDRY",
+        "ref": "09534550",
+        "website": "https://waterdata.usgs.gov/monitoring-location/09534550",
+        "man_made": "monitoring_station",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6216556,
+          33.33175278
+        ]
+      },
+      "properties": {
+        "name": "Gila River above State Route 85 near Buckeye",
+        "official_name": "GILA RIVER ABOVE SR-85 NEAR BUCKEYE, AZ",
+        "ref": "331954112371801",
+        "website": "https://waterdata.usgs.gov/monitoring-location/331954112371801",
+        "man_made": "monitoring_station",
+        "monitoring:water_temperature": "yes",
+        "ele": "246.794",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.5935417,
+          33.34151667
+        ]
+      },
+      "properties": {
+        "name": "Gila River at Miller Road near Buckeye",
+        "official_name": "GILA RIVER AT MILLER RD NEAR BUCKEYE, AZ",
+        "ref": "332029112353701",
+        "website": "https://waterdata.usgs.gov/monitoring-location/332029112353701",
+        "man_made": "monitoring_station",
+        "monitoring:water_temperature": "yes",
+        "ele": "253.344",
+        "ele:accuracy": "0.1524",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.5280444,
+          33.3516833
+        ]
+      },
+      "properties": {
+        "name": "Gila River below Waterman Wash near Buckeye",
+        "official_name": "GILA RIVER BELOW WATERMAN WASH NEAR BUCKEYE, AZ",
+        "ref": "332106112314101",
+        "website": "https://waterdata.usgs.gov/monitoring-location/332106112314101",
+        "man_made": "monitoring_station",
+        "monitoring:water_temperature": "yes",
+        "ele": "253.344",
+        "ele:accuracy": "0.1524",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.5556528,
+          33.3521361
+        ]
+      },
+      "properties": {
+        "name": "Irrigation Ditch at Watson Road near Buckeye",
+        "official_name": "IRRIGATION DITCH AT WATSON RD NEAR BUCKEYE, AZ",
+        "ref": "332108112332001",
+        "website": "https://waterdata.usgs.gov/monitoring-location/332108112332001",
+        "man_made": "monitoring_station",
+        "monitoring:water_temperature": "yes",
+        "ele": "253.344",
+        "ele:accuracy": "0.1524",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    }
+  ]
+}
