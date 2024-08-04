@@ -1,0 +1,5511 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.06885829,
+          31.10101137
+        ]
+      },
+      "properties": {
+        "name": "Murder Creek at State Highway 41 at Brewton",
+        "official_name": "MURDER CREEK AT STATE HWY 41 AT BREWTON, AL.",
+        "ref": "02374700",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02374700",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "15.804",
+        "ele:accuracy": "0.0488",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.79860149,
+          30.54547146
+        ]
+      },
+      "properties": {
+        "name": "Fish River near Silver Hill",
+        "official_name": "FISH RIVER NEAR SILVER HILL AL",
+        "ref": "02378500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02378500",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "6.096",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.45325,
+          34.20194444
+        ]
+      },
+      "properties": {
+        "name": "Coosa River at Alabama-Georgia State Line",
+        "official_name": "COOSA RIVER AT STATE LINE, AL/GA",
+        "ref": "02397530",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02397530",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "ele": "167.488",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7169325,
+          33.52093809
+        ]
+      },
+      "properties": {
+        "name": "Shades Creek at Elder Street near Springdale",
+        "official_name": "SHADES CREEK AT ELDER ST NEAR SPRINGDALE AL",
+        "ref": "02423571",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02423571",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "ele": "206.779",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8364556,
+          33.5057722
+        ]
+      },
+      "properties": {
+        "name": "Valley Creek at Center Street at Birmingham",
+        "official_name": "VALLEY CREEK AT CENTER ST AT BIRMINGHAM, AL",
+        "ref": "02461130",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02461130",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "166.009",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8721722,
+          33.4926111
+        ]
+      },
+      "properties": {
+        "name": "Valley Creek at Avenue West near Ensley",
+        "official_name": "VALLEY CREEK AT AVE W NEAR ENSLEY, AL",
+        "ref": "02461192",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02461192",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "158.167",
+        "ele:accuracy": "0.0122",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3541677,
+          33.4584457
+        ]
+      },
+      "properties": {
+        "name": "Black Warrior River at Bankhead Lock and Dam near Bessemer",
+        "official_name": "BLACK WARRIOR R AT BANKHEAD L&D NEAR BESSEMER AL",
+        "ref": "02462500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02462500",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.4491703,
+          33.25317258
+        ]
+      },
+      "properties": {
+        "name": "Black Warrior River at Holt Lock and Dam near Holt",
+        "official_name": "BLACK WARRIOR RIVER AT HOLT L&D NEAR HOLT AL.",
+        "ref": "02462951",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02462951",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5061161,
+          33.2673393
+        ]
+      },
+      "properties": {
+        "name": "Lake Tuscaloosa near Tuscaloosa",
+        "official_name": "LAKE TUSCALOOSA NEAR TUSCALOOSA, ALABAMA",
+        "ref": "02464800",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02464800",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.512212,
+          34.70481325
+        ]
+      },
+      "properties": {
+        "name": "Big Cove Creek at Dug Hill Road near Huntsville",
+        "official_name": "BIG COVE CREEK AT DUG HILL ROAD NR HUNTSVILLE, AL.",
+        "ref": "0357526200",
+        "website": "https://waterdata.usgs.gov/monitoring-location/0357526200",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "195.139",
+        "ele:accuracy": "0.0488",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.44832149,
+          34.68203467
+        ]
+      },
+      "properties": {
+        "name": "Peevey Creek near Gurley",
+        "official_name": "PEEVEY CREEK NEAR GURLEY, ALA",
+        "ref": "03575272",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03575272",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5505467,
+          34.6981466
+        ]
+      },
+      "properties": {
+        "name": "Aldridge Creek at Toney Drive at Huntsville",
+        "official_name": "ALDRIDGE CREEK AT TONEY DRIVE AT HUNTSVILLE, AL.",
+        "ref": "0357568650",
+        "website": "https://waterdata.usgs.gov/monitoring-location/0357568650",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "199.425",
+        "ele:accuracy": "0.0488",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5541579,
+          34.6642578
+        ]
+      },
+      "properties": {
+        "name": "Aldridge Creek at Sherwood Drive near Huntsville",
+        "official_name": "ALDRIDGE C AT SHERWOOD DR NR HUNTSVILLE, ALA",
+        "ref": "0357568980",
+        "website": "https://waterdata.usgs.gov/monitoring-location/0357568980",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "184.94",
+        "ele:accuracy": "0.0488",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.54110169,
+          34.6239801
+        ]
+      },
+      "properties": {
+        "name": "Aldridge Creek near Farley",
+        "official_name": "ALDRIDGE CREEK NEAR FARLEY AL",
+        "ref": "03575700",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03575700",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "175.58",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.6999967,
+          34.6973134
+        ]
+      },
+      "properties": {
+        "name": "Indian Creek near Madison",
+        "official_name": "INDIAN CREEK NEAR MADISON AL",
+        "ref": "03575830",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03575830",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "183.295",
+        "ele:accuracy": "0.0488",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5749828,
+          34.7226208
+        ]
+      },
+      "properties": {
+        "name": "Fagan Creek at Adams Street at Huntsville",
+        "official_name": "FAGAN CREEK AT ADAMS STREET AT HUNTSVILLE, AL.",
+        "ref": "0357586650",
+        "website": "https://waterdata.usgs.gov/monitoring-location/0357586650",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "187.559",
+        "ele:accuracy": "0.0488",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5985946,
+          34.7884527
+        ]
+      },
+      "properties": {
+        "name": "West Fork Pinhook Creek at Blue Springs Road at Huntsville",
+        "official_name": "WEST FORK PINHOOK CR AT BLUE SPRS RD AT HUNTSVILLE",
+        "ref": "0357587090",
+        "website": "https://waterdata.usgs.gov/monitoring-location/0357587090",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "209.745",
+        "ele:accuracy": "0.0488",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5891499,
+          34.79289707
+        ]
+      },
+      "properties": {
+        "name": "East Fork Pinhook Creek at Winchester Road at Huntsvil",
+        "official_name": "EAST FORK PINHOOK CR AT WINCHESTER RD AT HUNTSVIL",
+        "ref": "0357587140",
+        "website": "https://waterdata.usgs.gov/monitoring-location/0357587140",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "209.736",
+        "ele:accuracy": "0.0488",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5922056,
+          34.77150864
+        ]
+      },
+      "properties": {
+        "name": "Pinhook Creek at Mastin Lake Road at Huntsville",
+        "official_name": "PINHOOK C AT MASTIN LAKE RD AT HUNTSVILLE, ALA",
+        "ref": "0357587400",
+        "website": "https://waterdata.usgs.gov/monitoring-location/0357587400",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "196.965",
+        "ele:accuracy": "0.0488",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5741495,
+          34.74567586
+        ]
+      },
+      "properties": {
+        "name": "Dallas Branch at Coleman Street in Huntsville",
+        "official_name": "DALLAS BRANCH AT COLEMAN ST IN HUNTSVILLE, AL",
+        "ref": "0357587728",
+        "website": "https://waterdata.usgs.gov/monitoring-location/0357587728",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "195.029",
+        "ele:accuracy": "0.0488",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5933262,
+          34.72759099
+        ]
+      },
+      "properties": {
+        "name": "Pinhook Creek at Clinton Avenue at Huntsville",
+        "official_name": "PINHOOK CREEK AT CLINTON AVE. AT HUNTSVILLE, AL.",
+        "ref": "03575890",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03575890",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "180.646",
+        "ele:accuracy": "0.0122",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.6252621,
+          34.74956467
+        ]
+      },
+      "properties": {
+        "name": "Broglan Branch at Oakwood Avenue at Huntsville",
+        "official_name": "BROGLAN BRANCH AT OAKWOOD AVENUE AT HUNTSVILLE, AL",
+        "ref": "0357591500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/0357591500",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "198.98",
+        "ele:accuracy": "0.0488",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5963817,
+          34.6900911
+        ]
+      },
+      "properties": {
+        "name": "Huntsville Spring Branch at Johnson Road in Huntsville",
+        "official_name": "HUNTSVILLE SP BR AT JOHNSON ROAD, HUNTSVILLE AL",
+        "ref": "03575950",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03575950",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "172.267",
+        "ele:accuracy": "0.0488",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.627494,
+          34.69259115
+        ]
+      },
+      "properties": {
+        "name": "Mcdonald Creek at Patton Road near Huntsville",
+        "official_name": "MCDONALD CREEK AT PATTON ROAD NR HUNTSVILLE AL",
+        "ref": "03575980",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03575980",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "176.735",
+        "ele:accuracy": "0.0488",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3991621,
+          32.10070089
+        ]
+      },
+      "properties": {
+        "name": "Precipitation Station at Millers Ferry Dam",
+        "official_name": "PRECIPITATION STATION AT MILLERS FERRY DAM",
+        "ref": "320602087235701",
+        "website": "https://waterdata.usgs.gov/monitoring-location/320602087235701",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.2594444,
+          32.1697222
+        ]
+      },
+      "properties": {
+        "name": "Precipitation Station at Hooks Road near Pittsview",
+        "official_name": "RUFA1 PRECIP STN AT HOOKS RD, NR PITTSVIEW, AL",
+        "ref": "321011085153401",
+        "website": "https://waterdata.usgs.gov/monitoring-location/321011085153401",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "ele": "94.793",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7847045,
+          32.32513829
+        ]
+      },
+      "properties": {
+        "name": "Precipitation Station at Robert F. Henry Dam",
+        "official_name": "PRECIPITATION STATION AT ROBERT F. HENRY DAM",
+        "ref": "321930086470501",
+        "website": "https://waterdata.usgs.gov/monitoring-location/321930086470501",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1697222,
+          32.59416667
+        ]
+      },
+      "properties": {
+        "name": "Bleecker Precipitation Station near Salem",
+        "official_name": "BLEECKER PRECIPITATION STATION NEAR SALEM, AL",
+        "ref": "323539085101101",
+        "website": "https://waterdata.usgs.gov/monitoring-location/323539085101101",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "ele": "204.826",
+        "ele:accuracy": "3.048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8791584,
+          33.5176059
+        ]
+      },
+      "properties": {
+        "name": "Precipitation Station at Avenue West in Ensley",
+        "official_name": "PRECIPITATION STATION AT AVE. W IN ENSLEY, ALA",
+        "ref": "333103086524501",
+        "website": "https://waterdata.usgs.gov/monitoring-location/333103086524501",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7188778,
+          33.5770483
+        ]
+      },
+      "properties": {
+        "name": "Precipitation Station at 86th Street North at Roebuck",
+        "official_name": "PRECIPITATION STATION AT 86th ST N. AT ROEBUCK",
+        "ref": "333437086430801",
+        "website": "https://waterdata.usgs.gov/monitoring-location/333437086430801",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3989084,
+          34.28537757
+        ]
+      },
+      "properties": {
+        "name": "Precipitation Station at Cranal Road near Grayson",
+        "official_name": "PRECIPITATION STATION AT CRANAL RD NEAR GRAYSON",
+        "ref": "341707087235601",
+        "website": "https://waterdata.usgs.gov/monitoring-location/341707087235601",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1683333,
+          34.91
+        ]
+      },
+      "properties": {
+        "name": "Precipitation Station at Estillfork",
+        "official_name": "PRECIPITATION STATION AT ESTILLFORK, AL",
+        "ref": "345436086100601",
+        "website": "https://waterdata.usgs.gov/monitoring-location/345436086100601",
+        "man_made": "monitoring_station",
+        "monitoring:precipitation": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1963308,
+          32.9015159
+        ]
+      },
+      "properties": {
+        "name": "Oseligee Creek near Lanett",
+        "official_name": "OSELIGEE CREEK NEAR LANETT AL",
+        "ref": "02339495",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02339495",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.014931,
+          32.31681467
+        ]
+      },
+      "properties": {
+        "name": "Uchee Creek near Fort Mitchell",
+        "official_name": "UCHEE CREEK NEAR FORT MITCHELL, AL.",
+        "ref": "02342500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02342500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "61.457",
+        "ele:accuracy": "0.0488",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.2138,
+          32.0167861
+        ]
+      },
+      "properties": {
+        "name": "South Fork Cowikee Creek near Howe",
+        "official_name": "South Fork Cowikee Creek nr Howe, AL",
+        "ref": "02342937",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02342937",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_velocity": "yes",
+        "ele": "59.741",
+        "ele:accuracy": "0.4877",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.144932,
+          31.90821568
+        ]
+      },
+      "properties": {
+        "name": "Chattahoochee River at Coast Guard Dock at Eufaula",
+        "official_name": "CHATTAHOOCHEE RIVER AT COAST GUARD DOCK AT EUFAULA",
+        "ref": "0234296910",
+        "website": "https://waterdata.usgs.gov/monitoring-location/0234296910",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1947667,
+          31.8883861
+        ]
+      },
+      "properties": {
+        "name": "Barbour Creek at Barbour Lane near Eufaula",
+        "official_name": "Barbour Creek at Barbour Lane nr Eufaula, AL",
+        "ref": "02342997",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02342997",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:water_velocity": "yes",
+        "ele": "60.35",
+        "ele:accuracy": "0.4877",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.0591667,
+          31.62219444
+        ]
+      },
+      "properties": {
+        "name": "Chattahoochee River downstream of Water F. George Dam near Fort Gaines",
+        "official_name": "CHATTAHOOCHEE R .36 MI DS WFG DAM NR FT GAINES, GA",
+        "ref": "023432415",
+        "website": "https://waterdata.usgs.gov/monitoring-location/023432415",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "ele": "0.003",
+        "ele:accuracy": "0.0701",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6104912,
+          31.3429492
+        ]
+      },
+      "properties": {
+        "name": "Choctawhatchee River near Newton",
+        "official_name": "CHOCTAWHATCHEE RIVER NEAR NEWTON, AL.",
+        "ref": "02361000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02361000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "42.233",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7843789,
+          31.15934229
+        ]
+      },
+      "properties": {
+        "name": "Choctawhatchee River near Bellwood",
+        "official_name": "CHOCTAWHATCHEE RIVER NEAR BELLWOOD AL",
+        "ref": "02361500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02361500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8521574,
+          31.0412902
+        ]
+      },
+      "properties": {
+        "name": "Choctawhatchee River near Geneva",
+        "official_name": "CHOCTAWHATCHEE RIVER NEAR GENEVA, ALABAMA",
+        "ref": "02362000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02362000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "19.141",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7829975,
+          31.59488716
+        ]
+      },
+      "properties": {
+        "name": "Pea River near Ariton",
+        "official_name": "PEA RIVER NEAR ARITON AL",
+        "ref": "02363000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02363000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "75.161",
+        "ele:accuracy": "0.0488",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0630019,
+          31.4134998
+        ]
+      },
+      "properties": {
+        "name": "Pea River at Elba",
+        "official_name": "PEA RIVER AT ELBA, AL.",
+        "ref": "02364000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02364000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "48.509",
+        "ele:accuracy": "0.0488",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0993868,
+          31.11267588
+        ]
+      },
+      "properties": {
+        "name": "Pea River near Samson",
+        "official_name": "PEA RIVER NEAR SAMSON AL",
+        "ref": "02364500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02364500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "29.736",
+        "ele:accuracy": "0.0488",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7099567,
+          31.02767985
+        ]
+      },
+      "properties": {
+        "name": "Blackwater River near Bradley",
+        "official_name": "BLACKWATER RIVER NEAR BRADLEY AL",
+        "ref": "02369800",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02369800",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "37.146",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2516226,
+          31.57349458
+        ]
+      },
+      "properties": {
+        "name": "Conecuh River at Brantley",
+        "official_name": "CONECUH RIVER AT BRANTLEY AL",
+        "ref": "02371500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02371500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "68.924",
+        "ele:accuracy": "0.0488",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.40551809,
+          31.59627177
+        ]
+      },
+      "properties": {
+        "name": "Patsaliga Creek near Brantley",
+        "official_name": "PATSALIGA CREEK NEAR BRANTLEY AL",
+        "ref": "02372250",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02372250",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "67.056",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5196826,
+          31.3612799
+        ]
+      },
+      "properties": {
+        "name": "Conecuh River below Point A Dam near River Falls",
+        "official_name": "CONECUH RIVER BEL PT A DAM NR RIVER FALLS, AL.",
+        "ref": "02372422",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02372422",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "36.82",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5294047,
+          31.34822474
+        ]
+      },
+      "properties": {
+        "name": "Conecuh River at River Falls",
+        "official_name": "CONECUH RIVER AT RIVER FALLS, ALABAMA",
+        "ref": "02372430",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02372430",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "36.6",
+        "ele:accuracy": "0.0488",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7869139,
+          31.4537758
+        ]
+      },
+      "properties": {
+        "name": "Sepulga River near McKenzie",
+        "official_name": "SEPULGA RIVER NEAR MCKENZIE AL",
+        "ref": "02373000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02373000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "47.674",
+        "ele:accuracy": "0.0488",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0616352,
+          31.06712374
+        ]
+      },
+      "properties": {
+        "name": "Conecuh River at State Highway 41 near Brewton",
+        "official_name": "CONECUH RIVER AT STATE HWY 41 NEAR BREWTON, AL.",
+        "ref": "02374250",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02374250",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "13.137",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.9866403,
+          31.41850006
+        ]
+      },
+      "properties": {
+        "name": "Murder Creek near Evergreen",
+        "official_name": "MURDER CREEK NEAR EVERGREEN AL",
+        "ref": "02374500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02374500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "54.328",
+        "ele:accuracy": "0.0488",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0871928,
+          31.1298991
+        ]
+      },
+      "properties": {
+        "name": "Burnt Corn Creek at State Highway 41 near Brewton",
+        "official_name": "BURNT CORN CREEK AT STATE HWY 41 NEAR BREWTON, AL.",
+        "ref": "02374745",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02374745",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "21.153",
+        "ele:accuracy": "0.0488",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3705353,
+          31.12962115
+        ]
+      },
+      "properties": {
+        "name": "Big Escambia Creek at Sardine Branch near Stanley Crossroad",
+        "official_name": "BIG ESCAMBIA CR AT SARDINE BR NR STANLEY CROSSROAD",
+        "ref": "02374950",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02374950",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2627518,
+          31.01073709
+        ]
+      },
+      "properties": {
+        "name": "Big Escambia Creek at Flomaton",
+        "official_name": "BIG ESCAMBIA CREEK AT FLOMATON AL",
+        "ref": "02375000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02375000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "14.557",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6072077,
+          30.63713636
+        ]
+      },
+      "properties": {
+        "name": "Styx River near Loxley at Smiths Siding",
+        "official_name": "STYX R NR LOXLEY, AT SMITHS SIDING, ALA",
+        "ref": "02377560",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02377560",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5472057,
+          30.6057484
+        ]
+      },
+      "properties": {
+        "name": "Styx River near Elsanor",
+        "official_name": "STYX RIVER NEAR ELSANOR, AL.",
+        "ref": "02377570",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02377570",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.4627577,
+          30.51825089
+        ]
+      },
+      "properties": {
+        "name": "Styx River at Seminole",
+        "official_name": "STYX RIVER AT SEMINOLE, ALA",
+        "ref": "02377750",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02377750",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.652763,
+          30.3882541
+        ]
+      },
+      "properties": {
+        "name": "Wolf Creek below Foley",
+        "official_name": "WOLF CREEK BELOW FOLEY, ALA",
+        "ref": "02378170",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02378170",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6866524,
+          30.27964626
+        ]
+      },
+      "properties": {
+        "name": "Intracoastal Waterway at Gulf Shores",
+        "official_name": "INTRACOASTAL WATERWAY - GULF SHORES, AL.",
+        "ref": "02378185",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02378185",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_velocity": "yes",
+        "tidal": "yes",
+        "monitoring:tide_gauge": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7369323,
+          30.40658669
+        ]
+      },
+      "properties": {
+        "name": "Magnolia River at U.S. Route 98 near Foley",
+        "official_name": "MAGNOLIA RIVER AT US 98 NEAR FOLEY, ALABAMA",
+        "ref": "02378300",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02378300",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "4.959",
+        "ele:accuracy": "0.0488",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8026444,
+          30.47466944
+        ]
+      },
+      "properties": {
+        "name": "Fish River near Marlow",
+        "official_name": "FISH RIVER NEAR MARLOW, AL",
+        "ref": "0237854520",
+        "website": "https://waterdata.usgs.gov/monitoring-location/0237854520",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_velocity": "yes",
+        "tidal": "yes",
+        "ele": "0.914",
+        "ele:accuracy": "1.3106",
+        "ele:datum": "NAVD88",
+        "monitoring:tide_gauge": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.5091268,
+          34.29036965
+        ]
+      },
+      "properties": {
+        "name": "Chattooga River above Gaylesville",
+        "official_name": "CHATTOOGA RIVER ABOVE GAYLESVILLE AL",
+        "ref": "02398300",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02398300",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "171.331",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6805204,
+          34.2889813
+        ]
+      },
+      "properties": {
+        "name": "Little River near Blue Pond",
+        "official_name": "LITTLE RIVER NEAR BLUE POND AL",
+        "ref": "02399200",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02399200",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "179.631",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7538552,
+          34.1767623
+        ]
+      },
+      "properties": {
+        "name": "Coosa River at Leesburg",
+        "official_name": "COOSA RIVER AT LEESBURG AL",
+        "ref": "02399500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02399500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "157.816",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6867722,
+          34.1394361
+        ]
+      },
+      "properties": {
+        "name": "Coosa River at Centre",
+        "official_name": "COOSA RIVER AT CENTRE, AL",
+        "ref": "02399600",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02399600",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "170.496",
+        "ele:accuracy": "0.0671",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6141287,
+          34.06509836
+        ]
+      },
+      "properties": {
+        "name": "Terrapin Creek at Ellisville",
+        "official_name": "TERRAPIN CREEK AT ELLISVILLE AL",
+        "ref": "02400100",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02400100",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "164.309",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.789967,
+          34.08676436
+        ]
+      },
+      "properties": {
+        "name": "Coosa River at Adams Ferry Branch near Ballplay",
+        "official_name": "COOSA RIVER AT ADAMS FERRY BR NR BALLPLAY, AL",
+        "ref": "02400175",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02400175",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "169.557",
+        "ele:accuracy": "0.064",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.9702488,
+          34.01398655
+        ]
+      },
+      "properties": {
+        "name": "Coosa River at Gadsden Steam Plant near Gadsden",
+        "official_name": "COOSA RIVER AT GADSDEN STEAM PLANT NR GADSDEN, AL",
+        "ref": "02400496",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02400496",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:water_velocity": "yes",
+        "ele": "148.169",
+        "ele:accuracy": "0.0701",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.9977494,
+          34.0103752
+        ]
+      },
+      "properties": {
+        "name": "Coosa River at Gadsden",
+        "official_name": "COOSA RIVER AT GADSDEN AL",
+        "ref": "02400500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02400500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "148.151",
+        "ele:accuracy": "0.0671",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7671907,
+          34.43814386
+        ]
+      },
+      "properties": {
+        "name": "Big Wills Creek at State Highway 35 near Fort Payne",
+        "official_name": "BIG WILLS CREEK AT STATE HWY 35 NR FORT PAYNE, AL",
+        "ref": "02400680",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02400680",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "239.384",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0380286,
+          34.0981515
+        ]
+      },
+      "properties": {
+        "name": "Big Wills Creek near Reece City",
+        "official_name": "BIG WILLS CREEK NEAR REECE CITY",
+        "ref": "02401000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02401000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "173.736",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.02608309,
+          33.9431535
+        ]
+      },
+      "properties": {
+        "name": "Coosa River near Southside",
+        "official_name": "COOSA RIVER NR SOUTHSIDE, ALA",
+        "ref": "02401330",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02401330",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:water_velocity": "yes",
+        "ele": "156.579",
+        "ele:accuracy": "0.061",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2627559,
+          33.8398211
+        ]
+      },
+      "properties": {
+        "name": "Big Canoe Creek at Ashville",
+        "official_name": "BIG CANOE CREEK AT ASHVILLE AL",
+        "ref": "02401390",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02401390",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "161.41",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.9983035,
+          33.7803769
+        ]
+      },
+      "properties": {
+        "name": "Ohatchee Creek at Ohatchee",
+        "official_name": "OHATCHEE CREEK AT OHATCHEE, AL",
+        "ref": "02401895",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02401895",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6011972,
+          33.72522778
+        ]
+      },
+      "properties": {
+        "name": "Shoal Creek near Heflin",
+        "official_name": "SHOAL CREEK NEAR HEFLIN, AL",
+        "ref": "02403170",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02403170",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "287.426",
+        "ele:accuracy": "0.4877",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7852411,
+          33.60204998
+        ]
+      },
+      "properties": {
+        "name": "Choccolocco Creek near Boiling Spring",
+        "official_name": "CHOCCOLOCCO CREEK NEAR BOILING SPRING, ALABAMA",
+        "ref": "02403310",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02403310",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "182.968",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0969163,
+          33.5484383
+        ]
+      },
+      "properties": {
+        "name": "Choccolocco Creek at Jackson Shoal near Lincoln",
+        "official_name": "CHOCCOLOCCO CREEK AT JACKSON SHOAL NR LINCOLN AL",
+        "ref": "02404400",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02404400",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "136.703",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.386924,
+          33.44760728
+        ]
+      },
+      "properties": {
+        "name": "Kelly Creek near Vincent",
+        "official_name": "KELLY CREEK NEAR VINCENT AL",
+        "ref": "02405500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02405500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "123.167",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2341414,
+          33.35955497
+        ]
+      },
+      "properties": {
+        "name": "Talladega Creek at Alpine",
+        "official_name": "TALLADEGA CREEK AT ALPINE AL",
+        "ref": "02406500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02406500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "131.472",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.273308,
+          33.21178164
+        ]
+      },
+      "properties": {
+        "name": "Shirtee Creek near Odena",
+        "official_name": "SHIRTEE CREEK NEAR ODENA, ALABAMA",
+        "ref": "02406930",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02406930",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.36386659,
+          33.29177917
+        ]
+      },
+      "properties": {
+        "name": "Coosa River at Childersburg",
+        "official_name": "COOSA RIVER AT CHILDERSBURG AL",
+        "ref": "02407000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02407000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "116.571",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4952592,
+          33.32066689
+        ]
+      },
+      "properties": {
+        "name": "Yellowleaf Creek near Westover",
+        "official_name": "YELLOWLEAF CREEK NEAR WESTOVER, AL",
+        "ref": "02407514",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02407514",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4583132,
+          33.24122519
+        ]
+      },
+      "properties": {
+        "name": "Coosa River at Gaston Steam Plant near Wilsonville",
+        "official_name": "COOSA RIVER AT GASTON STEAM PLANT NR WILSONVILLE",
+        "ref": "02407526",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02407526",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "116.559",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5791667,
+          32.89027778
+        ]
+      },
+      "properties": {
+        "name": "Walnut Creek above Clanton",
+        "official_name": "WALNUT CREEK ABOVE CLANTON, ALA",
+        "ref": "02408150",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02408150",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2702507,
+          32.9167896
+        ]
+      },
+      "properties": {
+        "name": "Hatchet Creek below Rockford",
+        "official_name": "HATCHET CREEK BELOW ROCKFORD AL",
+        "ref": "02408540",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02408540",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "114.91",
+        "ele:accuracy": "1.524",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1957944,
+          32.5505472
+        ]
+      },
+      "properties": {
+        "name": "Coosa River at Highway 14 near Wetumpka",
+        "official_name": "COOSA RIVER AT HWY 14 NEAR WETUMPKA, AL",
+        "ref": "02411590",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02411590",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "34.177",
+        "ele:accuracy": "0.0549",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.208857,
+          32.53707835
+        ]
+      },
+      "properties": {
+        "name": "Coosa River at Wetumpka",
+        "official_name": "COOSA RIVER AT WETUMPKA AL",
+        "ref": "02411600",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02411600",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "34.619",
+        "ele:accuracy": "0.0579",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.5132894,
+          33.622885
+        ]
+      },
+      "properties": {
+        "name": "Tallapoosa River near Heflin",
+        "official_name": "TALLAPOOSA RIVER NEAR HEFLIN, AL",
+        "ref": "02412000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02412000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "25.521",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.399118,
+          33.43733498
+        ]
+      },
+      "properties": {
+        "name": "Little Tallapoosa River near Newell",
+        "official_name": "LITTLE TALLAPOOSA RIVER NEAR NEWELL AL",
+        "ref": "02413300",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02413300",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "257.026",
+        "ele:accuracy": "0.0488",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.5771772,
+          33.19706256
+        ]
+      },
+      "properties": {
+        "name": "Tallapoosa River at Malone",
+        "official_name": "TALLAPOOSA RIVER AT MALONE, ALABAMA",
+        "ref": "02414300",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02414300",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "193.548",
+        "ele:accuracy": "0.061",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.5607875,
+          33.11678684
+        ]
+      },
+      "properties": {
+        "name": "Tallapoosa River at Wadley",
+        "official_name": "TALLAPOOSA RIVER AT WADLEY AL",
+        "ref": "02414500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02414500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "182.84",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7396808,
+          32.97734526
+        ]
+      },
+      "properties": {
+        "name": "Tallapoosa River near New Site",
+        "official_name": "TALLAPOOSA RIVER NR NEW SITE, AL.(HORSESHOE BEND)",
+        "ref": "02414715",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02414715",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "161.123",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8780186,
+          33.06539786
+        ]
+      },
+      "properties": {
+        "name": "Hillabee Creek near Hackneyville",
+        "official_name": "HILLABEE CREEK NEAR HACKNEYVILLE AL",
+        "ref": "02415000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02415000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "170.054",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.64283889,
+          32.78545278
+        ]
+      },
+      "properties": {
+        "name": "Little Sandy Creek at Camp Hill",
+        "official_name": "LITTLE SANDY CREEK AT CAMP HILL, AL",
+        "ref": "02416360",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02416360",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "182.575",
+        "ele:accuracy": "0.4877",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.5880076,
+          32.62680015
+        ]
+      },
+      "properties": {
+        "name": "Sougahatchee Creek at County Road 188 near Loachapoka",
+        "official_name": "SOUGAHATCHEE CREEK AT CO RD 188 NR LOACHAPOKA, AL.",
+        "ref": "02418230",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02418230",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "159.407",
+        "ele:accuracy": "0.0488",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.4805044,
+          32.5481918
+        ]
+      },
+      "properties": {
+        "name": "Chewacla Creek at Chewacla State Park near Auburn",
+        "official_name": "CHEWACLA CREEK AT CHEWACLA STATE PARK NR AUBURN",
+        "ref": "02418760",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02418760",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.69495359,
+          32.4768045
+        ]
+      },
+      "properties": {
+        "name": "Uphapee Creek near Tuskegee",
+        "official_name": "UPHAPEE CREEK NEAR TUSKEGEE AL",
+        "ref": "02419000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02419000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "68.169",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.897458,
+          32.44902654
+        ]
+      },
+      "properties": {
+        "name": "Tallapoosa River at Milstead",
+        "official_name": "TALLAPOOSA RIVER AT MILSTEAD AL",
+        "ref": "02419500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02419500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "46.936",
+        "ele:accuracy": "0.0488",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1955222,
+          32.43985898
+        ]
+      },
+      "properties": {
+        "name": "Tallapoosa River at Montgomery Water Works near Montgomery",
+        "official_name": "TALLAPOOSA RIVER NEAR MONT.-MONT. WATER WORKS",
+        "ref": "02419890",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02419890",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "39.359",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3154056,
+          32.3922361
+        ]
+      },
+      "properties": {
+        "name": "Alabama River at Montgomery",
+        "official_name": "ALABAMA RIVER AT MONTGOMERY AL",
+        "ref": "02419988",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02419988",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "39.014",
+        "ele:accuracy": "1.3106",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.40830579,
+          32.41152597
+        ]
+      },
+      "properties": {
+        "name": "Alabama River near Montgomery",
+        "official_name": "ALABAMA RIVER NEAR MONTGOMERY, AL.",
+        "ref": "02420000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02420000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "29.84",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2994126,
+          32.30736239
+        ]
+      },
+      "properties": {
+        "name": "Catoma Creek near Montgomery",
+        "official_name": "CATOMA CREEK NEAR MONTGOMERY AL",
+        "ref": "02421000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02421000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "46",
+        "ele:accuracy": "0.0488",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7846945,
+          32.32513829
+        ]
+      },
+      "properties": {
+        "name": "Alabama River at Robert F. Henry Lock and Dam",
+        "official_name": "ALABAMA RIVER AT ROBERT F HENRY LOCK AND DAM",
+        "ref": "02421350",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02421350",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7838712,
+          32.32236057
+        ]
+      },
+      "properties": {
+        "name": "Alabama River below Robert F. Henry Lock and Dam near Benton",
+        "official_name": "ALABAMA RIVER BL ROBERT F HENRY L&D NEAR BENTON,AL",
+        "ref": "02421351",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02421351",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5917,
+          32.16718333
+        ]
+      },
+      "properties": {
+        "name": "Big Swamp Creek southwest of Hayneville",
+        "official_name": "BIG SWAMP CREEK SW OF HAYNEVILLE, AL",
+        "ref": "02421480",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02421480",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "52.121",
+        "ele:accuracy": "0.4877",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.9035991,
+          32.5829103
+        ]
+      },
+      "properties": {
+        "name": "Mulberry Creek at Jones",
+        "official_name": "MULBERRY CREEK AT JONES AL",
+        "ref": "02422500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02422500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "50.362",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0186007,
+          32.40569225
+        ]
+      },
+      "properties": {
+        "name": "Alabama River at Selma",
+        "official_name": "ALABAMA RIVER AT SELMA AL",
+        "ref": "02423000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02423000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "18.837",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.592209,
+          33.66565755
+        ]
+      },
+      "properties": {
+        "name": "Cahaba River near Trussville",
+        "official_name": "CAHABA RIVER NEAR TRUSSVILLE, ALA",
+        "ref": "02423110",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02423110",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "227.384",
+        "ele:accuracy": "0.0274",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.599431,
+          33.62232504
+        ]
+      },
+      "properties": {
+        "name": "Cahaba River at Trussville",
+        "official_name": "CAHABA RIVER AT TRUSSVILLE, AL.",
+        "ref": "02423130",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02423130",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "ele": "205.274",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5491517,
+          33.60371416
+        ]
+      },
+      "properties": {
+        "name": "Cahaba River near Whites Chapel",
+        "official_name": "CAHABA RIVER NEAR WHITES CHAPEL AL",
+        "ref": "02423160",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02423160",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "ele": "171.538",
+        "ele:accuracy": "0.0274",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7127653,
+          33.4817724
+        ]
+      },
+      "properties": {
+        "name": "Cahaba River near Mountain Brook",
+        "official_name": "CAHABA RIVER NEAR MOUNTAIN BROOK AL",
+        "ref": "02423380",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02423380",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "ele": "135.328",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5624847,
+          33.53454886
+        ]
+      },
+      "properties": {
+        "name": "Little Cahaba River below Leeds",
+        "official_name": "LITTLE CAHABA RIVER BELOW LEEDS, AL.",
+        "ref": "02423397",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02423397",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "ele": "181.548",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.6141521,
+          33.4998273
+        ]
+      },
+      "properties": {
+        "name": "Little Cahaba River near Jefferson Park",
+        "official_name": "LITTLE CAHABA RIVER NR JEFFERSON PARK, AL.",
+        "ref": "02423400",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02423400",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "169.643",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.6988758,
+          33.43982948
+        ]
+      },
+      "properties": {
+        "name": "Little Cahaba River at Cahaba Beach Road near Cahaba Heights",
+        "official_name": "LITTLE CAHABA RIVER AT CAH BEA RD NR CAHABA HTS AL",
+        "ref": "02423414",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02423414",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7397099,
+          33.4156637
+        ]
+      },
+      "properties": {
+        "name": "Cahaba River near Cahaba Heights",
+        "official_name": "CAHABA RIVER NEAR CAHABA HEIGHTS AL",
+        "ref": "02423425",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02423425",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "123.496",
+        "ele:accuracy": "0.0549",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7841551,
+          33.3692767
+        ]
+      },
+      "properties": {
+        "name": "Cahaba River near Hoover",
+        "official_name": "CAHABA RIVER NEAR HOOVER, AL",
+        "ref": "02423496",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02423496",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "ele": "115.733",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8130446,
+          33.36344373
+        ]
+      },
+      "properties": {
+        "name": "Cahaba River near Acton",
+        "official_name": "CAHABA RIVER NEAR ACTON AL",
+        "ref": "02423500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02423500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "114.434",
+        "ele:accuracy": "0.0244",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7594183,
+          33.3449441
+        ]
+      },
+      "properties": {
+        "name": "Cahaba Valley Creek at Indian Trail Road near Indian Springs",
+        "official_name": "CAHABA VALLEY CR AT INDIAN TRAIL RD NR INDIAN SPRS",
+        "ref": "0242354650",
+        "website": "https://waterdata.usgs.gov/monitoring-location/0242354650",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "monitoring:pH": "yes",
+        "ele": "140.93",
+        "ele:accuracy": "0.0244",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8063775,
+          33.31344546
+        ]
+      },
+      "properties": {
+        "name": "Cahaba Valley Creek at Cross Creek Road at Pelham",
+        "official_name": "CAHABA VALLEY CREEK AT CROSS CR RD AT PELHAM, AL.",
+        "ref": "0242354750",
+        "website": "https://waterdata.usgs.gov/monitoring-location/0242354750",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "130.653",
+        "ele:accuracy": "0.0244",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8824901,
+          33.28455786
+        ]
+      },
+      "properties": {
+        "name": "Cahaba River near Helena",
+        "official_name": "CAHABA RIVER NEAR HELENA AL",
+        "ref": "02423555",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02423555",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "ele": "108.814",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8136007,
+          33.4487185
+        ]
+      },
+      "properties": {
+        "name": "Shades Creek near Homewood",
+        "official_name": "SHADES CREEK NR HOMEWOOD, ALA",
+        "ref": "02423586",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02423586",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "ele": "184.453",
+        "ele:accuracy": "0.0122",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.9497141,
+          33.3262234
+        ]
+      },
+      "properties": {
+        "name": "Shades Creek near Greenwood",
+        "official_name": "SHADES CREEK NEAR GREENWOOD AL",
+        "ref": "02423630",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02423630",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "145.853",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.054716,
+          33.09817509
+        ]
+      },
+      "properties": {
+        "name": "Cahaba River near West Blocton",
+        "official_name": "CAHABA RIVER NEAR WEST BLOCTON AL",
+        "ref": "02423647",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02423647",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "ele": "76.279",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.95276899,
+          33.0576205
+        ]
+      },
+      "properties": {
+        "name": "Little Cahaba River near Brierfield",
+        "official_name": "LITTLE CAHABA RIVER NEAR BRIERFIELD AL",
+        "ref": "02423800",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02423800",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "95.649",
+        "ele:accuracy": "0.0122",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.1391623,
+          32.9451238
+        ]
+      },
+      "properties": {
+        "name": "Cahaba River at Centreville",
+        "official_name": "CAHABA RIVER AT CENTREVILLE AL",
+        "ref": "02424000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02424000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "55.111",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.198884,
+          32.5293002
+        ]
+      },
+      "properties": {
+        "name": "Cahaba River near Suttle",
+        "official_name": "CAHABA RIVER NEAR SUTTLE, AL.",
+        "ref": "02424590",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02424590",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "29.761",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.1802715,
+          32.44402456
+        ]
+      },
+      "properties": {
+        "name": "Cahaba River near Marion Junction",
+        "official_name": "CAHABA RIVER NEAR MARION JUNCTION AL",
+        "ref": "02425000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02425000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "26.432",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2813831,
+          32.2770847
+        ]
+      },
+      "properties": {
+        "name": "Bogue Chitto Creek at County Road 115 below Orrville",
+        "official_name": "BOGUE CHITTO CREEK AT CO RD 115 BELOW ORRVILLE, AL",
+        "ref": "02427020",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02427020",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0683187,
+          31.99625809
+        ]
+      },
+      "properties": {
+        "name": "Pine Barren Creek near Snow Hill",
+        "official_name": "PINE BARREN CREEK NEAR SNOW HILL, AL.",
+        "ref": "02427250",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02427250",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "38.588",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3991521,
+          32.10070089
+        ]
+      },
+      "properties": {
+        "name": "Alabama River at Millers Ferry Dam near Camden",
+        "official_name": "ALABAMA RIVER AT MILLERS FERRY DAM, NR. CAMDEN, AL",
+        "ref": "02427505",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02427505",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.39777319,
+          32.10014534
+        ]
+      },
+      "properties": {
+        "name": "Alabama River below Millers Ferry Lock and Dam near Camden",
+        "official_name": "ALABAMA RIVER BELOW MILLERS FERRY L&D NR CAMDEN AL",
+        "ref": "02427506",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02427506",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.550548,
+          31.61515849
+        ]
+      },
+      "properties": {
+        "name": "Alabama River at Claiborne Lock and Dam near Monroeville",
+        "official_name": "ALABAMA RIVER AT CLAIBORNE L&D NEAR MONROEVILLE",
+        "ref": "02428400",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02428400",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.550548,
+          31.61349189
+        ]
+      },
+      "properties": {
+        "name": "Alabama River below Claiborne Lock and Dam near Monroeville",
+        "official_name": "ALABAMA RIVER BEL CLAIB. L&D NR MONROEVILLE, AL.",
+        "ref": "02428401",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02428401",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3516534,
+          31.56266077
+        ]
+      },
+      "properties": {
+        "name": "Limestone Creek near Monroeville",
+        "official_name": "LIMESTONE CREEK NEAR MONROEVILLE AL",
+        "ref": "02429000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02429000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "31.967",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7649946,
+          31.3637786
+        ]
+      },
+      "properties": {
+        "name": "Alabama River at Choctaw Bluff",
+        "official_name": "ALABAMA RIVER AT CHOCTAW BLUFF, AL.",
+        "ref": "02429540",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02429540",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9894765,
+          34.10621294
+        ]
+      },
+      "properties": {
+        "name": "Buttahatchee River below Hamilton",
+        "official_name": "BUTTAHATCHEE RIVER BELOW HAMILTON AL",
+        "ref": "02438000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02438000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "109.978",
+        "ele:accuracy": "0.0488",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0833605,
+          33.57511416
+        ]
+      },
+      "properties": {
+        "name": "Luxapallila Creek at Millport",
+        "official_name": "LUXAPALLILA CREEK AT MILLPORT, AL",
+        "ref": "02442500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02442500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "74.292",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2886454,
+          33.21067874
+        ]
+      },
+      "properties": {
+        "name": "Tombigbee River at Bevill Lock and Dam near Pickensville",
+        "official_name": "TOMBIGBEE RIVER AT BEVILL L&D NR PICKENSVILLE, AL",
+        "ref": "02444160",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02444160",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2886454,
+          33.21040097
+        ]
+      },
+      "properties": {
+        "name": "Tombigbee River below Bevil Lock and Dam near Pickensville",
+        "official_name": "TOMBIGBEE RIVER BEL BEVIL L&D NR PICKENSVILLE, AL.",
+        "ref": "02444161",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02444161",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7764022,
+          33.25706249
+        ]
+      },
+      "properties": {
+        "name": "Sipsey River near Elrod",
+        "official_name": "SIPSEY RIVER NR ELROD, AL",
+        "ref": "02446500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02446500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "60.292",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1561363,
+          32.8481856
+        ]
+      },
+      "properties": {
+        "name": "Tombigbee River at Heflin Lock and Dam near Gainesville",
+        "official_name": "TOMBIGBEE R AT HEFLIN L&D NR GAINESVILLE, AL",
+        "ref": "02447025",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02447025",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "43.416",
+        "ele:accuracy": "0.0549",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1541918,
+          32.85235218
+        ]
+      },
+      "properties": {
+        "name": "Tombigbee River below Heflin Lock and Dam near Gainesville",
+        "official_name": "TOMBIGBEE R BLW HEFLIN L&D NR GAINESVILLE, ALA",
+        "ref": "02447026",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02447026",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2978103,
+          32.9326287
+        ]
+      },
+      "properties": {
+        "name": "Noxubee River near Geiger",
+        "official_name": "NOXUBEE RIVER NR GEIGER, AL",
+        "ref": "02448500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02448500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "26.271",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3119761,
+          32.80707585
+        ]
+      },
+      "properties": {
+        "name": "Bodka Creek near Geiger",
+        "official_name": "BODKA CREEK NEAR GEIGER, AL.",
+        "ref": "02448900",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02448900",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "31.964",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.69388889,
+          34.1725
+        ]
+      },
+      "properties": {
+        "name": "Duck River above Highway 278 near Berlin",
+        "official_name": "DUCK RIVER ABOVE HWY 278 NEAR BERLIN, AL",
+        "ref": "02449838",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02449838",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "180.521",
+        "ele:accuracy": "0.0213",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.6077617,
+          34.07985725
+        ]
+      },
+      "properties": {
+        "name": "Blue Springs Creek near Blountsville",
+        "official_name": "BLUE SPRINGS CREEK NEAR BLOUNTSVILLE, AL.",
+        "ref": "02449882",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02449882",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "197.882",
+        "ele:accuracy": "0.0579",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.73666329,
+          34.01204356
+        ]
+      },
+      "properties": {
+        "name": "Mulberry Fork near Garden City",
+        "official_name": "MULBERRY FORK NEAR GARDEN CITY, AL.",
+        "ref": "02450000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02450000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "119.741",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.9222211,
+          33.87204689
+        ]
+      },
+      "properties": {
+        "name": "Mulberry Fork near Arkadelphia",
+        "official_name": "MULBERRY FORK NEAR ARKADELPHIA, AL.",
+        "ref": "02450180",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02450180",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "81.504",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3988984,
+          34.28537757
+        ]
+      },
+      "properties": {
+        "name": "Sipsey Fork near Grayson",
+        "official_name": "SIPSEY FORK NEAR GRAYSON AL",
+        "ref": "02450250",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02450250",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "164.592",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.422793,
+          34.08121506
+        ]
+      },
+      "properties": {
+        "name": "Clear Creek at New Hope Church near Poplar Springs",
+        "official_name": "CLEAR C AT NEW HOPE CHURCH NR POPLAR SPRINGS, AL.",
+        "ref": "02450825",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02450825",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "172.477",
+        "ele:accuracy": "0.0488",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0702788,
+          33.82121589
+        ]
+      },
+      "properties": {
+        "name": "Sipsey Fork at Sipsey",
+        "official_name": "SIPSEY FORK AT SIPSEY, ALA",
+        "ref": "02452505",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02452505",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2569514,
+          33.90843985
+        ]
+      },
+      "properties": {
+        "name": "Blackwater Creek near Manchester",
+        "official_name": "BLACKWATER CREEK NEAR MANCHESTER AL",
+        "ref": "02453000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02453000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "122.264",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.1702791,
+          33.75760677
+        ]
+      },
+      "properties": {
+        "name": "Mulberry Fork at Cordova",
+        "official_name": "MULBERRY FORK AT CORDOVA AL",
+        "ref": "02453500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02453500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "74.265",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3583383,
+          33.76399789
+        ]
+      },
+      "properties": {
+        "name": "Lost Creek near Oakman",
+        "official_name": "LOST CREEK NEAR OAKMAN AL",
+        "ref": "02454000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02454000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "84.113",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5741573,
+          34.02454235
+        ]
+      },
+      "properties": {
+        "name": "Locust Fork near Cleveland",
+        "official_name": "LOCUST FORK NEAR CLEVELAND, AL.",
+        "ref": "02455000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02455000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "163.696",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4458178,
+          33.8606544
+        ]
+      },
+      "properties": {
+        "name": "Blackburn Fork Little Warrior River near Holly Springs",
+        "official_name": "BLACKBURN FORK LITTLE WARRIOR R NR HOLLY SPRINGS",
+        "ref": "02455185",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02455185",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.6961013,
+          33.71121273
+        ]
+      },
+      "properties": {
+        "name": "Turkey Creek at Sewage Plant near Pinson",
+        "official_name": "TURKEY CREEK AT SEWAGE PLANT NEAR PINSON AL",
+        "ref": "02455980",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02455980",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "ele": "152.939",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8124936,
+          33.74037995
+        ]
+      },
+      "properties": {
+        "name": "Turkey Creek at Morris",
+        "official_name": "TURKEY CREEK AT MORRIS AL",
+        "ref": "02456000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02456000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "105.211",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.9833305,
+          33.7098268
+        ]
+      },
+      "properties": {
+        "name": "Locust Fork at Sayre",
+        "official_name": "LOCUST FORK AT SAYRE, AL.",
+        "ref": "02456500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02456500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "78.833",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8680483,
+          33.5970492
+        ]
+      },
+      "properties": {
+        "name": "Fivemile Creek near Republic",
+        "official_name": "FIVEMILE CREEK NEAR REPUBLIC, AL",
+        "ref": "02457595",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02457595",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "ele": "120.591",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.9736073,
+          33.66343834
+        ]
+      },
+      "properties": {
+        "name": "Fivemile Creek near Sayre",
+        "official_name": "FIVE MILE CREEK NR SAYRE, ALA",
+        "ref": "02457704",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02457704",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7188678,
+          33.5770483
+        ]
+      },
+      "properties": {
+        "name": "Village Creek at 86th Street North at Roebuck",
+        "official_name": "VILLAGE CREEK AT 86TH ST NORTH AT ROEBUCK, AL.",
+        "ref": "02458148",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02458148",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "195.727",
+        "ele:accuracy": "0.0213",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7613783,
+          33.54843779
+        ]
+      },
+      "properties": {
+        "name": "Tributary to Village Creek at 50th Street in Birmingham",
+        "official_name": "TRIB TO VILLAGE CREEK AT 50th ST IN BIRMINGHAM",
+        "ref": "02458190",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02458190",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "182.673",
+        "ele:accuracy": "0.064",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.87914839999999,
+          33.5176059
+        ]
+      },
+      "properties": {
+        "name": "Village Creek at Avenue West at Ensley",
+        "official_name": "VILLAGE CREEK AT AVENUE W AT ENSLEY, AL",
+        "ref": "02458450",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02458450",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "ele": "153.973",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8911032,
+          33.5239948
+        ]
+      },
+      "properties": {
+        "name": "Village Creek near Pratt City",
+        "official_name": "VILLAGE CREEK NEAR PRATT CITY, ALABAMA",
+        "ref": "02458502",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02458502",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "152.467",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.9258266,
+          33.5481615
+        ]
+      },
+      "properties": {
+        "name": "Village Creek near Docena",
+        "official_name": "VILLAGE CREEK NEAR DOCENA, ALABAMA",
+        "ref": "02458600",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02458600",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "ele": "150.294",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0069405,
+          33.6056616
+        ]
+      },
+      "properties": {
+        "name": "Village Creek near Adamsville",
+        "official_name": "VILLAGE CREEK NEAR ADAMSVILLE, AL.",
+        "ref": "02460500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02460500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "103.632",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.9527705,
+          33.4256647
+        ]
+      },
+      "properties": {
+        "name": "Valley Creek below Brighton",
+        "official_name": "VALLEY CREEK BELOW BRIGHTON, ALA",
+        "ref": "02461405",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02461405",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "143.908",
+        "ele:accuracy": "0.0579",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.9827711,
+          33.4192762
+        ]
+      },
+      "properties": {
+        "name": "Valley Creek near Bessemer",
+        "official_name": "VALLEY CREEK NEAR BESSEMER, AL",
+        "ref": "02461500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02461500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "133.783",
+        "ele:accuracy": "0.0244",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.1222186,
+          33.44733226
+        ]
+      },
+      "properties": {
+        "name": "Valley Creek near Oak Grove",
+        "official_name": "VALLEY CREEK NEAR OAK GROVE AL",
+        "ref": "02462000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02462000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "89.913",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.355001,
+          33.45705687
+        ]
+      },
+      "properties": {
+        "name": "Black Warrior River below Bankhead Lock and Dam near Bessemer",
+        "official_name": "BLACK WARRIOR R BL BANKHEAD L&D NEAR BESSEMER AL",
+        "ref": "02462501",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02462501",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.4513926,
+          33.2528948
+        ]
+      },
+      "properties": {
+        "name": "Black Warrior River below Holt Lock and Dam near Holt",
+        "official_name": "BLACK WARRIOR RIVER BELOW HOLT L&D NEAR HOLT AL",
+        "ref": "02462952",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02462952",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5972297,
+          33.47928058
+        ]
+      },
+      "properties": {
+        "name": "North River near Samantha",
+        "official_name": "NORTH RIVER NEAR SAMANTHA AL",
+        "ref": "02464000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02464000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "71.076",
+        "ele:accuracy": "0.0152",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5900074,
+          33.20928528
+        ]
+      },
+      "properties": {
+        "name": "Black Warrior River at Northport",
+        "official_name": "BLACK WARRIOR RIVER AT NORTHPORT AL",
+        "ref": "02465000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02465000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5933408,
+          33.20789644
+        ]
+      },
+      "properties": {
+        "name": "Black Warrior River below Oliver Lock and Dam near Tuscaloosa",
+        "official_name": "BLACK WARRIOR R BL OLIVER L&D NEAR TUSCALOOSA, AL.",
+        "ref": "02465005",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02465005",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5647288,
+          33.17484164
+        ]
+      },
+      "properties": {
+        "name": "Cribbs Mill Creek at Wastewater Plant at Tuscaloosa",
+        "official_name": "CRIBBS MILL CREEK AT WW PLANT AT TUSCALOOSA, AL.",
+        "ref": "02465292",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02465292",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "42.654",
+        "ele:accuracy": "0.0579",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6222295,
+          32.99734636
+        ]
+      },
+      "properties": {
+        "name": "Elliotts Creek at Moundville",
+        "official_name": "ELLIOTTS CREEK AT MOUNDVILLE AL",
+        "ref": "02465493",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02465493",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "45.086",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8405687,
+          32.77790835
+        ]
+      },
+      "properties": {
+        "name": "Black Warrior River at Selden Lock and Dam near Eutaw",
+        "official_name": "BLACK WARRIOR RIVER AT SELDEN L & D NEAR EUTAW, AL",
+        "ref": "02466030",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02466030",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.841402,
+          32.7773528
+        ]
+      },
+      "properties": {
+        "name": "Black Warrior River below Selden Dam near Eutaw",
+        "official_name": "BLACK WARRIOR RIVER BELOW SELDEN DAM NR EUTAW, AL",
+        "ref": "02466031",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02466031",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6811194,
+          32.5412458
+        ]
+      },
+      "properties": {
+        "name": "Big Prairie Creek near Gallion",
+        "official_name": "BIG PRAIRIE CREEK NEAR GALLION, AL.",
+        "ref": "02466500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02466500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8783476,
+          32.51958077
+        ]
+      },
+      "properties": {
+        "name": "Tombigbee River at Demopolis Lock and Dam near Coatopa",
+        "official_name": "TOMBIGBEE R AT DEMOPOLIS L&D NEAR COATOPA, AL.",
+        "ref": "02467000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02467000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8800143,
+          32.52096964
+        ]
+      },
+      "properties": {
+        "name": "Tombigbee River below Demopolis Lock and Dam near Coatopa",
+        "official_name": "TOMBIGBEE RIVER BL DEMOPOLIS L&D NEAR COATOPA AL",
+        "ref": "02467001",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02467001",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1933589,
+          32.57374714
+        ]
+      },
+      "properties": {
+        "name": "Sucarnoochee River at Livingston",
+        "official_name": "SUCARNOOCHEE RIVER AT LIVINGSTON AL",
+        "ref": "02467500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02467500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "27.444",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0411267,
+          32.13014697
+        ]
+      },
+      "properties": {
+        "name": "Tombigbee River near Nanafalia",
+        "official_name": "TOMBIGBEE RIVER NEAR NANAFALIA, AL.",
+        "ref": "02469525",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02469525",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1291763,
+          31.75849066
+        ]
+      },
+      "properties": {
+        "name": "Tombigbee River at Coffeeville Lock and Dam near Coffeeville",
+        "official_name": "TOMBIGBEE R AT COFFEEVILLE L&D NR COFFEEVILLE, AL.",
+        "ref": "02469761",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02469761",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1250095,
+          31.7571018
+        ]
+      },
+      "properties": {
+        "name": "Tombigbee River below Coffeeville Lock and Dam near Coffeeville",
+        "official_name": "TOMBIGBEE R BL COFFEEVILLE L&D NEAR COFFEEVILLE",
+        "ref": "02469762",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02469762",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0225066,
+          31.7443247
+        ]
+      },
+      "properties": {
+        "name": "Satilpa Creek near Coffeeville",
+        "official_name": "SATILPA CREEK NEAR COFFEEVILLE AL",
+        "ref": "02469800",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02469800",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "12.131",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9088882,
+          31.48599734
+        ]
+      },
+      "properties": {
+        "name": "Tombigbee River at steamplant near Leroy",
+        "official_name": "TOMBIGBEE RIVER AT STEAMPLANT NR LEROY, AL",
+        "ref": "02470050",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02470050",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7472247,
+          31.86404249
+        ]
+      },
+      "properties": {
+        "name": "Bassett Creek at U.S. Route 43 near Thomasville",
+        "official_name": "BASSETT CREEK AT US HIGHWAY 43 NR THOMASVILLE, AL.",
+        "ref": "02470072",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02470072",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "89.002",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0208321,
+          31.01573579
+        ]
+      },
+      "properties": {
+        "name": "Mobile River at mile 31 at Bucks",
+        "official_name": "MOBILE RIVER AT RIVER MILE 31.0 AT BUCKS, AL",
+        "ref": "02470629",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02470629",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "tidal": "yes",
+        "monitoring:tide_gauge": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0111095,
+          31.00295846
+        ]
+      },
+      "properties": {
+        "name": "Mobile River at Barry Steamplant Intake near Bucks",
+        "official_name": "MOBILE RIVER AT BARRY STEAMPLANT NR BUCKS (INTAKE)",
+        "ref": "02470630",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02470630",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "tidal": "yes",
+        "monitoring:tide_gauge": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1433355,
+          30.80296466
+        ]
+      },
+      "properties": {
+        "name": "Chickasaw Creek near Kushla",
+        "official_name": "CHICKASAW CREEK NEAR KUSHLA AL",
+        "ref": "02471001",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02471001",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "1.042",
+        "ele:accuracy": "0.0488",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1813906,
+          30.50075106
+        ]
+      },
+      "properties": {
+        "name": "Fowl River at Half-Mile Road near Laurendine",
+        "official_name": "FOWL RIVER AT HALF-MILE RD NEAR LAURENDINE, AL.",
+        "ref": "02471078",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02471078",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "5.169",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.417792,
+          30.8624092
+        ]
+      },
+      "properties": {
+        "name": "Escatawpa River near Wilmer",
+        "official_name": "ESCATAWPA RIVER NEAR WILMER, AL",
+        "ref": "02479500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02479500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "14.655",
+        "ele:accuracy": "0.0488",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3338988,
+          30.85601968
+        ]
+      },
+      "properties": {
+        "name": "Big Creek at County Road 63 near Wilmer",
+        "official_name": "BIG CREEK AT COUNTY RD 63 NEAR WILMER, AL.",
+        "ref": "02479945",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02479945",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "38.146",
+        "ele:accuracy": "0.0488",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3188979,
+          30.78018805
+        ]
+      },
+      "properties": {
+        "name": "Crooked Creek near Fairview",
+        "official_name": "CROOKED CREEK NEAR FAIRVIEW, AL.",
+        "ref": "02479980",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02479980",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "35.052",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2763955,
+          30.7260225
+        ]
+      },
+      "properties": {
+        "name": "Hamilton Creek at Snow Road near Semmes",
+        "official_name": "HAMILTON CREEK AT SNOW ROAD NEAR SEMMES, AL.",
+        "ref": "02480002",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02480002",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "35.052",
+        "ele:accuracy": "0.3048",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.9174783,
+          34.93424968
+        ]
+      },
+      "properties": {
+        "name": "Crow Creek at Bass",
+        "official_name": "CROW CREEK AT BASS, AL",
+        "ref": "03572110",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03572110",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "182.502",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.9296966,
+          34.4986981
+        ]
+      },
+      "properties": {
+        "name": "South Sauty Creek near Rainsville",
+        "official_name": "SOUTH SAUTY CREEK NEAR RAINSVILLE, ALA",
+        "ref": "03572690",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03572690",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "335.28",
+        "ele:accuracy": "6.096",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.9902524,
+          34.3784235
+        ]
+      },
+      "properties": {
+        "name": "Town Creek near Geraldine",
+        "official_name": "TOWN CREEK NEAR GERALDINE AL",
+        "ref": "03572900",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03572900",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "305.568",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1683233,
+          34.91
+        ]
+      },
+      "properties": {
+        "name": "Estill Fork at Estillfork",
+        "official_name": "ESTILL FORK AT ESTILLFORK AL",
+        "ref": "03574100",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03574100",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3063737,
+          34.6242547
+        ]
+      },
+      "properties": {
+        "name": "Paint Rock River near Woodville",
+        "official_name": "PAINT ROCK RIVER NEAR WOODVILLE AL",
+        "ref": "03574500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03574500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "174.026",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4636024,
+          34.96092128
+        ]
+      },
+      "properties": {
+        "name": "Hester Creek at Buddy Williamson Road near Plevna",
+        "official_name": "HESTER CREEK AT BUDDY WILLIAMSON RD NR PLEVNA, AL",
+        "ref": "0357479650",
+        "website": "https://waterdata.usgs.gov/monitoring-location/0357479650",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "230.532",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4466551,
+          34.7492568
+        ]
+      },
+      "properties": {
+        "name": "Flint River at Brownsboro",
+        "official_name": "FLINT RIVER AT BROWNSBORO, AL.",
+        "ref": "03575100",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03575100",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "187.732",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.687774,
+          34.4137049
+        ]
+      },
+      "properties": {
+        "name": "Cotaco Creek at Florette",
+        "official_name": "COTACO CREEK AT FLORETTE AL",
+        "ref": "03576148",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03576148",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "170.767",
+        "ele:accuracy": "0.0396",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8233348,
+          34.751757
+        ]
+      },
+      "properties": {
+        "name": "Limestone Creek near Athens",
+        "official_name": "LIMESTONE CREEK NEAR ATHENS AL",
+        "ref": "03576250",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03576250",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "190.945",
+        "ele:accuracy": "0.0305",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.9336049,
+          34.373184
+        ]
+      },
+      "properties": {
+        "name": "Flint Creek near Falkville",
+        "official_name": "FLINT CREEK NEAR FALKVILLE AL",
+        "ref": "03576500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03576500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "174.528",
+        "ele:accuracy": "0.0488",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.9561111,
+          34.5061111
+        ]
+      },
+      "properties": {
+        "name": "Flint Creek at Red Bank Road Southeast near Decatur",
+        "official_name": "FLINT CREEK AT RED BANK RD SE NR DECATUR, AL",
+        "ref": "03577119",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03577119",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "ele": "165.577",
+        "ele:accuracy": "0.0488",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.9463954,
+          34.7639782
+        ]
+      },
+      "properties": {
+        "name": "Swan Creek below Athens",
+        "official_name": "SWAN CREEK BELOW ATHENS, ALA",
+        "ref": "03577225",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03577225",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3172429,
+          34.67009046
+        ]
+      },
+      "properties": {
+        "name": "Big Nance Creek at Courtland",
+        "official_name": "BIG NANCE CREEK AT COURTLAND AL",
+        "ref": "03586500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03586500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "163.888",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7005847,
+          34.8078655
+        ]
+      },
+      "properties": {
+        "name": "Cypress Creek near Florence",
+        "official_name": "CYPRESS CREEK NEAR FLORENCE AL",
+        "ref": "03590000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03590000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "128.863",
+        "ele:accuracy": "0.0457",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7739189,
+          34.28370839
+        ]
+      },
+      "properties": {
+        "name": "Bear Creek near Hackleburg",
+        "official_name": "BEAR CREEK NEAR HACKLEBURG AL",
+        "ref": "03591800",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03591800",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "197.062",
+        "ele:accuracy": "0.0488",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1155963,
+          34.4439866
+        ]
+      },
+      "properties": {
+        "name": "Bear Creek at Redbay",
+        "official_name": "BEAR CREEK AT REDBAY, AL",
+        "ref": "03592000",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03592000",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "154.436",
+        "ele:accuracy": "0.0488",
+        "ele:datum": "NAVD88",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1225408,
+          34.65592635
+        ]
+      },
+      "properties": {
+        "name": "Bear Creek at Bishop",
+        "official_name": "BEAR CREEK AT BISHOP,AL.",
+        "ref": "03592500",
+        "website": "https://waterdata.usgs.gov/monitoring-location/03592500",
+        "man_made": "monitoring_station",
+        "monitoring:water_level": "yes",
+        "monitoring:flow_rate": "yes",
+        "ele": "127.989",
+        "ele:accuracy": "0.003",
+        "ele:datum": "NGVD29",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9586086,
+          31.06712274
+        ]
+      },
+      "properties": {
+        "name": "Tensaw River near Mount Vernon",
+        "official_name": "TENSAW RIVER NR MOUNT VERNON, ALA",
+        "ref": "02471019",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02471019",
+        "man_made": "monitoring_station",
+        "monitoring:flow_rate": "yes",
+        "tidal": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0083498,
+          32.2376437
+        ]
+      },
+      "properties": {
+        "name": "Tombigbee River at Pennington",
+        "official_name": "TOMBIGBEE RIVER AT PENNINGTON AL",
+        "ref": "02469100",
+        "website": "https://waterdata.usgs.gov/monitoring-location/02469100",
+        "man_made": "monitoring_station",
+        "monitoring:water_temperature": "yes",
+        "monitoring:dissolved_oxygen": "yes",
+        "operator": "United States Geological Survey",
+        "operator:short": "USGS",
+        "operator:type": "government",
+        "operator:wikidata": "Q193755"
+      }
+    }
+  ]
+}
