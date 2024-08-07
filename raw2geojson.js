@@ -195,7 +195,7 @@ function cleanName(name) {
     replace("Rte", 'Route');
     replace("Rt", 'Route');
     replace("&", 'and');
-    replace("Met", 'Meteorologic');
+    replace("Met", 'Meteorological');
     replace("HOSP", 'Hot Springs');
     replace("N\\.P\\.", 'National Park');
     replace("Stn", 'Station');
@@ -279,7 +279,10 @@ function cleanName(name) {
     replace("boundary", 'Boundary');
     replace("Mdl", 'Middle');
     replace("M Br", 'Middle Branch');
-    replace("Br", 'Branch');
+    replace("Wwtp", 'Wastewater Treatment Plant');
+    replace("Ww", 'Wastewater');
+    replace("Lwr", 'Lower');
+    //replace("Br", 'Branch');
     replace("SB", 'South Branch');
     replace("NB", 'North Branch');
     replace("EB", 'East Branch');

@@ -65,7 +65,7 @@ fs.readdirSync("./uploaded/").forEach(file => {
         }
     }
     if (!moveDiffedToUploaded) {
-        if (newFeaturesInState.length) fs.writeFileSync('./diffed/' + file, JSON.stringify({
+        if (newFeaturesInState.length) fs.writeFileSync('./diffed/bystate/' + file, JSON.stringify({
             "type": "FeatureCollection",
             "features": newFeaturesInState
         }, null, 2));
@@ -78,7 +78,7 @@ fs.readdirSync("./uploaded/").forEach(file => {
     }
 });
 
-fs.writeFileSync('./diffed.geojson', JSON.stringify({
+fs.writeFileSync('./diffed/all.geojson', JSON.stringify({
     "type": "FeatureCollection",
     "features": newFeatures
 }, null, 2));
