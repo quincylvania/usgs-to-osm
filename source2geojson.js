@@ -30,6 +30,12 @@ let tagsPerFile = {
     'water-temp': {
         'monitoring:water_temperature': 'yes'
     },
+    'conductance': {
+        'monitoring:water_conductivity': 'yes'
+    },
+    'turbidity': {
+        'monitoring:water_turbidity': 'yes'
+    },
     'discharge-tidally-filtered': {
         'tidal': 'yes'
     },
@@ -178,8 +184,8 @@ function cleanName(name) {
     replace("R\\.", 'River');
     replace("R", 'River');
     // often feet instead
-    //replace("Ft\\.", 'Fort');
-    //replace("Ft", 'Fort');
+    replace("Ft\\.", 'Fort');
+    replace("Ft", 'Fort');
     replace("Phila\\.", 'Philadelphia');
     replace("Phila", 'Philadelphia');
     replace("Miami f", 'Miami');
@@ -238,7 +244,8 @@ function cleanName(name) {
     replace("Ave", 'Avenue');
     replace("Pt\\.", 'Point');
     replace("Pt", 'Point');
-    replace("Ushwy", 'US Highway');
+    replace("Ushwy", 'U.S. Route');
+    replace("US Highway", 'U.S. Route');
     replace("Res", 'Reservoir');
     replace("C", 'Creek');
     replace("Cr", 'Creek');
@@ -304,6 +311,8 @@ function cleanName(name) {
     replace("heated", 'Heated');
     replace("unheated", 'Unheated');
     replace("Ctrl", 'Control');
+    replace("Dr", 'Drive');
+    replace("Dr\\.", 'Drive');
     replace("Rd", 'Road');
     replace("Rd,", 'Road,');
     replace("Rd\\.", 'Road');
@@ -381,6 +390,20 @@ function cleanName(name) {
     return name;
 }
 
+function formattedDate(input) {
+    switch (input.length) {
+        case 4:
+            return input;
+        case 6:
+            return input.substring(0, 4) + '-' + input.substring(4, 6);
+        case 8:
+            return input.substring(0, 4) + '-' + input.substring(4, 6) + '-' + input.substring(6, 8);
+        default:
+            console.log(input);
+            process.exit(1);
+    }
+}
+
 let features = [];
 let featuresByState = {};
 Object.values(builtItems).forEach(item => {
@@ -393,8 +416,8 @@ Object.values(builtItems).forEach(item => {
     if (item.alt_va && ['NAVD88', 'NGVD29', 'LMSL', 'COE1912', "PRVD02", "IGLD"].includes(item.alt_datum_cd)) {
         var eleFeet = parseFloat(item.alt_va.trim());
         var accuracyFeet = parseFloat(item.alt_acy_va.trim());
-        if (eleFeet && !isNaN(eleFeet) && eleFeet < 20000 && eleFeet > -280 &&
-            accuracyFeet && !isNaN(accuracyFeet) && accuracyFeet < 200 && accuracyFeet >= 0) {
+        if ((eleFeet || eleFeet === 0) && !isNaN(eleFeet) && eleFeet < 20000 && eleFeet > -280 &&
+            (accuracyFeet || accuracyFeet === 0) && !isNaN(accuracyFeet) && accuracyFeet < 200 && accuracyFeet >= 0) {
 
             item.tags.ele = (Math.round(eleFeet*0.3048*1000)/1000).toString();
             item.tags["ele:accuracy"] = (Math.round(accuracyFeet*0.3048*10000)/10000).toString();
@@ -408,6 +431,17 @@ Object.values(builtItems).forEach(item => {
     }
     // assume water level monitor is a tide gauge if tidal 
     if (item.tags.tidal === 'yes' && item.tags['monitoring:water_level']) item.tags['monitoring:tide_gauge'] = 'yes';
+
+    let constructionDate = item.construction_dt?.length ? formattedDate(item.construction_dt) : null;
+    let inventoryDate = item.inventory_dt?.length ? formattedDate(item.inventory_dt) : null;
+
+    if (constructionDate && inventoryDate) {
+        // we want the construction date, unless the inventory date is more precise and is the same year
+        item.tags.start_date = (inventoryDate.length > constructionDate.length && inventoryDate.substring(0, 4) === constructionDate.substring(0, 4)) ? inventoryDate : constructionDate;
+    } else if (constructionDate || inventoryDate) {
+        // take whatever start date we can get
+        item.tags.start_date = constructionDate ? constructionDate : inventoryDate;
+    }
 
     let jsonFeature = {
         type: "Feature",
@@ -432,6 +466,7 @@ Object.values(builtItems).forEach(item => {
         }
     };
     var state = rawGeoJsonFeature ? rawGeoJsonFeature['properties/stateCode'] : item.basin_cd.substr(0, 2).toUpperCase();
+    jsonFeature.state = state;
     if (!featuresByState[state]) featuresByState[state] = [];
     featuresByState[state].push(jsonFeature);
     features.push(jsonFeature);
