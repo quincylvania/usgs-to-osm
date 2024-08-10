@@ -9,6 +9,7 @@ const array = parse(readFileSync('./usgs/source/all.csv'), csvOpts);
 
 const allItems = {};
 array.forEach(item => {
+    // ignore unexpected site types
     if (item.site_tp_cd.startsWith('GW') ||
         item.site_tp_cd.startsWith('SB') ||
         item.site_tp_cd.startsWith('LA') ||
