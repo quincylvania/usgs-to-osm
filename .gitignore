@@ -1,3 +1,6 @@
-usgs
 diffed
 osm
+usgs
+
+node_modules
+package-lock.json
