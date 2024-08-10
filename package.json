@@ -5,7 +5,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "diff": "node diff.js"
+    "diff": "node diff.js",
+    "fetch_osm": "node fetch-osm.js"
   },
   "author": "Quincy Morgan",
   "license": "ISC",
