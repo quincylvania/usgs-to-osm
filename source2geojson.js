@@ -68,7 +68,7 @@ let tagsPerFile = {
 };
 
 const csvOpts = {columns: true, delimiter: '\t'};
-const array = csv.parse(fs.readFileSync('./source/csv/all'), csvOpts);
+const array = csv.parse(fs.readFileSync('./usgs/source/csv/all'), csvOpts);
 
 const allItems = {};
 array.forEach(item => {
@@ -90,7 +90,7 @@ let excludeTypes = [
     'Agric area',
 ];
 
-const geoJson = JSON.parse(fs.readFileSync('./source/geojson/all.geojson'));
+const geoJson = JSON.parse(fs.readFileSync('./usgs/source/geojson/all.geojson'));
 let geoJsonFeaturesById = {};
 let types = {};
 for (var i in geoJson.features) {
@@ -110,7 +110,7 @@ for (var id in allItems) {
 let builtItems = {};
 
 for (var filename in tagsPerFile) {
-    let array = csv.parse(fs.readFileSync('./source/csv/' + filename), csvOpts);
+    let array = csv.parse(fs.readFileSync('./usgs/source/csv/' + filename), csvOpts);
     array.forEach(item => {
         if (allItems[item.site_no]) {
             if (!builtItems[item.site_no]) {
@@ -484,13 +484,13 @@ for (var state in featuresByState) {
     });
     var filename = state;
     if (!filename) filename = "_nostate";
-    fs.writeFileSync('./output/bystate/' + filename + '.geojson', JSON.stringify({
+    fs.writeFileSync('./usgs/formatted/bystate/' + filename + '.geojson', JSON.stringify({
         type: "FeatureCollection",
         features: featuresByState[state]
     }, null, 2));
 }
 console.log(features.length);
-fs.writeFileSync('./output/all.geojson', JSON.stringify({
+fs.writeFileSync('./usgs/formatted/all.geojson', JSON.stringify({
     type: "FeatureCollection",
     features: features
 }, null, 2));

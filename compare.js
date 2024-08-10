@@ -30,13 +30,13 @@ const isIdenticalShallow = (obj1, obj2) =>
 var newFeatures = [];
 var outdatedFeatureRefs = [];
 
-fs.readdirSync("./uploaded/").forEach(file => {
+fs.readdirSync("./usgs/reviewed/").forEach(file => {
 
     var newFeaturesInState = [];
 
-    var uploaded = indexedFeatures(JSON.parse(fs.readFileSync("./uploaded/" + file)).features);
+    var uploaded = indexedFeatures(JSON.parse(fs.readFileSync("./usgs/reviewed/" + file)).features);
     var diffed = fs.existsSync("./diffed/" + file) ? indexedFeatures(JSON.parse(fs.readFileSync("./diffed/" + file)).features) : {};
-    var latest = indexedFeatures(JSON.parse(fs.readFileSync("./output/bystate/" + file)).features);
+    var latest = indexedFeatures(JSON.parse(fs.readFileSync("./usgs/formatted/bystate/" + file)).features);
 
     if (moveDiffedToUploaded) {
         Object.assign(uploaded, diffed)

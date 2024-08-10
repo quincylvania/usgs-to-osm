@@ -1,3 +1,4 @@
-output
-source/geojson/paginated
+usgs/formatted
+usgs/source/geojson/paginated
 diffed
+osm
