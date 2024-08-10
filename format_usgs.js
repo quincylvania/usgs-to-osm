@@ -2,7 +2,7 @@
 import { parse } from 'csv-parse/sync';
 import { readFileSync, writeFileSync } from 'fs';
 
-const conversionKey = JSON.parse(readFileSync('./conversion_key.json'));
+const conversionMap = JSON.parse(readFileSync('./conversion_map.json'));
 
 const csvOpts = {columns: true, delimiter: '\t'};
 const array = parse(readFileSync('./usgs/source/csv/all.csv'), csvOpts);
@@ -18,7 +18,7 @@ array.forEach(item => {
 
 const builtItems = {};
 
-for (var filename in conversionKey) {
+for (var filename in conversionMap) {
     let array = parse(readFileSync('./usgs/source/csv/' + filename + '.csv'), csvOpts);
     array.forEach(item => {
         if (allItems[item.site_no]) {
@@ -26,7 +26,7 @@ for (var filename in conversionKey) {
                 builtItems[item.site_no] = Object.assign({}, allItems[item.site_no]);
                 builtItems[item.site_no].tags = {};
             }
-            Object.assign(builtItems[item.site_no].tags, conversionKey[filename].tags);
+            Object.assign(builtItems[item.site_no].tags, conversionMap[filename].tags);
         }
     });
 }

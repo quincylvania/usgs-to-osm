@@ -1,7 +1,7 @@
 import { readFileSync, writeFileSync } from 'fs';
 import { request } from 'https';
 
-var conversionKey = JSON.parse(readFileSync('./conversion_key.json'));
+var conversionMap = JSON.parse(readFileSync('./conversion_map.json'));
 
 function buildUrl(codesString) {
   if (!codesString) codesString = '';
@@ -28,8 +28,8 @@ async function getAndSave(remoteUrl, localUrl) {
 }
 await getAndSave(buildUrl(), `./usgs/source/csv/all.csv`);
 
-for (let filename in conversionKey) {
-  let codes = conversionKey[filename].codes;
+for (let filename in conversionMap) {
+  let codes = conversionMap[filename].codes;
   let codesString = '';
   for (let i in codes) {
     let code = codes[i];

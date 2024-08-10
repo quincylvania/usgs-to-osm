@@ -1,28 +1,14 @@
 import { readFileSync, writeFileSync, readdirSync, rmSync } from 'fs';
 
-let keys = [
-    'monitoring:precipitation',
-    'monitoring:water_level',
-    'monitoring:flow_rate',
-    'monitoring:water_velocity',
-    'monitoring:air_temperature',
-    'monitoring:air_humidity',
-    'monitoring:air_pressure',
-    'monitoring:water_temperature',
-    'monitoring:water_conductivity',
-    'monitoring:water_turbidity',
-    'monitoring:dissolved_oxygen',
-    'monitoring:tide_gauge',
-    'monitoring:salinity',
-    'monitoring:water_pH',
-    'monitoring:wind_direction',
-    'monitoring:wind_speed',
-    'start_date',
+const conversionMap = JSON.parse(readFileSync('./conversion_map.json'));
+
+let keys = [...new Set(Object.values(conversionMap).map(obj => Object.keys(obj.tags)).flat())];
+keys = keys.concat([
     'ele',
     'ele:accuracy',
     'ele:datum',
-    'tidal'
-];
+    'start_date',
+]);
 
 let osm = JSON.parse(readFileSync('./osm/all.json'));
 let usgs = JSON.parse(readFileSync('./usgs/formatted/all.geojson'));
