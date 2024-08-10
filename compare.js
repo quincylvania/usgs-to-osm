@@ -1,4 +1,4 @@
-const fs = require('fs');
+import { readdirSync, readFileSync, existsSync, writeFileSync } from 'fs';
 
 var ignoreKeys = ['name', 'fixme'];
 
@@ -30,13 +30,13 @@ const isIdenticalShallow = (obj1, obj2) =>
 var newFeatures = [];
 var outdatedFeatureRefs = [];
 
-fs.readdirSync("./usgs/reviewed/").forEach(file => {
+readdirSync("./usgs/reviewed/").forEach(file => {
 
     var newFeaturesInState = [];
 
-    var uploaded = indexedFeatures(JSON.parse(fs.readFileSync("./usgs/reviewed/" + file)).features);
-    var diffed = fs.existsSync("./diffed/" + file) ? indexedFeatures(JSON.parse(fs.readFileSync("./diffed/" + file)).features) : {};
-    var latest = indexedFeatures(JSON.parse(fs.readFileSync("./usgs/formatted/bystate/" + file)).features);
+    var uploaded = indexedFeatures(JSON.parse(readFileSync("./usgs/reviewed/" + file)).features);
+    var diffed = existsSync("./diffed/" + file) ? indexedFeatures(JSON.parse(readFileSync("./diffed/" + file)).features) : {};
+    var latest = indexedFeatures(JSON.parse(readFileSync("./usgs/formatted/bystate/" + file)).features);
 
     if (moveDiffedToUploaded) {
         Object.assign(uploaded, diffed)
@@ -65,20 +65,20 @@ fs.readdirSync("./usgs/reviewed/").forEach(file => {
         }
     }
     if (!moveDiffedToUploaded) {
-        if (newFeaturesInState.length) fs.writeFileSync('./diffed/bystate/' + file, JSON.stringify({
+        if (newFeaturesInState.length) writeFileSync('./diffed/bystate/' + file, JSON.stringify({
             "type": "FeatureCollection",
             "features": newFeaturesInState
         }, null, 2));
     }
     if (overwriteUploaded) {
-        fs.writeFileSync("./uploaded/" + file,  JSON.stringify({
+        writeFileSync("./uploaded/" + file,  JSON.stringify({
             "type": "FeatureCollection",
             "features": Object.values(uploaded)
         }, null, 2));
     }
 });
 
-fs.writeFileSync('./diffed/all.geojson', JSON.stringify({
+writeFileSync('./diffed/all.geojson', JSON.stringify({
     "type": "FeatureCollection",
     "features": newFeatures
 }, null, 2));

@@ -1,4 +1,4 @@
-const fs = require('fs');
+import { readFileSync, writeFileSync, readdirSync, rmSync } from 'fs';
 
 let keys = [
     'monitoring:precipitation',
@@ -24,8 +24,8 @@ let keys = [
     'tidal'
 ];
 
-let osm = JSON.parse(fs.readFileSync('./osm/downloaded.json'));
-let usgs = JSON.parse(fs.readFileSync('./usgs/formatted/all.geojson'));
+let osm = JSON.parse(readFileSync('./osm/all.json'));
+let usgs = JSON.parse(readFileSync('./usgs/formatted/all.geojson'));
 
 let osmByRef = {};
 osm.elements.forEach(function(feature) {
@@ -85,18 +85,18 @@ function osmChangeXmlForFeatures(features) {
     return xml;
 }
 
-fs.writeFileSync('./diffed/modified/all.osc', osmChangeXmlForFeatures(updated));
+writeFileSync('./diffed/modified/all.osc', osmChangeXmlForFeatures(updated));
 
 function clearDirectory(dir) {
-    fs.readdirSync(dir).forEach(f => fs.rmSync(`${dir}/${f}`));
+    readdirSync(dir).forEach(f => rmSync(`${dir}/${f}`));
 }
 
 clearDirectory('./diffed/modified/bystate/');
 for (var state in updatedByState) {
-    fs.writeFileSync('./diffed/modified/bystate/' + state + '.osc', osmChangeXmlForFeatures(updatedByState[state]));
+    writeFileSync('./diffed/modified/bystate/' + state + '.osc', osmChangeXmlForFeatures(updatedByState[state]));
 }
 
-fs.writeFileSync('./diffed/osm-only/all.json', JSON.stringify(osmOnlyFeatures, null, 2));
+writeFileSync('./diffed/osm-only/all.json', JSON.stringify(osmOnlyFeatures, null, 2));
 
 console.log('Modified, needs upload: ' + updated.length);
 console.log('In OSM, not in USGS, needs review: ' + osmOnlyFeatures.length);
