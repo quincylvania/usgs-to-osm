@@ -1,6 +1,54 @@
-import { readFileSync, writeFileSync, readdirSync, rmSync } from 'fs';
+import { readFileSync, writeFileSync, readdirSync, rmSync, mkdirSync } from 'fs';
+
+const regions = {
+    "Northeast": [
+        'ME', 'NH', 'VT', 'CT', 'MA', 'RI', 'NY', 'NJ', 'PA', "NB", "QC"
+    ],
+    "MidAtlantic": [
+        'DE', 'MD', 'DC', 'WV', 'VA', "NC", "KY", "TN",
+    ],
+    "FourCorners": [
+        'CO', 'UT', 'NM', 'AZ',
+    ],
+    "PacificNorthwest": [
+        'WA', 'OR',
+    ],
+    "NorthernRockies": [
+        'ID', 'MT', 'WY'
+    ],
+    "SouthCentral": [
+        'TX', 'OK', 'AR', 'LA'
+    ],
+    "Southeast": [
+        "MS", 'AL', "SC", 
+    ],
+    "GreatLakes": [
+        "IL", "IN", "OH", "MI", "WI"
+    ],
+    "NorthernPrairie": [
+        "SD", "ND", "MN"
+    ],
+    "Central": [
+        "NE", "IA", "KS", "MO"
+    ]
+};
+const regionsByState = {};
+for (let region in regions) {
+    regions[region].forEach(state => {
+        regionsByState[state] = region;
+    });
+}
 
 const conversionMap = JSON.parse(readFileSync('./conversion_map.json'));
+
+function clearDirectory(dir) {
+    readdirSync(dir).forEach(f => rmSync(`${dir}${f}`, { recursive: true }));
+}
+clearDirectory('./diffed/');
+
+mkdirSync('./diffed/modified/bystate/', { recursive: true });
+mkdirSync('./diffed/usgs_only/bystate/', { recursive: true });
+mkdirSync('./diffed/osm_only/', { recursive: true });
 
 let keys = [...new Set(Object.values(conversionMap).map(obj => Object.keys(obj.tags)).flat())];
 keys = keys.concat([
@@ -27,8 +75,10 @@ usgs.features.forEach(function(feature) {
 
 let updated = [];
 let updatedByState = {};
+let usgsOnlyByState = {};
 
 let osmOnlyFeatures = [];
+let usgsOnlyFeatures = [];
 
 for (let ref in osmByRef) {
     let osmFeature = osmByRef[ref];
@@ -44,12 +94,25 @@ for (let ref in osmByRef) {
         }
         if (didUpdate) {
             let key = latest.state ? latest.state : '_nostate';
+            if (regionsByState[key]) key = regionsByState[key];
             if (!updatedByState[key]) updatedByState[key] = [];
             updatedByState[key].push(osmFeature);
             updated.push(osmFeature);
         }
     } else {
         osmOnlyFeatures.push(osmFeature);
+    }
+}
+
+for (let ref in usgsByRef) {
+    let usgsFeature = usgsByRef[ref];
+    if (!osmByRef[ref]) {
+        let key = usgsFeature.state ? usgsFeature.state : '_nostate';
+        delete usgsFeature.state;
+        if (regionsByState[key]) key = regionsByState[key];
+        if (!usgsOnlyByState[key]) usgsOnlyByState[key] = [];
+        usgsOnlyByState[key].push(usgsFeature);
+        usgsOnlyFeatures.push(usgsFeature);
     }
 }
 
@@ -71,18 +134,25 @@ function osmChangeXmlForFeatures(features) {
     return xml;
 }
 
-writeFileSync('./diffed/modified/all.osc', osmChangeXmlForFeatures(updated));
-
-function clearDirectory(dir) {
-    readdirSync(dir).forEach(f => rmSync(`${dir}/${f}`));
+function geoJsonForFeature(features) {
+    return {
+        "type": "FeatureCollection",
+        "features": features
+    };
 }
 
-clearDirectory('./diffed/modified/bystate/');
 for (let state in updatedByState) {
     writeFileSync('./diffed/modified/bystate/' + state + '.osc', osmChangeXmlForFeatures(updatedByState[state]));
 }
+writeFileSync('./diffed/modified/all.osc', osmChangeXmlForFeatures(updated));
 
-writeFileSync('./diffed/osm-only/all.json', JSON.stringify(osmOnlyFeatures, null, 2));
+for (let state in usgsOnlyByState) {
+    writeFileSync('./diffed/usgs_only/bystate/' + state + '.geojson', JSON.stringify(geoJsonForFeature(usgsOnlyByState[state]), null, 2));
+}
+writeFileSync('./diffed/usgs_only/all.geojson', JSON.stringify(geoJsonForFeature(usgsOnlyFeatures), null, 2));
+
+writeFileSync('./diffed/osm_only/all.json', JSON.stringify(osmOnlyFeatures, null, 2));
 
 console.log('Modified, needs upload: ' + updated.length);
-console.log('In OSM, not in USGS, needs review: ' + osmOnlyFeatures.length);
+console.log('In OSM but not USGS, needs review: ' + osmOnlyFeatures.length);
+console.log('In USGS but not OSM, needs review and upload: ' + usgsOnlyFeatures.length);
