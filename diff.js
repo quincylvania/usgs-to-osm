@@ -39,7 +39,7 @@ for (let region in regions) {
     });
 }
 
-const conversionMap = JSON.parse(readFileSync('./conversion_map.json'));
+const conversionMap = JSON.parse(readFileSync('./monitoring_type_metadata.json'));
 
 function clearDirectory(dir) {
     readdirSync(dir).forEach(f => rmSync(`${dir}${f}`, { recursive: true }));
