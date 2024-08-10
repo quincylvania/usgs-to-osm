@@ -1,0 +1,395 @@
+{
+  "air_temperature": {
+    "tags": {
+      "monitoring:air_temperature": "yes"
+    },
+    "codes": [
+      "00020",
+      "00021"
+    ]
+  },
+  "air_pressure": {
+    "tags": {
+      "monitoring:air_pressure": "yes"
+    },
+    "codes": [
+      "00025",
+      "62602",
+      "62603",
+      "62604",
+      "62605",
+      "62606",
+      "62607",
+      "72164",
+      "72204",
+      "72412",
+      "75969"
+    ]
+  },
+  "air_humidity": {
+    "tags": {
+      "monitoring:air_humidity": "yes"
+    },
+    "codes": [
+      "00052"
+    ]
+  },
+  "wind_speed": {
+    "tags": {
+      "monitoring:wind_speed": "yes"
+    },
+    "codes": [
+      "00035",
+      "61727",
+      "61728",
+      "62625",
+      "72269",
+      "82127"
+    ]
+  },
+  "wind_direction": {
+    "tags": {
+      "monitoring:wind_direction": "yes"
+    },
+    "codes": [
+      "00036",
+      "61729"
+    ]
+  },
+  "water_temperature": {
+    "tags": {
+      "monitoring:water_temperature": "yes"
+    },
+    "codes": [
+      "00010",
+      "00011",
+      "99976",
+      "99980",
+      "99984"
+    ]
+  },
+  "water_turbidity": {
+    "tags": {
+      "monitoring:water_turbidity": "yes"
+    },
+    "codes": [
+      "00070",
+      "00075",
+      "00076",
+      "01350",
+      "61028",
+      "63675",
+      "63676",
+      "63677",
+      "63678",
+      "63679",
+      "63680",
+      "63681",
+      "63682",
+      "63683",
+      "63684",
+      "72188",
+      "72208",
+      "72209",
+      "72213",
+      "72337"
+    ]
+  },
+  "water_volume_flow_rate": {
+    "tags": {
+      "monitoring:flow_rate": "yes"
+    },
+    "codes": [
+      "00059",
+      "00060",
+      "00061",
+      "30208",
+      "30209",
+      "50042",
+      "50051",
+      "74072",
+      "72243",
+      "99060",
+      "99061"
+    ]
+  },
+  "water_volume_flow_rate_tidal": {
+    "tags": {
+      "monitoring:flow_rate": "yes",
+      "tidal": "yes"
+    },
+    "codes": [
+      "72137",
+      "72138",
+      "72139"
+    ]
+  },
+  "water_velocity": {
+    "tags": {
+      "monitoring:water_velocity": "yes"
+    },
+    "codes": [
+      "00055",
+      "70232",
+      "72149",
+      "72190",
+      "72254",
+      "72321",
+      "72322",
+      "72323",
+      "81380",
+      "81904"
+    ]
+  },
+  "water_velocity_tidal": {
+    "tags": {
+      "monitoring:water_velocity": "yes",
+      "tidal": "yes"
+    },
+    "codes": [
+      "72168",
+      "72169"
+    ]
+  },
+  "water_level": {
+    "tags": {
+      "monitoring:water_level": "yes"
+    },
+    "codes": [
+      "00065",
+      "30207",
+      "63158",
+      "63159",
+      "63160",
+      "63161",
+      "72361",
+      "72362",
+      "72363",
+      "72364",
+      "72365",
+      "72366",
+      "72367",
+      "72368",
+      "00062",
+      "62614",
+      "62615",
+      "62616",
+      "62617",
+      "62618",
+      "72214",
+      "72215",
+      "72264",
+      "72265",
+      "72275",
+      "72376",
+      "72377",
+      "72378",
+      "72379",
+      "72380",
+      "72381",
+      "72382"
+    ]
+  },
+  "water_level_tidal": {
+    "tags": {
+      "monitoring:water_level": "yes",
+      "monitoring:tide_gauge": "yes",
+      "tidal": "yes"
+    },
+    "codes": [
+      "00067",
+      "62619",
+      "62620",
+      "62621",
+      "62622",
+      "62623",
+      "62624",
+      "72170",
+      "72171",
+      "72276",
+      "72279",
+      "72346",
+      "72347",
+      "72369",
+      "72370",
+      "72371",
+      "72372",
+      "72373",
+      "72374",
+      "72383",
+      "72384",
+      "72385",
+      "72386",
+      "72387",
+      "72388"
+    ]
+  },
+  "water_pH": {
+    "tags": {
+      "monitoring:water_pH": "yes"
+    },
+    "codes": [
+      "00400",
+      "00403",
+      "00408",
+      "52887",
+      "72429",
+      "99975",
+      "99979",
+      "99983"
+    ]
+  },
+  "water_salinity": {
+    "tags": {
+      "monitoring:salinity": "yes"
+    },
+    "codes": [
+      "00096",
+      "00480",
+      "70305",
+      "90860",
+      "90862"
+    ]
+  },
+  "water_salinity_tidal": {
+    "tags": {
+      "monitoring:salinity": "yes",
+      "tidal": "yes"
+    },
+    "codes": [
+      "72401"
+    ]
+  },
+  "water_conductivity": {
+    "tags": {
+      "monitoring:water_conductivity": "yes"
+    },
+    "codes": [
+      "00094",
+      "00095",
+      "00402",
+      "72430",
+      "99974",
+      "99978",
+      "99982"
+    ]
+  },
+  "water_dissolved_oxygen": {
+    "tags": {
+      "monitoring:dissolved_oxygen": "yes"
+    },
+    "codes": [
+      "00300",
+      "00301",
+      "72210",
+      "85550",
+      "85573",
+      "99420",
+      "99977",
+      "99981",
+      "99985"
+    ]
+  },
+  "soil_temperature": {
+    "tags": {
+      "monitoring:soil_temperature": "yes"
+    },
+    "codes": [
+      "62846",
+      "72253",
+      "81027"
+    ]
+  },
+  "soil_pH": {
+    "tags": {
+      "monitoring:soil_pH": "yes"
+    },
+    "codes": [
+      "68921",
+      "68922",
+      "82583"
+    ]
+  },
+  "snow_temperature": {
+    "tags": {
+      "monitoring:snow_temperature": "yes"
+    },
+    "codes": [
+      "81029"
+    ]
+  },
+  "snow_depth": {
+    "tags": {
+      "monitoring:snow_depth": "yes"
+    },
+    "codes": [
+      "72189",
+      "72198",
+      "82300",
+      "99243"
+    ]
+  },
+  "precipitation": {
+    "tags": {
+      "monitoring:precipitation": "yes"
+    },
+    "codes": [
+      "00045",
+      "00046",
+      "00118",
+      "00119",
+      "00120",
+      "00121",
+      "00122",
+      "00123",
+      "00124",
+      "00125",
+      "00126",
+      "00127",
+      "00128",
+      "00129",
+      "00193",
+      "46529",
+      "72131",
+      "72192",
+      "72194",
+      "72291",
+      "72424",
+      "82381",
+      "85599",
+      "99772"
+    ]
+  },
+  "precipitation_pH": {
+    "tags": {
+      "monitoring:precipitation_pH": "yes"
+    },
+    "codes": [
+      "83104",
+      "83106",
+      "83107",
+      "83386",
+      "83388",
+      "83389"
+    ]
+  },
+  "precipitation_conductivity": {
+    "tags": {
+      "monitoring:precipitation_conductivity": "yes"
+    },
+    "codes": [
+      "83150",
+      "83151",
+      "83153",
+      "83154",
+      "83155",
+      "83156",
+      "83432",
+      "83433",
+      "83435",
+      "83436",
+      "83437",
+      "83438"
+    ]
+  }
+}

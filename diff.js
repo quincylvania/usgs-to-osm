@@ -14,7 +14,7 @@ let keys = [
     'monitoring:dissolved_oxygen',
     'monitoring:tide_gauge',
     'monitoring:salinity',
-    'monitoring:pH',
+    'monitoring:water_pH',
     'monitoring:wind_direction',
     'monitoring:wind_speed',
     'start_date',
@@ -69,15 +69,15 @@ for (let ref in osmByRef) {
 
 function osmChangeXmlForFeatures(features) {
     function xmlForFeature(feature) {
-        var xml = `<node id="${feature.id}" version="${feature.version}" lat="${feature.lat}" lon="${feature.lon}">\n`;
-        for (var key in feature.tags) {
+        let xml = `<node id="${feature.id}" version="${feature.version}" lat="${feature.lat}" lon="${feature.lon}">\n`;
+        for (let key in feature.tags) {
             xml += `<tag k="${key}" v="${feature.tags[key].replaceAll('&', '&amp;').replaceAll('<', '&lt;').replaceAll('"', '&quot;')}"/>\n`;
         }
         xml += '</node>\n';
         return xml;
     }
     
-    var xml = `<osmChange version="0.6">\n<modify>\n`;
+    let xml = `<osmChange version="0.6">\n<modify>\n`;
     features.forEach(function(feature) {
         xml += xmlForFeature(feature);
     });
@@ -92,7 +92,7 @@ function clearDirectory(dir) {
 }
 
 clearDirectory('./diffed/modified/bystate/');
-for (var state in updatedByState) {
+for (let state in updatedByState) {
     writeFileSync('./diffed/modified/bystate/' + state + '.osc', osmChangeXmlForFeatures(updatedByState[state]));
 }
 

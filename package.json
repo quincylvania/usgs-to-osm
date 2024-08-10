@@ -6,7 +6,9 @@
   "main": "index.js",
   "scripts": {
     "diff": "node diff.js",
-    "fetch_osm": "node fetch-osm.js"
+    "fetch_osm": "node fetch_osm.js",
+    "fetch_usgs": "node fetch_usgs.js",
+    "format_usgs": "node format_usgs.js"
   },
   "author": "Quincy Morgan",
   "license": "ISC",

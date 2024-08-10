@@ -10,9 +10,10 @@ node["man_made"="monitoring_station"]["operator:wikidata"="Q193755"]["ref"];
 
 var postData = "data="+encodeURIComponent(query);
 
+console.log("Running Overpass query… this may take some time");
 await post('https://overpass-api.de/api/interpreter', postData).then(function(response) {
   writeFileSync('./osm/all.json', response);
-  console.log("success");
+  console.log("Wrote data to ./osm/all.json");
 });
 
 function post(url, dataString) {

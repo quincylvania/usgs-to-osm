@@ -2,123 +2,31 @@
 import { parse } from 'csv-parse/sync';
 import { readFileSync, writeFileSync } from 'fs';
 
-let tagsPerFile = {
-    'precipitation': {
-        'monitoring:precipitation': 'yes'
-    },
-    'gage-height-ft': {
-        'monitoring:water_level': 'yes'
-    },
-    'lake-reservoir-elevation': {
-        'monitoring:water_level': 'yes'
-    },
-    'streamflow-cuft-s': {
-        'monitoring:flow_rate': 'yes'
-    },
-    'water-velocity-ft-s': {
-        'monitoring:water_velocity': 'yes'
-    },
-    'air-temp': {
-        'monitoring:air_temperature': 'yes'
-    },
-    'relative-humidity': {
-        'monitoring:air_humidity': 'yes'
-    },
-    'barometric-pressure': {
-        'monitoring:air_pressure': 'yes'
-    },
-    'water-temp': {
-        'monitoring:water_temperature': 'yes'
-    },
-    'conductance': {
-        'monitoring:water_conductivity': 'yes'
-    },
-    'turbidity': {
-        'monitoring:water_turbidity': 'yes'
-    },
-    'discharge-tidally-filtered': {
-        'tidal': 'yes'
-    },
-    'tide-discharge': {
-        'tidal': 'yes'
-    },
-    'tidal-elevation': {
-        'tidal': 'yes',
-        'monitoring:water_level': 'yes',
-        'monitoring:tide_gauge': 'yes'
-    },
-    'dissolved-o2-mg-l': {
-        'monitoring:dissolved_oxygen': 'yes'
-    },
-    'dissolved-o2-percent-saturation': {
-        'monitoring:dissolved_oxygen': 'yes'
-    },
-    'salinity': {
-        'monitoring:salinity': 'yes'
-    },
-    'water-ph-unfiltered': {
-        'monitoring:pH': 'yes'
-    },
-    'wind-direction': {
-        'monitoring:wind_direction': 'yes'
-    },
-    'wind-speed': {
-        'monitoring:wind_speed': 'yes'
-    }
-};
+const conversionKey = JSON.parse(readFileSync('./conversion_key.json'));
 
 const csvOpts = {columns: true, delimiter: '\t'};
-const array = parse(readFileSync('./usgs/source/csv/all'), csvOpts);
+const array = parse(readFileSync('./usgs/source/csv/all.csv'), csvOpts);
 
 const allItems = {};
 array.forEach(item => {
+    if (item.site_tp_cd.startsWith('GW') ||
+        item.site_tp_cd.startsWith('SB') ||
+        item.site_tp_cd.startsWith('LA') ||
+        item.site_tp_cd.startsWith('FA')) return;
     allItems[item.site_no] = item;
 });
 
-let excludeTypes = [
-    'Well',
-    'Field, Pasture, Orchard, or Nursery',
-    'Land',
-    'Multiple wells',
-    'Extensometer well',
-    'Test hole not completed as a well',
-    'Collector or Ranney type well',
-    'Soil hole',
-    'Laboratory or sample-preparation area',
-    'Subsurface',
-    'Unsaturated zone',
-    'Agric area',
-];
+const builtItems = {};
 
-const geoJson = JSON.parse(readFileSync('./usgs/source/geojson/all.geojson'));
-let geoJsonFeaturesById = {};
-let types = {};
-for (var i in geoJson.features) {
-    var feature = geoJson.features[i];
-    var id = feature.properties['properties/monitoringLocationNumber'];
-    var type = feature.properties['properties/monitoringLocationType'];
-    types[type] = true;
-    geoJsonFeaturesById[id] = feature;
-}
-for (var id in allItems) {
-    var feature = geoJsonFeaturesById[id];
-    if (feature && excludeTypes.includes(feature.properties['properties/monitoringLocationType'])) {
-        delete allItems[id];
-    }
-}
-
-let builtItems = {};
-
-for (var filename in tagsPerFile) {
-    let array = parse(readFileSync('./usgs/source/csv/' + filename), csvOpts);
+for (var filename in conversionKey) {
+    let array = parse(readFileSync('./usgs/source/csv/' + filename + '.csv'), csvOpts);
     array.forEach(item => {
         if (allItems[item.site_no]) {
             if (!builtItems[item.site_no]) {
                 builtItems[item.site_no] = Object.assign({}, allItems[item.site_no]);
                 builtItems[item.site_no].tags = {};
             }
-            
-            Object.assign(builtItems[item.site_no].tags, tagsPerFile[filename]);
+            Object.assign(builtItems[item.site_no].tags, conversionKey[filename].tags);
         }
     });
 }
@@ -409,11 +317,7 @@ let featuresByState = {};
 Object.values(builtItems).forEach(item => {
     if (!item.dec_lat_va || !item.dec_long_va) return;
 
-    //console.log(item.site_no + ' | ' + cleanName(item.station_nm));
-
-    let rawGeoJsonFeature = geoJsonFeaturesById[item.site_no]?.properties;
-
-    if (rawGeoJsonFeature && ['Tidal stream', 'Ocean', 'Coastal', 'Estuary'].includes(rawGeoJsonFeature['properties/monitoringLocationType'])) {
+    if (['ST-TS', 'OC', 'OC-CO', 'ES'].includes(item.site_tp_cd)) {
         // assume tidal if certain types
         item.tags.tidal = 'yes';
     }
@@ -468,7 +372,7 @@ Object.values(builtItems).forEach(item => {
             "operator:wikidata": "Q193755",
         }
     };
-    var state = rawGeoJsonFeature ? rawGeoJsonFeature['properties/stateCode'] : item.basin_cd.substr(0, 2).toUpperCase();
+    var state = item.basin_cd.substr(0, 2).toUpperCase();
     jsonFeature.state = state;
     if (!featuresByState[state]) featuresByState[state] = [];
     featuresByState[state].push(jsonFeature);
