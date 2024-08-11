@@ -16,10 +16,8 @@ const array = parse(readFileSync('./usgs/source/all.csv'), csvOpts);
 
 const allItems = {};
 array.forEach(item => {
-    // ignore unexpected site types
-    if (item.site_tp_cd.startsWith('GW') ||
-        item.site_tp_cd.startsWith('LA') ||
-        item.site_tp_cd.startsWith('FA')) return;
+    // ignore groundwater sites for now
+    if (item.site_tp_cd.startsWith('GW')) return;
     allItems[item.site_no] = item;
 });
 
@@ -132,7 +130,8 @@ function cleanName(name) {
     replace("Winter P", 'Winter Park');
     replace("Nat Mon", 'National Monument');
     replace("Confl", 'Confluence');
-    replace("Precip", 'Precipitation');
+    replace("Precip Gage", 'Precipitation Gage');
+    replace("Precip", 'Precipitation Gage');
     replace("Precipitation at", 'Precipitation Gage at');
     replace("ds", 'downstream');
     replace("US of", 'upstream of');
