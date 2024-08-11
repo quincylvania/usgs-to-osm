@@ -1,6 +1,8 @@
-import { readFileSync, writeFileSync, readdirSync, rmSync, mkdirSync } from 'fs';
+import { existsSync, readFileSync, writeFileSync, readdirSync, rmSync, mkdirSync } from 'fs';
 
-const regions = {
+const conversionMap = JSON.parse(readFileSync('./monitoring_type_metadata.json'));
+
+const statesByRegion = {
     "Northeast": [
         'ME', 'NH', 'VT', 'CT', 'MA', 'RI', 'NY', 'NJ', 'PA', "NB", "QC"
     ],
@@ -33,16 +35,14 @@ const regions = {
     ]
 };
 const regionsByState = {};
-for (let region in regions) {
-    regions[region].forEach(state => {
+for (let region in statesByRegion) {
+    statesByRegion[region].forEach(state => {
         regionsByState[state] = region;
     });
 }
 
-const conversionMap = JSON.parse(readFileSync('./monitoring_type_metadata.json'));
-
 function clearDirectory(dir) {
-    readdirSync(dir).forEach(f => rmSync(`${dir}${f}`, { recursive: true }));
+    if (existsSync(dir)) readdirSync(dir).forEach(f => rmSync(`${dir}${f}`, { recursive: true }));
 }
 clearDirectory('./diffed/');
 
@@ -62,14 +62,19 @@ let osm = JSON.parse(readFileSync('./osm/all.json'));
 let usgs = JSON.parse(readFileSync('./usgs/formatted/all.geojson'));
 
 let osmByRef = {};
+let osmByLoc = {};
 osm.elements.forEach(function(feature) {
-    if (osmByRef[feature.tags.ref]) console.log('duplicate OSM elements for ' + feature.tags.ref);
+    if (osmByRef[feature.tags.ref]) console.log('Duplicate OSM elements for: ' + feature.tags.ref);
     osmByRef[feature.tags.ref] = feature;
+
+    let loc = feature.lon + "," + feature.lat;
+    if (osmByLoc[loc]) console.log(`OSM elements have the same location: ${osmByLoc[loc].id} and ${feature.id}`);
+    osmByLoc[loc] = feature;
 });
 
 let usgsByRef = {};
 usgs.features.forEach(function(feature) {
-    if (usgsByRef[feature.properties.ref]) console.log('duplicate USGS elements for ' + feature.tags.ref);
+    if (usgsByRef[feature.properties.ref]) console.log('Duplicate USGS elements for: ' + feature.tags.ref);
     usgsByRef[feature.properties.ref] = feature;
 });
 
@@ -107,6 +112,15 @@ for (let ref in osmByRef) {
 for (let ref in usgsByRef) {
     let usgsFeature = usgsByRef[ref];
     if (!osmByRef[ref]) {
+
+        let loc = usgsFeature.geometry.coordinates[0] + "," + usgsFeature.geometry.coordinates[1];
+        if (osmByLoc[loc]) {
+            console.log(`Offsetting coordinates to avoid overlapping nodes: ${ref}`);
+            usgsFeature.geometry.coordinates[0] += 0.00001;
+            loc = usgsFeature.geometry.coordinates[0] + "," + usgsFeature.geometry.coordinates[1];
+        }
+        osmByLoc[loc] = true;
+
         let key = usgsFeature.state ? usgsFeature.state : '_nostate';
         delete usgsFeature.state;
         if (regionsByState[key]) key = regionsByState[key];

@@ -11,7 +11,6 @@ const allItems = {};
 array.forEach(item => {
     // ignore unexpected site types
     if (item.site_tp_cd.startsWith('GW') ||
-        item.site_tp_cd.startsWith('SB') ||
         item.site_tp_cd.startsWith('LA') ||
         item.site_tp_cd.startsWith('FA')) return;
     allItems[item.site_no] = item;
@@ -41,7 +40,8 @@ function toTitleCase(str) {
     );
 }
 
-const stateCodes = ['AL', 'AK', 'AS', 'AZ', 'AR', 'CA', 'CO', 'CT', 'DE', 'DC', 'FM', 'FL', 'GA', 'GU', 'HI', 'ID', 'IL', 'IN', 'IA', 'KS', 'KY', 'LA', 'ME', 'MH', 'MD', 'MA', 'MI', 'MN', 'MS', 'MO', 'MT', 'NE', 'NV', 'NH', 'NJ', 'NM', 'NY', 'NC', 'ND', 'MP', 'OH', 'OK', 'OR', 'PW', 'PA', 'PR', 'RI', 'SC', 'SD', 'TN', 'TX', 'UT', 'VT', 'VI', 'VA', 'WA', 'WV', 'WI', 'WY', 'MB', 'SK', 'BC', 'AL', 'QC', 'ON', 'NB', 'YT'];
+// "Guam" is used in site names there instead of GU
+const stateCodes = ['Guam', 'AL', 'AK', 'AS', 'AZ', 'AR', 'CA', 'CO', 'CT', 'DE', 'DC', 'FM', 'FL', 'GA', 'GU', 'HI', 'ID', 'IL', 'IN', 'IA', 'KS', 'KY', 'LA', 'ME', 'MH', 'MD', 'MA', 'MI', 'MN', 'MS', 'MO', 'MT', 'NE', 'NV', 'NH', 'NJ', 'NM', 'NY', 'NC', 'ND', 'MP', 'OH', 'OK', 'OR', 'PW', 'PA', 'PR', 'RI', 'SC', 'SD', 'TN', 'TX', 'UT', 'VT', 'VI', 'VA', 'WA', 'WV', 'WI', 'WY', 'MB', 'SK', 'BC', 'AL', 'QC', 'ON', 'NB', 'YT'];
 
 function cleanName(name) {
     name = name.replace(/\s+/gi, ' ').trim();
@@ -374,7 +374,7 @@ Object.values(builtItems).forEach(item => {
             "operator:wikidata": "Q193755",
         }
     };
-    var result = /\b(\w\w)\.?$/gi.exec(item.station_nm);
+    var result = /(?: |\.|,)(\w+?)\.?$/gi.exec(item.station_nm);
     var state = (result && stateCodes.includes(result[1])) ? result[1] : item.basin_cd.substr(0, 2).toUpperCase();
     jsonFeature.state = state;
     if (!featuresByState[state]) featuresByState[state] = [];

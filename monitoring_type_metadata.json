@@ -300,6 +300,16 @@
       "81027"
     ]
   },
+  "soil_moisture": {
+    "tags": {
+      "monitoring:soil_moisture": "yes"
+    },
+    "codes": [
+      "46311",
+      "72181",
+      "74207"
+    ]
+  },
   "soil_pH": {
     "tags": {
       "monitoring:soil_pH": "yes"

@@ -6,8 +6,10 @@
   "main": "index.js",
   "scripts": {
     "diff": "node diff.js",
-    "fetch_osm": "node fetch_osm.js",
-    "fetch_usgs": "node fetch_usgs.js",
+    "download_osm": "node download_osm.js",
+    "download_usgs": "node download_usgs.js",
+    "refresh_osm": "npm run download_osm",
+    "refresh_usgs": "npm run download_usgs && npm run format_usgs",
     "format_usgs": "node format_usgs.js"
   },
   "author": "Quincy Morgan",
