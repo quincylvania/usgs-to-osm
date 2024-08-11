@@ -36,6 +36,36 @@ At this point three subdirectories are created.
    1. Manually review each feature and look for data errors, such as a bad `ref` tag.
    2. Open the `website` link to see if the site is still active. If not, add a lifecycle tag to `man_made=monitoring_station` like `disused:man_made=monitoring_station`. Note that an outage of less than a year or so does not mean the site has been decommissioned.
 
+## Example
+
+USGS site [14162500](https://waterdata.usgs.gov/monitoring-location/14162500/) is OpenStreetMap [node/12092695009](https://www.openstreetmap.org/node/12092695009/). The tool sets the following tags from USGS data:
+
+```
+ele=260.82
+ele:accuracy=3.048
+ele:datum=NGVD29
+man_made=monitoring_station
+monitoring:dissolved_oxygen=yes
+monitoring:flow_rate=yes
+monitoring:water_conductivity=yes
+monitoring:water_level=yes
+monitoring:water_pH=yes
+monitoring:water_temperature=yes
+monitoring:water_turbidity=yes
+name=Mckenzie River near Vida
+official_name=MCKENZIE RIVER NEAR VIDA, OR
+operator=United States Geological Survey
+operator:short=USGS
+operator:type=government
+operator:wikidata=Q193755
+ref=14162500
+website=https://waterdata.usgs.gov/monitoring-location/14162500
+```
+
+It is incumbent upon the mapper to double check the name prior to uploading, i.e. `Mckenzie River near Vida` -> `McKenzie River near Vida`.
+
+If, in the future, USGS adds another instrument to this site such as a rain gage, the tool with create an OSM Change file adding a tag like `monitoring:precipitation=yes`. The tool will not create changes that remove or modify existing tags since a mapper may have intentionally changed them.
+
 ## License
 
 This repository is subject to the [ISC License](./LICENSE.md).
