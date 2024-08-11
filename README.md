@@ -1,6 +1,6 @@
 # usgs-to-osm
 
-_A tool to keep USGS monitoring site data in OpenStreetMap fresh and accurate._
+_A tool to keep USGS monitoring sites fresh and accurate in OpenStreetMap._
 
 There are over 13,000 active water monitoring sites operated by the United States Geological Survey (USGS). These provide real-time data on surface water, groundwater, and atmospheric conditions across the US. It is useful to map detailed USGS site information in OpenStreetMap (OSM) so that people can easily query and compile sites within and between monitoring networks, as well as link the data to other databases.
 
