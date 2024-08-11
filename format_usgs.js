@@ -1,6 +1,13 @@
 
 import { parse } from 'csv-parse/sync';
-import { readFileSync, writeFileSync } from 'fs';
+import {  existsSync, readdirSync, rmSync, mkdirSync, readFileSync, writeFileSync } from 'fs';
+
+function clearDirectory(dir) {
+    if (existsSync(dir)) readdirSync(dir).forEach(f => rmSync(`${dir}${f}`, { recursive: true }));
+    if (!existsSync(dir)) mkdirSync(dir, { recursive: true });
+}
+clearDirectory('./usgs/formatted/');
+clearDirectory('./usgs/formatted/bystate/');
 
 const conversionMap = JSON.parse(readFileSync('./monitoring_type_metadata.json'));
 

@@ -5,9 +5,9 @@ var conversionMap = JSON.parse(readFileSync('./monitoring_type_metadata.json'));
 
 function clearDirectory(dir) {
   if (existsSync(dir)) readdirSync(dir).forEach(f => rmSync(`${dir}${f}`, { recursive: true }));
+  if (!existsSync(dir)) mkdirSync(dir, { recursive: true });
 }
 clearDirectory('./usgs/source/');
-mkdirSync('./usgs/source/', { recursive: true });
 
 function buildUrl(codesString) {
   if (!codesString) codesString = '';

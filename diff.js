@@ -1,5 +1,14 @@
 import { existsSync, readFileSync, writeFileSync, readdirSync, rmSync, mkdirSync } from 'fs';
 
+function clearDirectory(dir) {
+    if (existsSync(dir)) readdirSync(dir).forEach(f => rmSync(`${dir}${f}`, { recursive: true }));
+    if (!existsSync(dir)) mkdirSync(dir, { recursive: true });
+}
+clearDirectory('./diffed/');
+clearDirectory('./diffed/modified/bystate/');
+clearDirectory('./diffed/usgs_only/bystate/');
+clearDirectory('./diffed/osm_only/');
+
 const conversionMap = JSON.parse(readFileSync('./monitoring_type_metadata.json'));
 
 const statesByRegion = {
@@ -40,15 +49,6 @@ for (let region in statesByRegion) {
         regionsByState[state] = region;
     });
 }
-
-function clearDirectory(dir) {
-    if (existsSync(dir)) readdirSync(dir).forEach(f => rmSync(`${dir}${f}`, { recursive: true }));
-}
-clearDirectory('./diffed/');
-
-mkdirSync('./diffed/modified/bystate/', { recursive: true });
-mkdirSync('./diffed/usgs_only/bystate/', { recursive: true });
-mkdirSync('./diffed/osm_only/', { recursive: true });
 
 let keys = [...new Set(Object.values(conversionMap).map(obj => Object.keys(obj.tags)).flat())];
 keys = keys.concat([

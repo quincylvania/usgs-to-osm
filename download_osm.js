@@ -1,5 +1,11 @@
-import { writeFileSync } from 'fs';
+import { existsSync, readdirSync, rmSync, mkdirSync, writeFileSync } from 'fs';
 import { request } from 'https';
+
+function clearDirectory(dir) {
+  if (existsSync(dir)) readdirSync(dir).forEach(f => rmSync(`${dir}${f}`, { recursive: true }));
+  if (!existsSync(dir)) mkdirSync(dir, { recursive: true });
+}
+clearDirectory('./osm/');
 
 // do not limit to the US since some sites are in Canada
 var query = `
