@@ -1,6 +1,6 @@
 
-import { parse } from 'csv-parse/sync';
-import {  existsSync, readdirSync, rmSync, mkdirSync, readFileSync, writeFileSync } from 'fs';
+import { parse as parseCsv } from 'csv-parse/sync';
+import { existsSync, readdirSync, rmSync, mkdirSync, readFileSync, writeFileSync } from 'fs';
 
 function clearDirectory(dir) {
     if (existsSync(dir)) readdirSync(dir).forEach(f => rmSync(`${dir}${f}`, { recursive: true }));
@@ -9,10 +9,20 @@ function clearDirectory(dir) {
 clearDirectory('./usgs/formatted/');
 clearDirectory('./usgs/formatted/bystate/');
 
+const cameras = JSON.parse(readFileSync('./usgs/cameras/all.json'));
+const camerasByRef = {};
+cameras.forEach(camera => {
+    var ref = camera.nwisId;
+    if (ref && camera.camId && !camera.hideCam) {
+        if (!camerasByRef[ref]) camerasByRef[ref] = [];
+        camerasByRef[ref].push(camera);
+    }
+});
+
 const conversionMap = JSON.parse(readFileSync('./monitoring_type_metadata.json'));
 
 const csvOpts = {columns: true, delimiter: '\t'};
-const array = parse(readFileSync('./usgs/source/all.csv'), csvOpts);
+const array = parseCsv(readFileSync('./usgs/nwis/all.csv'), csvOpts);
 
 const allItems = {};
 array.forEach(item => {
@@ -24,7 +34,7 @@ array.forEach(item => {
 const builtItems = {};
 
 for (var filename in conversionMap) {
-    let array = parse(readFileSync('./usgs/source/' + filename + '.csv'), csvOpts);
+    let array = parseCsv(readFileSync('./usgs/nwis/' + filename + '.csv'), csvOpts);
     array.forEach(item => {
         if (allItems[item.site_no]) {
             if (!builtItems[item.site_no]) {
@@ -323,6 +333,15 @@ let features = [];
 let featuresByState = {};
 Object.values(builtItems).forEach(item => {
     if (!item.dec_lat_va || !item.dec_long_va) return;
+
+    let cameras = camerasByRef[item.site_no];
+    if (cameras) {
+        for (let i in cameras) {
+            let camera = cameras[i];
+            let suffix = i > 1 ? `_${i-1}` : '';
+            item.tags[`contact:webcam${suffix}`] = 'https://apps.usgs.gov/hivis/camera/' + camera.camId
+        }
+    }
 
     if (['ST-TS', 'OC', 'OC-CO', 'ES'].includes(item.site_tp_cd)) {
         // assume tidal if certain types

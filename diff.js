@@ -55,6 +55,14 @@ keys = keys.concat([
     'ele',
     'ele:accuracy',
     'ele:datum',
+    'contact:webcam',
+    'contact:webcam_1',
+    'contact:webcam_2',
+    'contact:webcam_3',
+    'contact:webcam_4',
+    'contact:webcam_5',
+    'contact:webcam_6',
+    'contact:webcam_7',
     'start_date',
 ]);
 
@@ -85,6 +93,8 @@ let usgsOnlyByState = {};
 let osmOnlyFeatures = [];
 let usgsOnlyFeatures = [];
 
+let tagsAdded = {};
+
 for (let ref in osmByRef) {
     let osmFeature = osmByRef[ref];
     let latest = usgsByRef[ref];
@@ -93,6 +103,7 @@ for (let ref in osmByRef) {
         for (let i in keys) {
             let key = keys[i];
             if (latest.properties[key] && !osmFeature.tags[key]) {
+                tagsAdded[key] = true;
                 osmFeature.tags[key] = latest.properties[key];
                 didUpdate = true;
             }
@@ -168,5 +179,6 @@ writeFileSync('./diffed/usgs_only/all.geojson', JSON.stringify(geoJsonForFeature
 writeFileSync('./diffed/osm_only/all.json', JSON.stringify(osmOnlyFeatures, null, 2));
 
 console.log('Modified, needs upload: ' + updated.length);
+if (updated.length) console.log('  Tags added: ' + Object.keys(tagsAdded).join(', '));
 console.log('In OSM but not USGS, needs review: ' + osmOnlyFeatures.length);
 console.log('In USGS but not OSM, needs review and upload: ' + usgsOnlyFeatures.length);

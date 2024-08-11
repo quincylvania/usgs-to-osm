@@ -7,7 +7,9 @@
   "scripts": {
     "diff": "node diff.js",
     "download_osm": "node download_osm.js",
-    "download_usgs": "node download_usgs.js",
+    "download_usgs": "npm run download_usgs_nwis && npm run download_usgs_cameras",
+    "download_usgs_cameras": "node download_usgs_cameras.js",
+    "download_usgs_nwis": "node download_usgs_nwis.js",
     "refresh_osm": "npm run download_osm",
     "refresh_usgs": "npm run download_usgs && npm run format_usgs",
     "format_usgs": "node format_usgs.js"

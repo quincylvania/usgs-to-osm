@@ -7,13 +7,14 @@ function clearDirectory(dir) {
   if (existsSync(dir)) readdirSync(dir).forEach(f => rmSync(`${dir}${f}`, { recursive: true }));
   if (!existsSync(dir)) mkdirSync(dir, { recursive: true });
 }
-clearDirectory('./usgs/source/');
+clearDirectory('./usgs/nwis/');
 
 function buildUrl(codesString) {
   if (!codesString) codesString = '';
   return `https://nwis.waterdata.usgs.gov/nwis/current?index_pmcode_STATION_NM=1${codesString}&group_key=NONE&format=sitefile_output&sitefile_output_format=rdb_file&column_name=agency_cd&column_name=site_no&column_name=station_nm&column_name=site_tp_cd&column_name=lat_va&column_name=long_va&column_name=dec_lat_va&column_name=dec_long_va&column_name=coord_meth_cd&column_name=coord_acy_cd&column_name=coord_datum_cd&column_name=dec_coord_datum_cd&column_name=district_cd&column_name=state_cd&column_name=county_cd&column_name=country_cd&column_name=land_net_ds&column_name=map_nm&column_name=map_scale_fc&column_name=alt_va&column_name=alt_meth_cd&column_name=alt_acy_va&column_name=alt_datum_cd&column_name=huc_cd&column_name=basin_cd&column_name=topo_cd&column_name=data_types_cd&column_name=instruments_cd&column_name=construction_dt&column_name=inventory_dt&column_name=drain_area_va&column_name=contrib_drain_area_va&column_name=tz_cd&column_name=local_time_fg&column_name=reliability_cd&column_name=gw_file_cd&column_name=nat_aqfr_cd&column_name=aqfr_cd&column_name=aqfr_type_cd&column_name=well_depth_va&column_name=hole_depth_va&column_name=depth_src_cd&column_name=project_no&column_name=rt_bol&column_name=peak_begin_date&column_name=peak_end_date&column_name=peak_count_nu&column_name=qw_begin_date&column_name=qw_end_date&column_name=qw_count_nu&column_name=gw_begin_date&column_name=gw_end_date&column_name=gw_count_nu&column_name=sv_begin_date&column_name=sv_end_date&column_name=sv_count_nu&sort_key_2=site_no&html_table_group_key=NONE&rdb_compression=file&list_of_search_criteria=realtime_parameter_selection`;
 }
 
+console.log('Fetching latest USGS NWIS files…');
 async function getAndSave(remoteUrl, localUrl) {
   await get(remoteUrl).then(function(response) {
     // expect a commented description above data
@@ -32,7 +33,7 @@ async function getAndSave(remoteUrl, localUrl) {
     console.log(`Wrote data to ${localUrl}`);
   });
 }
-await getAndSave(buildUrl(), `./usgs/source/all.csv`);
+await getAndSave(buildUrl(), `./usgs/nwis/all.csv`);
 
 for (let filename in conversionMap) {
   let codes = conversionMap[filename].codes;
@@ -41,7 +42,7 @@ for (let filename in conversionMap) {
     let code = codes[i];
     codesString += `&index_pmcode_${code}=${i+1}`;
   }
-  await getAndSave(buildUrl(codesString), `./usgs/source/${filename}.csv`)
+  await getAndSave(buildUrl(codesString), `./usgs/nwis/${filename}.csv`)
 }
 
 function get(url) {
