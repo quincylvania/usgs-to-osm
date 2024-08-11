@@ -107,7 +107,6 @@ function cleanName(name) {
     replace("Vale-Rmnp", 'Vale-Rocky Mountain National Park');
     replace("Lsvl", 'Louisville');
     replace("Hwy", 'Highway');
-    replace("Hw", 'Highway');
     replace("Rte", 'Route');
     replace("Rt", 'Route');
     replace("&", 'and');
