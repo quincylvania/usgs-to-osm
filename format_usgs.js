@@ -376,6 +376,10 @@ Object.values(builtItems).forEach(item => {
         item.tags.start_date = constructionDate ? constructionDate : inventoryDate;
     }
 
+    let officialName = item.station_nm;
+    // replace all runs of whitespace with single spaces
+    officialName = officialName.trim().replace(/\s+/gi, ' ');
+
     let jsonFeature = {
         type: "Feature",
         geometry: {
@@ -386,8 +390,8 @@ Object.values(builtItems).forEach(item => {
             ]
         },
         properties: {
-            name: cleanName(item.station_nm),
-            official_name: item.station_nm,
+            name: cleanName(officialName),
+            official_name: officialName,
             ref: item.site_no,
             "website": "https://waterdata.usgs.gov/monitoring-location/" + item.site_no,
             "man_made": "monitoring_station",
@@ -398,7 +402,7 @@ Object.values(builtItems).forEach(item => {
             "operator:wikidata": "Q193755",
         }
     };
-    var result = /(?: |\.|,)(\w+?)\.?$/gi.exec(item.station_nm);
+    var result = /(?: |\.|,)(\w+?)\.?$/gi.exec(officialName);
     var state = (result && stateCodes.includes(result[1])) ? result[1] : item.basin_cd.substr(0, 2).toUpperCase();
     jsonFeature.state = state;
     if (!featuresByState[state]) featuresByState[state] = [];

@@ -50,8 +50,8 @@ for (let region in statesByRegion) {
     });
 }
 
-let keys = [...new Set(Object.values(conversionMap).map(obj => Object.keys(obj.tags)).flat())];
-keys = keys.concat([
+let keysToAddIfMissing = [...new Set(Object.values(conversionMap).map(obj => Object.keys(obj.tags)).flat())];
+keysToAddIfMissing = keysToAddIfMissing.concat([
     'ele',
     'ele:accuracy',
     'ele:datum',
@@ -94,17 +94,35 @@ let osmOnlyFeatures = [];
 let usgsOnlyFeatures = [];
 
 let tagsAdded = {};
+let tagsModified = {};
+
+let keysToOverride = ['official_name'];
+
+let addedMissingTags = 0;
+let overwroteIncorrectTags = 0;
 
 for (let ref in osmByRef) {
     let osmFeature = osmByRef[ref];
     let latest = usgsByRef[ref];
     if (latest) {
         let didUpdate = false;
-        for (let i in keys) {
-            let key = keys[i];
+        for (let i in keysToAddIfMissing) {
+            let key = keysToAddIfMissing[i];
             if (latest.properties[key] && !osmFeature.tags[key]) {
                 tagsAdded[key] = true;
                 osmFeature.tags[key] = latest.properties[key];
+                addedMissingTags += 1;
+                didUpdate = true;
+            }
+        }
+        for (let i in keysToOverride) {
+            let key = keysToOverride[i];
+            if (osmFeature.tags[key] && latest.properties[key] &&
+                osmFeature.tags[key] !== latest.properties[key]) {
+                console.log(`Replacing ${key} on ${osmFeature.tags.name}:\n-${osmFeature.tags[key]}\n+${latest.properties[key]}\n`);
+                tagsModified[key] = true;
+                osmFeature.tags[key] = latest.properties[key];
+                overwroteIncorrectTags += 1;
                 didUpdate = true;
             }
         }
@@ -179,6 +197,9 @@ writeFileSync('./diffed/usgs_only/all.geojson', JSON.stringify(geoJsonForFeature
 writeFileSync('./diffed/osm_only/all.json', JSON.stringify(osmOnlyFeatures, null, 2));
 
 console.log('Modified, needs upload: ' + updated.length);
-if (updated.length) console.log('  Tags added: ' + Object.keys(tagsAdded).join(', '));
+if (updated.length) {
+    console.log(`  Added ${addedMissingTags} tags: ` + Object.keys(tagsAdded).join(', '));
+    console.log(`  Overwrote ${overwroteIncorrectTags} tags: ` + Object.keys(tagsModified).join(', '));
+}
 console.log('In OSM but not USGS, needs review: ' + osmOnlyFeatures.length);
 console.log('In USGS but not OSM, needs review and upload: ' + usgsOnlyFeatures.length);

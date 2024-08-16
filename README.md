@@ -23,17 +23,17 @@ Converting and maintaining USGS data is not trivial. USGS does not appear to dis
       
 At this point three subdirectories are created.
 
-1. `diff/modified/` – osmChange files that add missing tags to existing OSM features.
-   1. Give the changes a cursory look to make sure the added tags make sense.
-   2. Upload with JOSM. If the changeset has a large bounding box, upload by state or region instead.
-   3. Note: The upload will fail if any of the OSM features have been edited since running `npm run refresh_osm`.
-2. `diff/usgs_only/` – GeoJSON files containing USGS sites not present in OSM.
+1. `diff/modified/` – osmChange files that modify existing OSM features, adding missing tags and updating tags where USGS is the source of truth (i.e. `official_name`).
+   1. Review the changes to make sure the added tags make sense. If any `official_name` name tags have changed, check if the corresponding `name` need to be updated.
+   1. Upload with JOSM. If the changeset has a large bounding box, upload by state or region instead.
+   2. Note: The upload will fail if any of the OSM features have been edited since running `npm run refresh_osm`.
+1. `diff/usgs_only/` – GeoJSON files containing USGS sites not present in OSM.
    1. Manually review the `name` tag of each site (expand abbreviations, add missing words, remove cruft, etc.)
    2. Upload with JOSM. If the changeset has a large bounding box, upload by state or region instead.
    3. Manually review each uploaded site in JOSM or iD.
       1. If someone already mapped the same monitoring station, reconcile the tags and remove the duplicate.
       2. If the location looks off, try to determine the proper location through aerial and street-level imagery.
-3. `diff/usgs_only/` – an OSM JSON file containing features linked to USGS in OSM that are not found in current USGS data.
+2. `diff/usgs_only/` – an OSM JSON file containing features linked to USGS in OSM that are not found in current USGS data.
    1. Manually review each feature and look for data errors, such as a bad `ref` tag.
    2. Open the `website` link to see if the site is still active. If not, add a lifecycle tag to `man_made=monitoring_station` like `disused:man_made=monitoring_station`. Note that an outage of less than a year or so does not mean the site has been decommissioned.
 
