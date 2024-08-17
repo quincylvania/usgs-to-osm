@@ -7,10 +7,14 @@ function clearDirectory(dir) {
 }
 clearDirectory('./osm/');
 
+var prefixes = ['', 'disused:', 'abandoned:', 'ruins:', 'demolished:', 'destroyed:', 'razed:', 'removed:', 'was:'];
+
 // do not limit to the US since some sites are in Canada
 var query = `
 [out:json][timeout:60];
-node["man_made"="monitoring_station"]["operator:wikidata"="Q193755"]["ref"];
+(
+${prefixes.map(prefix => `node["${prefix}man_made"="monitoring_station"]["operator:wikidata"="Q193755"]["ref"];`).join('\n')}
+);
 (._;>;); out meta;
 `;
 

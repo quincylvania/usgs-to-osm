@@ -35,7 +35,16 @@ At this point three subdirectories are created.
       2. If the location looks off, try to determine the proper location through aerial and street-level imagery.
 2. `diff/usgs_only/` – an OSM JSON file containing features linked to USGS in OSM that are not found in current USGS data.
    1. Manually review each feature and look for data errors, such as a bad `ref` tag.
-   2. Open the `website` link to see if the site is still active. If not, add a lifecycle tag to `man_made=monitoring_station` like `disused:man_made=monitoring_station`. Note that an outage of less than a year or so does not mean the site has been decommissioned.
+   2. Open the `website` link to see if the site is still active. Note that some sites are seasonal or have temporary outages due to equpiment malfunction or funding shortfall.
+   3. If the site is not active, add an appropriate lifecycle tag to `man_made=monitoring_station`. Please do not delete the feature as it may later come back online or someone may erroneously re-add it. Supported lifecycle tags are:
+      - `disused:man_made=monitoring_station` – not operational
+      - `abandoned:man_made=monitoring_station` – not maintained
+      - `ruins:man_made=monitoring_station` – in a state of significant decay 
+      - `demolished:man_made=monitoring_station` – intentionally demolished
+      - `destroyed:man_made=monitoring_station` – unintentionally demolished
+      - `razed:man_made=monitoring_station` – somehow demolished
+      - `removed:man_made=monitoring_station` – no longer extant
+      - `was:man_made=monitoring_station` – now used for something else
 
 ## Example
 
