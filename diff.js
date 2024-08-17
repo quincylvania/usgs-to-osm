@@ -197,9 +197,7 @@ writeFileSync('./diffed/usgs_only/all.geojson', JSON.stringify(geoJsonForFeature
 writeFileSync('./diffed/osm_only/all.json', JSON.stringify(osmOnlyFeatures, null, 2));
 
 console.log('Modified, needs upload: ' + updated.length);
-if (updated.length) {
-    console.log(`  Added ${addedMissingTags} tags: ` + Object.keys(tagsAdded).join(', '));
-    console.log(`  Overwrote ${overwroteIncorrectTags} tags: ` + Object.keys(tagsModified).join(', '));
-}
+if (addedMissingTags > 0) console.log(`  Added ${addedMissingTags} tags: ` + Object.keys(tagsAdded).join(', '));
+if (overwroteIncorrectTags > 0) console.log(`  Overwrote ${overwroteIncorrectTags} tags: ` + Object.keys(tagsModified).join(', '));
 console.log('In OSM but not USGS, needs review: ' + osmOnlyFeatures.length);
 console.log('In USGS but not OSM, needs review and upload: ' + usgsOnlyFeatures.length);
