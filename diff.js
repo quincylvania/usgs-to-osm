@@ -64,6 +64,7 @@ keysToAddIfMissing = keysToAddIfMissing.concat([
     'contact:webcam_6',
     'contact:webcam_7',
     'start_date',
+    'name',
 ]);
 
 let osm = JSON.parse(readFileSync('./osm/all.json'));
