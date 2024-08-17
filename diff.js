@@ -76,7 +76,7 @@ let usgs = JSON.parse(readFileSync('./usgs/formatted/all.geojson'));
 let osmByRef = {};
 let osmByLoc = {};
 osm.elements.forEach(function(feature) {
-    if (osmByRef[feature.tags.ref]) console.log('Duplicate OSM elements for: ' + feature.tags.ref);
+    if (osmByRef[feature.tags.ref]) console.log(`Duplicate OSM elements for USGS ${feature.tags.ref}: ${osmByRef[feature.tags.ref].id} and ${feature.id}`);
     osmByRef[feature.tags.ref] = feature;
 
     let loc = feature.lon + "," + feature.lat;
@@ -188,20 +188,24 @@ function geoJsonForFeature(features) {
     };
 }
 
+console.log('Modified, needs upload: ' + updated.length);
+if (addedMissingTags > 0) console.log(`  Added ${addedMissingTags} tags: ` + Object.keys(tagsAdded).join(', '));
+if (overwroteIncorrectTags > 0) console.log(`  Overwrote ${overwroteIncorrectTags} tags: ` + Object.keys(tagsModified).join(', '));
+
 for (let state in updatedByState) {
     writeFileSync('./diffed/modified/bystate/' + state + '.osc', osmChangeXmlForFeatures(updatedByState[state]));
+    console.log("  " + state + ": " + updatedByState[state].length);
 }
 writeFileSync('./diffed/modified/all.osc', osmChangeXmlForFeatures(updated));
 
+console.log('In USGS but not OSM, needs review and upload: ' + usgsOnlyFeatures.length);
+
 for (let state in usgsOnlyByState) {
     writeFileSync('./diffed/usgs_only/bystate/' + state + '.geojson', JSON.stringify(geoJsonForFeature(usgsOnlyByState[state]), null, 2));
+    console.log("  " + state + ": " + usgsOnlyByState[state].length);
 }
 writeFileSync('./diffed/usgs_only/all.geojson', JSON.stringify(geoJsonForFeature(usgsOnlyFeatures), null, 2));
 
 writeFileSync('./diffed/osm_only/all.json', JSON.stringify(osmOnlyFeatures, null, 2));
 
-console.log('Modified, needs upload: ' + updated.length);
-if (addedMissingTags > 0) console.log(`  Added ${addedMissingTags} tags: ` + Object.keys(tagsAdded).join(', '));
-if (overwroteIncorrectTags > 0) console.log(`  Overwrote ${overwroteIncorrectTags} tags: ` + Object.keys(tagsModified).join(', '));
 console.log('In OSM but not USGS, needs review: ' + osmOnlyFeatures.length);
-console.log('In USGS but not OSM, needs review and upload: ' + usgsOnlyFeatures.length);
