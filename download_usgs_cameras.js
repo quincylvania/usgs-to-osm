@@ -12,11 +12,11 @@ clearDirectory('./usgs/cameras/');
 
 console.log('Fetching latest USGS cameras file…');
 await get(camerasRemoteUrl).then(function(response) {
-  var json = JSON.parse(response);
+  let json = JSON.parse(response);
   if (json && json.length) {
     console.log(json.length + ' cameras');
+    console.log(`Writing data to './usgs/cameras/all.json'`);
     writeFileSync('./usgs/cameras/all.json', JSON.stringify(json, null, 2));
-    console.log(`Wrote data to './usgs/cameras/all.json'`);
   } else {
     console.log(`Invalid response`);
   }

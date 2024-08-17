@@ -7,10 +7,10 @@ function clearDirectory(dir) {
 }
 clearDirectory('./osm/');
 
-var prefixes = ['', 'disused:', 'abandoned:', 'ruins:', 'demolished:', 'destroyed:', 'razed:', 'removed:', 'was:'];
+const prefixes = ['', 'disused:', 'abandoned:', 'ruins:', 'demolished:', 'destroyed:', 'razed:', 'removed:', 'was:'];
 
 // do not limit to the US since some sites are in Canada
-var query = `
+const query = `
 [out:json][timeout:60];
 (
 ${prefixes.map(prefix => `node["${prefix}man_made"="monitoring_station"]["operator:wikidata"="Q193755"]["ref"];`).join('\n')}
@@ -18,7 +18,7 @@ ${prefixes.map(prefix => `node["${prefix}man_made"="monitoring_station"]["operat
 (._;>;); out meta;
 `;
 
-var postData = "data="+encodeURIComponent(query);
+let postData = "data="+encodeURIComponent(query);
 
 console.log("Running Overpass query… this may take some time");
 await post('https://overpass-api.de/api/interpreter', postData).then(function(response) {

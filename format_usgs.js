@@ -1,6 +1,5 @@
-
 import { parse as parseCsv } from 'csv-parse/sync';
-import { existsSync, readdirSync, rmSync, mkdirSync, readFileSync, writeFileSync } from 'fs';
+import { existsSync, readdirSync, rmSync, mkdirSync, readFileSync, writeFileSync, promises } from 'fs';
 
 function clearDirectory(dir) {
     if (existsSync(dir)) readdirSync(dir).forEach(f => rmSync(`${dir}${f}`, { recursive: true }));
@@ -9,10 +8,11 @@ function clearDirectory(dir) {
 clearDirectory('./usgs/formatted/');
 clearDirectory('./usgs/formatted/bystate/');
 
+console.log('Loading cameras…');
 const cameras = JSON.parse(readFileSync('./usgs/cameras/all.json'));
 const camerasByRef = {};
 cameras.forEach(camera => {
-    var ref = camera.nwisId;
+    let ref = camera.nwisId;
     if (ref && camera.camId && !camera.hideCam) {
         if (!camerasByRef[ref]) camerasByRef[ref] = [];
         camerasByRef[ref].push(camera);
@@ -21,24 +21,44 @@ cameras.forEach(camera => {
 
 const conversionMap = JSON.parse(readFileSync('./monitoring_type_metadata.json'));
 
-const csvOpts = {columns: true, delimiter: '\t'};
-const array = parseCsv(readFileSync('./usgs/nwis/all.csv'), csvOpts);
+const csvOpts = {columns: true, delimiter: '\t', relax_quotes: true};
 
-const allItems = {};
-array.forEach(item => {
+const siteStateByRef = {};
+
+console.log('Loading state codes…');
+async function loadSiteStatesByRef() {
+    const allBystatePath = './usgs/nwis/all/bystate/';
+    const dir = await promises.opendir(allBystatePath)
+    const allPromises = [];
+    for await (const dirent of dir) {
+        let state = dirent.name.slice(0, 2);
+        allPromises.push(promises.readFile(allBystatePath + dirent.name).then(value => {
+            parseCsv(value, csvOpts).forEach(item => {
+                siteStateByRef[item.site_no] = state;
+            });
+            console.log(dirent.name);
+        }));
+    }
+    await Promise.all(allPromises);
+}
+await loadSiteStatesByRef();
+console.log(Object.keys(siteStateByRef).length);
+
+console.log('Loading all current sites…');
+const allCurrentItems = {};
+parseCsv(readFileSync('./usgs/nwis/current/all.csv'), csvOpts).forEach(item => {
     // ignore groundwater sites for now
     if (item.site_tp_cd.startsWith('GW')) return;
-    allItems[item.site_no] = item;
+    allCurrentItems[item.site_no] = item;
 });
 
 const builtItems = {};
 
-for (var filename in conversionMap) {
-    let array = parseCsv(readFileSync('./usgs/nwis/' + filename + '.csv'), csvOpts);
-    array.forEach(item => {
-        if (allItems[item.site_no]) {
+for (let filename in conversionMap) {
+    parseCsv(readFileSync('./usgs/nwis/current/' + filename + '.csv'), csvOpts).forEach(item => {
+        if (allCurrentItems[item.site_no]) {
             if (!builtItems[item.site_no]) {
-                builtItems[item.site_no] = Object.assign({}, allItems[item.site_no]);
+                builtItems[item.site_no] = Object.assign({}, allCurrentItems[item.site_no]);
                 builtItems[item.site_no].tags = {};
             }
             Object.assign(builtItems[item.site_no].tags, conversionMap[filename].tags);
@@ -56,21 +76,20 @@ function toTitleCase(str) {
 }
 
 // "Guam" is used in site names there instead of GU
-const stateCodes = ['Guam', 'AL', 'AK', 'AS', 'AZ', 'AR', 'CA', 'CO', 'CT', 'DE', 'DC', 'FM', 'FL', 'GA', 'GU', 'HI', 'ID', 'IL', 'IN', 'IA', 'KS', 'KY', 'LA', 'ME', 'MH', 'MD', 'MA', 'MI', 'MN', 'MS', 'MO', 'MT', 'NE', 'NV', 'NH', 'NJ', 'NM', 'NY', 'NC', 'ND', 'MP', 'OH', 'OK', 'OR', 'PW', 'PA', 'PR', 'RI', 'SC', 'SD', 'TN', 'TX', 'UT', 'VT', 'VI', 'VA', 'WA', 'WV', 'WI', 'WY', 'MB', 'SK', 'BC', 'AL', 'QC', 'ON', 'NB', 'YT'];
+const stateCodes = ['Guam', 'AL', 'AK', 'AS', 'AZ', 'AR', 'CA', 'CO', 'CT', 'DE', 'DC', 'FM', 'FL', 'GA', 'GU', 'HI', 'ID', 'IL', 'IN', 'IA', 'KS', 'KY', 'LA', 'ME', 'MH', 'MD', 'MA', 'MI', 'MN', 'MS', 'MO', 'MT', 'NE', 'NV', 'NH', 'NJ', 'NM', 'NY', 'NC', 'ND', 'MP', 'OH', 'OK', 'OR', 'PW', 'PA', 'PR', 'RI', 'SC', 'SD', 'TN', 'TX', 'UT', 'VT', 'VI', 'VA', 'WA', 'WV', 'WI', 'WY', 'MB', 'SK', 'BC', 'AB', 'QC', 'ON', 'NB', 'YT'];
+const states = stateCodes.concat([ 'FLA', 'MASS', 'neb', 'Nebr', 'Alabama','Alaska','Arizona','Arkansas','California','Colorado','Connecticut','Delaware','Florida','Georgia','Hawaii','Idaho','Illinois','Indiana','Iowa','Kansas','Kentucky','Louisiana','Maine','Maryland','Massachusetts','Michigan','Minnesota','Mississippi','Missouri','Montana','Nebraska','Nevada','New Hampshire','New Jersey','New Mexico','New York','North Carolina','North Dakota','Ohio','Oklahoma','Oregon','Pennsylvania','Rhode Island','South Carolina','South Dakota','Tennessee','Texas','Utah','Vermont','Virginia','Washington','West Virginia','Wisconsin','Wyoming']);
 
 function cleanName(name) {
     name = name.replace(/\s+/gi, ' ').trim();
 
-    let states = stateCodes.concat([ 'FLA', 'MASS', 'neb', 'Nebr', 'Alabama','Alaska','Arizona','Arkansas','California','Colorado','Connecticut','Delaware','Florida','Georgia','Hawaii','Idaho','Illinois','Indiana','Iowa','Kansas','Kentucky','Louisiana','Maine','Maryland','Massachusetts','Michigan','Minnesota','Mississippi','Missouri','Montana','Nebraska','Nevada','New Hampshire','New Jersey','New Mexico','New York','North Carolina','North Dakota','Ohio','Oklahoma','Oregon','Pennsylvania','Rhode Island','South Carolina','South Dakota','Tennessee','Texas','Utah','Vermont','Virginia','Washington','West Virginia','Wisconsin','Wyoming']);
-    for (var i in states) {
-        var st = states[i];
+    for (let i in states) {
+        let st = states[i];
         let proc = name.replace(new RegExp('(,|\\s+|,\\s+)'+st+'.?$', "gi"), '');
         if (proc != name) {
             name = proc;
             break; // don't double dip
         }
     }
-
 
     ['USGS', 'US', 'LNVA', 'GIWW', 'IWW', 'AIWW', 'CWA'].forEach(function(abbr) {
         name = name.replace(new RegExp('\\b'+abbr+'\\b', "gi"), abbr);
@@ -329,6 +348,8 @@ function formattedDate(input) {
     }
 }
 
+console.log('Building GeoJSON features…');
+
 let features = [];
 let featuresByState = {};
 Object.values(builtItems).forEach(item => {
@@ -351,8 +372,8 @@ Object.values(builtItems).forEach(item => {
     if (item.tags.tidal === 'yes' && item.tags['monitoring:water_level']) item.tags['monitoring:tide_gauge'] = 'yes';
 
     if (item.alt_va && ['NAVD88', 'NGVD29', 'LMSL', 'COE1912', "PRVD02", "IGLD"].includes(item.alt_datum_cd)) {
-        var eleFeet = parseFloat(item.alt_va.trim());
-        var accuracyFeet = parseFloat(item.alt_acy_va.trim());
+        let eleFeet = parseFloat(item.alt_va.trim());
+        let accuracyFeet = parseFloat(item.alt_acy_va.trim());
         // USGS sometimes has altitude set to 0 ft for random inland sites, so don't trust it unless the site it tidal
         if ((eleFeet || (eleFeet === 0 && item.tags.tidal === 'yes')) &&
             !isNaN(eleFeet) && eleFeet < 20000 && eleFeet > -280 &&
@@ -402,17 +423,17 @@ Object.values(builtItems).forEach(item => {
             "operator:wikidata": "Q193755",
         }
     };
-    var result = /(?: |\.|,)(\w+?)\.?$/gi.exec(officialName);
-    var state = (result && stateCodes.includes(result[1])) ? result[1] : item.basin_cd.substr(0, 2).toUpperCase();
+    let result = /(?: |\.|,)(\w+?)\.?$/gi.exec(officialName);
+    let state = siteStateByRef[item.site_no] ? siteStateByRef[item.site_no] : (result && stateCodes.includes(result[1])) ? result[1] : item.basin_cd.substr(0, 2).toUpperCase();
     jsonFeature.state = state;
     if (!featuresByState[state]) featuresByState[state] = [];
     featuresByState[state].push(jsonFeature);
     features.push(jsonFeature);
 });
-for (var state in featuresByState) {
-    var locs = {};
+for (let state in featuresByState) {
+    let locs = {};
     featuresByState[state].forEach(function(feature) {
-        var loc = feature.geometry.coordinates.toString();
+        let loc = feature.geometry.coordinates.toString();
         while (locs[loc]) {
             // offset loc slightly if the same as another feature
             feature.geometry.coordinates[0] += 0.00001;
@@ -420,7 +441,7 @@ for (var state in featuresByState) {
         }
         locs[loc] = true;
     });
-    var filename = state;
+    let filename = state;
     if (!filename) filename = "_nostate";
     writeFileSync('./usgs/formatted/bystate/' + filename + '.geojson', JSON.stringify({
         type: "FeatureCollection",
