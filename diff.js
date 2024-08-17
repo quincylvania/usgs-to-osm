@@ -41,6 +41,9 @@ const statesByRegion = {
     ],
     "Central": [
         "NE", "IA", "KS", "MO"
+    ],
+    "CaliforniaNevada": [
+        "CA", "NV"
     ]
 };
 const regionsByState = {};
