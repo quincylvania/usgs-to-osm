@@ -330,6 +330,13 @@ function cleanName(name) {
     replace("Town Br\\.", "Town Branch");
     replace("Nra", "National Recreation Area");
     replace("Hq", "Headquarters");
+    replace("River A", "River at");
+    replace("Creek A", "Creek at");
+    replace("Gage A", "Gage at");
+    replace("Canal A", "Canal at");
+    replace("Channel A", "Channel at");
+    replace("Outlet A", "Outlet at");
+    replace("Wash A", "Wash at");
 
     return name;
 }
