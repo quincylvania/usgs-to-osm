@@ -67,6 +67,13 @@ keysToAddIfMissing = keysToAddIfMissing.concat([
     'contact:webcam_6',
     'contact:webcam_7',
     'start_date',
+    'official_name',
+    'operator',
+    'operator:type',
+    'operator:short',
+    'operator:wikidata',
+    'website',
+    'ref',
     'name',
 ]);
 
