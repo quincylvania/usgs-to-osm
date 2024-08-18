@@ -119,6 +119,8 @@ for (let ref in osmByRef) {
         let didUpdate = false;
         for (let i in keysToAddIfMissing) {
             let key = keysToAddIfMissing[i];
+            // some sites don't have a name so don't add one
+            if (key === 'name' && osmFeature.tags.noname === 'yes') continue;
             if (latest.properties[key] && !osmFeature.tags[key]) {
                 tagsAdded[key] = true;
                 osmFeature.tags[key] = latest.properties[key];

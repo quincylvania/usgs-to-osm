@@ -28,7 +28,7 @@ At this point three subdirectories are created.
    1. Upload with JOSM. If the changeset has a large bounding box, upload by state or region instead.
    2. Note: The upload will fail if any of the OSM features have been edited since running `npm run refresh_osm`.
 1. `diff/usgs_only/` – GeoJSON files containing USGS sites not present in OSM.
-   1. Manually review the `name` tag of each site (expand abbreviations, add missing words, remove cruft, etc.)
+   1. Manually review the `name` tag of each site (expand abbreviations, add missing words, remove cruft, etc.) If the site has some nonsensical name, remove `name` and add `noname=yes` intead.
    2. Upload with JOSM. If the changeset has a large bounding box, upload by state or region instead.
    3. Manually review each uploaded site in JOSM or iD.
       1. If someone already mapped the same monitoring station, reconcile the tags and remove the duplicate.
