@@ -31,7 +31,7 @@ const statesByRegion = {
         'TX', 'OK', 'AR', 'LA'
     ],
     "Southeast": [
-        "MS", 'AL', "SC", 
+        "MS", 'AL', "SC", "GA",
     ],
     "GreatLakes": [
         "IL", "IN", "OH", "MI", "WI"

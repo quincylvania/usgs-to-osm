@@ -159,6 +159,8 @@ function cleanName(name) {
     replace("Winter P", 'Winter Park');
     replace("Nat Mon", 'National Monument');
     replace("Confl", 'Confluence');
+    replace("Precip Station", 'Precipitation Station');
+    replace("Precip Site", 'Precipitation Site');
     replace("Precip Gage", 'Precipitation Gage');
     replace("Precip", 'Precipitation Gage');
     replace("Precipitation at", 'Precipitation Gage at');
@@ -169,6 +171,7 @@ function cleanName(name) {
     replace("Colo", 'Colorado');
     replace("Lv", 'Las Vegas');
     replace("Mtn", 'Mountain');
+    replace("Mtns", 'Mountains');
     replace("Ark", 'Arkansas');
     replace("Amer", 'American');
     replace("Nr", 'near');
@@ -252,6 +255,7 @@ function cleanName(name) {
     replace("Wd", 'Water District');
     replace("weather station", 'Weather Station');
     replace("rain gage", 'Rain Gage');
+    replace("Raingage", 'Rain Gage');
     replace("heated", 'Heated');
     replace("unheated", 'Unheated');
     replace("Ctrl", 'Control');
