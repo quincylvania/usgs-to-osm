@@ -47,8 +47,6 @@ console.log(Object.keys(siteStateByRef).length);
 console.log('Loading all current sites…');
 const allCurrentItems = {};
 parseCsv(readFileSync('./usgs/nwis/current/all.csv'), csvOpts).forEach(item => {
-    // ignore groundwater sites for now
-    if (item.site_tp_cd.startsWith('GW')) return;
     allCurrentItems[item.site_no] = item;
 });
 
