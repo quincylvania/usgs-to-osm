@@ -410,6 +410,13 @@ Object.values(builtItems).forEach(item => {
     // replace all runs of whitespace with single spaces
     officialName = officialName.trim().replace(/\s+/gi, ' ');
 
+    if (item.site_tp_cd.startsWith('GW')) {
+        // assume no real name for groundwater sites
+        item.tags.noname = "yes";
+    } else {
+        item.tags.name = cleanName(officialName);
+    }
+
     let jsonFeature = {
         type: "Feature",
         geometry: {
@@ -420,12 +427,11 @@ Object.values(builtItems).forEach(item => {
             ]
         },
         properties: {
-            name: cleanName(officialName),
+            ...item.tags,
             official_name: officialName,
             ref: item.site_no,
             "website": "https://waterdata.usgs.gov/monitoring-location/" + item.site_no,
             "man_made": "monitoring_station",
-            ...item.tags,
             "operator": "United States Geological Survey",
             "operator:short": "USGS",
             "operator:type": "government",
