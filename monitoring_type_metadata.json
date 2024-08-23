@@ -300,6 +300,14 @@
       "81027"
     ]
   },
+  "soil_compaction": {
+    "tags": {
+      "monitoring:soil_compaction": "yes"
+    },
+    "codes": [
+      "50013"
+    ]
+  },
   "soil_moisture": {
     "tags": {
       "monitoring:soil_moisture": "yes"
@@ -320,12 +328,28 @@
       "82583"
     ]
   },
+  "aquifer_compaction": {
+    "tags": {
+      "monitoring:aquifer_compaction": "yes"
+    },
+    "codes": [
+      "50012"
+    ]
+  },
   "snow_temperature": {
     "tags": {
       "monitoring:snow_temperature": "yes"
     },
     "codes": [
       "81029"
+    ]
+  },
+  "snow_density": {
+    "tags": {
+      "monitoring:snow_density": "yes"
+    },
+    "codes": [
+      "72392"
     ]
   },
   "snow_depth": {
