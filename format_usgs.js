@@ -370,7 +370,7 @@ Object.values(builtItems).forEach(item => {
     if (cameras) {
         for (let i in cameras) {
             let camera = cameras[i];
-            let suffix = i > 1 ? `_${i-1}` : '';
+            let suffix = i > 1 ? `:${i-1}` : '';
             item.tags[`contact:webcam${suffix}`] = 'https://apps.usgs.gov/hivis/camera/' + camera.camId
         }
     }
