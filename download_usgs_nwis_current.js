@@ -29,8 +29,8 @@ async function getAndSave(remoteUrl, localUrl) {
       // otherwise only an error page was returned
       response = "";
     }
+    console.log(`Writing data to ${localUrl}`);
     writeFileSync(localUrl, response);
-    console.log(`Wrote data to ${localUrl}`);
   });
 }
 await getAndSave(buildUrl(), `./usgs/nwis/current/all.csv`);

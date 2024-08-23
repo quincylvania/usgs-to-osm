@@ -12,7 +12,7 @@
     "download_usgs_cameras": "node download_usgs_cameras.js",
     "download_usgs_nwis": "npm run download_usgs_nwis_all && npm run download_usgs_nwis_current",
     "download_usgs_nwis_all": "node download_usgs_nwis_all.js",
-    "download_usgs_nwis_current": "node download_usgs_current.js",
+    "download_usgs_nwis_current": "node download_usgs_nwis_current.js",
     "refresh": "npm run refresh_osm && npm run refresh_usgs",
     "refresh_osm": "npm run download_osm",
     "refresh_usgs": "npm run download_usgs && npm run format_usgs",
