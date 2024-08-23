@@ -31,7 +31,7 @@ const statesByRegion = {
         'TX', 'OK', 'AR', 'LA'
     ],
     "Southeast": [
-        "MS", 'AL', "SC", "GA",
+        "MS", 'AL', "SC", "GA", "FL"
     ],
     "GreatLakes": [
         "IL", "IN", "OH", "MI", "WI"
@@ -147,7 +147,10 @@ for (let ref in osmByRef) {
             updated.push(osmFeature);
         }
     } else {
-        osmOnlyFeatures.push(osmFeature);
+        // ignore inactive features like `disused:man_made=monitoring_station`
+        if (osmFeature.tags.man_made === 'monitoring_station') {
+            osmOnlyFeatures.push(osmFeature);
+        }
     }
 }
 
