@@ -47,19 +47,14 @@ console.log(Object.keys(siteStateByRef).length);
 console.log('Loading all current sites…');
 const allCurrentItems = {};
 parseCsv(readFileSync('./usgs/nwis/current/all.csv'), csvOpts).forEach(item => {
+    item.tags = {};
     allCurrentItems[item.site_no] = item;
 });
-
-const builtItems = {};
 
 for (let filename in conversionMap) {
     parseCsv(readFileSync('./usgs/nwis/current/' + filename + '.csv'), csvOpts).forEach(item => {
         if (allCurrentItems[item.site_no]) {
-            if (!builtItems[item.site_no]) {
-                builtItems[item.site_no] = Object.assign({}, allCurrentItems[item.site_no]);
-                builtItems[item.site_no].tags = {};
-            }
-            Object.assign(builtItems[item.site_no].tags, conversionMap[filename].tags);
+            Object.assign(allCurrentItems[item.site_no].tags, conversionMap[filename].tags);
         }
     });
 }
@@ -361,7 +356,7 @@ console.log('Building GeoJSON features…');
 
 let features = [];
 let featuresByState = {};
-Object.values(builtItems).forEach(item => {
+Object.values(allCurrentItems).forEach(item => {
     if (!item.dec_lat_va || !item.dec_long_va) return;
 
     let cameras = camerasByRef[item.site_no];
