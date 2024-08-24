@@ -319,6 +319,23 @@
       "99019"
     ]
   },
+  "well_flow_rate": {
+    "tags": {
+      "monitoring:well_flow_rate": "yes"
+    },
+    "codes": [
+      "00056",
+      "00058"
+    ]
+  },
+  "groundwater_discharge": {
+    "tags": {
+      "monitoring:groundwater_discharge": "yes"
+    },
+    "codes": [
+      "72177"
+    ]
+  },
   "soil_temperature": {
     "tags": {
       "monitoring:soil_temperature": "yes"
