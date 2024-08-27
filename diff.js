@@ -83,8 +83,17 @@ let usgs = JSON.parse(readFileSync('./usgs/formatted/all.geojson'));
 let osmByRef = {};
 let osmByLoc = {};
 osm.elements.forEach(function(feature) {
-    if (osmByRef[feature.tags.ref]) console.log(`Duplicate OSM elements for USGS ${feature.tags.ref}: ${osmByRef[feature.tags.ref].id} and ${feature.id}`);
-    osmByRef[feature.tags.ref] = feature;
+
+    if (feature.tags.name && feature.tags.noname) console.log(`Both "name" and "noname" present on ${feature.id}`);
+    if (feature.tags.noname && feature.tags.noname !== "yes") console.log(`Unexpected "noname" value ${feature.tags.noname} on ${feature.id}`);
+
+    if (feature.tags.ref) {
+        if (!(/^\d{1,15}$/.test(feature.tags.ref))) console.log(`Unexpected "ref" for ${feature.id}`);
+        if (osmByRef[feature.tags.ref]) console.log(`Duplicate OSM elements for "ref=${feature.tags.ref}": ${osmByRef[feature.tags.ref].id} and ${feature.id}`);
+        osmByRef[feature.tags.ref] = feature;
+    } else {
+        console.log(`Missing "ref" for ${feature.id}`);
+    }
 
     let loc = feature.lon + "," + feature.lat;
     if (osmByLoc[loc]) console.log(`OSM elements have the same location: ${osmByLoc[loc].id} and ${feature.id}`);
