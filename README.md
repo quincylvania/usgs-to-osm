@@ -23,7 +23,7 @@ Converting and maintaining USGS data is not trivial. USGS does not appear to dis
       
 At this point three subdirectories are created.
 
-1. `diff/modified/` – osmChange files that modify existing OSM features, adding missing tags and updating tags where USGS is the source of truth (i.e. `official_name`).
+1. `diff/modified/` – osmChange files that modify existing OSM features, adding missing tags and updating tags where USGS is the source of truth (e.g. `official_name`).
    1. Review the changes to make sure the added tags make sense. If any `official_name` name tags have changed, check if the corresponding `name` need to be updated.
    1. Upload with JOSM. If the changeset has a large bounding box, upload by state or region instead.
    2. Note: The upload will fail if any of the OSM features have been edited since running `npm run refresh_osm`.
