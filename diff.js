@@ -66,6 +66,7 @@ const webcamKeys = [
 
 let keysToAddIfMissing = [...new Set(Object.values(conversionMap).map(obj => Object.keys(obj.tags)).flat())];
 keysToAddIfMissing = keysToAddIfMissing.concat([
+    'depth',
     'ele',
     'ele:accuracy',
     'ele:datum',

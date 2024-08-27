@@ -8,6 +8,8 @@ function clearDirectory(dir) {
 clearDirectory('./usgs/formatted/');
 clearDirectory('./usgs/formatted/bystate/');
 
+const metersPerFoot = 0.3048;
+
 console.log('Loading cameras…');
 const cameras = JSON.parse(readFileSync('./usgs/cameras/all.json'));
 const camerasByRef = {};
@@ -392,10 +394,15 @@ Object.values(allCurrentItems).forEach(item => {
             (accuracyFeet || accuracyFeet === 0) &&
             !isNaN(accuracyFeet) && accuracyFeet < 200 && accuracyFeet >= 0) {
 
-            item.tags.ele = (Math.round(eleFeet*0.3048*1000)/1000).toString();
-            item.tags["ele:accuracy"] = (Math.round(accuracyFeet*0.3048*10000)/10000).toString();
+            item.tags.ele = (Math.round(eleFeet * metersPerFoot * 1000) / 1000).toString();
+            item.tags["ele:accuracy"] = (Math.round(accuracyFeet * metersPerFoot * 10000) / 10000).toString();
             item.tags["ele:datum"] = item.alt_datum_cd;
         }
+    }
+
+    let depthFeet = item.well_depth_va || item.hole_depth_va;
+    if (depthFeet) {
+        item.tags.depth = (Math.round(depthFeet * metersPerFoot * 1000) / 1000).toString();
     }
 
     let constructionDate = item.construction_dt?.length ? formattedDate(item.construction_dt) : null;
