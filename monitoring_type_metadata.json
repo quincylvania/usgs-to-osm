@@ -68,6 +68,80 @@
       "99984"
     ]
   },
+  "water_nitrate_nitrite": {
+    "tags": {
+      "monitoring:water_nitrate": "yes",
+      "monitoring:water_nitrite": "yes"
+    },
+    "codes": [
+      "00630",
+      "00631",
+      "83554",
+      "83561",
+      "90859",
+      "90869",
+      "91049",
+      "91061",
+      "99133"
+    ]
+  },
+  "water_nitrate": {
+    "tags": {
+      "monitoring:water_nitrate": "yes"
+    },
+    "codes": [
+      "00618",
+      "00620",
+      "51185",
+      "51290",
+      "64832",
+      "71850",
+      "71851",
+      "91003",
+      "91006",
+      "99136",
+      "99137",
+      "99411"
+    ]
+  },
+  "water_nitrite": {
+    "tags": {
+      "monitoring:water_nitrite": "yes"
+    },
+    "codes": [
+      "00613",
+      "00615",
+      "71855",
+      "71856",
+      "91012"
+    ]
+  },
+  "water_phosphorus": {
+    "tags": {
+      "monitoring:water_phosphorus": "yes"
+    },
+    "codes": [
+      "00662",
+      "00665",
+      "00666",
+      "01072",
+      "52527",
+      "52635",
+      "71886",
+      "71888",
+      "81206",
+      "91007",
+      "91008",
+      "91050",
+      "99416",
+      "99891",
+      "99893",
+
+      "00670",
+      "00673",
+      "00676"
+    ]
+  },
   "water_turbidity": {
     "tags": {
       "monitoring:water_turbidity": "yes"
@@ -398,6 +472,14 @@
       "72392"
     ]
   },
+  "snow_sublimation": {
+    "tags": {
+      "monitoring:snow_sublimation": "yes"
+    },
+    "codes": [
+      "72206"
+    ]
+  },
   "snow_depth": {
     "tags": {
       "monitoring:snow_depth": "yes"
@@ -487,6 +569,71 @@
       "72119",
       "72120",
       "72121"
+    ]
+  },
+  "air_draught": {
+    "tags": {
+      "monitoring:air_draught": "yes"
+    },
+    "codes": [
+      "72320"
+    ]
+  },
+  "solar_radiation": {
+    "tags": {
+      "monitoring:solar_radiation": "yes"
+    },
+    "codes": [
+      "00030",
+      "46514",
+      "46515",
+      "46516",
+      "62608",
+      "62609",
+      "72207",
+      "72252",
+      "99787",
+      "99986",
+      "99987"
+    ]
+  },
+  "shortwave_radiation": {
+    "tags": {
+      "monitoring:shortwave_radiation": "yes"
+    },
+    "codes": [
+      "72185",
+      "72186",
+      "72201"
+    ]
+  },
+  "longwave_radiation": {
+    "tags": {
+      "monitoring:longwave_radiation": "yes"
+    },
+    "codes": [
+      "72202",
+      "72174",
+      "72175"
+    ]
+  },
+  "shortwave_solar_radiation": {
+    "tags": {
+      "monitoring:solar_radiation": "yes",
+      "monitoring:shortwave_radiation": "yes"
+    },
+    "codes": [
+      "72179"
+    ]
+  },
+  "longwave_solar_radiation": {
+    "tags": {
+      "monitoring:solar_radiation": "yes",
+      "monitoring:longwave_radiation": "yes"
+    },
+    "codes": [
+      "72124",
+      "72193"
     ]
   }
 }
