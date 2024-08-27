@@ -77,6 +77,12 @@ keysToAddIfMissing = keysToAddIfMissing.concat([
     'name',
 ]);
 
+function locHash(obj) {
+    let lon = obj.lon || obj.geometry.coordinates[0];
+    let lat = obj.lat || obj.geometry.coordinates[1];
+    return Math.round(lon*500000)/500000 + "," + Math.round(lat*500000)/500000;
+}
+
 let osm = JSON.parse(readFileSync('./osm/all.json'));
 let usgs = JSON.parse(readFileSync('./usgs/formatted/all.geojson'));
 
@@ -95,7 +101,7 @@ osm.elements.forEach(function(feature) {
         console.log(`Missing "ref" for ${feature.id}`);
     }
 
-    let loc = feature.lon + "," + feature.lat;
+    let loc = locHash(feature);
     if (osmByLoc[loc]) console.log(`OSM elements have the same location: ${osmByLoc[loc].id} and ${feature.id}`);
     osmByLoc[loc] = feature;
 });
@@ -167,11 +173,11 @@ for (let ref in usgsByRef) {
     let usgsFeature = usgsByRef[ref];
     if (!osmByRef[ref]) {
 
-        let loc = usgsFeature.geometry.coordinates[0] + "," + usgsFeature.geometry.coordinates[1];
+        let loc = locHash(usgsFeature);
         if (osmByLoc[loc]) {
             console.log(`Offsetting coordinates to avoid overlapping nodes: ${ref}`);
             usgsFeature.geometry.coordinates[0] += 0.00001;
-            loc = usgsFeature.geometry.coordinates[0] + "," + usgsFeature.geometry.coordinates[1];
+            loc = locHash(usgsFeature);
         }
         osmByLoc[loc] = true;
 
