@@ -635,5 +635,23 @@
       "72124",
       "72193"
     ]
+  },
+  "battery_voltage": {
+    "tags": {
+      "monitoring:battery_voltage": "yes"
+    },
+    "codes": [
+      "70969"
+    ]
+  },
+  "voltage": {
+    "tags": {
+      "monitoring:voltage": "yes"
+    },
+    "codes": [
+      "30216",
+      "61035",
+      "99263"
+    ]
   }
 }
