@@ -18,6 +18,14 @@ cameras.forEach(camera => {
         camerasByRef[ref].push(camera);
     }
 });
+// add "hidden" cameras after "unhidden" since they might just be temporarily offline
+cameras.forEach(camera => {
+    let ref = camera.nwisId;
+    if (ref && camera.camId && camera.hideCam) {
+        if (!camerasByRef[ref]) camerasByRef[ref] = [];
+        camerasByRef[ref].push(camera);
+    }
+});
 
 const conversionMap = JSON.parse(readFileSync('./monitoring_type_metadata.json'));
 

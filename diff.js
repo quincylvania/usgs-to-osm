@@ -53,11 +53,7 @@ for (let region in statesByRegion) {
     });
 }
 
-let keysToAddIfMissing = [...new Set(Object.values(conversionMap).map(obj => Object.keys(obj.tags)).flat())];
-keysToAddIfMissing = keysToAddIfMissing.concat([
-    'ele',
-    'ele:accuracy',
-    'ele:datum',
+const webcamKeys = [
     'contact:webcam',
     'contact:webcam:1',
     'contact:webcam:2',
@@ -65,7 +61,14 @@ keysToAddIfMissing = keysToAddIfMissing.concat([
     'contact:webcam:4',
     'contact:webcam:5',
     'contact:webcam:6',
-    'contact:webcam:7',
+    'contact:webcam:7'
+];
+
+let keysToAddIfMissing = [...new Set(Object.values(conversionMap).map(obj => Object.keys(obj.tags)).flat())];
+keysToAddIfMissing = keysToAddIfMissing.concat([
+    'ele',
+    'ele:accuracy',
+    'ele:datum',
     'start_date',
     'official_name',
     'operator',
@@ -77,14 +80,16 @@ keysToAddIfMissing = keysToAddIfMissing.concat([
     'name',
 ]);
 
+const keysToOverride = ['official_name'];
+
 function locHash(obj) {
     let lon = obj.lon || obj.geometry.coordinates[0];
     let lat = obj.lat || obj.geometry.coordinates[1];
     return Math.round(lon*500000)/500000 + "," + Math.round(lat*500000)/500000;
 }
 
-let osm = JSON.parse(readFileSync('./osm/all.json'));
-let usgs = JSON.parse(readFileSync('./usgs/formatted/all.geojson'));
+const osm = JSON.parse(readFileSync('./osm/all.json'));
+const usgs = JSON.parse(readFileSync('./usgs/formatted/all.geojson'));
 
 let osmByRef = {};
 let osmByLoc = {};
@@ -121,17 +126,76 @@ let usgsOnlyFeatures = [];
 
 let tagsAdded = {};
 let tagsModified = {};
-
-let keysToOverride = ['official_name'];
+let tagsDeleted = {};
 
 let addedMissingTags = 0;
 let overwroteIncorrectTags = 0;
+let deletedTagCount = 0;
+
+function tagDiff(before, after) {
+    let returner = {
+        added: [],
+        modified: [],
+        deleted: []
+    };
+    for (var key in before) {
+        if (!after[key]) returner.deleted.push(key);
+        else if (before[key] !== after[key]) returner.modified.push(key);
+    }
+    for (var key in after) {
+        if (!before[key]) returner.added.push(key);
+    }
+    returner.total = [...returner.added, ...returner.modified, ...returner.deleted];
+    return returner;
+}
+
+function cleanupWebcamValues(feature, nwisValues) {
+    const beforeWebcamTags = {};
+    webcamKeys.forEach(function(key) {
+        if (feature.tags[key]) {
+            beforeWebcamTags[key] = feature.tags[key];
+            delete feature.tags[key];
+        }
+    });
+    let cleanedValues = Object.values(beforeWebcamTags).filter(value => nwisValues.includes(value) || !value.startsWith('https://apps.usgs.gov/hivis/camera/'));
+    cleanedValues = Array.from(new Set(cleanedValues.concat(nwisValues)));
+    cleanedValues.forEach(value => addWebcamValue(feature, value));
+
+    const afterWebcamTags = {};
+    webcamKeys.forEach(function(key) {
+        if (feature.tags[key]) afterWebcamTags[key] = feature.tags[key];
+    });
+    return tagDiff(beforeWebcamTags, afterWebcamTags);
+}
+
+function addWebcamValue(feature, value) {
+    let osmWebcamValues = webcamKeys.map(key => feature.tags[key]).filter(val => val);
+    let suffix = osmWebcamValues.length === 0 ? "" : ":" + osmWebcamValues.length;
+    let targetKey = "contact:webcam" + suffix;
+    feature.tags[targetKey] = value;
+}
 
 for (let ref in osmByRef) {
     let osmFeature = osmByRef[ref];
     let latest = usgsByRef[ref];
     if (latest) {
         let didUpdate = false;
+
+        function processDiff(diff) {
+            if (diff.total.length) {
+                didUpdate = true;
+                diff.added.forEach(key => tagsAdded[key] = true);
+                diff.modified.forEach(key => tagsModified[key] = true);
+                diff.deleted.forEach(key => tagsDeleted[key] = true);
+                addedMissingTags += diff.added.length;
+                overwroteIncorrectTags += diff.modified.length;
+                deletedTagCount += diff.deleted.length;
+            }
+        }
+
+        let nwisWebcamValues = webcamKeys.map(key => latest.properties[key]).filter(val => val);
+        processDiff(cleanupWebcamValues(osmFeature, nwisWebcamValues));
+        
         for (let i in keysToAddIfMissing) {
             let key = keysToAddIfMissing[i];
             // some sites don't have a name so don't add one
@@ -218,6 +282,8 @@ function geoJsonForFeature(features) {
 console.log('Modified, needs upload: ' + updated.length);
 if (addedMissingTags > 0) console.log(`  Added ${addedMissingTags} tags: ` + Object.keys(tagsAdded).join(', '));
 if (overwroteIncorrectTags > 0) console.log(`  Overwrote ${overwroteIncorrectTags} tags: ` + Object.keys(tagsModified).join(', '));
+if (deletedTagCount > 0) console.log(`  Deleted ${deletedTagCount} tags: ` + Object.keys(tagsDeleted).join(', '));
+
 
 for (let state in updatedByState) {
     writeFileSync('./diffed/modified/bystate/' + state + '.osc', osmChangeXmlForFeatures(updatedByState[state]));
