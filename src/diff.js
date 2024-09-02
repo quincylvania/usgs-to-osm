@@ -9,7 +9,7 @@ clearDirectory('./diffed/modified/bystate/');
 clearDirectory('./diffed/usgs_only/bystate/');
 clearDirectory('./diffed/osm_only/');
 
-const conversionMap = JSON.parse(readFileSync('./monitoring_type_metadata.json'));
+const conversionMap = JSON.parse(readFileSync(import.meta.dirname + '/data/monitoring_types.json'));
 
 const statesByRegion = {
     "Northeast": [

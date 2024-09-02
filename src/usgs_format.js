@@ -29,7 +29,7 @@ cameras.forEach(camera => {
     }
 });
 
-const conversionMap = JSON.parse(readFileSync('./monitoring_type_metadata.json'));
+const conversionMap = JSON.parse(readFileSync(import.meta.dirname + '/data/monitoring_types.json'));
 
 const csvOpts = {columns: true, delimiter: '\t', relax_quotes: true};
 

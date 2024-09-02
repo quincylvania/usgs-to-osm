@@ -1,7 +1,7 @@
 import { existsSync, readdirSync, rmSync, mkdirSync, readFileSync, writeFileSync } from 'fs';
 import { request } from 'https';
 
-const conversionMap = JSON.parse(readFileSync('./monitoring_type_metadata.json'));
+const conversionMap = JSON.parse(readFileSync(import.meta.dirname + '/data/monitoring_types.json'));
 
 function clearDirectory(dir) {
   if (existsSync(dir)) readdirSync(dir).forEach(f => rmSync(`${dir}${f}`, { recursive: true }));
