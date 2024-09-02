@@ -100,7 +100,7 @@ osm.elements.forEach(function(feature) {
     if (feature.tags.noname && feature.tags.noname !== "yes") console.log(`Unexpected "noname" value ${feature.tags.noname} on ${feature.id}`);
 
     if (feature.tags.ref) {
-        if (!(/^\d{1,15}$/.test(feature.tags.ref))) console.log(`Unexpected "ref" for ${feature.id}`);
+        if (!(/^\d{8,15}$/.test(feature.tags.ref))) console.log(`Unexpected "ref" for ${feature.id}`);
         if (osmByRef[feature.tags.ref]) console.log(`Duplicate OSM elements for "ref=${feature.tags.ref}": ${osmByRef[feature.tags.ref].id} and ${feature.id}`);
         osmByRef[feature.tags.ref] = feature;
     } else {
