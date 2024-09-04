@@ -14,12 +14,14 @@ Converting and maintaining USGS data is not trivial. USGS does not appear to dis
 
 ## To update OpenStreetMap
 
-1. Run `npm run refresh_usgs` to download latest USGS sites from USGS. This is actually three scripts you can run separately:
-   1. `download_usgs_nwis` fetches the latest USGS National Water Information System data
-   2. `download_usgs_cameras` fetches the latest USGS webcam data
-   3. `format_usgs` compliles the above two datasets into GeoJSON with OSM tags
-2. Run `npm run refresh_osm` to download existing USGS sites from OSM.
-3. Run `npm run diff` to compare the two data sources and output change files to `diff/`.
+Run `npm run all`. This executes the following steps:
+
+1. `npm run usgs` downloads the latest USGS data from USGS.
+   1. `usgs:download:nwis` fetches the latest USGS National Water Information System data
+   2. `usgs:download:cameras` fetches the latest USGS webcam data
+   3. `usgs:format` compliles the above two datasets into GeoJSON with OSM tags
+2. `npm run osm` downloads existing USGS sites from OSM.
+3. `npm run diff` compares the two data sources and output change files to `diff/`.
       
 At this point three subdirectories are created.
 
