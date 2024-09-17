@@ -1,10 +1,6 @@
 import { existsSync, readdirSync, rmSync, mkdirSync, writeFileSync } from 'fs';
-import { request } from 'https';
+import { get, clearDirectory } from './utils.js';
 
-function clearDirectory(dir) {
-  if (existsSync(dir)) readdirSync(dir).forEach(f => rmSync(`${dir}${f}`, { recursive: true }));
-  if (!existsSync(dir)) mkdirSync(dir, { recursive: true });
-}
 clearDirectory('./usgs/nwis/all/');
 clearDirectory('./usgs/nwis/all/bystate/');
 
@@ -114,38 +110,4 @@ async function getAndSave(remoteUrls, localUrl, expectNoData) {
       console.log(`Unexpectedly found no data to save to ${localUrl}`);
     } 
   }
-}
-
-function get(url) {
-
-  const options = {
-    method: 'GET',
-    timeout: 60000, // in ms
-  }
-
-  return new Promise((resolve, reject) => {
-    const req = request(url, options, (res) => {
-      if (res.statusCode < 200 || res.statusCode > 299) {
-        return reject(new Error(`HTTP status code ${res.statusCode}`))
-      }
-
-      const body = []
-      res.on('data', (chunk) => body.push(chunk))
-      res.on('end', () => {
-        const resString = Buffer.concat(body).toString()
-        resolve(resString)
-      })
-    })
-
-    req.on('error', (err) => {
-      reject(err)
-    })
-
-    req.on('timeout', () => {
-      req.destroy()
-      reject(new Error('Request time out'))
-    })
-
-    req.end()
-  })
 }

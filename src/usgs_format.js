@@ -1,10 +1,7 @@
 import { parse as parseCsv } from 'csv-parse/sync';
 import { existsSync, readdirSync, rmSync, mkdirSync, readFileSync, writeFileSync, promises } from 'fs';
+import { clearDirectory } from './utils.js';
 
-function clearDirectory(dir) {
-    if (existsSync(dir)) readdirSync(dir).forEach(f => rmSync(`${dir}${f}`, { recursive: true }));
-    if (!existsSync(dir)) mkdirSync(dir, { recursive: true });
-}
 clearDirectory('./usgs/formatted/');
 clearDirectory('./usgs/formatted/bystate/');
 
