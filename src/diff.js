@@ -1,9 +1,6 @@
-import { existsSync, readFileSync, writeFileSync, readdirSync, rmSync, mkdirSync } from 'fs';
+import { readFileSync, writeFileSync } from 'fs';
+import { clearDirectory } from './utils.js';
 
-function clearDirectory(dir) {
-    if (existsSync(dir)) readdirSync(dir).forEach(f => rmSync(`${dir}${f}`, { recursive: true }));
-    if (!existsSync(dir)) mkdirSync(dir, { recursive: true });
-}
 clearDirectory('./diffed/');
 clearDirectory('./diffed/modified/bystate/');
 clearDirectory('./diffed/usgs_only/bystate/');

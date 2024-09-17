@@ -1,4 +1,4 @@
-import { existsSync, readdirSync, rmSync, mkdirSync, writeFileSync } from 'fs';
+import { writeFileSync } from 'fs';
 import { get, clearDirectory } from './utils.js';
 
 clearDirectory('./usgs/nwis/all/');

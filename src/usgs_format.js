@@ -1,5 +1,5 @@
 import { parse as parseCsv } from 'csv-parse/sync';
-import { existsSync, readdirSync, rmSync, mkdirSync, readFileSync, writeFileSync, promises } from 'fs';
+import { readFileSync, writeFileSync, promises } from 'fs';
 import { clearDirectory } from './utils.js';
 
 clearDirectory('./usgs/formatted/');

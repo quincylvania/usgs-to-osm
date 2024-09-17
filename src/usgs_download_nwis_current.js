@@ -1,4 +1,4 @@
-import { existsSync, readdirSync, rmSync, mkdirSync, readFileSync, writeFileSync } from 'fs';
+import { readFileSync, writeFileSync } from 'fs';
 import { get, clearDirectory } from './utils.js';
 
 const conversionMap = JSON.parse(readFileSync(import.meta.dirname + '/data/monitoring_types.json'));

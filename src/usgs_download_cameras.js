@@ -1,4 +1,4 @@
-import { existsSync, readdirSync, rmSync, mkdirSync, readFileSync, writeFileSync } from 'fs';
+import { writeFileSync } from 'fs';
 import { get, clearDirectory } from './utils.js';
 
 // URL swiped from https://apps.usgs.gov/hivis/. Couldn't find a better data source.
