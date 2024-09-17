@@ -1,4 +1,5 @@
 import { request } from 'https';
+import { existsSync, readdirSync, rmSync, mkdirSync } from 'fs';
 
 export function clearDirectory(dir) {
     if (existsSync(dir)) readdirSync(dir).forEach(f => rmSync(`${dir}${f}`, { recursive: true }));
