@@ -6,6 +6,8 @@
   "main": "index.js",
   "scripts": {
     "all": "npm run usgs && npm run osm && npm run diff",
+    "co-ops": "npm run co-ops:download",
+    "co-ops:download": "node src/co-ops_download.js",
     "diff": "node src/diff.js",
     "osm": "npm run osm:download",
     "osm:download": "node src/osm_download.js",
