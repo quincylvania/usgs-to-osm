@@ -571,9 +571,9 @@
       "72121"
     ]
   },
-  "air_draught": {
+  "air_gap": {
     "tags": {
-      "monitoring:air_draught": "yes"
+      "monitoring:air_gap": "yes"
     },
     "codes": [
       "72320"
