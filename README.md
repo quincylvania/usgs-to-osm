@@ -25,17 +25,17 @@ Run `npm run all`. This executes the following steps:
       
 At this point three subdirectories are created.
 
-1. `diff/modified/` – osmChange files that modify existing OSM features, adding missing tags and updating tags where USGS is the source of truth (e.g. `official_name`).
+1. `diffed/modified/` – osmChange files that modify existing OSM features, adding missing tags and updating tags where USGS is the source of truth (e.g. `official_name`).
    1. Review the changes to make sure the added tags make sense. If any `official_name` name tags have changed, check if the corresponding `name` need to be updated.
    1. Upload with JOSM. If the changeset has a large bounding box, upload by state or region instead.
    2. Note: The upload will fail if any of the OSM features have been edited since running `npm run refresh_osm`.
-1. `diff/usgs_only/` – GeoJSON files containing USGS sites not present in OSM.
+1. `diffed/usgs_only/` – GeoJSON files containing USGS sites not present in OSM.
    1. Manually review the `name` tag of each site (expand abbreviations, add missing words, remove cruft, etc.) If the site has some nonsensical name, remove `name` and add `noname=yes` intead.
    2. Upload with JOSM. If the changeset has a large bounding box, upload by state or region instead.
    3. Manually review each uploaded site in JOSM or iD.
       1. If someone already mapped the same monitoring station, reconcile the tags and remove the duplicate.
       2. If the location looks off, try to determine the proper location through aerial and street-level imagery.
-2. `diff/usgs_only/` – an OSM JSON file containing features linked to USGS in OSM that are not found in current USGS data.
+2. `diffed/usgs_only/` – an OSM JSON file containing features linked to USGS in OSM that are not found in current USGS data.
    1. Manually review each feature and look for data errors, such as a bad `ref` tag.
    2. Open the `website` link to see if the site is still active. Note that some sites are seasonal or have temporary outages due to equpiment malfunction or funding shortfall.
    3. If the site is not active, add an appropriate lifecycle tag to `man_made=monitoring_station`. Please do not delete the feature as it may later come back online or someone may erroneously re-add it. Supported lifecycle tags are:
