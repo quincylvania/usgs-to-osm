@@ -4,7 +4,7 @@ import { get, clearDirectory } from './utils.js';
 // Fetch official site data from NOAA CO-OPS Metadata API:
 // https://api.tidesandcurrents.noaa.gov/mdapi/prod/
 
-clearDirectory('./co-ops/source/');
+clearDirectory('./scratch/co-ops/source/');
 
 console.log('Fetching latest NOAA CO-OPS stations…');
 
@@ -67,5 +67,5 @@ const json = {
   stations: Object.values(stationsById)
 };
 
-console.log(`Writing data to './co-ops/source/all.json'`);
-writeFileSync('./co-ops/source/all.json', JSON.stringify(json, null, 2));
+console.log(`Writing data to './scratch/co-ops/source/all.json'`);
+writeFileSync('./scratch/co-ops/source/all.json', JSON.stringify(json, null, 2));

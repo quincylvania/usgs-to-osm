@@ -1,11 +1,11 @@
 import { readFileSync, writeFileSync } from 'fs';
 import { clearDirectory } from './utils.js';
 
-clearDirectory('./co-ops/formatted/');
+clearDirectory('./scratch/co-ops/formatted/');
 
 console.log('Formatting NOAA CO-OPS stations…');
 
-const sourceStations = JSON.parse(readFileSync('./co-ops/source/all.json')).stations;
+const sourceStations = JSON.parse(readFileSync('./scratch/co-ops/source/all.json')).stations;
 
 const features = [];
 
@@ -120,5 +120,5 @@ const json = {
 };
 
 console.log(features.length);
-console.log(`Writing data to './co-ops/formatted/all.json'`);
-writeFileSync('./co-ops/formatted/all.json', JSON.stringify(json, null, 2));
+console.log(`Writing data to './scratch/co-ops/formatted/all.json'`);
+writeFileSync('./scratch/co-ops/formatted/all.json', JSON.stringify(json, null, 2));

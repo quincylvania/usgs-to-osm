@@ -1,8 +1,8 @@
 import { writeFileSync } from 'fs';
 import { get, clearDirectory } from './utils.js';
 
-clearDirectory('./usgs/nwis/all/');
-clearDirectory('./usgs/nwis/all/bystate/');
+clearDirectory('./scratch/usgs/nwis/all/');
+clearDirectory('./scratch/usgs/nwis/all/bystate/');
 
 // some states error out for returning too much data so we need to do multiple queries and combine them
 const regionBounds = {
@@ -60,10 +60,10 @@ for (let i in regionCodes) {
     await getAndSave([
       buildUrlForAll(regionCode, bbox1),
       buildUrlForAll(regionCode, bbox2),
-    ], `./usgs/nwis/all/bystate/${regionCode}.csv`);
+    ], `./scratch/usgs/nwis/all/bystate/${regionCode}.csv`);
   } else {
     // don't fetch async becasue we don't want to strain the USGS servers
-    await getAndSave(buildUrlForAll(regionCode), `./usgs/nwis/all/bystate/${regionCode}.csv`, noDataExpectedForCodes.includes(regionCode));
+    await getAndSave(buildUrlForAll(regionCode), `./scratch/usgs/nwis/all/bystate/${regionCode}.csv`, noDataExpectedForCodes.includes(regionCode));
   }
 }
 

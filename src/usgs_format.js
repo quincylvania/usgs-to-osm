@@ -2,13 +2,13 @@ import { parse as parseCsv } from 'csv-parse/sync';
 import { readFileSync, writeFileSync, promises } from 'fs';
 import { clearDirectory } from './utils.js';
 
-clearDirectory('./usgs/formatted/');
-clearDirectory('./usgs/formatted/bystate/');
+clearDirectory('./scratch/usgs/formatted/');
+clearDirectory('./scratch/usgs/formatted/bystate/');
 
 const metersPerFoot = 0.3048;
 
 console.log('Loading cameras…');
-const cameras = JSON.parse(readFileSync('./usgs/cameras/all.json'));
+const cameras = JSON.parse(readFileSync('./scratch/usgs/cameras/all.json'));
 const camerasByRef = {};
 cameras.forEach(camera => {
     let ref = camera.nwisId;
@@ -34,7 +34,7 @@ const siteStateByRef = {};
 
 console.log('Loading state codes…');
 async function loadSiteStatesByRef() {
-    const allBystatePath = './usgs/nwis/all/bystate/';
+    const allBystatePath = './scratch/usgs/nwis/all/bystate/';
     const dir = await promises.opendir(allBystatePath)
     const allPromises = [];
     for await (const dirent of dir) {
@@ -53,13 +53,13 @@ console.log(Object.keys(siteStateByRef).length);
 
 console.log('Loading all current sites…');
 const allCurrentItems = {};
-parseCsv(readFileSync('./usgs/nwis/current/all.csv'), csvOpts).forEach(item => {
+parseCsv(readFileSync('./scratch/usgs/nwis/current/all.csv'), csvOpts).forEach(item => {
     item.tags = {};
     allCurrentItems[item.site_no] = item;
 });
 
 for (let filename in conversionMap) {
-    parseCsv(readFileSync('./usgs/nwis/current/' + filename + '.csv'), csvOpts).forEach(item => {
+    parseCsv(readFileSync('./scratch/usgs/nwis/current/' + filename + '.csv'), csvOpts).forEach(item => {
         if (allCurrentItems[item.site_no]) {
             Object.assign(allCurrentItems[item.site_no].tags, conversionMap[filename].tags);
         }
@@ -465,13 +465,13 @@ for (let state in featuresByState) {
     });
     let filename = state;
     if (!filename) filename = "_nostate";
-    writeFileSync('./usgs/formatted/bystate/' + filename + '.geojson', JSON.stringify({
+    writeFileSync('./scratch/usgs/formatted/bystate/' + filename + '.geojson', JSON.stringify({
         type: "FeatureCollection",
         features: featuresByState[state]
     }, null, 2));
 }
 console.log(features.length);
-writeFileSync('./usgs/formatted/all.geojson', JSON.stringify({
+writeFileSync('./scratch/usgs/formatted/all.geojson', JSON.stringify({
     type: "FeatureCollection",
     features: features
 }, null, 2));

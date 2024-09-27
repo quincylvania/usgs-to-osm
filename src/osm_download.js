@@ -1,7 +1,7 @@
 import { writeFileSync } from 'fs';
 import { post, clearDirectory } from './utils.js';
 
-clearDirectory('./osm/');
+clearDirectory('./scratch/osm/');
 
 const prefixes = ['', 'disused:', 'abandoned:', 'ruins:', 'demolished:', 'destroyed:', 'razed:', 'removed:', 'was:'];
 
@@ -19,6 +19,6 @@ let postData = "data="+encodeURIComponent(query);
 console.log("Running Overpass query… this may take some time");
 await post('https://overpass-api.de/api/interpreter', postData).then(function(response) {
   console.log(`${JSON.parse(response)?.elements?.length} OSM entities returned`);
-  console.log("Writing data to ./osm/all.json");
-  writeFileSync('./osm/all.json', response);
+  console.log("Writing data to ./scratch/osm/all.json");
+  writeFileSync('./scratch/osm/all.json', response);
 });
