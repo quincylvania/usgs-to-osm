@@ -9,7 +9,7 @@ const prefixes = ['', 'disused:', 'abandoned:', 'ruins:', 'demolished:', 'destro
 const query = `
 [out:json][timeout:60];
 (
-${prefixes.map(prefix => `node["${prefix}man_made"="monitoring_station"]["operator:wikidata"="Q193755"]["ref"];`).join('\n')}
+${prefixes.map(prefix => `node["${prefix}man_made"="monitoring_station"]["operator:wikidata"="Q193755"];`).join('\n')}
 );
 (._;>;); out meta;
 `;
