@@ -58,7 +58,8 @@ const webcamKeys = [
     'contact:webcam:4',
     'contact:webcam:5',
     'contact:webcam:6',
-    'contact:webcam:7'
+    'contact:webcam:7',
+    'contact:webcam:8'
 ];
 
 let keysToAddIfMissing = [...new Set(Object.values(conversionMap).map(obj => Object.keys(obj.tags)).flat())];
@@ -101,7 +102,7 @@ osm.elements.forEach(function(feature) {
         if (osmByRef[feature.tags.ref]) console.log(`Duplicate OSM elements for "ref=${feature.tags.ref}": ${osmByRef[feature.tags.ref].id} and ${feature.id}`);
         osmByRef[feature.tags.ref] = feature;
     } else {
-        console.log(`Missing "ref" for ${feature.id}`);
+        console.log(`Missing "ref" for https://openstreetmap.org/node/${feature.id}`);
     }
 
     let loc = locHash(feature);
