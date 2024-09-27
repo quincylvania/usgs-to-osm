@@ -1,6 +1,6 @@
 import { parse as parseCsv } from 'csv-parse/sync';
 import { readFileSync, writeFileSync, promises } from 'fs';
-import { clearDirectory } from './utils.js';
+import { clearDirectory, toTitleCase } from './utils.js';
 
 clearDirectory('./scratch/usgs/formatted/');
 clearDirectory('./scratch/usgs/formatted/bystate/');
@@ -64,15 +64,6 @@ for (let filename in conversionMap) {
             Object.assign(allCurrentItems[item.site_no].tags, conversionMap[filename].tags);
         }
     });
-}
-
-function toTitleCase(str) {
-    return str.replace(
-      /\b\D+?\b/g,
-      function(txt) {
-        return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();
-      }
-    );
 }
 
 // "Guam" is used in site names there instead of GU

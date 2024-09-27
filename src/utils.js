@@ -78,3 +78,12 @@ export function post(url, dataString) {
     req.end()
   })
 }
+
+export function toTitleCase(str) {
+  return str.replace(
+    /\b\D+?\b/g,
+    function(txt) {
+      return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();
+    }
+  );
+}
