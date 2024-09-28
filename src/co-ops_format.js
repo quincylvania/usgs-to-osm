@@ -1,11 +1,18 @@
 import { readFileSync, writeFileSync } from 'fs';
-import { clearDirectory } from './utils.js';
+import { clearDirectory, toTitleCase } from './utils.js';
 
 clearDirectory('./scratch/co-ops/formatted/');
 
 console.log('Formatting NOAA CO-OPS stations…');
 
 const sourceStations = JSON.parse(readFileSync('./scratch/co-ops/source/all.json')).stations;
+
+const ndbcStations = JSON.parse(readFileSync('./scratch/ndbc/all.json')).stations.children.map(item => item.station);
+const ndbcStationsById = {};
+for (let i in ndbcStations) {
+  let station = ndbcStations[i];
+  ndbcStationsById[station.id] = station;
+}
 
 const features = [];
 
@@ -65,24 +72,62 @@ for (let i in sourceStations) {
   let details = station.details;
   if (isNaN(lat) || isNaN(lng) || !details || !station.id.length) continue;
 
+  let name = station.name;
+  if (name === name.toUpperCase()) {
+    name = toTitleCase(name);
+  }
+
   let feature = {
     "geometry": {
       "type": "Point",
       "coordinates": [lng, lat]
     },
     "properties": {
-      "name": station.name,
+      "name": name,
       "ref": station.id,
       "website": `https://tidesandcurrents.noaa.gov/stationhome.html?id=${station.id}`,
+      "source": "CO-OPS Metadata API",
+      "tidal": station.tidal === true ? "yes" : "no"
+    }
+  };
+  let affiliations = station.affiliations?.replace('NWLORTS', 'NWLON,PORTS').split(',') || [''];
+  if (affiliations.includes('TCOON')) {
+    Object.assign(feature.properties, {
+      "operator": "Texas Coastal Ocean Observation Network",
+      "operator:short": "TCOON",
+      "operator:wikidata": "Q130375316",
+      "operator:type": "government",
+    });
+  } else {
+    Object.assign(feature.properties, {
       "operator": "Center for Operational Oceanographic Products and Services",
       "operator:short": "CO-OPS",
       "operator:wikidata": "Q123032876",
       "operator:type": "government",
-      "tidal": station.tidal === true ? "yes" : "no"
-    }
-  };
+    });
+  }
   if (station.shefcode) {
     feature.properties["shef:code"] = station.shefcode;
+    let lcShef = station.shefcode.toLowerCase();
+    let ndbcStation = ndbcStationsById[lcShef];
+    if (ndbcStation) {
+      feature.properties["website:1"] = `https://www.ndbc.noaa.gov/station_page.php?station=${lcShef}`;
+      if (ndbcStation.elev) {
+        feature.properties.ele = ndbcStation.elev;
+        feature.properties["ele:datum"] = "MSL";
+      }
+      if (ndbcStation.type !== "fixed") {
+        console.log(`Unexpected station type for ${station.id}: ${ndbcStation.type}`);
+      }
+      let coOpsAffiliations = ['', 'PORTS', 'NWLON', 'COASTAL'];
+      let isCoOps = new Set(coOpsAffiliations).intersection(new Set(affiliations)).size;
+      if (!["NOS/CO-OPS", "IOOS Partners"].includes(ndbcStation.pgm) || 
+          (ndbcStation.pgm === "NOS/CO-OPS" && !isCoOps) ||
+          (ndbcStation.pgm === "IOOS Partners" && !affiliations.includes('TCOON'))) {
+        console.log(`Skipping station ${station.id} with unexpected affiliations "${station.affiliations}" and pgm "${ndbcStation.pgm}"`);
+        continue;
+      }
+    }
   }
   let startDate = details.origyear || details.established;
   if (startDate) feature.properties.start_date = startDate.slice(0, 10);
