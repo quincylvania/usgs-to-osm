@@ -1,5 +1,5 @@
 import { request } from 'https';
-import { existsSync, readdirSync, rmSync, mkdirSync } from 'fs';
+import { existsSync, readdirSync, rmSync, mkdirSync, writeFileSync } from 'fs';
 
 export function clearDirectory(dir) {
   if (existsSync(dir)) readdirSync(dir).forEach(f => rmSync(`${dir}${f}`, { recursive: true }));
@@ -90,3 +90,31 @@ export function toTitleCase(str) {
     }
   );
 }
+
+
+export async function fetchOsmData(id, queryPart) {
+
+  clearDirectory(`./scratch/osm/${id}/`);
+
+  const prefixes = ['', 'disused:', 'abandoned:', 'ruins:', 'demolished:', 'destroyed:', 'razed:', 'removed:', 'was:'];
+  
+  // do not limit to the US since some sites are in Canada
+  const query = `
+  [out:json][timeout:60];
+  (
+  ${prefixes.map(prefix => `node["${prefix}man_made"="monitoring_station"]${queryPart};`).join('\n')}
+  );
+  (._;>;); out meta;
+  `;
+  
+  let postData = "data="+encodeURIComponent(query);
+  
+  console.log(`Running Overpass query for '${id}'. This may take some time…`);
+  await post('https://overpass-api.de/api/interpreter', postData).then(function(response) {
+    console.log(`${JSON.parse(response)?.elements?.length} OSM entities returned`);
+    let localPath = `./scratch/osm/${id}/all.json`;
+    console.log(`Writing data to '${localPath}'`);
+    writeFileSync(localPath, response);
+  });
+}
+
