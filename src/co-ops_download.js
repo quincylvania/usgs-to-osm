@@ -1,5 +1,5 @@
 import { writeFileSync } from 'fs';
-import { get, clearDirectory } from './utils.js';
+import { getString, clearDirectory } from './utils.js';
 
 // Fetch official site data from NOAA CO-OPS Metadata API:
 // https://api.tidesandcurrents.noaa.gov/mdapi/prod/
@@ -48,7 +48,7 @@ for (let i in types) {
   // get all fields for all features with coordinates in WGS 84
   const url = `https://api.tidesandcurrents.noaa.gov/mdapi/prod/webapi/stations.json?type=${type}&expand=details,sensors`;
   console.log(`Fetching: ${url}`);
-  let response = await get(url);
+  let response = await getString(url);
   let json = JSON.parse(response);
   if (json && json.stations) {
     for (let j in json.stations) {

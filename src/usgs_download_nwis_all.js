@@ -1,5 +1,5 @@
 import { writeFileSync } from 'fs';
-import { get, clearDirectory } from './utils.js';
+import { getString, clearDirectory } from './utils.js';
 
 clearDirectory('./scratch/usgs/nwis/all/');
 clearDirectory('./scratch/usgs/nwis/all/bystate/');
@@ -76,7 +76,7 @@ async function getAndSave(remoteUrls, localUrl, expectNoData) {
 
   for (let i in remoteUrls) {
     let remoteUrl = remoteUrls[i];
-    await get(remoteUrl).then(function(response) {
+    await getString(remoteUrl).then(function(response) {
       
       // expect a commented description above data
       if (response[0] === "#") {

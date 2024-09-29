@@ -1,5 +1,5 @@
 import { readFileSync, writeFileSync } from 'fs';
-import { get, clearDirectory } from './utils.js';
+import { getString, clearDirectory } from './utils.js';
 
 const conversionMap = JSON.parse(readFileSync(import.meta.dirname + '/data/monitoring_types.json'));
 
@@ -12,7 +12,7 @@ function buildUrl(codesString) {
 
 console.log('Fetching latest data for the 13,000+ currently active USGS NWIS sites…');
 async function getAndSave(remoteUrl, localUrl) {
-  await get(remoteUrl).then(function(response) {
+  await getString(remoteUrl).then(function(response) {
     // expect a commented description above data
     if (response[0] === "#") {
       // remove the description

@@ -2,9 +2,13 @@ import { request } from 'https';
 import { existsSync, readdirSync, rmSync, mkdirSync } from 'fs';
 
 export function clearDirectory(dir) {
-    if (existsSync(dir)) readdirSync(dir).forEach(f => rmSync(`${dir}${f}`, { recursive: true }));
-    if (!existsSync(dir)) mkdirSync(dir, { recursive: true });
-  }
+  if (existsSync(dir)) readdirSync(dir).forEach(f => rmSync(`${dir}${f}`, { recursive: true }));
+  if (!existsSync(dir)) mkdirSync(dir, { recursive: true });
+}
+
+export function getString(url) {
+  return get(url).then(result => result.toString());
+}
 
 export function get(url) {
 
@@ -22,8 +26,7 @@ export function get(url) {
       const body = []
       res.on('data', (chunk) => body.push(chunk))
       res.on('end', () => {
-        const resString = Buffer.concat(body).toString()
-        resolve(resString)
+        resolve(Buffer.concat(body))
       })
     })
 

@@ -1,5 +1,5 @@
 import { writeFileSync } from 'fs';
-import { get, clearDirectory } from './utils.js';
+import { getString, clearDirectory } from './utils.js';
 
 // URL swiped from https://apps.usgs.gov/hivis/. Couldn't find a better data source.
 const camerasRemoteUrl = 'https://jj5utwupk5.execute-api.us-east-1.amazonaws.com/prod/cameras';
@@ -7,7 +7,7 @@ const camerasRemoteUrl = 'https://jj5utwupk5.execute-api.us-east-1.amazonaws.com
 clearDirectory('./scratch/usgs/cameras/');
 
 console.log('Fetching latest USGS cameras file…');
-await get(camerasRemoteUrl).then(function(response) {
+await getString(camerasRemoteUrl).then(function(response) {
   let json = JSON.parse(response);
   if (json && json.length) {
     console.log(json.length + ' cameras');
