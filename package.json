@@ -6,6 +6,7 @@
   "main": "index.js",
   "scripts": {
     "buoys": "npm run ndbc:download && npm run co-ops:download:stations && npm run co-ops:format",
+    "co-ops:diff": "node src/co-ops_diff.js",
     "co-ops:download:photos": "node src/co-ops_download_photos.js",
     "co-ops:download:stations": "node src/co-ops_download_stations.js",
     "co-ops:format": "node src/co-ops_format.js",

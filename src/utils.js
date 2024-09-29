@@ -118,3 +118,8 @@ export async function fetchOsmData(id, queryPart) {
   });
 }
 
+export function locHash(obj) {
+  let lon = obj.lon || obj.geometry.coordinates[0];
+  let lat = obj.lat || obj.geometry.coordinates[1];
+  return Math.round(lon*500000)/500000 + "," + Math.round(lat*500000)/500000;
+}

@@ -1,10 +1,10 @@
 import { readFileSync, writeFileSync } from 'fs';
-import { clearDirectory } from './utils.js';
+import { clearDirectory, locHash } from './utils.js';
 
-clearDirectory('./scratch/diffed/');
-clearDirectory('./scratch/diffed/modified/bystate/');
-clearDirectory('./scratch/diffed/usgs_only/bystate/');
-clearDirectory('./scratch/diffed/osm_only/');
+clearDirectory('./scratch/usgs/diffed/');
+clearDirectory('./scratch/usgs/diffed/modified/bystate/');
+clearDirectory('./scratch/usgs/diffed/usgs_only/bystate/');
+clearDirectory('./scratch/usgs/diffed/osm_only/');
 
 const conversionMap = JSON.parse(readFileSync(import.meta.dirname + '/data/monitoring_types.json'));
 
@@ -81,13 +81,7 @@ keysToAddIfMissing = keysToAddIfMissing.concat([
 
 const keysToOverride = ['official_name'];
 
-function locHash(obj) {
-    let lon = obj.lon || obj.geometry.coordinates[0];
-    let lat = obj.lat || obj.geometry.coordinates[1];
-    return Math.round(lon*500000)/500000 + "," + Math.round(lat*500000)/500000;
-}
-
-const osm = JSON.parse(readFileSync('./scratch/osm/all.json'));
+const osm = JSON.parse(readFileSync('./scratch/osm/usgs/all.json'));
 const usgs = JSON.parse(readFileSync('./scratch/usgs/formatted/all.geojson'));
 
 let osmByRef = {};
@@ -285,19 +279,19 @@ if (deletedTagCount > 0) console.log(`  Deleted ${deletedTagCount} tags: ` + Obj
 
 
 for (let state in updatedByState) {
-    writeFileSync('./scratch/diffed/modified/bystate/' + state + '.osc', osmChangeXmlForFeatures(updatedByState[state]));
+    writeFileSync('./scratch/usgs/diffed/modified/bystate/' + state + '.osc', osmChangeXmlForFeatures(updatedByState[state]));
     console.log("  " + state + ": " + updatedByState[state].length);
 }
-writeFileSync('./scratch/diffed/modified/all.osc', osmChangeXmlForFeatures(updated));
+writeFileSync('./scratch/usgs/diffed/modified/all.osc', osmChangeXmlForFeatures(updated));
 
 console.log('In USGS but not OSM, needs review and upload: ' + usgsOnlyFeatures.length);
 
 for (let state in usgsOnlyByState) {
-    writeFileSync('./scratch/diffed/usgs_only/bystate/' + state + '.geojson', JSON.stringify(geoJsonForFeature(usgsOnlyByState[state]), null, 2));
+    writeFileSync('./scratch/usgs/diffed/usgs_only/bystate/' + state + '.geojson', JSON.stringify(geoJsonForFeature(usgsOnlyByState[state]), null, 2));
     console.log("  " + state + ": " + usgsOnlyByState[state].length);
 }
-writeFileSync('./scratch/diffed/usgs_only/all.geojson', JSON.stringify(geoJsonForFeature(usgsOnlyFeatures), null, 2));
+writeFileSync('./scratch/usgs/diffed/usgs_only/all.geojson', JSON.stringify(geoJsonForFeature(usgsOnlyFeatures), null, 2));
 
-writeFileSync('./scratch/diffed/osm_only/all.json', JSON.stringify(osmOnlyFeatures, null, 2));
+writeFileSync('./scratch/usgs/diffed/osm_only/all.json', JSON.stringify(osmOnlyFeatures, null, 2));
 
 console.log('In OSM but not USGS, needs review: ' + osmOnlyFeatures.length);

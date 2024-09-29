@@ -88,7 +88,8 @@ for (let i in sourceStations) {
       "website": `https://tidesandcurrents.noaa.gov/stationhome.html?id=${station.id}`,
       "source": "CO-OPS Metadata API",
       "tidal": station.tidal === true ? "yes" : "no"
-    }
+    },
+    "state": station.state
   };
   let affiliations = station.affiliations?.replace('NWLORTS', 'NWLON,PORTS').split(',') || [''];
   if (affiliations.includes('TCOON')) {
@@ -165,5 +166,5 @@ const json = {
 };
 
 console.log(features.length);
-console.log(`Writing data to './scratch/co-ops/formatted/all.json'`);
-writeFileSync('./scratch/co-ops/formatted/all.json', JSON.stringify(json, null, 2));
+console.log(`Writing data to './scratch/co-ops/formatted/all.geojson'`);
+writeFileSync('./scratch/co-ops/formatted/all.geojson', JSON.stringify(json, null, 2));
