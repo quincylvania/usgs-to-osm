@@ -134,7 +134,7 @@ for (let i in sourceStations) {
   if (startDate) feature.properties.start_date = startDate.slice(0, 10);
   
   let sensors = station.sensors?.sensors;
-  let hasWorkingSensor = sensors && sensors.find(sensor => sensor.status === 1);
+  let hasWorkingSensor = sensors && sensors.find(sensor => sensor.name !== 'site' && sensor.status === 1);
 
   if (details.removed.length > 0) {
     feature.properties["removed:man_made"] = "monitoring_station";

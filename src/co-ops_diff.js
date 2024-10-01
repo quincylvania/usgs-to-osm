@@ -9,6 +9,35 @@ clearDirectory('./scratch/co-ops/diffed/osm_only/');
 const osm = JSON.parse(readFileSync('./scratch/osm/co-ops/all.json'));
 const coOps = JSON.parse(readFileSync('./scratch/co-ops/formatted/all.geojson'));
 
+let keysToAddIfMissing = [
+    'ele',
+    'ele:datum',
+    'name',
+    'official_name',
+    'operator',
+    'operator:type',
+    'operator:short',
+    'operator:wikidata',
+    "monitoring:air_gap",
+    "monitoring:air_humidity",
+    "monitoring:air_pressure",
+    "monitoring:air_temperature",
+    "monitoring:visibility",
+    "monitoring:water_conductivity",
+    "monitoring:water_level",
+    "monitoring:water_temperature",
+    "monitoring:wind_direction",
+    "monitoring:wind_speed",
+    'ref',
+    'shef:code',
+    'start_date',
+    'tidal',
+    'website',
+    'website:1',
+];
+
+let keysToOverride = [];
+
 let osmByRef = {};
 let osmByLoc = {};
 osm.elements.forEach(function(feature) {
