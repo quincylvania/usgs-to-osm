@@ -34,6 +34,7 @@ let keysToAddIfMissing = [
     'tidal',
     'website',
     'website:1',
+    'website:2',
 ];
 
 let keysToOverride = [];

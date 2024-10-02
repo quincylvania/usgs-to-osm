@@ -1,5 +1,5 @@
 import { readFileSync, writeFileSync } from 'fs';
-import { clearDirectory, toTitleCase } from './utils.js';
+import { clearDirectory, toTitleCase, iterateFilesInDirectory } from './utils.js';
 
 clearDirectory('./scratch/co-ops/formatted/');
 
@@ -13,6 +13,12 @@ for (let i in ndbcStations) {
   let station = ndbcStations[i];
   ndbcStationsById[station.id] = station;
 }
+
+const nwpsStationsByShef = {};
+await iterateFilesInDirectory('./scratch/nwps/full/', function(result) {
+    let json = JSON.parse(result);
+    if (json.lid) nwpsStationsByShef[json.lid] = json;
+});
 
 const features = [];
 
@@ -128,6 +134,11 @@ for (let i in sourceStations) {
         console.log(`Skipping station ${station.id} with unexpected affiliations "${station.affiliations}" and pgm "${ndbcStation.pgm}"`);
         continue;
       }
+    }
+    let nwpsStation = nwpsStationsByShef[station.shefcode];
+    if (nwpsStation) {
+      let key = feature.properties["website:1"] ? "website:2" : "website:1";
+      feature.properties[key] = `https://water.noaa.gov/gauges/${lcShef}`;
     }
   }
   let startDate = details.origyear || details.established;

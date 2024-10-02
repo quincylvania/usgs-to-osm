@@ -1,5 +1,12 @@
 import { request } from 'https';
 import { existsSync, readdirSync, rmSync, mkdirSync, writeFileSync } from 'fs';
+import { readFile } from 'fs/promises';
+
+export async function iterateFilesInDirectory(dir, withFunction) {
+  return Promise.all(readdirSync(dir).map(file => {
+      return readFile(dir + file).then(withFunction);
+  }));
+}
 
 export function clearDirectory(dir) {
   if (existsSync(dir)) readdirSync(dir).forEach(f => rmSync(`${dir}${f}`, { recursive: true }));
