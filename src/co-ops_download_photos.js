@@ -11,7 +11,6 @@ let imageSaved = 0;
 
 for(let stationId in directory) {
   let imageSuffixes = directory[stationId].split('');
-  imageSuffixes
 
   for(let i in imageSuffixes) {
     let suffix = imageSuffixes[i];
