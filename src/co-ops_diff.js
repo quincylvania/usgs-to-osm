@@ -29,7 +29,7 @@ let keysToAddIfMissing = [
     "monitoring:wind_direction",
     "monitoring:wind_speed",
     'ref',
-    'shef:code',
+    'shef:location_id',
     'start_date',
     'tidal',
     'website',

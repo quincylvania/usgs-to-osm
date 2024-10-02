@@ -108,7 +108,7 @@ for (let i in sourceStations) {
     });
   }
   if (station.shefcode) {
-    feature.properties["shef:code"] = station.shefcode;
+    feature.properties["shef:location_id"] = station.shefcode;
     let lcShef = station.shefcode.toLowerCase();
     let ndbcStation = ndbcStationsById[lcShef];
     if (ndbcStation) {
