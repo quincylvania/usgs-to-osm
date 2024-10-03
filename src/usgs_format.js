@@ -7,6 +7,13 @@ clearDirectory('./scratch/usgs/formatted/bystate/');
 
 const metersPerFoot = 0.3048;
 
+console.log('Loading NWPS…');
+const nwpsStationsByRef = {};
+await iterateFilesInDirectory('./scratch/nwps/full/', function(result) {
+    let json = JSON.parse(result);
+    if (json.usgsId) nwpsStationsByRef[json.usgsId] = json;
+});
+
 console.log('Loading cameras…');
 const cameras = JSON.parse(readFileSync('./scratch/usgs/cameras/all.json'));
 const camerasByRef = {};
@@ -393,6 +400,12 @@ Object.values(allCurrentItems).forEach(item => {
     } else if (constructionDate || inventoryDate) {
         // take whatever start date we can get
         item.tags.start_date = constructionDate ? constructionDate : inventoryDate;
+    }
+
+    if (nwpsStationsByRef[item.site_no]) {
+        let shef = nwpsStationsByRef[item.site_no].lid;
+        item.tags['shef:location_id'] = shef;
+        item.tags["website:1"] = `https://water.noaa.gov/gauges/${shef.toLowerCase()}`;
     }
 
     let officialName = item.station_nm;
