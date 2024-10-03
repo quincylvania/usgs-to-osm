@@ -4,7 +4,7 @@ import { readFile } from 'fs/promises';
 
 export async function iterateFilesInDirectory(dir, withFunction) {
   return Promise.all(readdirSync(dir).map(file => {
-      return readFile(dir + file).then(withFunction);
+      return readFile(dir + file).then(result => withFunction(result, file));
   }));
 }
 

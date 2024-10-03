@@ -1,6 +1,6 @@
 import { parse as parseCsv } from 'csv-parse/sync';
-import { readFileSync, writeFileSync, promises } from 'fs';
-import { clearDirectory, toTitleCase } from './utils.js';
+import { readFileSync, writeFileSync } from 'fs';
+import { clearDirectory, toTitleCase, iterateFilesInDirectory } from './utils.js';
 
 clearDirectory('./scratch/usgs/formatted/');
 clearDirectory('./scratch/usgs/formatted/bystate/');
@@ -33,22 +33,13 @@ const csvOpts = {columns: true, delimiter: '\t', relax_quotes: true};
 const siteStateByRef = {};
 
 console.log('Loading state codes…');
-async function loadSiteStatesByRef() {
-    const allBystatePath = './scratch/usgs/nwis/all/bystate/';
-    const dir = await promises.opendir(allBystatePath)
-    const allPromises = [];
-    for await (const dirent of dir) {
-        let state = dirent.name.slice(0, 2);
-        allPromises.push(promises.readFile(allBystatePath + dirent.name).then(value => {
-            parseCsv(value, csvOpts).forEach(item => {
-                siteStateByRef[item.site_no] = state;
-            });
-            console.log(dirent.name);
-        }));
-    }
-    await Promise.all(allPromises);
-}
-await loadSiteStatesByRef();
+await iterateFilesInDirectory('./scratch/usgs/nwis/all/bystate/', function(result, filename) {
+    let state = filename.slice(0, 2);
+    parseCsv(result, csvOpts).forEach(item => {
+        siteStateByRef[item.site_no] = state;
+    });
+    console.log(filename);
+});
 console.log(Object.keys(siteStateByRef).length);
 
 console.log('Loading all current sites…');
