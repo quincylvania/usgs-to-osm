@@ -1,5 +1,5 @@
 import { readFileSync, writeFileSync } from 'fs';
-import { clearDirectory, locHash } from './utils.js';
+import { clearDirectory, locHash, osmChangeXmlForFeatures, geoJsonForFeatures } from './utils.js';
 
 clearDirectory('./scratch/usgs/diffed/');
 clearDirectory('./scratch/usgs/diffed/modified/bystate/');
@@ -247,31 +247,6 @@ for (let ref in usgsByRef) {
     }
 }
 
-function osmChangeXmlForFeatures(features) {
-    function xmlForFeature(feature) {
-        let xml = `<node id="${feature.id}" version="${feature.version}" lat="${feature.lat}" lon="${feature.lon}">\n`;
-        for (let key in feature.tags) {
-            xml += `<tag k="${key}" v="${feature.tags[key].replaceAll('&', '&amp;').replaceAll('<', '&lt;').replaceAll('"', '&quot;')}"/>\n`;
-        }
-        xml += '</node>\n';
-        return xml;
-    }
-    
-    let xml = `<osmChange version="0.6">\n<modify>\n`;
-    features.forEach(function(feature) {
-        xml += xmlForFeature(feature);
-    });
-    xml += `</modify>\n</osmChange>\n`;
-    return xml;
-}
-
-function geoJsonForFeature(features) {
-    return {
-        "type": "FeatureCollection",
-        "features": features
-    };
-}
-
 console.log('Modified, needs upload: ' + updated.length);
 if (addedMissingTags > 0) console.log(`  Added ${addedMissingTags} tags: ` + Object.keys(tagsAdded).join(', '));
 if (overwroteIncorrectTags > 0) console.log(`  Overwrote ${overwroteIncorrectTags} tags: ` + Object.keys(tagsModified).join(', '));
@@ -287,10 +262,10 @@ writeFileSync('./scratch/usgs/diffed/modified/all.osc', osmChangeXmlForFeatures(
 console.log('In USGS but not OSM, needs review and upload: ' + usgsOnlyFeatures.length);
 
 for (let state in usgsOnlyByState) {
-    writeFileSync('./scratch/usgs/diffed/usgs_only/bystate/' + state + '.geojson', JSON.stringify(geoJsonForFeature(usgsOnlyByState[state]), null, 2));
+    writeFileSync('./scratch/usgs/diffed/usgs_only/bystate/' + state + '.geojson', JSON.stringify(geoJsonForFeatures(usgsOnlyByState[state]), null, 2));
     console.log("  " + state + ": " + usgsOnlyByState[state].length);
 }
-writeFileSync('./scratch/usgs/diffed/usgs_only/all.geojson', JSON.stringify(geoJsonForFeature(usgsOnlyFeatures), null, 2));
+writeFileSync('./scratch/usgs/diffed/usgs_only/all.geojson', JSON.stringify(geoJsonForFeatures(usgsOnlyFeatures), null, 2));
 
 writeFileSync('./scratch/usgs/diffed/osm_only/all.json', JSON.stringify(osmOnlyFeatures, null, 2));
 

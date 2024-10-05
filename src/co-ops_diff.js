@@ -1,5 +1,5 @@
 import { readFileSync, writeFileSync } from 'fs';
-import { clearDirectory, locHash } from './utils.js';
+import { clearDirectory, locHash, osmChangeXmlForFeatures, geoJsonForFeatures } from './utils.js';
 
 clearDirectory('./scratch/co-ops/diffed/');
 clearDirectory('./scratch/co-ops/diffed/modified/bystate/');
@@ -145,31 +145,6 @@ for (let ref in coOpsByRef) {
     coOpsOnlyFeatures.push(coOpsFeature);
 }
 
-function osmChangeXmlForFeatures(features) {
-    function xmlForFeature(feature) {
-        let xml = `<node id="${feature.id}" version="${feature.version}" lat="${feature.lat}" lon="${feature.lon}">\n`;
-        for (let key in feature.tags) {
-            xml += `<tag k="${key}" v="${feature.tags[key].replaceAll('&', '&amp;').replaceAll('<', '&lt;').replaceAll('"', '&quot;')}"/>\n`;
-        }
-        xml += '</node>\n';
-        return xml;
-    }
-    
-    let xml = `<osmChange version="0.6">\n<modify>\n`;
-    features.forEach(function(feature) {
-        xml += xmlForFeature(feature);
-    });
-    xml += `</modify>\n</osmChange>\n`;
-    return xml;
-}
-
-function geoJsonForFeature(features) {
-    return {
-        "type": "FeatureCollection",
-        "features": features
-    };
-}
-
 console.log('Modified, needs upload: ' + updated.length);
 if (addedMissingTags > 0) console.log(`  Added ${addedMissingTags} tags: ` + Object.keys(tagsAdded).join(', '));
 if (overwroteIncorrectTags > 0) console.log(`  Overwrote ${overwroteIncorrectTags} tags: ` + Object.keys(tagsModified).join(', '));
@@ -185,10 +160,10 @@ writeFileSync('./scratch/co-ops/diffed/modified/all.osc', osmChangeXmlForFeature
 console.log('In CO-OPS but not OSM, needs review and upload: ' + coOpsOnlyFeatures.length);
 
 for (let state in coOpsOnlyByState) {
-    writeFileSync('./scratch/co-ops/diffed/co-ops_only/bystate/' + state + '.geojson', JSON.stringify(geoJsonForFeature(coOpsOnlyByState[state]), null, 2));
+    writeFileSync('./scratch/co-ops/diffed/co-ops_only/bystate/' + state + '.geojson', JSON.stringify(geoJsonForFeatures(coOpsOnlyByState[state]), null, 2));
     console.log("  " + state + ": " + coOpsOnlyByState[state].length);
 }
-writeFileSync('./scratch/co-ops/diffed/co-ops_only/all.geojson', JSON.stringify(geoJsonForFeature(coOpsOnlyFeatures), null, 2));
+writeFileSync('./scratch/co-ops/diffed/co-ops_only/all.geojson', JSON.stringify(geoJsonForFeatures(coOpsOnlyFeatures), null, 2));
 
 writeFileSync('./scratch/co-ops/diffed/osm_only/all.json', JSON.stringify(osmOnlyFeatures, null, 2));
 

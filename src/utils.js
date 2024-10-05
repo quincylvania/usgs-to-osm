@@ -130,3 +130,28 @@ export function locHash(obj) {
   let lat = obj.lat || obj.geometry.coordinates[1];
   return Math.round(lon*500000)/500000 + "," + Math.round(lat*500000)/500000;
 }
+
+export function osmChangeXmlForFeatures(features) {
+  function xmlForFeature(feature) {
+      let xml = `<node id="${feature.id}" version="${feature.version}" lat="${feature.lat}" lon="${feature.lon}">\n`;
+      for (let key in feature.tags) {
+          xml += `<tag k="${key}" v="${feature.tags[key].replaceAll('&', '&amp;').replaceAll('<', '&lt;').replaceAll('"', '&quot;')}"/>\n`;
+      }
+      xml += '</node>\n';
+      return xml;
+  }
+  
+  let xml = `<osmChange version="0.6">\n<modify>\n`;
+  features.forEach(function(feature) {
+      xml += xmlForFeature(feature);
+  });
+  xml += `</modify>\n</osmChange>\n`;
+  return xml;
+}
+
+export function geoJsonForFeatures(features) {
+  return {
+      "type": "FeatureCollection",
+      "features": features
+  };
+}
