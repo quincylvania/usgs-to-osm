@@ -90,6 +90,7 @@ for (let i in sourceStations) {
     },
     "properties": {
       "name": name,
+      "official_name": station.name,
       "ref": station.id,
       "website": `https://tidesandcurrents.noaa.gov/stationhome.html?id=${station.id}`,
       "source": "CO-OPS Metadata API",

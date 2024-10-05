@@ -37,7 +37,9 @@ let keysToAddIfMissing = [
     'website:2',
 ];
 
-let keysToOverride = [];
+let keysToOverride = [
+    "official_name"
+];
 
 let osmByRef = {};
 let osmByLoc = {};
@@ -90,6 +92,8 @@ for (let ref in osmByRef) {
             let key = keysToAddIfMissing[i];
             // some sites don't have a name so don't add one
             if (key === 'name' && osmFeature.tags.noname === 'yes') continue;
+            // don't add both name and official_name if they're the same
+            if (key === 'official_name' && latest.properties.name === latest.properties.official_name) continue;
             if (latest.properties[key] && !osmFeature.tags[key]) {
                 tagsAdded[key] = true;
                 osmFeature.tags[key] = latest.properties[key];
@@ -138,6 +142,7 @@ for (let ref in coOpsByRef) {
     osmByLoc[loc] = true;
 
     let key = coOpsFeature.state ? coOpsFeature.state : '_nostate';
+    if (coOpsFeature.properties.name === coOpsFeature.properties.official_name) delete coOpsFeature.properties.official_name;
     delete coOpsFeature.state;
     //if (regionsByState[key]) key = regionsByState[key];
     if (!coOpsOnlyByState[key]) coOpsOnlyByState[key] = [];
