@@ -357,6 +357,8 @@ Object.values(allCurrentItems).forEach(item => {
 
     let cameras = camerasByRef[item.site_no];
     if (cameras) {
+        // USGS puts stockade bridge webcams on a distant NWIS site since there is now NWIS at the actual location. Ignore these.
+        if (item.site_no === "01354500") cameras = cameras.filter(camera => !camera.camId.includes('Stockade'));
         for (let i in cameras) {
             let camera = cameras[i];
             let suffix = i > 1 ? `:${i-1}` : '';
