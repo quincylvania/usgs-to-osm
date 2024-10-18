@@ -59,7 +59,14 @@ const webcamKeys = [
     'contact:webcam:5',
     'contact:webcam:6',
     'contact:webcam:7',
-    'contact:webcam:8'
+    'contact:webcam:8',
+    'contact:webcam:9',
+    'contact:webcam:10',
+    'contact:webcam:11',
+    'contact:webcam:12',
+    'contact:webcam:13',
+    'contact:webcam:14',
+    'contact:webcam:15',
 ];
 
 let keysToAddIfMissing = [...new Set(Object.values(conversionMap).map(obj => Object.keys(obj.tags)).flat())];
@@ -68,15 +75,17 @@ keysToAddIfMissing = keysToAddIfMissing.concat([
     'ele',
     'ele:accuracy',
     'ele:datum',
-    'start_date',
+    'name',
     'official_name',
     'operator',
     'operator:type',
     'operator:short',
     'operator:wikidata',
-    'website',
     'ref',
-    'name',
+    'shef:location_id',
+    'start_date',
+    'website',
+    'website:1',
 ]);
 
 const keysToOverride = ['official_name'];
