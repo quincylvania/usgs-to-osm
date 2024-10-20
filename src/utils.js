@@ -98,21 +98,20 @@ export function toTitleCase(str) {
   );
 }
 
+export const lifecyclePrefixes = ['', 'disused:', 'abandoned:', 'ruins:', 'demolished:', 'destroyed:', 'razed:', 'removed:', 'was:'];
 
-export async function fetchOsmData(id, queryPart) {
+export async function fetchOsmData(id, queryInner) {
 
-  clearDirectory(`./scratch/osm/${id}/`);
-
-  const prefixes = ['', 'disused:', 'abandoned:', 'ruins:', 'demolished:', 'destroyed:', 'razed:', 'removed:', 'was:'];
-  
   // do not limit to the US since some sites are in Canada
   const query = `
   [out:json][timeout:60];
   (
-  ${prefixes.map(prefix => `node["${prefix}man_made"="monitoring_station"]${queryPart};`).join('\n')}
+  ${queryInner}
   );
   (._;>;); out meta;
   `;
+
+  clearDirectory(`./scratch/osm/${id}/`);
   
   let postData = "data="+encodeURIComponent(query);
   
