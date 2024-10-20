@@ -1,13 +1,13 @@
 import { readFileSync, writeFileSync } from 'fs';
-import { clearDirectory, locHash, osmChangeXmlForFeatures, geoJsonForFeatures } from './utils.js';
+import { clearDirectory, locHash, osmChangeXmlForFeatures, geoJsonForFeatures } from '../utils.js';
 
-clearDirectory('./scratch/co-ops/diffed/');
-clearDirectory('./scratch/co-ops/diffed/modified/bystate/');
-clearDirectory('./scratch/co-ops/diffed/co-ops_only/bystate/');
-clearDirectory('./scratch/co-ops/diffed/osm_only/');
+clearDirectory('../scratch/co-ops/diffed/');
+clearDirectory('../scratch/co-ops/diffed/modified/bystate/');
+clearDirectory('../scratch/co-ops/diffed/co-ops_only/bystate/');
+clearDirectory('../scratch/co-ops/diffed/osm_only/');
 
-const osm = JSON.parse(readFileSync('./scratch/osm/co-ops/all.json'));
-const coOps = JSON.parse(readFileSync('./scratch/co-ops/formatted/all.geojson'));
+const osm = JSON.parse(readFileSync('../scratch/osm/co-ops/all.json'));
+const coOps = JSON.parse(readFileSync('../scratch/co-ops/formatted/all.geojson'));
 
 let keysToAddIfMissing = [
     'ele',
@@ -157,19 +157,19 @@ if (deletedTagCount > 0) console.log(`  Deleted ${deletedTagCount} tags: ` + Obj
 
 
 for (let state in updatedByState) {
-    writeFileSync('./scratch/co-ops/diffed/modified/bystate/' + state + '.osc', osmChangeXmlForFeatures(updatedByState[state]));
+    writeFileSync('../scratch/co-ops/diffed/modified/bystate/' + state + '.osc', osmChangeXmlForFeatures(updatedByState[state]));
     console.log("  " + state + ": " + updatedByState[state].length);
 }
-writeFileSync('./scratch/co-ops/diffed/modified/all.osc', osmChangeXmlForFeatures(updated));
+writeFileSync('../scratch/co-ops/diffed/modified/all.osc', osmChangeXmlForFeatures(updated));
 
 console.log('In CO-OPS but not OSM, needs review and upload: ' + coOpsOnlyFeatures.length);
 
 for (let state in coOpsOnlyByState) {
-    writeFileSync('./scratch/co-ops/diffed/co-ops_only/bystate/' + state + '.geojson', JSON.stringify(geoJsonForFeatures(coOpsOnlyByState[state]), null, 2));
+    writeFileSync('../scratch/co-ops/diffed/co-ops_only/bystate/' + state + '.geojson', JSON.stringify(geoJsonForFeatures(coOpsOnlyByState[state]), null, 2));
     console.log("  " + state + ": " + coOpsOnlyByState[state].length);
 }
-writeFileSync('./scratch/co-ops/diffed/co-ops_only/all.geojson', JSON.stringify(geoJsonForFeatures(coOpsOnlyFeatures), null, 2));
+writeFileSync('../scratch/co-ops/diffed/co-ops_only/all.geojson', JSON.stringify(geoJsonForFeatures(coOpsOnlyFeatures), null, 2));
 
-writeFileSync('./scratch/co-ops/diffed/osm_only/all.json', JSON.stringify(osmOnlyFeatures, null, 2));
+writeFileSync('../scratch/co-ops/diffed/osm_only/all.json', JSON.stringify(osmOnlyFeatures, null, 2));
 
 console.log('In OSM but not CO-OPS, needs review: ' + osmOnlyFeatures.length);

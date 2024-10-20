@@ -1,9 +1,9 @@
 import { writeFileSync, existsSync } from 'fs';
-import { clearDirectory, get, getString } from './utils.js';
+import { clearDirectory, get, getString } from '../utils.js';
 
 console.log('Fetching NOAA CO-OPS station images…');
 
-//clearDirectory('./scratch/co-ops/photos/');
+//clearDirectory('../scratch/co-ops/photos/');
 
 let directory = JSON.parse(await getString('https://cdn.tidesandcurrents.noaa.gov/assets/stationphotos/photo.json'));
 
@@ -15,7 +15,7 @@ for(let stationId in directory) {
   for(let i in imageSuffixes) {
     let suffix = imageSuffixes[i];
     let photoId = stationId + suffix;
-    let localPath = `./scratch/co-ops/photos/${photoId}.jpg`;
+    let localPath = `../scratch/co-ops/photos/${photoId}.jpg`;
     // skip photos we already have saved
     if (existsSync(localPath)) continue;
 

@@ -1,13 +1,13 @@
 import { readFileSync, writeFileSync } from 'fs';
-import { clearDirectory, toTitleCase, iterateFilesInDirectory } from './utils.js';
+import { clearDirectory, toTitleCase, iterateFilesInDirectory } from '../utils.js';
 
-clearDirectory('./scratch/co-ops/formatted/');
+clearDirectory('../scratch/co-ops/formatted/');
 
 console.log('Formatting NOAA CO-OPS stations…');
 
-const sourceStations = JSON.parse(readFileSync('./scratch/co-ops/source/all.json')).stations;
+const sourceStations = JSON.parse(readFileSync('../scratch/co-ops/source/all.json')).stations;
 
-const ndbcStations = JSON.parse(readFileSync('./scratch/ndbc/all.json')).stations.children.map(item => item.station);
+const ndbcStations = JSON.parse(readFileSync('../scratch/ndbc/all.json')).stations.children.map(item => item.station);
 const ndbcStationsById = {};
 for (let i in ndbcStations) {
   let station = ndbcStations[i];
@@ -15,7 +15,7 @@ for (let i in ndbcStations) {
 }
 
 const nwpsStationsByShef = {};
-await iterateFilesInDirectory('./scratch/nwps/full/', function(result) {
+await iterateFilesInDirectory('../scratch/nwps/full/', function(result) {
     let json = JSON.parse(result);
     if (json.lid) nwpsStationsByShef[json.lid] = json;
 });
@@ -178,5 +178,5 @@ const json = {
 };
 
 console.log(features.length);
-console.log(`Writing data to './scratch/co-ops/formatted/all.geojson'`);
-writeFileSync('./scratch/co-ops/formatted/all.geojson', JSON.stringify(json, null, 2));
+console.log(`Writing data to '../scratch/co-ops/formatted/all.geojson'`);
+writeFileSync('../scratch/co-ops/formatted/all.geojson', JSON.stringify(json, null, 2));

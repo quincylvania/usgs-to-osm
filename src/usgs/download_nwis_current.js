@@ -1,9 +1,9 @@
 import { readFileSync, writeFileSync } from 'fs';
-import { getString, clearDirectory } from './utils.js';
+import { getString, clearDirectory } from '../utils.js';
 
 const conversionMap = JSON.parse(readFileSync(import.meta.dirname + '/data/monitoring_types.json'));
 
-clearDirectory('./scratch/usgs/nwis/current/');
+clearDirectory('../scratch/usgs/nwis/current/');
 
 function buildUrl(codesString) {
   if (!codesString) codesString = '';
@@ -29,7 +29,7 @@ async function getAndSave(remoteUrl, localUrl) {
     writeFileSync(localUrl, response);
   });
 }
-await getAndSave(buildUrl(), `./scratch/usgs/nwis/current/all.csv`);
+await getAndSave(buildUrl(), `../scratch/usgs/nwis/current/all.csv`);
 
 for (let filename in conversionMap) {
   let codes = conversionMap[filename].codes;
@@ -38,5 +38,5 @@ for (let filename in conversionMap) {
     let code = codes[i];
     codesString += `&index_pmcode_${code}=${i+1}`;
   }
-  await getAndSave(buildUrl(codesString), `./scratch/usgs/nwis/current/${filename}.csv`)
+  await getAndSave(buildUrl(codesString), `../scratch/usgs/nwis/current/${filename}.csv`)
 }
