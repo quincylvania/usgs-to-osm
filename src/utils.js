@@ -1,6 +1,14 @@
 import { request } from 'https';
 import { existsSync, readdirSync, rmSync, mkdirSync, writeFileSync } from 'fs';
 import { readFile } from 'fs/promises';
+import { dirname } from 'path';
+import { fileURLToPath } from 'url';
+
+export function dirForUrl(url) {
+  return dirname(fileURLToPath(url));
+}
+
+export const scratchDir = dirForUrl(import.meta.url) + '/../scratch/';
 
 export async function iterateFilesInDirectory(dir, withFunction) {
   return Promise.all(readdirSync(dir).map(file => {
@@ -111,14 +119,14 @@ export async function fetchOsmData(id, queryInner) {
   (._;>;); out meta;
   `;
 
-  clearDirectory(`./scratch/osm/${id}/`);
+  clearDirectory(scratchDir + `osm/${id}/`);
   
   let postData = "data="+encodeURIComponent(query);
   
   console.log(`Running Overpass query for '${id}'. This may take some time…`);
   await post('https://overpass-api.de/api/interpreter', postData).then(function(response) {
     console.log(`${JSON.parse(response)?.elements?.length} OSM entities returned`);
-    let localPath = `./scratch/osm/${id}/all.json`;
+    let localPath = scratchDir + `osm/${id}/all.json`;
     console.log(`Writing data to '${localPath}'`);
     writeFileSync(localPath, response);
   });

@@ -1,9 +1,9 @@
 import { writeFileSync } from 'fs';
 import simpleXmlToJson from 'simple-xml-to-json';
 const { convertXML } = simpleXmlToJson;
-import { getString, clearDirectory } from '../utils.js';
+import { getString, clearDirectory, scratchDir } from '../utils.js';
 
-clearDirectory('../scratch/ndbc/');
+clearDirectory(scratchDir + 'ndbc/');
 
 console.log('Fetching active National Data Buoy Center stations…');
 
@@ -14,5 +14,5 @@ let json = convertXML(response);
 
 console.log(json?.stations?.children?.length);
 
-console.log(`Writing data to '../scratch/ndbc/all.json'`);
-writeFileSync('../scratch/ndbc/all.json', JSON.stringify(json, null, 2));
+console.log(`Writing data to scratchDir + 'ndbc/all.json'`);
+writeFileSync(scratchDir + 'ndbc/all.json', JSON.stringify(json, null, 2));
