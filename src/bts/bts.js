@@ -30,6 +30,9 @@ const definitions = {
         // https://www.rideindego.com/stations/
         sourceFileUrl: `https://bts-status.bicycletransit.workers.dev/phl`,
         overpassQuery: lifecyclePrefixes.map(prefix => `node["${prefix}amenity"="bicycle_rental"]["network:wikidata"="Q19876452"];`).join('\n'),
+        filter: function(item) {
+            return !item.properties.isEventBased && !item.properties.isVirtual;
+        },
         tags: function(item) {
             return {
                 "name": formatString(item.properties.name),
@@ -47,11 +50,16 @@ const definitions = {
                 "network:wikidata": "Q19876452",
                 "operator": "Bicycle Transit Systems",
                 "operator:wikidata": "Q104005517",
+                "operator:type": "private",
+                "owner": "City of Philadelphia",
+                "ownership": "municipal",
                 "fee": "yes",
                 "rental": "city_bike;ebike",
                 "website": "https://www.rideindego.com",
                 "email": "support@rideindego.com",
                 "phone": "+1 844-446-3346",
+                "wheelchair": "no",
+                "opening_hours": "24/7"
             };
         }
     },
@@ -89,7 +97,7 @@ const definitions = {
 for (let id in definitions) {
     let def = definitions[id];
     await downloadItems(id, def.sourceFileUrl);
-    formatItems(id, def.tags);
+    formatItems(id, def.filter, def.tags);
     await fetchOsmData(id, def.overpassQuery);
     diffItems(id);
 }

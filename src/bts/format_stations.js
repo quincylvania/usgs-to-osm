@@ -1,7 +1,7 @@
 import { readFileSync, writeFileSync } from 'fs';
 import { clearDirectory, scratchDir } from '../utils.js';
 
-export function formatItems(id, getTags) {
+export function formatItems(id, filter, getTags) {
 
   clearDirectory(scratchDir + id + '/formatted/');
 
@@ -9,7 +9,11 @@ export function formatItems(id, getTags) {
 
   console.log(`Formatting ${inFile}…`);
   
-  const sourceStations = JSON.parse(readFileSync(inFile)).features;
+  let sourceStations = JSON.parse(readFileSync(inFile)).features;
+
+  if (filter) {
+    sourceStations = sourceStations.filter(filter);
+  }
   
   let features = [];
   
