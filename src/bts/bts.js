@@ -34,32 +34,53 @@ const definitions = {
             return !item.properties.isEventBased && !item.properties.isVirtual;
         },
         tags: function(item) {
+            let hasInteractiveKiosk = item.properties.kioskType === 1; // 10 for "energy saving stations" with no kiosk
             return {
+                "amenity": "bicycle_rental",
+                "bicycle_rental": "docking_station",
+                "rental": "city_bike;ebike",
+                "self_service": "yes",
+                "capacity": item.properties.totalDocks.toString(),
+                "wheelchair": "no",
+                "min_age": "14",
+                "opening_hours": "24/7",
+
                 "name": formatString(item.properties.name),
                 "official_name": formatString(item.properties.name),
+                "ref": item.properties.id.toString(),
                 "addr:city": formatString(item.properties.addressCity),
                 "addr:state": formatString(item.properties.addressState),
                 "addr:postcode": formatString(item.properties.addressZipCode),
-                "ref": item.properties.id.toString(),
-                "capacity": item.properties.totalDocks.toString(),
-                "amenity": "bicycle_rental",
-                "bicycle_rental": "docking_station",
+
                 "brand": "Indego",
                 "brand:wikidata": "Q19876452",
                 "network": "Indego",
                 "network:wikidata": "Q19876452",
+
                 "operator": "Bicycle Transit Systems",
                 "operator:wikidata": "Q104005517",
                 "operator:type": "private",
                 "owner": "City of Philadelphia",
+                "owner:wikidata": "Q1345",
                 "ownership": "municipal",
-                "fee": "yes",
-                "rental": "city_bike;ebike",
+                "sponsor": "Independence Blue Cross",
+                "sponsor:wikidata": "Q6015932",
+                
                 "website": "https://www.rideindego.com",
                 "email": "support@rideindego.com",
                 "phone": "+1 844-446-3346",
-                "wheelchair": "no",
-                "opening_hours": "24/7"
+                "contact:facebook": "RideIndego",
+                "contact:instagram": "rideindego",
+                
+                "kiosk": hasInteractiveKiosk ? "yes" : "no",
+                "fee": "yes",
+                // cash never accepted at bike station itself
+                "payment:cash": "no",
+                // can only unlock bike with card (without phone) if kiosk is interactive 
+                "payment:credit_cards": hasInteractiveKiosk ? "yes" : "no",
+                "payment:debit_cards": hasInteractiveKiosk ? "yes" : "no",
+                // can always unlock bike with Indego app
+                "payment:app": "yes"
             };
         }
     },
