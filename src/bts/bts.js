@@ -3,22 +3,6 @@ import { downloadItems } from './download_stations.js';
 import { formatItems } from './format_stations.js';
 import { diffItems } from './diff.js';
 
-/*
-let addr = station.properties.addressStreet;
-
-let houseNum = addr.substring(0, addr.indexOf(' ')).trim();
-let street = addr.substring(addr.indexOf(' ') + 1).trim();
-street = street.replaceAll('St.', 'Street');
-street = street.replaceAll('Ave.', 'Avenue');
-street = street.replaceAll('Blvd.', 'Boulevard');
-street = street.replaceAll('S. ', 'South ');
-street = street.replaceAll('N. ', 'North ');
-street = street.replaceAll('S ', 'South ');
-street = street.replaceAll('N ', 'North ');
-street = street.replaceAll('E. ', 'East ');
-street = street.replaceAll('W. ', 'West ');
-*/
-
 function formatString(str) {
     return str
         .trim()
@@ -35,7 +19,7 @@ const definitions = {
         },
         tags: function(item) {
             let hasInteractiveKiosk = item.properties.kioskType === 1; // 10 for "energy saving stations" with no kiosk
-            return {
+            let tags = {
                 "amenity": "bicycle_rental",
                 "bicycle_rental": "docking_station",
                 "rental": "city_bike;ebike",
@@ -82,6 +66,28 @@ const definitions = {
                 // can always unlock bike with Indego app
                 "payment:app": "yes"
             };
+            
+            let addr = formatString(item.properties.addressStreet);
+            // Only add the address if in the form 1234 or 1234-1236 followed by the street name
+            if (/^\d+(?:-\d+)? .+/.test(addr)) {
+                let houseNum = addr.substring(0, addr.indexOf(' ')).trim();
+                let street = addr.substring(addr.indexOf(' ') + 1).trim();
+                street = street
+                    .replaceAll(',', '')
+                    .replaceAll(/\bSt(?:\.|\b)/g, 'Street')
+                    .replaceAll(/\bAve(?:\.|\b)/g, 'Avenue')
+                    .replaceAll(/\bBlvd(?:\.|\b)/g, 'Boulevard')
+                    .replaceAll(/\bPkwy(?:\.|\b)/g, 'Parkway')
+                    .replaceAll(/\bPl(?:\.|\b)/g, 'Place')
+                    .replaceAll(/\bS(?:\.|\b)/g, 'South')
+                    .replaceAll(/\bN(?:\.|\b)/g, 'North')
+                    .replaceAll(/\bE(?:\.|\b)/g, 'East')
+                    .replaceAll(/\bW(?:\.|\b)/g, 'West');
+
+                tags["addr:housenumber"] = houseNum;
+                tags["addr:street"]= street;
+            }
+            return tags;
         }
     },
     'rtc-bike-share': {

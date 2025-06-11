@@ -1,6 +1,12 @@
 import { readFileSync, writeFileSync } from 'fs';
 import { clearDirectory, locHash, osmChangeXmlForFeatures, geoJsonForFeatures, scratchDir } from '../utils.js';
 
+// addresses in source data aren't 100% accurate
+const keysNotToOverride = {
+    'addr:housenumber': true,
+    'addr:street': true
+};
+
 export function diffItems(id) {
 
     clearDirectory(scratchDir + id + '/diffed/');
@@ -59,6 +65,8 @@ export function diffItems(id) {
             for (let key in authTags) {
                 if (osmFeature.tags[key]) {
                     if (osmFeature.tags[key] !== authFeature.properties[key]) {
+
+                        if (keysNotToOverride[key]) continue;
                         
                         // don't overwrite `name` if the authoritative value is already given in `official_name` 
                         if (key === 'name' && authFeature.properties.name === osmFeature.tags.official_name) continue;
